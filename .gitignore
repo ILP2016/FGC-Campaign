@@ -1,0 +1,6 @@
+
+*.html
+*.xml
+!db.xml
+!renameMe-campaign.xml
+CampaignRegistry.lua
