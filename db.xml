@@ -1,0 +1,1171 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3" release="8|CoreRPG:3">
+	<MJB_Extensions>
+		<OLE type="number">1</OLE>
+	</MJB_Extensions>
+	<MJB_OLE>
+		<MiniList>
+		</MiniList>
+		<OLEList>
+			<id-00001>
+				<lOLELink type="windowreference">
+					<class>url</class>
+					<recordname>https://www.patreon.com/pronobis</recordname>
+				</lOLELink>
+				<name type="string">Kalani: Patreon</name>
+			</id-00001>
+			<id-00002>
+				<lOLELink type="windowreference">
+					<class>url</class>
+					<recordname>https://discord.gg/Ew6nYyw</recordname>
+				</lOLELink>
+				<name type="string">FGC: Discord</name>
+			</id-00002>
+			<id-00003>
+				<lOLELink type="windowreference">
+					<class>url</class>
+					<recordname>http://www.fantasygroundscollege.net</recordname>
+				</lOLELink>
+				<name type="string">FGC: Website</name>
+			</id-00003>
+			<id-00004>
+				<lOLELink type="windowreference">
+					<class>url</class>
+					<recordname>https://discordapp.com/invite/FVgtecr</recordname>
+				</lOLELink>
+				<name type="string">Rob2e: Discord</name>
+			</id-00004>
+			<id-00005>
+				<lOLELink type="windowreference">
+					<class>url</class>
+					<recordname>https://www.patreon.com/Rob2e</recordname>
+				</lOLELink>
+				<name type="string">Rob2e: Patreon</name>
+			</id-00005>
+			<id-00006>
+				<lOLELink type="windowreference">
+					<class>url</class>
+					<recordname>https://www.twitch.tv/rob2e</recordname>
+				</lOLELink>
+				<name type="string">Rob2e: Twitch</name>
+			</id-00006>
+			<id-00007>
+				<lOLELink type="windowreference">
+					<class>url</class>
+					<recordname>http://www.rob2e.com</recordname>
+				</lOLELink>
+				<name type="string">Rob2e: Website</name>
+			</id-00007>
+			<id-00008>
+				<lOLELink type="windowreference">
+					<class>url</class>
+					<recordname>http://www.dmsguild.com/browse.php?author=Rob%20Twohy&#38;affiliate_id=878507&#38;test_epoch=0&#38;page=1&#38;sort=6a</recordname>
+				</lOLELink>
+				<name type="string">Rob2e: DMs Guild Store</name>
+			</id-00008>
+			<id-00009>
+				<lOLELink type="windowreference">
+					<class>url</class>
+					<recordname>https://twitter.com/rob2e</recordname>
+				</lOLELink>
+				<name type="string">Rob2e: Twitter</name>
+			</id-00009>
+			<id-00010>
+				<lOLELink type="windowreference">
+					<class>url</class>
+					<recordname>http://www.dmsguild.com/product/222489/?affiliate_rem=878507</recordname>
+				</lOLELink>
+			</id-00010>
+			<id-00011>
+				<lOLELink type="windowreference">
+					<class>url</class>
+					<recordname>http://www.dmsguild.com/product/210436?affiliate_rem=878507</recordname>
+				</lOLELink>
+				<name type="string">Rob2e:</name>
+			</id-00011>
+			<id-00012>
+				<lOLELink type="windowreference">
+					<class>url</class>
+					<recordname>http://www.dmsguild.com/product/210542/?affiliate_rem=878507</recordname>
+				</lOLELink>
+				<name type="string">Rob2e: Fantasy Grounds 5E Race Trait Effects Coding</name>
+			</id-00012>
+			<id-00013>
+				<lOLELink type="windowreference">
+					<class>url</class>
+					<recordname>https://discord.gg/4x5R3Tx</recordname>
+				</lOLELink>
+				<name type="string">Kalani: Discord</name>
+			</id-00013>
+		</OLEList>
+		<OLESetup>
+			<id-00001>
+				<bLocked type="number">1</bLocked>
+				<fsNotes type="formattedtext">
+					<p></p>
+				</fsNotes>
+				<lOLELink type="windowreference">
+					<class>url</class>
+					<recordname>https://www.patreon.com/pronobis</recordname>
+				</lOLELink>
+				<name type="string">Kalani: Patreon</name>
+				<sOLELink type="string">https://www.patreon.com/pronobis</sOLELink>
+			</id-00001>
+			<id-00002>
+				<bLocked type="number">1</bLocked>
+				<fsNotes type="formattedtext">
+					<p></p>
+				</fsNotes>
+				<lOLELink type="windowreference">
+					<class>url</class>
+					<recordname>https://discord.gg/Ew6nYyw</recordname>
+				</lOLELink>
+				<name type="string">FGC: Discord</name>
+				<sOLELink type="string">https://discord.gg/Ew6nYyw</sOLELink>
+			</id-00002>
+			<id-00003>
+				<bLocked type="number">1</bLocked>
+				<fsNotes type="formattedtext">
+					<p></p>
+				</fsNotes>
+				<lOLELink type="windowreference">
+					<class>url</class>
+					<recordname>http://www.fantasygroundscollege.net</recordname>
+				</lOLELink>
+				<name type="string">FGC: Website</name>
+				<sOLELink type="string">http://www.fantasygroundscollege.net</sOLELink>
+			</id-00003>
+			<id-00004>
+				<bLocked type="number">1</bLocked>
+				<fsNotes type="formattedtext">
+					<p></p>
+				</fsNotes>
+				<lOLELink type="windowreference">
+					<class>url</class>
+					<recordname>https://discordapp.com/invite/FVgtecr</recordname>
+				</lOLELink>
+				<name type="string">Rob2e: Discord</name>
+				<sOLELink type="string">https://discordapp.com/invite/FVgtecr</sOLELink>
+			</id-00004>
+			<id-00005>
+				<bLocked type="number">1</bLocked>
+				<fsNotes type="formattedtext">
+					<p></p>
+				</fsNotes>
+				<lOLELink type="windowreference">
+					<class>url</class>
+					<recordname>https://www.patreon.com/Rob2e</recordname>
+				</lOLELink>
+				<name type="string">Rob2e: Patreon</name>
+				<sOLELink type="string">https://www.patreon.com/Rob2e</sOLELink>
+			</id-00005>
+			<id-00006>
+				<bLocked type="number">1</bLocked>
+				<fsNotes type="formattedtext">
+					<p></p>
+				</fsNotes>
+				<lOLELink type="windowreference">
+					<class>url</class>
+					<recordname>https://www.twitch.tv/rob2e</recordname>
+				</lOLELink>
+				<name type="string">Rob2e: Twitch</name>
+				<sOLELink type="string">https://www.twitch.tv/rob2e</sOLELink>
+			</id-00006>
+			<id-00007>
+				<bLocked type="number">1</bLocked>
+				<fsNotes type="formattedtext">
+					<p></p>
+				</fsNotes>
+				<lOLELink type="windowreference">
+					<class>url</class>
+					<recordname>http://www.rob2e.com</recordname>
+				</lOLELink>
+				<name type="string">Rob2e: Website</name>
+				<sOLELink type="string">http://www.rob2e.com</sOLELink>
+			</id-00007>
+			<id-00008>
+				<bLocked type="number">1</bLocked>
+				<fsNotes type="formattedtext">
+					<p></p>
+				</fsNotes>
+				<lOLELink type="windowreference">
+					<class>url</class>
+					<recordname>http://www.dmsguild.com/browse.php?author=Rob%20Twohy&#38;affiliate_id=878507&#38;test_epoch=0&#38;page=1&#38;sort=6a</recordname>
+				</lOLELink>
+				<name type="string">Rob2e: DMs Guild Store</name>
+				<sOLELink type="string">http://www.dmsguild.com/browse.php?author=Rob%20Twohy&#38;affiliate_id=878507&#38;test_epoch=0&#38;page=1&#38;sort=6a</sOLELink>
+			</id-00008>
+			<id-00009>
+				<bLocked type="number">1</bLocked>
+				<fsNotes type="formattedtext">
+					<p></p>
+				</fsNotes>
+				<lOLELink type="windowreference">
+					<class>url</class>
+					<recordname>https://twitter.com/rob2e</recordname>
+				</lOLELink>
+				<name type="string">Rob2e: Twitter</name>
+				<sOLELink type="string">https://twitter.com/rob2e</sOLELink>
+			</id-00009>
+			<id-00010>
+				<bLocked type="number">1</bLocked>
+				<fsNotes type="formattedtext">
+					<p></p>
+				</fsNotes>
+				<lOLELink type="windowreference">
+					<class>url</class>
+					<recordname>http://www.dmsguild.com/product/209256/Fantasy-Grounds-5e-Spell-Coding-Effects?affiliate_rem=878507</recordname>
+				</lOLELink>
+				<name type="string">Rob2e: Fantasy Grounds 5E Spell Effects Coding\n</name>
+				<sOLELink type="string">http://www.dmsguild.com/product/209256/Fantasy-Grounds-5e-Spell-Coding-Effects?affiliate_rem=878507</sOLELink>
+			</id-00010>
+			<id-00011>
+				<bLocked type="number">1</bLocked>
+				<fsNotes type="formattedtext">
+					<p></p>
+				</fsNotes>
+				<lOLELink type="windowreference">
+					<class>url</class>
+					<recordname>http://www.dmsguild.com/product/210436?affiliate_rem=878507</recordname>
+				</lOLELink>
+				<name type="string">Rob2e: Fantasy Grounds 5E Class Feature Effects Coding\n</name>
+				<sOLELink type="string">http://www.dmsguild.com/product/210436?affiliate_rem=878507</sOLELink>
+			</id-00011>
+			<id-00012>
+				<fsNotes type="formattedtext">
+					<p></p>
+				</fsNotes>
+				<lOLELink type="windowreference">
+					<class>url</class>
+					<recordname>http://www.dmsguild.com/product/210542/?affiliate_rem=878507</recordname>
+				</lOLELink>
+				<name type="string">Rob2e: Fantasy Grounds 5E Race Trait Effects Coding</name>
+				<sOLELink type="string">http://www.dmsguild.com/product/210542/?affiliate_rem=878507</sOLELink>
+			</id-00012>
+			<id-00013>
+				<bLocked type="number">1</bLocked>
+				<fsNotes type="formattedtext">
+					<p></p>
+				</fsNotes>
+				<lOLELink type="windowreference">
+					<class>url</class>
+					<recordname>http://www.dmsguild.com/product/222489/?affiliate_rem=878507</recordname>
+				</lOLELink>
+				<name type="string">Rob2e: Fantasy Grounds 5E Feats Effects Coding</name>
+				<sOLELink type="string">http://www.dmsguild.com/product/222489/?affiliate_rem=878507</sOLELink>
+			</id-00013>
+			<id-00014>
+				<bLocked type="number">1</bLocked>
+				<fsNotes type="formattedtext">
+					<p></p>
+				</fsNotes>
+				<lOLELink type="windowreference">
+					<class>url</class>
+					<recordname>https://discord.gg/4x5R3Tx</recordname>
+				</lOLELink>
+				<name type="string">Kalani: Discord</name>
+				<sOLELink type="string">https://discord.gg/4x5R3Tx</sOLELink>
+			</id-00014>
+		</OLESetup>
+	</MJB_OLE>
+	<calendar>
+		<public />
+	</calendar>
+	<charsheet>
+	</charsheet>
+	<combattracker>
+		<public />
+	</combattracker>
+	<effects>
+		<public />
+	</effects>
+	<encounter>
+		<id-00001>
+			<locked type="number">0</locked>
+			<name type="string">0 Westmarch</name>
+			<text type="formattedtext">
+				<h>World Map</h>
+				<linklist>
+					<link class="imagewindow" recordname="image.id-00004@West Marches Campaign World">World</link>
+				</linklist>
+				<h>Town Map</h>
+				<linklist>
+					<link class="imagewindow" recordname="image.id-00005@West Marches Campaign World">TownMap</link>
+				</linklist>
+				<h>Locations</h>
+				<linklist>
+					<link class="encounter" recordname="encounter.id-00009">Raven Manor</link>
+					<link class="encounter" recordname="encounter.id-00003">Life Chaple</link>
+					<link class="encounter" recordname="encounter.id-00005">Rob2e's Store</link>
+					<link class="encounter" recordname="encounter.id-00002">Zinbi's Wonder Emporium</link>
+					<link class="encounter" recordname="encounter.id-00010">Kalani's Forge</link>
+				</linklist>
+				<h>Landmark</h>
+				<linklist>
+					<link class="encounter" recordname="encounter.id-00006">Portal</link>
+				</linklist>
+			</text>
+		</id-00001>
+		<id-00002>
+			<locked type="number">1</locked>
+			<name type="string">Zinbi's Wonder Emporium</name>
+			<text type="formattedtext">
+				<p>Owned by Zinbi.</p>
+				<linklist>
+					<link class="npc" recordname="npc.id-00003">Zinbi</link>
+				</linklist>
+				<h>Services</h>
+				<p>(coming soon)</p>
+				<h>Items</h>
+				<p>(coming soon)</p>
+				<h>Custom Order Gadgets</h>
+				<p>(coming soon)</p>
+				<h>IRL Info</h>
+				<linklist>
+					<link class="encounter" recordname="encounter.id-00007">Links</link>
+				</linklist>
+			</text>
+		</id-00002>
+		<id-00003>
+			<locked type="number">1</locked>
+			<name type="string">Life Chaple</name>
+			<text type="formattedtext">
+				<p>Located next to the portal near the center of town.</p>
+				<p>Owned by: Dorrug Rockfist a Hill-Dwarf Life Cleric. Who is a part of the wierd beard clan, aka. benchsniffers.</p>
+				<linklist>
+					<link class="npc" recordname="npc.id-00004">Dorrug Rockfist</link>
+				</linklist>
+				<h>Chapple Services</h>
+				<p>Ceremony - (Coming Soon) Requiers a sourse of silver.</p>
+				<h>Store</h>
+				<p>Healing Potions - (comming soon) Requiers an alchemist.</p>
+				<p>Protection potions (comming soon) Requiers an alchemist.</p>
+				<h>Prospecting Claims Office</h>
+				<p>Open for bussiness.</p>
+				<h>IRL Info</h>
+				<linklist>
+					<link class="encounter" recordname="encounter.id-00008">Links</link>
+				</linklist>
+			</text>
+		</id-00003>
+		<id-00004>
+			<locked type="number">1</locked>
+			<name type="string">Dabria: Credits</name>
+			<text type="formattedtext">
+				<h>Thomas Edgerton - thomas.edgerton@gmail.com</h>
+				<linklist>
+					<link class="url" recordname="https://discord.gg/Ew6nYyw">FGC: Discord</link>
+					<link class="url" recordname="http://www.fantasygroundscollege.net">FGC: Website</link>
+				</linklist>
+			</text>
+		</id-00004>
+		<id-00005>
+			<locked type="number">1</locked>
+			<name type="string">Rob2e's Store</name>
+			<text type="formattedtext">
+				<p>Rob2E's Store is located ___. It is self owned.</p>
+				<p>Proprietor: {NPC HERE} 3rd</p>
+				<linklist>
+					<link class="imagewindow" recordname="image.id-00009">Rob 2e's Shop</link>
+				</linklist>
+				<h>Services of Rob2E</h>
+				<p>(coming soon)</p>
+				<h>Rob2E's Store</h>
+				<p>(coming soon)</p>
+				<h>IRL Info</h>
+				<linklist>
+					<link class="encounter" recordname="encounter.id-00013">FGC Recomended Products by Rob2e</link>
+					<link class="encounter" recordname="encounter.id-00012">Links</link>
+				</linklist>
+			</text>
+		</id-00005>
+		<id-00006>
+			<locked type="number">1</locked>
+			<name type="string">Portal</name>
+			<text type="formattedtext">
+				<p></p>
+			</text>
+		</id-00006>
+		<id-00007>
+			<locked type="number">1</locked>
+			<name type="string">Zinbi: Credits</name>
+			<text type="formattedtext">
+				<h>[Ast Prof.] Silver (UTC-7) on FGC</h>
+				<linklist>
+					<link class="wcOLESetup" recordname="MJB_OLE.OLESetup.id-00002@West Marches Campaign World">FGC: Discord</link>
+					<link class="wcOLESetup" recordname="MJB_OLE.OLESetup.id-00003@West Marches Campaign World">FGC: Website</link>
+				</linklist>
+			</text>
+		</id-00007>
+		<id-00008>
+			<locked type="number">1</locked>
+			<name type="string">Dorrug Rockfist: Credits</name>
+			<text type="formattedtext">
+				<h>Co-founder of Fantasy Grounds College</h>
+				<linklist>
+					<link class="url" recordname="https://discord.gg/Ew6nYyw">FGC: Discord</link>
+					<link class="wcOLESetup" recordname="MJB_OLE.OLESetup.id-00003@West Marches Campaign World">FGC: Website</link>
+				</linklist>
+			</text>
+		</id-00008>
+		<id-00009>
+			<locked type="number">1</locked>
+			<name type="string">Raven Manor</name>
+			<text type="formattedtext">
+				<p>Raven Manor is located oposite the church. It is owned by Dabria.</p>
+				<linklist>
+					<link class="npc" recordname="npc.id-00002">Dabria</link>
+				</linklist>
+				<h>Services of the Night Queen's Servant</h>
+				<p>Question the Dead - Debria will ask the corpse of one who died in the last minute a single question. Depending on the answer she will either never speak of it to anyone, or sell the inforamtion for 50 GP. Debria respects the wishes of the dead. (free to ask)</p>
+				<linklist>
+					<link class="reference_classfeature" recordname="reference.classdata.UAwarlock.features.invocationchronicleoftheravenqueen@Unearthed Arcana">Chronicle of the Raven Queen</link>
+				</linklist>
+				<p>Ceremony - (Coming Soon) Requiers a sourse of silver.</p>
+				<p>Identify - I can cast an identify ritual. (Coming Soon) Requiers a sourse of pearls.</p>
+				<h>Debria's Eternal Wares</h>
+				<p>A coffin (Coming Soon) Requiers a sourse of lumber.</p>
+				<p>A toomstone (Coming Soon) Requiers a sourse of stone.</p>
+				<p>A flask of Raven's Water (Coming Soon) Requiers a sourse of silver.</p>
+				<h>Night Queen's Collections</h>
+				<p>There are thouse who flee from death. The Night Queen has a price on their bodies. You dont have much to go on, just a name and a price. Bring in the body, get the gold. Debria never asks questions.</p>
+				<p>There are no bounties at this time.</p>
+				<h>IRL Info</h>
+				<linklist>
+					<link class="encounter" recordname="encounter.id-00004">Links</link>
+				</linklist>
+			</text>
+		</id-00009>
+		<id-00010>
+			<name type="string">Kalani's Forge</name>
+			<text type="formattedtext">
+				<p>Located next door to Raven Manor. Run by Kalani.</p>
+				<linklist>
+					<link class="npc" recordname="npc.id-00006">Kalani</link>
+				</linklist>
+				<h>Items</h>
+				<p>Weapons (comming soon)</p>
+				<h>Services</h>
+				<p>Custom (comming soon)</p>
+				<h>IRL Info</h>
+				<p>(comming soon)</p>
+			</text>
+		</id-00010>
+		<id-00011>
+			<locked type="number">1</locked>
+			<name type="string">Kalani: Credits</name>
+			<text type="formattedtext">
+				<h>ProNobis - philip.lawrence.1992@gmail.com</h>
+				<linklist>
+					<link class="url" recordname="https://discord.gg/4x5R3Tx">Discord</link>
+					<link class="wcOLESetup" recordname="MJB_OLE.OLESetup.id-00001">Patreon</link>
+				</linklist>
+			</text>
+		</id-00011>
+		<id-00012>
+			<locked type="number">1</locked>
+			<name type="string">Rob2e : Credits</name>
+			<text type="formattedtext">
+				<h>Rob Twohy (rob2e) - rob2ee@yahoo.com</h>
+				<linklist>
+					<link class="wcOLESetup" recordname="MJB_OLE.OLESetup.id-00004@West Marches Campaign World">Discord</link>
+					<link class="url" recordname="https://www.patreon.com/Rob2e">Patreon</link>
+					<link class="url" recordname="https://www.twitch.tv/rob2e">Twitch</link>
+					<link class="url" recordname="https://twitter.com/rob2e">Twitter</link>
+					<link class="url" recordname="http://www.rob2e.com">Personal Website</link>
+					<link class="url" recordname="http://www.dmsguild.com/browse.php?author=Rob%20Twohy&#38;affiliate_id=878507&#38;test_epoch=0&#38;page=1&#38;sort=6a">DMs Guild Store</link>
+				</linklist>
+			</text>
+		</id-00012>
+		<id-00013>
+			<locked type="number">1</locked>
+			<name type="string">FGC Recomended Rob2e Products</name>
+			<text type="formattedtext">
+				<linklist>
+					<link class="url" recordname="http://www.dmsguild.com/product/209256/Fantasy-Grounds-5e-Spell-Coding-Effects?affiliate_rem=878507">Fantasy Grounds 5E Spell Effects Coding</link>
+					<link class="url" recordname="http://www.dmsguild.com/product/210436?affiliate_rem=878507">Fantasy Grounds 5E Class Feature Effects Coding</link>
+					<link class="url" recordname="http://www.dmsguild.com/product/210542/?affiliate_rem=878507">Fantasy Grounds 5E Race Trait Effects Coding</link>
+					<link class="url" recordname="http://www.dmsguild.com/product/222489/?affiliate_rem=878507">Fantasy Grounds 5E Feats Effects Coding</link>
+				</linklist>
+			</text>
+		</id-00013>
+	</encounter>
+	<export>
+		<author type="string">Fantasy Grounds College</author>
+		<category type="string">Campaign Setting</category>
+		<file type="string">FGC-West-Marches-Alpha</file>
+		<name type="string">West Marches Campaign World</name>
+		<playervisible type="number">0</playervisible>
+		<readonly type="number">0</readonly>
+		<thumbnail type="string">C:\\users\\Wineskin\\Application Data\\Fantasy Grounds\\campaigns\\West Marches%3A Thomas\\images\\WMC FGC Smaller Logo.jpg</thumbnail>
+	</export>
+	<image>
+		<id-00001>
+			<image type="image">
+				<bitmap>images/Region_-1,-1.jpg</bitmap>
+			</image>
+			<isidentified type="number">0</isidentified>
+			<name type="string">Region_-1,-1</name>
+		</id-00001>
+		<id-00002>
+			<image type="image">
+				<bitmap>images/Region_-1,0.jpg</bitmap>
+			</image>
+			<isidentified type="number">0</isidentified>
+			<name type="string">Region_-1,0</name>
+		</id-00002>
+		<id-00003>
+			<image type="image">
+				<bitmap>images/Region_-1,1.jpg</bitmap>
+			</image>
+			<isidentified type="number">0</isidentified>
+			<name type="string">Region_-1,1</name>
+		</id-00003>
+		<id-00004>
+			<image type="image">
+				<bitmap>images/Region_0,-1.jpg</bitmap>
+			</image>
+			<isidentified type="number">0</isidentified>
+			<name type="string">Region_0,-1</name>
+		</id-00004>
+		<id-00005>
+			<image type="image">
+				<bitmap>images/Region_0,1.jpg</bitmap>
+			</image>
+			<isidentified type="number">0</isidentified>
+			<name type="string">Region_0,1</name>
+		</id-00005>
+		<id-00006>
+			<image type="image">
+				<bitmap>images/Region_1,-1.jpg</bitmap>
+			</image>
+			<isidentified type="number">0</isidentified>
+			<name type="string">Region_1,-1</name>
+		</id-00006>
+		<id-00007>
+			<image type="image">
+				<bitmap>images/Region_1,0.jpg</bitmap>
+			</image>
+			<isidentified type="number">0</isidentified>
+			<name type="string">Region_1,0</name>
+		</id-00007>
+		<id-00008>
+			<image type="image">
+				<bitmap>images/Region_1,1 .jpg</bitmap>
+			</image>
+			<isidentified type="number">0</isidentified>
+			<name type="string">Region_1,1</name>
+		</id-00008>
+		<id-00009>
+			<image type="image">
+				<bitmap>images/Rob 2e's Shop.jpg</bitmap>
+			</image>
+			<isidentified type="number">0</isidentified>
+			<name type="string">Rob 2e's Shop</name>
+		</id-00009>
+		<id-00010>
+			<image type="image">
+				<bitmap>images/Town.jpg</bitmap>
+				<drawing>drawings/drawing_1507740814.png</drawing>
+				<shortcuts>
+					<shortcut>
+						<public />
+						<x>176</x>
+						<y>372</y>
+						<class>encounter</class>
+						<recordname>encounter.id-00009</recordname>
+					</shortcut>
+					<shortcut>
+						<public />
+						<x>176</x>
+						<y>131</y>
+						<class>encounter</class>
+						<recordname>encounter.id-00003</recordname>
+					</shortcut>
+					<shortcut>
+						<public />
+						<x>227</x>
+						<y>185</y>
+						<class>encounter</class>
+						<recordname>encounter.id-00011@West Marches Campaign World</recordname>
+					</shortcut>
+					<shortcut>
+						<public />
+						<x>281</x>
+						<y>125</y>
+						<class>encounter</class>
+						<recordname>encounter.id-00005</recordname>
+					</shortcut>
+					<shortcut>
+						<public />
+						<x>225</x>
+						<y>275</y>
+						<class>encounter</class>
+						<recordname>encounter.id-00002</recordname>
+					</shortcut>
+					<shortcut>
+						<public />
+						<x>226</x>
+						<y>325</y>
+						<class>encounter</class>
+						<recordname>encounter.id-00010</recordname>
+					</shortcut>
+				</shortcuts>
+			</image>
+			<isidentified type="number">0</isidentified>
+			<name type="string">Town</name>
+		</id-00010>
+		<id-00011>
+			<image type="image">
+				<bitmap>images/WMC FGC Smaller Logo.jpg</bitmap>
+			</image>
+			<isidentified type="number">0</isidentified>
+			<name type="string">WMC FGC Smaller Logo</name>
+		</id-00011>
+		<id-00012>
+			<image type="image">
+				<bitmap>images/World.jpg</bitmap>
+				<shortcuts>
+					<shortcut>
+						<x>150</x>
+						<y>355</y>
+						<class>imagewindow</class>
+						<recordname>image.id-00001</recordname>
+					</shortcut>
+					<shortcut>
+						<x>151</x>
+						<y>260</y>
+						<class>imagewindow</class>
+						<recordname>image.id-00002</recordname>
+					</shortcut>
+					<shortcut>
+						<x>154</x>
+						<y>157</y>
+						<class>imagewindow</class>
+						<recordname>image.id-00003</recordname>
+					</shortcut>
+					<shortcut>
+						<x>246</x>
+						<y>354</y>
+						<class>imagewindow</class>
+						<recordname>image.id-00004</recordname>
+					</shortcut>
+					<shortcut>
+						<x>255</x>
+						<y>156</y>
+						<class>imagewindow</class>
+						<recordname>image.id-00005</recordname>
+					</shortcut>
+					<shortcut>
+						<x>349</x>
+						<y>356</y>
+						<class>imagewindow</class>
+						<recordname>image.id-00006</recordname>
+					</shortcut>
+					<shortcut>
+						<x>349</x>
+						<y>257</y>
+						<class>imagewindow</class>
+						<recordname>image.id-00007</recordname>
+					</shortcut>
+					<shortcut>
+						<x>354</x>
+						<y>156</y>
+						<class>imagewindow</class>
+						<recordname>image.id-00008</recordname>
+					</shortcut>
+					<shortcut>
+						<x>256</x>
+						<y>254</y>
+						<class>imagewindow</class>
+						<recordname>image.id-00010</recordname>
+					</shortcut>
+				</shortcuts>
+			</image>
+			<isidentified type="number">0</isidentified>
+			<name type="string">World</name>
+		</id-00012>
+	</image>
+	<item>
+	</item>
+	<languages>
+		<public />
+		<id-00001>
+			<public />
+			<font type="string">Primordial</font>
+			<name type="string">Primordial</name>
+		</id-00001>
+		<id-00002>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Aquan</name>
+		</id-00002>
+		<id-00003>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Elvish</name>
+		</id-00003>
+		<id-00004>
+			<public />
+			<font type="string">Celestial</font>
+			<name type="string">Celestial</name>
+		</id-00004>
+		<id-00005>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Infernal</name>
+		</id-00005>
+		<id-00006>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Gnomish</name>
+		</id-00006>
+		<id-00007>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Undercommon</name>
+		</id-00007>
+		<id-00008>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Draconic</name>
+		</id-00008>
+		<id-00009>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Abyssal</name>
+		</id-00009>
+		<id-00010>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Sylvan</name>
+		</id-00010>
+		<id-00011>
+			<public />
+			<name type="string">Common</name>
+		</id-00011>
+		<id-00012>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Terran</name>
+		</id-00012>
+		<id-00013>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Ignan</name>
+		</id-00013>
+		<id-00014>
+			<public />
+			<name type="string">Deep Speech</name>
+		</id-00014>
+		<id-00015>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Auran</name>
+		</id-00015>
+		<id-00016>
+			<public />
+			<name type="string">Halfling</name>
+		</id-00016>
+		<id-00017>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Orc</name>
+		</id-00017>
+		<id-00018>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Giant</name>
+		</id-00018>
+		<id-00019>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Dwarvish</name>
+		</id-00019>
+		<id-00020>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Goblin</name>
+		</id-00020>
+	</languages>
+	<library>
+	</library>
+	<modifiers>
+		<public />
+	</modifiers>
+	<notes>
+	</notes>
+	<npc>
+		<id-00001>
+			<abilities>
+				<charisma>
+					<bonus type="number">0</bonus>
+					<score type="number">10</score>
+				</charisma>
+				<constitution>
+					<bonus type="number">0</bonus>
+					<score type="number">10</score>
+				</constitution>
+				<dexterity>
+					<bonus type="number">0</bonus>
+					<score type="number">10</score>
+				</dexterity>
+				<intelligence>
+					<bonus type="number">0</bonus>
+					<score type="number">10</score>
+				</intelligence>
+				<strength>
+					<bonus type="number">0</bonus>
+					<score type="number">10</score>
+				</strength>
+				<wisdom>
+					<bonus type="number">0</bonus>
+					<score type="number">10</score>
+				</wisdom>
+			</abilities>
+			<ac type="number">0</ac>
+			<actions>
+			</actions>
+			<hp type="number">0</hp>
+			<innatespells>
+			</innatespells>
+			<lairactions>
+			</lairactions>
+			<legendaryactions>
+			</legendaryactions>
+			<name type="string">Rob2E</name>
+			<reactions>
+			</reactions>
+			<spells>
+			</spells>
+			<text type="formattedtext">
+				<p></p>
+			</text>
+			<token type="token">tokens/campaign/Avatar.jpg@FGC rob2e Store</token>
+			<traits>
+			</traits>
+			<xp type="number">0</xp>
+		</id-00001>
+		<id-00002>
+			<abilities>
+				<charisma>
+					<bonus type="number">3</bonus>
+					<score type="number">16</score>
+				</charisma>
+				<constitution>
+					<bonus type="number">1</bonus>
+					<score type="number">12</score>
+				</constitution>
+				<dexterity>
+					<bonus type="number">1</bonus>
+					<score type="number">12</score>
+				</dexterity>
+				<intelligence>
+					<bonus type="number">1</bonus>
+					<score type="number">12</score>
+				</intelligence>
+				<strength>
+					<bonus type="number">-1</bonus>
+					<score type="number">8</score>
+				</strength>
+				<wisdom>
+					<bonus type="number">2</bonus>
+					<score type="number">14</score>
+				</wisdom>
+			</abilities>
+			<ac type="number">11</ac>
+			<actions>
+				<id-00001>
+					<desc type="string">DC 13 Wisdom saving throw\n1d8 necrotic damage\n1d12 necrotic damage if target is missing any HP\nYou point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment. The target must succeed on a DC 13 Wisdom saving throw or take 1d8 necrotic damage. If the target is missing any of its hit points, it instead takes 1d12 necrotic damage.\nThe spell's damage increases by one die when you reach 5th level (2d8 or 2d12), 11th level (3d8 or 3d12), and 17th level (4d8 or 4d12).DC 13 Wisdom saving throw. On a failed save</desc>
+					<name type="string">Toll the Dead</name>
+				</id-00001>
+				<id-00002>
+					<desc type="string">Melee Weapon Attack: +3 to hit, reach 5 ft., throwing, one target. Hit: 4 (1d6 + 1) slashing damage.\nOff-Hand Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 3 (1d6) slashing damage.</desc>
+					<name type="string">Dagger</name>
+				</id-00002>
+				<id-00003>
+					<desc type="string">As an action, you can polymorph into any humanoid of your size that you have seen, or back into your true form. However, your equipment does not change with you. If you die, you revert to your natural appearance.</desc>
+					<name type="string">Shapechanger</name>
+				</id-00003>
+			</actions>
+			<alignment type="string">Lawful Neutral</alignment>
+			<cr type="string">3</cr>
+			<hd type="string">(3d8)</hd>
+			<hp type="number">21</hp>
+			<innatespells>
+			</innatespells>
+			<lairactions>
+			</lairactions>
+			<languages type="string">Common, Elvish, Gnomish</languages>
+			<legendaryactions>
+			</legendaryactions>
+			<locked type="number">1</locked>
+			<name type="string">Dabria</name>
+			<reactions>
+			</reactions>
+			<savingthrows type="string">WIS +4, CHA +3</savingthrows>
+			<senses type="string">(Darkvision 30ft when raven is on sholder)</senses>
+			<size type="string">Medium</size>
+			<skills type="string">Deception +5, Insight +4, Investigation +3, Medicine +4, Religion +3, Carpentry Tools +5, Masonry Tools +5, Perception +5 (w/Raven)</skills>
+			<speed type="string">30 ft.</speed>
+			<spells>
+				<id-00001>
+					<desc type="string">Divination Cantrip\nCasting Time: 1 action\nRange: Touch\nDuration: Concentration, up to 1 minute\nYou touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.</desc>
+					<name type="string">Guidance (T) (C)</name>
+				</id-00001>
+				<id-00002>
+					<desc type="string">Conjuration Cantrip\nCasting Time: 1 action\nRange: 30 feet\nDuration: 1 minute\nA spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.\nYou can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.\nThe hand can't attack, activate magic items, or carry more than 10 pounds.</desc>
+					<name type="string">Mage Hand (30)</name>
+				</id-00002>
+				<id-00003>
+					<desc type="string">Transmutation Cantrip\nCasting Time: 1 minute\nRange: Touch\nDuration: Instantaneous\nThis spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it. leaving no trace of the former damage.\nThis spell can physically repair a magic item or construct, but the spell can't restore magic to such an object.</desc>
+					<name type="string">Mending (RIT)</name>
+				</id-00003>
+				<id-00004>
+					<desc type="string">Transmutation Cantrip\nCasting Time: 1 action\nRange: 30 feet\nDuration: Instantaneous or 1 hour (see below)\nYou choose a portion of dirt or stone that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:\nIf you target an area of loose earth, you can instantaneously excavate it, move it along the ground, and deposit it up to 5 feet away. This movement doesn't have enough force to cause damage.\nYou cause shapes, colors, or both to appear on the dirt or stone, spelling out words, creating images, or shaping patterns. The changes last for 1 hour.\nIf the dirt or stone you target is on the ground, you cause it to become difficult terrain. Alternatively, you can cause the ground to become normal terrain if it is already difficult terrain. This change lasts for 1 hour.\nIf you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.</desc>
+					<name type="string">Mold Earth (30)</name>
+				</id-00004>
+				<id-00005>
+					<desc type="string">Necromancy Cantrip\nCasting Time: 1 action\nRange: 60 feet\nDuration: Instantaneous\nYou point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment. The target must succeed on a Wisdom saving throw or take 1d8 necrotic damage. If the target is missing any of its hit points, it instead takes 1d12 necrotic damage.\nThe spell's damage increases by one die when you reach 5th level (2d8 or 2d12), 11th level (3d8 or 3d12), and 17th level (4d8 or 4d12).</desc>
+					<name type="string">Toll the Dead</name>
+				</id-00005>
+				<id-00006>
+					<desc type="string">Evocation L1\nCasting Time: 1 hour\nRange: Touch\nDuration: Instantaneous (see text)\nYou perform one of several religious ceremonies. When you cast the spell, choose one of the following ceremonies, the target of which must be within 10 feet of you throughout the casting.\nAtonement. \nYou touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom (Insight) check. On a success, you restore the target to its original alignment.Bless Water. \nYou touch one vial of water and cause it to become holy water.Coming of Age. \nYou touch one humanoid old enough to be a young adult. For the next 24 hours, whenever the target makes an ability check, it can roll a d4 and add the number rolled to the ability check. A creature can benefit from this ceremony just once.Dedication. \nYou touch one humanoid who would willingly convert to your religion or who wishes to be dedicated to your god's service. For the next 24 hours, whenever the target makes a saving throw, it can roll a d4 and add the number rolled to the save. A creature can benefit from this ceremony just once.Funeral Rite. \nYou bless one corpse within 5 feet of you. For the next 24 hours, the target can't become undead by any means short of a wish spell.Investiture. \nYou touch one willing humanoid. Choose one 1st-level spell you have prepared and expend a spell slot and any material components as if you were casting that spell. The spell has no effect. Instead, the target can cast this spell once without having to expend a spell slot or use material components. If the target doesn't cast the spell within 1 hour, the invested spell is lost.Marriage. \nYou touch adult humanoids willing to be bonded together in marriage. For the next 24 hours, each target gains a +2 bonus to AC and saving throws while they are within 30 feet of each other. A creature can benefit from this ceremony just once.</desc>
+					<name type="string">Ceremony</name>
+				</id-00006>
+				<id-00007>
+					<desc type="string">Divination L1\nCasting Time: 1 action\nRange: Self\nDuration: 1 hour\nFor the duration, you understand the literal meaning of any spoken language that you hear. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text.\nThis spell doesn't decode secret messages in a text or a glyph, such as an arcane sigil, that isn't part of a written language.</desc>
+					<name type="string">Comprehend Languages (S)</name>
+				</id-00007>
+				<id-00008>
+					<desc type="string">Divination L1\nCasting Time: 1 minute\nRange: Touch\nDuration: Instantaneous\nYou choose one object that you must touch throughout the casting of the spell. If it is a magic item or some other magic-imbued object, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it.\nIf you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.</desc>
+					<name type="string">Identify (RIT) (T) ($)</name>
+				</id-00008>
+				<id-00009>
+					<desc type="string">Illusion L2\nCasting Time: 1 action\nRange: 120 feet\nDuration: Concentration, up to 10 minutes\nFor the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it.\nCasting a spell that includes a verbal component is impossible there.</desc>
+					<name type="string">Silence (120) (C)</name>
+				</id-00009>
+				<id-00010>
+					<desc type="string">Conjuration L1\nCasting Time: 1 action\nRange: 30 feet\nDuration: 1 hour\nThis spell creates a circular, horizontal plane of force, 3 feet in diameter and 1 inch thick, that floats 3 feet above the ground in an unoccupied space of your choice that you can see within range. The disk remains for the duration, and can hold up to 500 pounds. If more weight is placed on it, the spell ends, and everything on the disk falls to the ground.\nThe disk is immobile while you are within 20 feet of it. If you move more than 20 feet away from it, the disk follows you so that it remains within 20 feet of you. It can move across uneven terrain, up or down stairs, slopes and the like, but it can't cross an elevation change of 10 feet or more. For example, the disk can't move across a 10-foot-deep pit, nor could it leave such a pit if it was created at the bottom.\nIf you move more than 100 feet from the disk (typically because it can't move around an obstacle to follow you), the spell ends.</desc>
+					<name type="string">Tenser's Floating Disk (30)</name>
+				</id-00010>
+				<id-00011>
+					<desc type="string">Conjuration L1\nCasting Time: 1 action\nRange: 60 feet\nDuration: 1 hour\nThis spell creates an invisible, mindless, shapeless force that performs simple tasks at your command until the spell ends. The servant springs into existence in an unoccupied space on the ground within range. It has AC 10, 1 hit point, and a Strength of 2, and it can't attack. If it drops to 0 hit points, the spell ends.\nOnce on each of your turns as a bonus action, you can mentally command the servant to move up to 15 feet and interact with an object. The servant can perform simple tasks that a human servant could do, such as fetching things, cleaning, mending, folding clothes, lighting fires, serving food, and pouring wine. Once you give the command, the servant performs the task to the best of its ability until it completes the task, then waits for your next command.\nIf you command the servant to perform a task that would move it more than 60 feet away from you, the spell ends.</desc>
+					<name type="string">Unseen Servant (60)</name>
+				</id-00011>
+				<id-00012>
+					<desc type="string">Evocation L1\nCasting Time: 1 reaction, which you take in response to being damaged by a creature within 60 feet of you that you can see\nRange: 60 feet\nDuration: Instantaneous\nYou point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.\nAt Higher Levels.\nWhen you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.</desc>
+					<name type="string">Ravin's Rebuke (R) (60)</name>
+				</id-00012>
+				<id-00013>
+					<desc type="string">Abjuration L1\nCasting Time: 1 bonus action\nRange: 30 feet\nDuration: 1 minute\nYou ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a Wisdom saving throw. On a failed save, the creature must choose a new target or lose the attack or spell. This spell doesn't protect the warded creature from area effects, such as the explosion of a fireball. If the warded creature makes an attack or casts a spell that affects an enemy creature, this spell ends.</desc>
+					<name type="string">Sanctuary (B) (30)</name>
+				</id-00013>
+				<id-00014>
+					<desc type="string">Enchantment L2\nCasting Time: 1 action\nRange: 30 feet\nDuration: Concentration, up to 8 hours\nYou suggest a course of activity (limited to a sentence or two) and magically influence a creature you can see within range that can hear and understand you.\nCreatures that can't be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable.\nAsking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act ends the spell.\nThe target must make a Wisdom saving throw. On a failed save, it pursues the course of action you described to the best of its ability. The suggested course of action can continue for the entire duration. If the suggested activity can be completed in a shorter time, the spell ends when the subject finishes what it was asked to do. You can also specify conditions that will trigger a special activity during the duration. For example, you might suggest that a knight give her warhorse to the first beggar she meets. If the condition isn't met before the spell expires, the activity isn't performed.\nIf you or any of your companions damage the target, the spell ends.</desc>
+					<name type="string">Suggestion (30) (C)</name>
+				</id-00014>
+			</spells>
+			<text type="formattedtext">
+				<p></p>
+			</text>
+			<token type="token">portrait_id-00001_token</token>
+			<traits>
+				<id-00001>
+					<desc type="string">You know the mortician life as only someone who has experienced it can. You are able to quickly sumirize the time and method of death for most corpses. You can also do an hour long autopsy to identify the cause of death or the extent of disease. You can find work as a mortician between adventures sufficient to maintain a wealthy lifestyle (see &#34;Practicing a Profession&#34; under &#34;Downtime Activities&#34; in chapter 8 of the Player's Handbook).</desc>
+					<name type="string">Background: Corpse Study</name>
+				</id-00001>
+				<id-00002>
+					<desc type="string">Starting at 1st level, you gain the service of a spirit sent by the Raven Queen to watch over you. The spirit assumes the form and game statistics of a raven, and it always obeys your commands, which you can give telepathically while it is within 100 feet of you.\nWhile the raven is perched on your shoulder, you gain darkvision with a range of 30 feet and a bonus to your passive Wisdom (Perception) score and to Wisdom (Perception) checks. The bonus equals your Charisma modifier. While perched on your shoulder, the raven can't be targeted by any attack or other harmful effect; only you can cast spells on it; it can't take damage; and it is incapacitated.\nYou can see through the raven's eyes and hear what it hears while it is within 100 feet of you.\nIn combat, you roll initiative for the raven and control how it acts. If it is slain by a creature, you gain advantage on all attack rolls against the killer for the next 24 hours.\nThe raven doesn't require sleep. While it is within 100 feet of you, it can awaken you from sleep as a bonus action.\nThe raven vanishes when it dies, if you die, or if the two of you are separated by more than 5 miles.\nAt the end of a short or long rest, you can call the raven back to you--no matter where it is or whether it died--and it reappears within 5 feet of you.</desc>
+					<name type="string">Raven Queen (1): Sentinel Raven</name>
+				</id-00002>
+				<id-00003>
+					<desc type="string">You patron is the Raven Queen, a mysterious being who rules the Shadowfell from a palace of ice deep within that dread realm. The Raven Queen watches over the world, anticipating each creature's death and ensuring that it meets its end at the proscribed time and place. As the ruler of the Shadowfell, she dwells in a decayed, dark reflection of the world. Her ability to reach into the world is limited. Thus, she turns to mortal warlocks to serve her will. Warlocks sworn to the Raven Queen receive visions and whispers from her in their dreams, sending them on quests and warning them of impending dangers.\nThe Raven Queen's followers are expected to serve her will in the world. She concerns herself with ensuring that those fated to die pass from the world as expected, and bids her agents to defeat those who seek to cheat death through undeath or other imitations of immortality. She hates intelligent undead and expects her followers to strike them down, whereas mindless undead such as skeletons and zombies are little more than stumbling automatons in her eyes.</desc>
+					<name type="string">Raven Queen (1): The Raven Queen</name>
+				</id-00003>
+				<id-00004>
+					<desc type="string">Pact Magic Slots (2)\nCantrips: Guidance, Mage Hand, Mending, Mold Earth, Toll the Dead\nRituals: Ceremony, Comprehend Languages, Identify, Silence, Tenser's Floating Disk, Unseen Servant\nSpells: Raven's Rebuke, Sanctuary, Suggestion</desc>
+					<name type="string">Warlock (1): Pact Magic</name>
+				</id-00004>
+				<id-00005>
+					<desc type="string">Pre-requisite: Pact of the Tome feature\nYou can now inscribe magical rituals in your Book of Shadows. Choose two 1st-level spells that have the ritual tag from any class's spell list. The rituals needn't be from the same spell list. The spells appear in the book and don't count against the number of spells you know. With your Book of Shadows in hand, you can cast the chosen spells as rituals. You can't cast the spells except as rituals, unless you've learned them by some other means. You can also cast a warlock spell you know as a ritual if it has the ritual tag. On your adventures, you can add other ritual spells to your Book of Shadows. When you find such a spell, you can add it to the book if the spell's level is equal to or less than half your warlock level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.</desc>
+					<name type="string">Warlock (2): Eldritch Invocations: Book of Ancient Secrets</name>
+				</id-00005>
+				<id-00006>
+					<desc type="string">You can place a corpse's hand or similar appendage on your Book of Shadows and ask one question aloud. After 1 minute, the answer appears written in blood in your book. The answer is provided by the dead creature's spirit to the best of its knowledge and is translated into a language of your choice. You must use this ability within 1 minute of a creature's death, and a given creature can only be asked one question in this manner.</desc>
+					<name type="string">Warlock (2): Eldritch Invocations: Chronicle of the Raven Queen</name>
+				</id-00006>
+				<id-00007>
+					<desc type="string">Book of Death Description\nMy Book of Death has has spells the Raven Queen deems might be a fine, gilt-edged tome with spells of enchantment and illusion, gifted to you by the lordly Archfey. It could be a weighty tome bound in demon hide studded with iron, holding spells of conjuration and a wealth of forbidden lore about the sinister regions of the cosmos, a gift of the Fiend. Or it could be the tattered diary of a lunatic driven mad by contact with the Great Old One, holding scraps of spells that only your own burgeoning insanity allows you to understand and cast.</desc>
+					<name type="string">Warlock (3): Pact of the Tome</name>
+				</id-00007>
+			</traits>
+			<type type="string">humanoid (any race)</type>
+			<xp type="number">0</xp>
+		</id-00002>
+		<id-00003>
+			<abilities>
+				<charisma>
+					<bonus type="number">0</bonus>
+					<score type="number">10</score>
+				</charisma>
+				<constitution>
+					<bonus type="number">0</bonus>
+					<score type="number">10</score>
+				</constitution>
+				<dexterity>
+					<bonus type="number">0</bonus>
+					<score type="number">10</score>
+				</dexterity>
+				<intelligence>
+					<bonus type="number">0</bonus>
+					<score type="number">10</score>
+				</intelligence>
+				<strength>
+					<bonus type="number">0</bonus>
+					<score type="number">10</score>
+				</strength>
+				<wisdom>
+					<bonus type="number">0</bonus>
+					<score type="number">10</score>
+				</wisdom>
+			</abilities>
+			<ac type="number">0</ac>
+			<actions>
+			</actions>
+			<hp type="number">0</hp>
+			<innatespells>
+			</innatespells>
+			<lairactions>
+			</lairactions>
+			<legendaryactions>
+			</legendaryactions>
+			<locked type="number">1</locked>
+			<name type="string">Zinbi\n</name>
+			<reactions>
+			</reactions>
+			<spells>
+			</spells>
+			<text type="formattedtext">
+				<p></p>
+			</text>
+			<token type="token"></token>
+			<traits>
+			</traits>
+			<xp type="number">0</xp>
+		</id-00003>
+		<id-00004>
+			<abilities>
+				<charisma>
+					<bonus type="number">0</bonus>
+					<score type="number">10</score>
+				</charisma>
+				<constitution>
+					<bonus type="number">0</bonus>
+					<score type="number">10</score>
+				</constitution>
+				<dexterity>
+					<bonus type="number">0</bonus>
+					<score type="number">10</score>
+				</dexterity>
+				<intelligence>
+					<bonus type="number">0</bonus>
+					<score type="number">10</score>
+				</intelligence>
+				<strength>
+					<bonus type="number">0</bonus>
+					<score type="number">10</score>
+				</strength>
+				<wisdom>
+					<bonus type="number">0</bonus>
+					<score type="number">10</score>
+				</wisdom>
+			</abilities>
+			<ac type="number">0</ac>
+			<actions>
+			</actions>
+			<hp type="number">0</hp>
+			<innatespells>
+			</innatespells>
+			<lairactions>
+			</lairactions>
+			<legendaryactions>
+			</legendaryactions>
+			<locked type="number">1</locked>
+			<name type="string">Dorrug Rockfist\n</name>
+			<reactions>
+			</reactions>
+			<spells>
+			</spells>
+			<text type="formattedtext">
+				<p></p>
+			</text>
+			<token type="token"></token>
+			<traits>
+			</traits>
+			<xp type="number">0</xp>
+		</id-00004>
+		<id-00006>
+			<abilities>
+				<charisma>
+					<bonus type="number">0</bonus>
+					<score type="number">10</score>
+				</charisma>
+				<constitution>
+					<bonus type="number">0</bonus>
+					<score type="number">10</score>
+				</constitution>
+				<dexterity>
+					<bonus type="number">0</bonus>
+					<score type="number">10</score>
+				</dexterity>
+				<intelligence>
+					<bonus type="number">0</bonus>
+					<score type="number">10</score>
+				</intelligence>
+				<strength>
+					<bonus type="number">0</bonus>
+					<score type="number">10</score>
+				</strength>
+				<wisdom>
+					<bonus type="number">0</bonus>
+					<score type="number">10</score>
+				</wisdom>
+			</abilities>
+			<ac type="number">0</ac>
+			<actions>
+			</actions>
+			<hp type="number">0</hp>
+			<innatespells>
+			</innatespells>
+			<lairactions>
+			</lairactions>
+			<legendaryactions>
+			</legendaryactions>
+			<locked type="number">1</locked>
+			<name type="string">Kalani</name>
+			<reactions>
+			</reactions>
+			<spells>
+			</spells>
+			<text type="formattedtext">
+				<p></p>
+			</text>
+			<token type="token"></token>
+			<traits>
+			</traits>
+			<xp type="number">0</xp>
+		</id-00006>
+	</npc>
+	<options>
+		<public />
+		<TBOX type="string">on</TBOX>
+	</options>
+	<partysheet>
+		<public />
+	</partysheet>
+	<reference>
+		<weapon>
+		</weapon>
+	</reference>
+</root>
