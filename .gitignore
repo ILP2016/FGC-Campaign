@@ -3,5 +3,6 @@
 *.xml
 !db.xml
 !renameMe-campaign.xml
+!characters/*.xml
 CampaignRegistry.lua
 usersettings/*
