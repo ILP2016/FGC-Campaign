@@ -279,6 +279,228 @@
 		<public />
 		<list>
 			<public />
+			<id-00002>
+				<public />
+				<abilities>
+					<public />
+					<charisma>
+						<public />
+						<score type="number">10</score>
+					</charisma>
+					<constitution>
+						<public />
+						<score type="number">14</score>
+					</constitution>
+					<dexterity>
+						<public />
+						<score type="number">14</score>
+					</dexterity>
+					<intelligence>
+						<public />
+						<score type="number">12</score>
+					</intelligence>
+					<strength>
+						<public />
+						<score type="number">10</score>
+					</strength>
+					<wisdom>
+						<public />
+						<score type="number">16</score>
+					</wisdom>
+				</abilities>
+				<ac type="number">14</ac>
+				<actions>
+					<public />
+				</actions>
+				<active type="number">0</active>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<effects>
+					<public />
+					<id-00002>
+						<public />
+						<duration type="number">10</duration>
+						<init type="number">0</init>
+						<isactive type="number">1</isactive>
+						<isgmonly type="number">0</isgmonly>
+						<label type="string">Moonbeam (C)</label>
+					</id-00002>
+				</effects>
+				<friendfoe type="string">friend</friendfoe>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">24</hptotal>
+				<init type="number">2</init>
+				<initresult type="number">0</initresult>
+				<innatespells>
+					<public />
+				</innatespells>
+				<lairactions>
+					<public />
+				</lairactions>
+				<legendaryactions>
+					<public />
+				</legendaryactions>
+				<link type="windowreference">
+					<class>npc</class>
+					<recordname></recordname>
+				</link>
+				<name type="string">Sol'eran</name>
+				<reach type="number">5</reach>
+				<reaction type="number">0</reaction>
+				<reactions>
+					<public />
+				</reactions>
+				<space type="number">5</space>
+				<speed type="string">30</speed>
+				<spells>
+					<public />
+				</spells>
+				<status type="string">Healthy</status>
+				<targets>
+					<public />
+					<id-00001>
+						<public />
+						<noderef type="string">combattracker.list.id-00003</noderef>
+					</id-00001>
+				</targets>
+				<token type="token">portrait_id-00001_token</token>
+				<tokenscale type="number">1</tokenscale>
+				<tokenvis type="number">0</tokenvis>
+				<traits>
+					<public />
+				</traits>
+				<wounds type="number">0</wounds>
+			</id-00002>
+			<id-00003>
+				<public />
+				<abilities>
+					<public />
+					<charisma>
+						<public />
+						<bonus type="number">-1</bonus>
+						<score type="number">8</score>
+					</charisma>
+					<constitution>
+						<public />
+						<bonus type="number">1</bonus>
+						<score type="number">13</score>
+					</constitution>
+					<dexterity>
+						<public />
+						<bonus type="number">2</bonus>
+						<score type="number">15</score>
+					</dexterity>
+					<intelligence>
+						<public />
+						<bonus type="number">-3</bonus>
+						<score type="number">3</score>
+					</intelligence>
+					<strength>
+						<public />
+						<bonus type="number">3</bonus>
+						<score type="number">17</score>
+					</strength>
+					<wisdom>
+						<public />
+						<bonus type="number">1</bonus>
+						<score type="number">12</score>
+					</wisdom>
+				</abilities>
+				<ac type="number">12</ac>
+				<actions>
+					<public />
+					<id-00001>
+						<public />
+						<desc type="string">Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.</desc>
+						<name type="string">Bite</name>
+						<value type="string">Bite [M] [ATK: +5] [DMG: 1d8+3 piercing]</value>
+					</id-00001>
+					<id-00002>
+						<public />
+						<desc type="string">Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.</desc>
+						<name type="string">Claw</name>
+						<value type="string">Claw [M] [ATK: +5] [DMG: 1d6+3 slashing]</value>
+					</id-00002>
+				</actions>
+				<active type="number">0</active>
+				<alignment type="string">unaligned</alignment>
+				<cr type="string">1</cr>
+				<deathsavefail type="number">1</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<effects>
+					<public />
+				</effects>
+				<friendfoe type="string">foe</friendfoe>
+				<hd type="string">(4d10 + 4)</hd>
+				<hp type="number">26</hp>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">26</hptotal>
+				<init type="number">2</init>
+				<initresult type="number">10</initresult>
+				<innatespells>
+					<public />
+				</innatespells>
+				<lairactions>
+					<public />
+				</lairactions>
+				<languages type="string">-</languages>
+				<legendaryactions>
+					<public />
+				</legendaryactions>
+				<link type="windowreference">
+					<class>npc</class>
+					<recordname></recordname>
+				</link>
+				<locked type="number">1</locked>
+				<name type="string">Lion</name>
+				<reach type="number">5</reach>
+				<reaction type="number">0</reaction>
+				<reactions>
+					<public />
+				</reactions>
+				<senses type="string">passive Perception 13</senses>
+				<size type="string">Large</size>
+				<skills type="string">Perception +3, Stealth +6</skills>
+				<space type="number">10</space>
+				<speed type="string">50 ft.</speed>
+				<spells>
+					<public />
+				</spells>
+				<status type="string">Heavy</status>
+				<token type="token">tokens/L.png@DD PHB Deluxe</token>
+				<tokenscale type="number">1</tokenscale>
+				<tokenvis type="number">1</tokenvis>
+				<traits>
+					<public />
+					<id-00001>
+						<public />
+						<desc type="string">The lion has advantage on Wisdom (Perception) checks that rely on smell.</desc>
+						<name type="string">Keen Smell</name>
+						<value type="string">Keen smell</value>
+					</id-00001>
+					<id-00002>
+						<public />
+						<desc type="string">The lion has advantage on attack rolls against a creature if at least one of the lion's allies is within 5 feet of the creature and isn't incapacitated.</desc>
+						<name type="string">Pack Tactics</name>
+						<value type="string">Pack tactics</value>
+					</id-00002>
+					<id-00003>
+						<public />
+						<desc type="string">If the lion moves at least 20 feet straight toward a target right before hitting it with a claw attack, the target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the lion can take a bonus action to make one bite attack against it.</desc>
+						<name type="string">Pounce</name>
+						<value type="string">Pounce [SAVEVS: strength 13] [EFF: Prone]</value>
+					</id-00003>
+					<id-00004>
+						<public />
+						<desc type="string">As part of its movement and after a 10-foot running start, the lion can long jump up to 25 feet.</desc>
+						<name type="string">Running Leap</name>
+						<value type="string">Running leap</value>
+					</id-00004>
+				</traits>
+				<type type="string">beast</type>
+				<wounds type="number">18</wounds>
+				<xp type="number">200</xp>
+			</id-00003>
 		</list>
 		<round type="number">0</round>
 	</combattracker>
@@ -470,6 +692,7 @@
 			</text>
 		</id-00011>
 		<id-00012>
+			<public />
 			<locked type="number">1</locked>
 			<name type="string">Rob2e : Credits</name>
 			<text type="formattedtext">
@@ -485,6 +708,7 @@
 			</text>
 		</id-00012>
 		<id-00013>
+			<public />
 			<locked type="number">1</locked>
 			<name type="string">FGC Recomended Rob2e Products</name>
 			<text type="formattedtext">
@@ -1403,6 +1627,8 @@
 		<weapon>
 		</weapon>
 	</reference>
+	<spell>
+	</spell>
 	<tables>
 	</tables>
 </root>
