@@ -1,5 +1,7 @@
 # FGC-West-Marches
-# How to set up Install this Repo to FG
+## An explination of what git is and why it matters.
+https://www.youtube.com/watch?v=fJtyf62yAb8
+## How to set up install this repo to FG
 1. go to https://desktop.github.com
 2. download the client.
 3. create an account
