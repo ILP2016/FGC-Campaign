@@ -443,6 +443,7 @@
 			</text>
 		</id-00009>
 		<id-00010>
+			<locked type="number">1</locked>
 			<name type="string">Kalani's Forge</name>
 			<text type="formattedtext">
 				<p>Located next door to Raven Manor. Run by Kalani.</p>
@@ -590,13 +591,6 @@
 					</shortcut>
 					<shortcut>
 						<public />
-						<x>227</x>
-						<y>185</y>
-						<class>encounter</class>
-						<recordname>encounter.id-00011@West Marches Campaign World</recordname>
-					</shortcut>
-					<shortcut>
-						<public />
 						<x>281</x>
 						<y>125</y>
 						<class>encounter</class>
@@ -616,9 +610,17 @@
 						<class>encounter</class>
 						<recordname>encounter.id-00010</recordname>
 					</shortcut>
+					<shortcut>
+						<public />
+						<x>228</x>
+						<y>180</y>
+						<class>encounter</class>
+						<recordname>encounter.id-00006</recordname>
+					</shortcut>
 				</shortcuts>
 			</image>
 			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
 			<name type="string">Town</name>
 		</id-00010>
 		<id-00011>
@@ -689,6 +691,7 @@
 				</shortcuts>
 			</image>
 			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
 			<name type="string">World</name>
 		</id-00012>
 		<id-00013>
@@ -1400,4 +1403,6 @@
 		<weapon>
 		</weapon>
 	</reference>
+	<tables>
+	</tables>
 </root>
