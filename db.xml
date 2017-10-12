@@ -268,6 +268,8 @@
 			</id-00014>
 		</OLESetup>
 	</MJB_OLE>
+	<background>
+	</background>
 	<calendar>
 		<public />
 	</calendar>
@@ -512,11 +514,11 @@
 			<text type="formattedtext">
 				<h>World Map</h>
 				<linklist>
-					<link class="imagewindow" recordname="image.id-00004@West Marches Campaign World">World</link>
+					<link class="imagewindow" recordname="image.id-00012">World</link>
 				</linklist>
 				<h>Town Map</h>
 				<linklist>
-					<link class="imagewindow" recordname="image.id-00005@West Marches Campaign World">TownMap</link>
+					<link class="imagewindow" recordname="image.id-00010">Town</link>
 				</linklist>
 				<h>Locations</h>
 				<linklist>
@@ -663,6 +665,7 @@
 			</text>
 		</id-00009>
 		<id-00010>
+			<locked type="number">1</locked>
 			<name type="string">Kalani's Forge</name>
 			<text type="formattedtext">
 				<p>Located next door to Raven Manor. Run by Kalani.</p>
@@ -812,13 +815,6 @@
 					</shortcut>
 					<shortcut>
 						<public />
-						<x>227</x>
-						<y>185</y>
-						<class>encounter</class>
-						<recordname>encounter.id-00011@West Marches Campaign World</recordname>
-					</shortcut>
-					<shortcut>
-						<public />
 						<x>281</x>
 						<y>125</y>
 						<class>encounter</class>
@@ -838,9 +834,17 @@
 						<class>encounter</class>
 						<recordname>encounter.id-00010</recordname>
 					</shortcut>
+					<shortcut>
+						<public />
+						<x>228</x>
+						<y>180</y>
+						<class>encounter</class>
+						<recordname>encounter.id-00006</recordname>
+					</shortcut>
 				</shortcuts>
 			</image>
 			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
 			<name type="string">Town</name>
 		</id-00010>
 		<id-00011>
@@ -911,14 +915,12 @@
 				</shortcuts>
 			</image>
 			<isidentified type="number">0</isidentified>
+			<locked type="number">1</locked>
 			<name type="string">World</name>
 		</id-00012>
 		<id-00013>
 			<image type="image">
 				<bitmap>images/dirt.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">dirt</name>
@@ -926,9 +928,6 @@
 		<id-00014>
 			<image type="image">
 				<bitmap>images/dirt1.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">dirt1</name>
@@ -936,13 +935,6 @@
 		<id-00015>
 			<image type="image">
 				<bitmap>images/dirt10.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
-				<tokens>
-					<idcounter>5</idcounter>
-					<scalelock>7.8125</scalelock>
-				</tokens>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">dirt10</name>
@@ -950,9 +942,6 @@
 		<id-00016>
 			<image type="image">
 				<bitmap>images/dirt2.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">dirt2</name>
@@ -960,9 +949,6 @@
 		<id-00017>
 			<image type="image">
 				<bitmap>images/dirt3.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">dirt3</name>
@@ -970,9 +956,6 @@
 		<id-00018>
 			<image type="image">
 				<bitmap>images/dirt4.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>off</gridsnap>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">dirt4</name>
@@ -980,9 +963,6 @@
 		<id-00019>
 			<image type="image">
 				<bitmap>images/dirt5.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">dirt5</name>
@@ -990,9 +970,6 @@
 		<id-00020>
 			<image type="image">
 				<bitmap>images/dirt6.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">dirt6</name>
@@ -1000,9 +977,6 @@
 		<id-00021>
 			<image type="image">
 				<bitmap>images/dirt7.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">dirt7</name>
@@ -1010,9 +984,6 @@
 		<id-00022>
 			<image type="image">
 				<bitmap>images/dirt8.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">dirt8</name>
@@ -1020,9 +991,6 @@
 		<id-00023>
 			<image type="image">
 				<bitmap>images/dirt9.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">dirt9</name>
@@ -1030,9 +998,6 @@
 		<id-00024>
 			<image type="image">
 				<bitmap>images/forest.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">forest</name>
@@ -1040,9 +1005,6 @@
 		<id-00025>
 			<image type="image">
 				<bitmap>images/forest1.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">forest1</name>
@@ -1050,9 +1012,6 @@
 		<id-00026>
 			<image type="image">
 				<bitmap>images/forest10.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">forest10</name>
@@ -1060,9 +1019,6 @@
 		<id-00027>
 			<image type="image">
 				<bitmap>images/forest2.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">forest2</name>
@@ -1070,9 +1026,6 @@
 		<id-00028>
 			<image type="image">
 				<bitmap>images/forest3.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">forest3</name>
@@ -1080,9 +1033,6 @@
 		<id-00029>
 			<image type="image">
 				<bitmap>images/forest4.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">forest4</name>
@@ -1090,9 +1040,6 @@
 		<id-00030>
 			<image type="image">
 				<bitmap>images/forest5.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">forest5</name>
@@ -1100,9 +1047,6 @@
 		<id-00031>
 			<image type="image">
 				<bitmap>images/forest6.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">forest6</name>
@@ -1110,9 +1054,6 @@
 		<id-00032>
 			<image type="image">
 				<bitmap>images/forest7.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">forest7</name>
@@ -1120,9 +1061,6 @@
 		<id-00033>
 			<image type="image">
 				<bitmap>images/forest8.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">forest8</name>
@@ -1130,9 +1068,6 @@
 		<id-00034>
 			<image type="image">
 				<bitmap>images/forest9.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">forest9</name>
@@ -1140,49 +1075,30 @@
 		<id-00035>
 			<image type="image">
 				<bitmap>images/grass6.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
-			<isidentified type="number">0</isidentified>
 			<name type="string">grass6</name>
 		</id-00035>
 		<id-00036>
 			<image type="image">
 				<bitmap>images/grass7.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
-			<isidentified type="number">0</isidentified>
 			<name type="string">grass7</name>
 		</id-00036>
 		<id-00037>
 			<image type="image">
 				<bitmap>images/grass8.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
-			<isidentified type="number">0</isidentified>
 			<name type="string">grass8</name>
 		</id-00037>
 		<id-00038>
 			<image type="image">
 				<bitmap>images/grass9.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
-			<isidentified type="number">0</isidentified>
 			<name type="string">grass9</name>
 		</id-00038>
 		<id-00039>
 			<image type="image">
 				<bitmap>images/grass.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">grass</name>
@@ -1190,9 +1106,6 @@
 		<id-00040>
 			<image type="image">
 				<bitmap>images/grass1.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">grass1</name>
@@ -1200,9 +1113,6 @@
 		<id-00041>
 			<image type="image">
 				<bitmap>images/grass2.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">grass2</name>
@@ -1210,9 +1120,6 @@
 		<id-00042>
 			<image type="image">
 				<bitmap>images/grass3.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">grass3</name>
@@ -1220,9 +1127,6 @@
 		<id-00043>
 			<image type="image">
 				<bitmap>images/grass4.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">grass4</name>
@@ -1230,9 +1134,6 @@
 		<id-00044>
 			<image type="image">
 				<bitmap>images/grass5.png</bitmap>
-				<gridsize>16</gridsize>
-				<gridoffset>0,0</gridoffset>
-				<gridsnap>on</gridsnap>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">grass5</name>
@@ -1716,6 +1617,8 @@
 	<partysheet>
 		<public />
 	</partysheet>
+	<race>
+	</race>
 	<reference>
 		<weapon>
 		</weapon>
@@ -1723,44 +1626,5 @@
 	<spell>
 	</spell>
 	<tables>
-		<id-00001>
-			<dice type="dice"></dice>
-			<hiderollresults type="number">0</hiderollresults>
-			<mod type="number">0</mod>
-			<name type="string">Black or White</name>
-			<notes type="formattedtext">
-				<p></p>
-			</notes>
-			<resultscols type="number">1</resultscols>
-			<table_positionoffset type="number">0</table_positionoffset>
-			<tablerows>
-				<id-00001>
-					<fromrange type="number">1</fromrange>
-					<results>
-						<id-00001>
-							<result type="string">Black</result>
-							<resultlink type="windowreference">
-								<class></class>
-								<recordname></recordname>
-							</resultlink>
-						</id-00001>
-					</results>
-					<torange type="number">1</torange>
-				</id-00001>
-				<id-00002>
-					<fromrange type="number">2</fromrange>
-					<results>
-						<id-00001>
-							<result type="string">White</result>
-							<resultlink type="windowreference">
-								<class></class>
-								<recordname></recordname>
-							</resultlink>
-						</id-00001>
-					</results>
-					<torange type="number">2</torange>
-				</id-00002>
-			</tablerows>
-		</id-00001>
 	</tables>
 </root>
