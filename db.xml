@@ -270,6 +270,1771 @@
 	</MJB_OLE>
 	<background>
 	</background>
+	<battle>
+		<id-00001>
+			<cr type="string">3</cr>
+			<exp type="number">700</exp>
+			<name type="string">[RESULT] Arctic - True Random Encounter</name>
+			<npclist>
+				<id-00001>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00264@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Manticore</name>
+					<token type="token">tokens/manticore.png@DD5E SRD Bestiary</token>
+				</id-00001>
+			</npclist>
+		</id-00001>
+		<id-00002>
+			<cr type="string">4</cr>
+			<exp type="number">1000</exp>
+			<name type="string">[RESULT] Arctic - True Random Encounter</name>
+			<npclist>
+				<id-00001>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00014@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Brown Bear</name>
+					<token type="token">tokens/brownbear.png@DD5E SRD Bestiary</token>
+				</id-00001>
+				<id-00002>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00014@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Brown Bear</name>
+					<token type="token">tokens/brownbear.png@DD5E SRD Bestiary</token>
+				</id-00002>
+				<id-00003>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00014@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Brown Bear</name>
+					<token type="token">tokens/brownbear.png@DD5E SRD Bestiary</token>
+				</id-00003>
+				<id-00004>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00014@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Brown Bear</name>
+					<token type="token">tokens/brownbear.png@DD5E SRD Bestiary</token>
+				</id-00004>
+				<id-00005>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00014@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Brown Bear</name>
+					<token type="token">tokens/brownbear.png@DD5E SRD Bestiary</token>
+				</id-00005>
+			</npclist>
+		</id-00002>
+		<id-00003>
+			<cr type="string">3</cr>
+			<exp type="number">700</exp>
+			<name type="string">[RESULT] Arctic - True Random Encounter</name>
+			<npclist>
+				<id-00001>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00264@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Manticore</name>
+					<token type="token">tokens/manticore.png@DD5E SRD Bestiary</token>
+				</id-00001>
+			</npclist>
+		</id-00003>
+		<id-00004>
+			<cr type="string">3</cr>
+			<exp type="number">700</exp>
+			<name type="string">[RESULT] Arctic - True Random Encounter</name>
+			<npclist>
+				<id-00001>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00212@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Druid</name>
+					<token type="token">tokens/druid.png@DD5E SRD Bestiary</token>
+				</id-00001>
+				<id-00002>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00045@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Giant Owl</name>
+					<token type="token">tokens/giantowl.png@DD5E SRD Bestiary</token>
+				</id-00002>
+				<id-00003>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00159@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Ice Mephit</name>
+					<token type="token">tokens/I.png@DD5E SRD Bestiary</token>
+				</id-00003>
+				<id-00004>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00159@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Ice Mephit</name>
+					<token type="token">tokens/I.png@DD5E SRD Bestiary</token>
+				</id-00004>
+			</npclist>
+		</id-00004>
+		<id-00005>
+			<cr type="string">3</cr>
+			<exp type="number">700</exp>
+			<name type="string">[RESULT] Arctic - True Random Encounter</name>
+			<npclist>
+				<id-00001>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00159@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Ice Mephit</name>
+					<token type="token">tokens/I.png@DD5E SRD Bestiary</token>
+				</id-00001>
+				<id-00002>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00219@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Scout</name>
+					<token type="token">tokens/scout.png@DD5E SRD Bestiary</token>
+				</id-00002>
+				<id-00003>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00241@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Orc</name>
+					<token type="token">tokens/orc.png@DD5E SRD Bestiary</token>
+				</id-00003>
+				<id-00004>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00159@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Ice Mephit</name>
+					<token type="token">tokens/I.png@DD5E SRD Bestiary</token>
+				</id-00004>
+				<id-00005>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00219@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Scout</name>
+					<token type="token">tokens/scout.png@DD5E SRD Bestiary</token>
+				</id-00005>
+				<id-00006>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00241@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Orc</name>
+					<token type="token">tokens/orc.png@DD5E SRD Bestiary</token>
+				</id-00006>
+				<id-00007>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00241@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Orc</name>
+					<token type="token">tokens/orc.png@DD5E SRD Bestiary</token>
+				</id-00007>
+			</npclist>
+		</id-00005>
+		<id-00006>
+			<cr type="string">2</cr>
+			<exp type="number">350</exp>
+			<name type="string">[RESULT] Arctic - True Random Encounter</name>
+			<npclist>
+				<id-00001>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00045@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Giant Owl</name>
+					<token type="token">tokens/giantowl.png@DD5E SRD Bestiary</token>
+				</id-00001>
+				<id-00002>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00045@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Giant Owl</name>
+					<token type="token">tokens/giantowl.png@DD5E SRD Bestiary</token>
+				</id-00002>
+				<id-00003>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00045@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Giant Owl</name>
+					<token type="token">tokens/giantowl.png@DD5E SRD Bestiary</token>
+				</id-00003>
+				<id-00004>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00045@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Giant Owl</name>
+					<token type="token">tokens/giantowl.png@DD5E SRD Bestiary</token>
+				</id-00004>
+				<id-00005>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00045@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Giant Owl</name>
+					<token type="token">tokens/giantowl.png@DD5E SRD Bestiary</token>
+				</id-00005>
+				<id-00006>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00238@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Kobold</name>
+					<token type="token">tokens/kobold.png@DD5E SRD Bestiary</token>
+				</id-00006>
+				<id-00007>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00238@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Kobold</name>
+					<token type="token">tokens/kobold.png@DD5E SRD Bestiary</token>
+				</id-00007>
+				<id-00008>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00238@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Kobold</name>
+					<token type="token">tokens/kobold.png@DD5E SRD Bestiary</token>
+				</id-00008>
+				<id-00009>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00238@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Kobold</name>
+					<token type="token">tokens/kobold.png@DD5E SRD Bestiary</token>
+				</id-00009>
+			</npclist>
+		</id-00006>
+		<id-00007>
+			<cr type="string">2</cr>
+			<exp type="number">450</exp>
+			<name type="string">[RESULT] Arctic - True Random Encounter</name>
+			<npclist>
+				<id-00001>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00045@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Giant Owl</name>
+					<token type="token">tokens/giantowl.png@DD5E SRD Bestiary</token>
+				</id-00001>
+				<id-00002>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00219@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Scout</name>
+					<token type="token">tokens/scout.png@DD5E SRD Bestiary</token>
+				</id-00002>
+				<id-00003>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00159@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Ice Mephit</name>
+					<token type="token">tokens/I.png@DD5E SRD Bestiary</token>
+				</id-00003>
+				<id-00004>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00219@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Scout</name>
+					<token type="token">tokens/scout.png@DD5E SRD Bestiary</token>
+				</id-00004>
+				<id-00005>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00219@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Scout</name>
+					<token type="token">tokens/scout.png@DD5E SRD Bestiary</token>
+				</id-00005>
+			</npclist>
+		</id-00007>
+		<id-00008>
+			<cr type="string">2</cr>
+			<exp type="number">225</exp>
+			<name type="string">[RESULT] Arctic - True Random Encounter</name>
+			<npclist>
+				<id-00001>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00012@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Blood Hawk</name>
+					<token type="token">tokens/B.png@DD5E SRD Bestiary</token>
+				</id-00001>
+				<id-00002>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00206@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Bandit</name>
+					<token type="token">tokens/bandit.png@DD5E SRD Bestiary</token>
+				</id-00002>
+				<id-00003>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00206@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Bandit</name>
+					<token type="token">tokens/bandit.png@DD5E SRD Bestiary</token>
+				</id-00003>
+				<id-00004>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00238@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Kobold</name>
+					<token type="token">tokens/kobold.png@DD5E SRD Bestiary</token>
+				</id-00004>
+				<id-00005>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00012@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Blood Hawk</name>
+					<token type="token">tokens/B.png@DD5E SRD Bestiary</token>
+				</id-00005>
+				<id-00006>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00206@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Bandit</name>
+					<token type="token">tokens/bandit.png@DD5E SRD Bestiary</token>
+				</id-00006>
+				<id-00007>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00206@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Bandit</name>
+					<token type="token">tokens/bandit.png@DD5E SRD Bestiary</token>
+				</id-00007>
+				<id-00008>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00222@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Tribal Warrior</name>
+					<token type="token">tokens/tribalwarrior.png@DD5E SRD Bestiary</token>
+				</id-00008>
+				<id-00009>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00238@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Kobold</name>
+					<token type="token">tokens/kobold.png@DD5E SRD Bestiary</token>
+				</id-00009>
+			</npclist>
+		</id-00008>
+		<id-00009>
+			<public />
+			<cr type="string">2</cr>
+			<exp type="number">450</exp>
+			<name type="string">[RESULT] Hill - True Random Encounter</name>
+			<npclist>
+				<public />
+				<id-00001>
+					<public />
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00037@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<public />
+						<id-00001>
+							<public />
+							<imageref type="windowreference">
+								<class>imagewindow</class>
+								<recordname>image.id-00013.image</recordname>
+							</imageref>
+							<imagex type="number">1579</imagex>
+							<imagey type="number">105</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Giant Eagle</name>
+					<token type="token">tokens/gianteagle.png@DD5E SRD Bestiary</token>
+				</id-00001>
+				<id-00002>
+					<public />
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00021@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<public />
+						<id-00001>
+							<public />
+							<imageref type="windowreference">
+								<class>imagewindow</class>
+								<recordname>image.id-00013.image</recordname>
+							</imageref>
+							<imagex type="number">1563</imagex>
+							<imagey type="number">145</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Dire Wolf</name>
+					<token type="token">tokens/direwolf.png@DD5E SRD Bestiary</token>
+				</id-00002>
+				<id-00003>
+					<public />
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00045@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<public />
+						<id-00001>
+							<public />
+							<imageref type="windowreference">
+								<class>imagewindow</class>
+								<recordname>image.id-00013.image</recordname>
+							</imageref>
+							<imagex type="number">1507</imagex>
+							<imagey type="number">137</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Giant Owl</name>
+					<token type="token">tokens/giantowl.png@DD5E SRD Bestiary</token>
+				</id-00003>
+			</npclist>
+		</id-00009>
+		<id-00010>
+			<cr type="string">3</cr>
+			<exp type="number">700</exp>
+			<name type="string">[RESULT] Hill - True Random Encounter</name>
+			<npclist>
+				<id-00001>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00223@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Veteran</name>
+					<token type="token">tokens/veteran.png@DD5E SRD Bestiary</token>
+				</id-00001>
+			</npclist>
+		</id-00010>
+		<id-00011>
+			<cr type="string">3</cr>
+			<exp type="number">700</exp>
+			<name type="string">[RESULT] Hill - True Random Encounter</name>
+			<npclist>
+				<id-00001>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00037@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Giant Eagle</name>
+					<token type="token">tokens/gianteagle.png@DD5E SRD Bestiary</token>
+				</id-00001>
+				<id-00002>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00037@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Giant Eagle</name>
+					<token type="token">tokens/gianteagle.png@DD5E SRD Bestiary</token>
+				</id-00002>
+				<id-00003>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00063@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Lion</name>
+					<token type="token">tokens/lion.png@DD5E SRD Bestiary</token>
+				</id-00003>
+				<id-00004>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00226@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Gnoll</name>
+					<token type="token">tokens/G.png@DD5E SRD Bestiary</token>
+				</id-00004>
+			</npclist>
+		</id-00011>
+		<id-00012>
+			<cr type="string">4</cr>
+			<exp type="number">800</exp>
+			<name type="string">[RESULT] Hill - True Random Encounter</name>
+			<npclist>
+				<id-00001>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00021@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Dire Wolf</name>
+					<token type="token">tokens/direwolf.png@DD5E SRD Bestiary</token>
+				</id-00001>
+				<id-00002>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00021@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Dire Wolf</name>
+					<token type="token">tokens/direwolf.png@DD5E SRD Bestiary</token>
+				</id-00002>
+				<id-00003>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00037@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Giant Eagle</name>
+					<token type="token">tokens/gianteagle.png@DD5E SRD Bestiary</token>
+				</id-00003>
+				<id-00004>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00037@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Giant Eagle</name>
+					<token type="token">tokens/gianteagle.png@DD5E SRD Bestiary</token>
+				</id-00004>
+			</npclist>
+		</id-00012>
+		<id-00013>
+			<cr type="string">4</cr>
+			<exp type="number">900</exp>
+			<npclist>
+				<id-00001>
+					<count type="number">2</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00212@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+						<id-00002>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00002>
+					</maplink>
+					<name type="string">Druid</name>
+					<token type="token">tokens/druid.png@DD5E SRD Bestiary</token>
+				</id-00001>
+			</npclist>
+		</id-00013>
+		<id-00014>
+			<public />
+			<cr type="string">4</cr>
+			<exp type="number">1050</exp>
+			<name type="string">[RESULT] Cavern - True Random Encounter</name>
+			<npclist>
+				<public />
+				<id-00001>
+					<public />
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00212@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<public />
+						<id-00001>
+							<public />
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Druid</name>
+					<token type="token">tokens/druid.png@DD5E SRD Bestiary</token>
+				</id-00001>
+				<id-00002>
+					<public />
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00284@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<public />
+						<id-00001>
+							<public />
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Gray Ooze</name>
+					<token type="token">tokens/grayooze.png@DD5E SRD Bestiary</token>
+				</id-00002>
+				<id-00003>
+					<public />
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00241@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<public />
+						<id-00001>
+							<public />
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Orc</name>
+					<token type="token">tokens/orc.png@DD5E SRD Bestiary</token>
+				</id-00003>
+				<id-00004>
+					<public />
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00227@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<public />
+						<id-00001>
+							<public />
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Deep Gnome (Svirfneblin)</name>
+					<token type="token">tokens/D.png@DD5E SRD Bestiary</token>
+				</id-00004>
+				<id-00005>
+					<public />
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00274@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<public />
+						<id-00001>
+							<public />
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Rust Monster</name>
+					<token type="token">tokens/R.png@DD5E SRD Bestiary</token>
+				</id-00005>
+				<id-00006>
+					<public />
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00219@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<public />
+						<id-00001>
+							<public />
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Scout</name>
+					<token type="token">tokens/scout.png@DD5E SRD Bestiary</token>
+				</id-00006>
+				<id-00007>
+					<public />
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00230@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<public />
+						<id-00001>
+							<public />
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Hobgoblin</name>
+					<token type="token">tokens/H.png@DD5E SRD Bestiary</token>
+				</id-00007>
+			</npclist>
+		</id-00014>
+		<id-00015>
+			<cr type="string">2</cr>
+			<exp type="number">350</exp>
+			<name type="string">[RESULT] Cavern - True Random Encounter</name>
+			<npclist>
+				<id-00001>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00046@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Giant Poisonous Snake</name>
+					<token type="token">tokens/G.png@DD5E SRD Bestiary</token>
+				</id-00001>
+				<id-00002>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00229@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Goblin</name>
+					<token type="token">tokens/goblin.png@DD5E SRD Bestiary</token>
+				</id-00002>
+				<id-00003>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00229@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Goblin</name>
+					<token type="token">tokens/goblin.png@DD5E SRD Bestiary</token>
+				</id-00003>
+				<id-00004>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00231@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Grimlock</name>
+					<token type="token">tokens/G.png@DD5E SRD Bestiary</token>
+				</id-00004>
+				<id-00005>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00031@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Giant Bat</name>
+					<token type="token">tokens/G.png@DD5E SRD Bestiary</token>
+				</id-00005>
+				<id-00006>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00047@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Giant Rat</name>
+					<token type="token">tokens/giantrat.png@DD5E SRD Bestiary</token>
+				</id-00006>
+				<id-00007>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00238@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Kobold</name>
+					<token type="token">tokens/kobold.png@DD5E SRD Bestiary</token>
+				</id-00007>
+				<id-00008>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00047@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Giant Rat</name>
+					<token type="token">tokens/giantrat.png@DD5E SRD Bestiary</token>
+				</id-00008>
+				<id-00009>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00222@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Tribal Warrior</name>
+					<token type="token">tokens/tribalwarrior.png@DD5E SRD Bestiary</token>
+				</id-00009>
+			</npclist>
+		</id-00015>
+		<id-00016>
+			<cr type="string">4</cr>
+			<exp type="number">1050</exp>
+			<name type="string">[RESULT] Cavern - True Random Encounter</name>
+			<npclist>
+				<id-00001>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00004@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Gibbering Mouther</name>
+					<token type="token">tokens/G.png@DD5E SRD Bestiary</token>
+				</id-00001>
+				<id-00002>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00161@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Magma Mephit</name>
+					<token type="token">tokens/M.png@DD5E SRD Bestiary</token>
+				</id-00002>
+				<id-00003>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00227@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Deep Gnome (Svirfneblin)</name>
+					<token type="token">tokens/D.png@DD5E SRD Bestiary</token>
+				</id-00003>
+				<id-00004>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00230@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Hobgoblin</name>
+					<token type="token">tokens/H.png@DD5E SRD Bestiary</token>
+				</id-00004>
+				<id-00005>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00230@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Hobgoblin</name>
+					<token type="token">tokens/H.png@DD5E SRD Bestiary</token>
+				</id-00005>
+				<id-00006>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00161@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Magma Mephit</name>
+					<token type="token">tokens/M.png@DD5E SRD Bestiary</token>
+				</id-00006>
+				<id-00007>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00306@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Shadow</name>
+					<token type="token">tokens/S.png@DD5E SRD Bestiary</token>
+				</id-00007>
+			</npclist>
+		</id-00016>
+		<id-00017>
+			<cr type="string">4</cr>
+			<exp type="number">1050</exp>
+			<name type="string">[RESULT] Cavern - True Random Encounter</name>
+			<npclist>
+				<id-00001>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00052@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Giant Toad</name>
+					<token type="token">tokens/G.png@DD5E SRD Bestiary</token>
+				</id-00001>
+				<id-00002>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00228@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Bugbear</name>
+					<token type="token">tokens/B.png@DD5E SRD Bestiary</token>
+				</id-00002>
+				<id-00003>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00308@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Specter</name>
+					<token type="token">tokens/specter.png@DD5E SRD Bestiary</token>
+				</id-00003>
+				<id-00004>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00212@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Druid</name>
+					<token type="token">tokens/druid.png@DD5E SRD Bestiary</token>
+				</id-00004>
+			</npclist>
+		</id-00017>
+		<id-00018>
+			<cr type="string">3</cr>
+			<exp type="number">650</exp>
+			<name type="string">[RESULT] Cavern - True Random Encounter</name>
+			<npclist>
+				<id-00001>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00004@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Gibbering Mouther</name>
+					<token type="token">tokens/G.png@DD5E SRD Bestiary</token>
+				</id-00001>
+				<id-00003>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00251@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Darkmantle</name>
+					<token type="token">tokens/D.png@DD5E SRD Bestiary</token>
+				</id-00003>
+				<id-00004>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00251@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Darkmantle</name>
+					<token type="token">tokens/D.png@DD5E SRD Bestiary</token>
+				</id-00004>
+			</npclist>
+		</id-00018>
+	</battle>
 	<calendar>
 		<public />
 	</calendar>
@@ -279,36 +2044,36 @@
 		<public />
 		<list>
 			<public />
-			<id-00002>
+			<id-00001>
 				<public />
 				<abilities>
 					<public />
 					<charisma>
 						<public />
-						<score type="number">10</score>
+						<score type="number">12</score>
 					</charisma>
 					<constitution>
 						<public />
-						<score type="number">14</score>
+						<score type="number">12</score>
 					</constitution>
 					<dexterity>
 						<public />
-						<score type="number">14</score>
+						<score type="number">16</score>
 					</dexterity>
 					<intelligence>
 						<public />
-						<score type="number">12</score>
+						<score type="number">16</score>
 					</intelligence>
 					<strength>
 						<public />
-						<score type="number">10</score>
+						<score type="number">8</score>
 					</strength>
 					<wisdom>
 						<public />
-						<score type="number">16</score>
+						<score type="number">11</score>
 					</wisdom>
 				</abilities>
-				<ac type="number">14</ac>
+				<ac type="number">15</ac>
 				<actions>
 					<public />
 				</actions>
@@ -317,20 +2082,22 @@
 				<deathsavesuccess type="number">0</deathsavesuccess>
 				<effects>
 					<public />
-					<id-00002>
+					<id-00004>
 						<public />
-						<duration type="number">10</duration>
-						<init type="number">0</init>
+						<holder name="Silvereagle82" owner="true" />
+						<apply type="string">roll</apply>
+						<duration type="number">0</duration>
+						<init type="number">15</init>
 						<isactive type="number">1</isactive>
 						<isgmonly type="number">0</isgmonly>
-						<label type="string">Moonbeam (C)</label>
-					</id-00002>
+						<label type="string">DMG: 1d6 thunder</label>
+					</id-00004>
 				</effects>
 				<friendfoe type="string">friend</friendfoe>
 				<hptemp type="number">0</hptemp>
-				<hptotal type="number">24</hptotal>
-				<init type="number">2</init>
-				<initresult type="number">0</initresult>
+				<hptotal type="number">21</hptotal>
+				<init type="number">3</init>
+				<initresult type="number">15</initresult>
 				<innatespells>
 					<public />
 				</innatespells>
@@ -344,7 +2111,89 @@
 					<class>npc</class>
 					<recordname></recordname>
 				</link>
-				<name type="string">Sol'eran</name>
+				<name type="string">Zinbi the Tinkier</name>
+				<reach type="number">5</reach>
+				<reaction type="number">0</reaction>
+				<reactions>
+					<public />
+				</reactions>
+				<space type="number">5</space>
+				<speed type="string">25</speed>
+				<spells>
+					<public />
+				</spells>
+				<status type="string">Healthy</status>
+				<targets>
+					<public />
+				</targets>
+				<token type="token">portrait_id-00005_token</token>
+				<tokenrefid type="string">2</tokenrefid>
+				<tokenrefnode type="string">image.id-00014.image</tokenrefnode>
+				<tokenscale type="number">1</tokenscale>
+				<tokenvis type="number">1</tokenvis>
+				<traits>
+					<public />
+				</traits>
+				<wounds type="number">0</wounds>
+			</id-00001>
+			<id-00002>
+				<public />
+				<abilities>
+					<public />
+					<charisma>
+						<public />
+						<score type="number">16</score>
+					</charisma>
+					<constitution>
+						<public />
+						<score type="number">12</score>
+					</constitution>
+					<dexterity>
+						<public />
+						<score type="number">12</score>
+					</dexterity>
+					<intelligence>
+						<public />
+						<score type="number">12</score>
+					</intelligence>
+					<strength>
+						<public />
+						<score type="number">8</score>
+					</strength>
+					<wisdom>
+						<public />
+						<score type="number">14</score>
+					</wisdom>
+				</abilities>
+				<ac type="number">14</ac>
+				<actions>
+					<public />
+				</actions>
+				<active type="number">0</active>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<effects>
+					<public />
+				</effects>
+				<friendfoe type="string">friend</friendfoe>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">21</hptotal>
+				<init type="number">1</init>
+				<initresult type="number">5</initresult>
+				<innatespells>
+					<public />
+				</innatespells>
+				<lairactions>
+					<public />
+				</lairactions>
+				<legendaryactions>
+					<public />
+				</legendaryactions>
+				<link type="windowreference">
+					<class>npc</class>
+					<recordname></recordname>
+				</link>
+				<name type="string">Debria</name>
 				<reach type="number">5</reach>
 				<reaction type="number">0</reaction>
 				<reactions>
@@ -355,50 +2204,139 @@
 				<spells>
 					<public />
 				</spells>
-				<status type="string">Healthy</status>
+				<status type="string">Heavy</status>
 				<targets>
 					<public />
-					<id-00001>
-						<public />
-						<noderef type="string">combattracker.list.id-00003</noderef>
-					</id-00001>
 				</targets>
-				<token type="token">portrait_id-00001_token</token>
+				<token type="token">portrait_id-00006_token</token>
+				<tokenrefid type="string">3</tokenrefid>
+				<tokenrefnode type="string">image.id-00014.image</tokenrefnode>
 				<tokenscale type="number">1</tokenscale>
-				<tokenvis type="number">0</tokenvis>
+				<tokenvis type="number">1</tokenvis>
 				<traits>
 					<public />
 				</traits>
-				<wounds type="number">0</wounds>
+				<wounds type="number">12</wounds>
 			</id-00002>
-			<id-00003>
+			<id-00004>
 				<public />
 				<abilities>
 					<public />
 					<charisma>
 						<public />
-						<bonus type="number">-1</bonus>
 						<score type="number">8</score>
 					</charisma>
 					<constitution>
 						<public />
-						<bonus type="number">1</bonus>
+						<score type="number">15</score>
+					</constitution>
+					<dexterity>
+						<public />
 						<score type="number">13</score>
+					</dexterity>
+					<intelligence>
+						<public />
+						<score type="number">12</score>
+					</intelligence>
+					<strength>
+						<public />
+						<score type="number">17</score>
+					</strength>
+					<wisdom>
+						<public />
+						<score type="number">10</score>
+					</wisdom>
+				</abilities>
+				<ac type="number">13</ac>
+				<actions>
+					<public />
+				</actions>
+				<active type="number">0</active>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<effects>
+					<public />
+					<id-00004>
+						<public />
+						<holder name="Brokenbikez" owner="true" />
+						<duration type="number">10</duration>
+						<init type="number">6</init>
+						<isactive type="number">1</isactive>
+						<isgmonly type="number">0</isgmonly>
+						<label type="string">Rage; ADVCHK: strength; ADVSAV: strength; DMG: 2 melee; RESIST: bludgeoning,slashing,piercing</label>
+					</id-00004>
+				</effects>
+				<friendfoe type="string">friend</friendfoe>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">32</hptotal>
+				<init type="number">1</init>
+				<initresult type="number">6</initresult>
+				<innatespells>
+					<public />
+				</innatespells>
+				<lairactions>
+					<public />
+				</lairactions>
+				<legendaryactions>
+					<public />
+				</legendaryactions>
+				<link type="windowreference">
+					<class>npc</class>
+					<recordname></recordname>
+				</link>
+				<name type="string">Ugh AxFace</name>
+				<reach type="number">5</reach>
+				<reaction type="number">0</reaction>
+				<reactions>
+					<public />
+				</reactions>
+				<space type="number">5</space>
+				<speed type="string">30</speed>
+				<spells>
+					<public />
+				</spells>
+				<status type="string">Wounded</status>
+				<targets>
+					<public />
+				</targets>
+				<token type="token">portrait_id-00008_token</token>
+				<tokenrefid type="string">1</tokenrefid>
+				<tokenrefnode type="string">image.id-00014.image</tokenrefnode>
+				<tokenscale type="number">1</tokenscale>
+				<tokenvis type="number">1</tokenvis>
+				<traits>
+					<public />
+				</traits>
+				<wounds type="number">6</wounds>
+			</id-00004>
+			<id-00010>
+				<public />
+				<abilities>
+					<public />
+					<charisma>
+						<public />
+						<bonus type="number">-2</bonus>
+						<score type="number">6</score>
+					</charisma>
+					<constitution>
+						<public />
+						<bonus type="number">-1</bonus>
+						<score type="number">8</score>
 					</constitution>
 					<dexterity>
 						<public />
 						<bonus type="number">2</bonus>
-						<score type="number">15</score>
+						<score type="number">14</score>
 					</dexterity>
 					<intelligence>
 						<public />
-						<bonus type="number">-3</bonus>
-						<score type="number">3</score>
+						<bonus type="number">-4</bonus>
+						<score type="number">2</score>
 					</intelligence>
 					<strength>
 						<public />
-						<bonus type="number">3</bonus>
-						<score type="number">17</score>
+						<bonus type="number">-4</bonus>
+						<score type="number">2</score>
 					</strength>
 					<wisdom>
 						<public />
@@ -411,32 +2349,26 @@
 					<public />
 					<id-00001>
 						<public />
-						<desc type="string">Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.</desc>
-						<name type="string">Bite</name>
-						<value type="string">Bite [M] [ATK: +5] [DMG: 1d8+3 piercing]</value>
+						<desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 piercing damage.</desc>
+						<name type="string">Beak</name>
+						<value type="string">Beak [M] [ATK: +4] [DMG: 1 piercing]</value>
 					</id-00001>
-					<id-00002>
-						<public />
-						<desc type="string">Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.</desc>
-						<name type="string">Claw</name>
-						<value type="string">Claw [M] [ATK: +5] [DMG: 1d6+3 slashing]</value>
-					</id-00002>
 				</actions>
-				<active type="number">0</active>
+				<active type="number">1</active>
 				<alignment type="string">unaligned</alignment>
-				<cr type="string">1</cr>
-				<deathsavefail type="number">1</deathsavefail>
+				<cr type="string">0</cr>
+				<deathsavefail type="number">0</deathsavefail>
 				<deathsavesuccess type="number">0</deathsavesuccess>
 				<effects>
 					<public />
 				</effects>
-				<friendfoe type="string">foe</friendfoe>
-				<hd type="string">(4d10 + 4)</hd>
-				<hp type="number">26</hp>
+				<friendfoe type="string">friend</friendfoe>
+				<hd type="string">(1d4 - 1)</hd>
+				<hp type="number">1</hp>
 				<hptemp type="number">0</hptemp>
-				<hptotal type="number">26</hptotal>
+				<hptotal type="number">2</hptotal>
 				<init type="number">2</init>
-				<initresult type="number">10</initresult>
+				<initresult type="number">11</initresult>
 				<innatespells>
 					<public />
 				</innatespells>
@@ -452,57 +2384,441 @@
 					<recordname></recordname>
 				</link>
 				<locked type="number">1</locked>
-				<name type="string">Lion</name>
+				<name type="string">Raven</name>
 				<reach type="number">5</reach>
 				<reaction type="number">0</reaction>
 				<reactions>
 					<public />
 				</reactions>
 				<senses type="string">passive Perception 13</senses>
-				<size type="string">Large</size>
-				<skills type="string">Perception +3, Stealth +6</skills>
-				<space type="number">10</space>
-				<speed type="string">50 ft.</speed>
+				<size type="string">Tiny</size>
+				<skills type="string">Perception +3</skills>
+				<space type="number">5</space>
+				<speed type="string">10 ft., fly 50 ft.</speed>
 				<spells>
 					<public />
 				</spells>
-				<status type="string">Heavy</status>
-				<token type="token">tokens/L.png@DD PHB Deluxe</token>
-				<tokenscale type="number">1</tokenscale>
+				<status type="string">Healthy</status>
+				<text type="formattedtext">
+					<p></p>
+				</text>
+				<token type="token">tokens/raven.png@DD5E SRD Bestiary</token>
+				<tokenrefid type="string">4</tokenrefid>
+				<tokenrefnode type="string">image.id-00014.image</tokenrefnode>
+				<tokenscale type="number">0.58125</tokenscale>
 				<tokenvis type="number">1</tokenvis>
 				<traits>
 					<public />
 					<id-00001>
 						<public />
-						<desc type="string">The lion has advantage on Wisdom (Perception) checks that rely on smell.</desc>
-						<name type="string">Keen Smell</name>
-						<value type="string">Keen smell</value>
+						<desc type="string">The raven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.</desc>
+						<name type="string">Mimicry</name>
+						<value type="string">Mimicry</value>
+					</id-00001>
+				</traits>
+				<type type="string">beast</type>
+				<wounds type="number">0</wounds>
+				<xp type="number">10</xp>
+			</id-00010>
+			<id-00011>
+				<public />
+				<abilities>
+					<public />
+					<charisma>
+						<public />
+						<bonus type="number">-2</bonus>
+						<score type="number">6</score>
+					</charisma>
+					<constitution>
+						<public />
+						<bonus type="number">3</bonus>
+						<score type="number">16</score>
+					</constitution>
+					<dexterity>
+						<public />
+						<bonus type="number">-1</bonus>
+						<score type="number">8</score>
+					</dexterity>
+					<intelligence>
+						<public />
+						<bonus type="number">-4</bonus>
+						<score type="number">3</score>
+					</intelligence>
+					<strength>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">10</score>
+					</strength>
+					<wisdom>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">10</score>
+					</wisdom>
+				</abilities>
+				<ac type="number">9</ac>
+				<actions>
+					<public />
+					<id-00001>
+						<public />
+						<desc type="string">The gibbering mouther makes one bite attack and, if it can, uses its Blinding Spittle.</desc>
+						<name type="string">Multiattack</name>
+						<value type="string">Multiattack</value>
 					</id-00001>
 					<id-00002>
 						<public />
-						<desc type="string">The lion has advantage on attack rolls against a creature if at least one of the lion's allies is within 5 feet of the creature and isn't incapacitated.</desc>
-						<name type="string">Pack Tactics</name>
-						<value type="string">Pack tactics</value>
+						<desc type="string">Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 17 (5d6) piercing damage. If the target is Medium or smaller, it must succeed on a DC 10 Strength saving throw or be knocked prone. If the target is killed by this damage, it is absorbed into the mouther.</desc>
+						<name type="string">Bites</name>
+						<value type="string">Bites [M] [ATK: +2] [DMG: 5d6 piercing] [SAVEVS: strength 10] [EFF: Prone]</value>
 					</id-00002>
 					<id-00003>
 						<public />
-						<desc type="string">If the lion moves at least 20 feet straight toward a target right before hitting it with a claw attack, the target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the lion can take a bonus action to make one bite attack against it.</desc>
-						<name type="string">Pounce</name>
-						<value type="string">Pounce [SAVEVS: strength 13] [EFF: Prone]</value>
+						<desc type="string">The mouther spits a chemical glob at a point it can see within 15 feet of it. The glob explodes in a blinding flash of light on impact. Each creature within 5 feet of the flash must succeed on a DC 13 Dexterity saving throw or be blinded until the end of the mouther's next turn.</desc>
+						<name type="string">Blinding Spittle (Recharge 5-6)</name>
+						<value type="string">Blinding spittle [SAVEVS: dexterity 13] [EFF: Blinded] [R:5]</value>
 					</id-00003>
-					<id-00004>
+				</actions>
+				<active type="number">0</active>
+				<alignment type="string">neutral</alignment>
+				<conditionimmunities type="string">prone</conditionimmunities>
+				<cr type="string">2</cr>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<effects>
+					<public />
+					<id-00001>
 						<public />
-						<desc type="string">As part of its movement and after a 10-foot running start, the lion can long jump up to 25 feet.</desc>
-						<name type="string">Running Leap</name>
-						<value type="string">Running leap</value>
-					</id-00004>
+						<duration type="number">0</duration>
+						<init type="number">0</init>
+						<isactive type="number">1</isactive>
+						<isgmonly type="number">1</isgmonly>
+						<label type="string">IMMUNE: prone</label>
+					</id-00001>
+				</effects>
+				<friendfoe type="string">foe</friendfoe>
+				<hd type="string">(9d8 + 27)</hd>
+				<hp type="number">67</hp>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">61</hptotal>
+				<init type="number">-1</init>
+				<initresult type="number">16</initresult>
+				<innatespells>
+					<public />
+				</innatespells>
+				<lairactions>
+					<public />
+				</lairactions>
+				<languages type="string">-</languages>
+				<legendaryactions>
+					<public />
+				</legendaryactions>
+				<link type="windowreference">
+					<class>npc</class>
+					<recordname></recordname>
+				</link>
+				<locked type="number">1</locked>
+				<name type="string">Gibbering Mouther</name>
+				<reach type="number">5</reach>
+				<reaction type="number">0</reaction>
+				<reactions>
+					<public />
+				</reactions>
+				<senses type="string">darkvision 60 ft., passive Perception 10</senses>
+				<size type="string">Medium</size>
+				<space type="number">5</space>
+				<speed type="string">10 ft., swim 10 ft.</speed>
+				<spells>
+					<public />
+				</spells>
+				<status type="string">Healthy</status>
+				<text type="formattedtext">
+					<p></p>
+				</text>
+				<token type="token">tokens/G.png@DD5E SRD Bestiary</token>
+				<tokenrefid type="string">7</tokenrefid>
+				<tokenrefnode type="string">image.id-00014.image</tokenrefnode>
+				<tokenscale type="number">1</tokenscale>
+				<tokenvis type="number">0</tokenvis>
+				<traits>
+					<public />
+					<id-00001>
+						<public />
+						<desc type="string">The ground in a 10-foot radius around the mouther is doughlike difficult terrain. Each creature that starts its turn in that area must succeed on a DC 10 Strength saving throw or have its speed reduced to 0 until the start of its next turn.</desc>
+						<name type="string">Aberrant Ground</name>
+						<value type="string">Aberrant ground [SAVEVS: strength 10]</value>
+					</id-00001>
+					<id-00002>
+						<public />
+						<desc type="string">The mouther babbles incoherently while it can see any creature and isn't incapacitated. Each creature that starts its turn within 20 feet of the mouther and can hear the gibbering must succeed on a DC 10 Wisdom saving throw. On a failure, the creature can't take reactions until the start of its next turn and rolls a d8 to determine what it does during its turn. On a 1 to 4, the creature does nothing. On a 5 or 6, the creature takes no action or bonus action and uses all its movement to move in a randomly determined direction. On a 7 or 8, the creature makes a melee attack against a randomly determined creature within its reach or does nothing if it can't make such an attack.</desc>
+						<name type="string">Gibbering</name>
+						<value type="string">Gibbering [SAVEVS: wisdom 10]</value>
+					</id-00002>
 				</traits>
-				<type type="string">beast</type>
-				<wounds type="number">18</wounds>
-				<xp type="number">200</xp>
-			</id-00003>
+				<type type="string">aberration</type>
+				<wounds type="number">0</wounds>
+				<xp type="number">450</xp>
+			</id-00011>
+			<id-00012>
+				<public />
+				<abilities>
+					<public />
+					<charisma>
+						<public />
+						<bonus type="number">-3</bonus>
+						<score type="number">5</score>
+					</charisma>
+					<constitution>
+						<public />
+						<bonus type="number">1</bonus>
+						<score type="number">13</score>
+					</constitution>
+					<dexterity>
+						<public />
+						<bonus type="number">1</bonus>
+						<score type="number">12</score>
+					</dexterity>
+					<intelligence>
+						<public />
+						<bonus type="number">-4</bonus>
+						<score type="number">2</score>
+					</intelligence>
+					<strength>
+						<public />
+						<bonus type="number">3</bonus>
+						<score type="number">16</score>
+					</strength>
+					<wisdom>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">10</score>
+					</wisdom>
+				</abilities>
+				<ac type="number">11</ac>
+				<actions>
+					<public />
+					<id-00001>
+						<public />
+						<desc type="string">Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d6 + 3) bludgeoning damage, and the darkmantle attaches to the target. If the target is Medium or smaller and the darkmantle has advantage on the attack roll, it attaches by engulfing the target's head, and the target is also blinded and unable to breathe while the darkmantle is attached in this way.\nWhile attached to the target, the darkmantle can attack no other creature except the target but has advantage on its attack rolls. The darkmantle's speed also becomes 0, it can't benefit from any bonus to its speed, and it moves with the target.\nA creature can detach the darkmantle by making a successful DC 13 Strength check as an action. On its turn, the darkmantle can detach itself from the target by using 5 feet of movement.</desc>
+						<name type="string">Crush</name>
+						<value type="string">Crush [M] [ATK: +5] [DMG: 1d6+3 bludgeoning] [EFF: Blinded]</value>
+					</id-00001>
+					<id-00002>
+						<public />
+						<desc type="string">A 15-foot radius of magical darkness extends out from the darkmantle, moves with it, and spreads around corners. The darkness lasts as long as the darkmantle maintains concentration, up to 10 minutes (as if concentrating on a spell). Darkvision can't penetrate this darkness, and no natural light can illuminate it. If any of the darkness overlaps with an area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled.</desc>
+						<name type="string">Darkness Aura (1/Day)</name>
+						<value type="string">Darkness aura (1/day)</value>
+					</id-00002>
+				</actions>
+				<active type="number">0</active>
+				<alignment type="string">unaligned</alignment>
+				<cr type="string">1/2</cr>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<effects>
+					<public />
+				</effects>
+				<friendfoe type="string">foe</friendfoe>
+				<hd type="string">(5d6 + 5)</hd>
+				<hp type="number">22</hp>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">22</hptotal>
+				<init type="number">1</init>
+				<initresult type="number">15</initresult>
+				<innatespells>
+					<public />
+				</innatespells>
+				<lairactions>
+					<public />
+				</lairactions>
+				<languages type="string">-</languages>
+				<legendaryactions>
+					<public />
+				</legendaryactions>
+				<link type="windowreference">
+					<class>npc</class>
+					<recordname></recordname>
+				</link>
+				<locked type="number">1</locked>
+				<name type="string">Darkmantle 10</name>
+				<reach type="number">5</reach>
+				<reaction type="number">0</reaction>
+				<reactions>
+					<public />
+				</reactions>
+				<senses type="string">blindsight 60 ft., passive Perception 10</senses>
+				<size type="string">Small</size>
+				<skills type="string">Stealth +3</skills>
+				<space type="number">5</space>
+				<speed type="string">10 ft., fly 30 ft.</speed>
+				<spells>
+					<public />
+				</spells>
+				<status type="string">Healthy</status>
+				<targets>
+					<public />
+					<id-00001>
+						<public />
+						<noderef type="string">combattracker.list.id-00004</noderef>
+					</id-00001>
+				</targets>
+				<text type="formattedtext">
+					<p></p>
+				</text>
+				<token type="token">tokens/D.png@DD5E SRD Bestiary</token>
+				<tokenrefid type="string">5</tokenrefid>
+				<tokenrefnode type="string">image.id-00014.image</tokenrefnode>
+				<tokenscale type="number">1</tokenscale>
+				<tokenvis type="number">0</tokenvis>
+				<traits>
+					<public />
+					<id-00001>
+						<public />
+						<desc type="string">The darkmantle can't use its blindsight while deafened.</desc>
+						<name type="string">Echolocation</name>
+						<value type="string">Echolocation</value>
+					</id-00001>
+					<id-00002>
+						<public />
+						<desc type="string">While the darkmantle remains motionless, it is indistinguishable from a cave formation such as a stalactite or stalagmite.</desc>
+						<name type="string">False Appearance</name>
+						<value type="string">False appearance</value>
+					</id-00002>
+				</traits>
+				<type type="string">monstrosity</type>
+				<wounds type="number">0</wounds>
+				<xp type="number">100</xp>
+			</id-00012>
+			<id-00013>
+				<public />
+				<abilities>
+					<public />
+					<charisma>
+						<public />
+						<bonus type="number">-3</bonus>
+						<score type="number">5</score>
+					</charisma>
+					<constitution>
+						<public />
+						<bonus type="number">1</bonus>
+						<score type="number">13</score>
+					</constitution>
+					<dexterity>
+						<public />
+						<bonus type="number">1</bonus>
+						<score type="number">12</score>
+					</dexterity>
+					<intelligence>
+						<public />
+						<bonus type="number">-4</bonus>
+						<score type="number">2</score>
+					</intelligence>
+					<strength>
+						<public />
+						<bonus type="number">3</bonus>
+						<score type="number">16</score>
+					</strength>
+					<wisdom>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">10</score>
+					</wisdom>
+				</abilities>
+				<ac type="number">11</ac>
+				<actions>
+					<public />
+					<id-00001>
+						<public />
+						<desc type="string">Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 6 (1d6 + 3) bludgeoning damage, and the darkmantle attaches to the target. If the target is Medium or smaller and the darkmantle has advantage on the attack roll, it attaches by engulfing the target's head, and the target is also blinded and unable to breathe while the darkmantle is attached in this way.\nWhile attached to the target, the darkmantle can attack no other creature except the target but has advantage on its attack rolls. The darkmantle's speed also becomes 0, it can't benefit from any bonus to its speed, and it moves with the target.\nA creature can detach the darkmantle by making a successful DC 13 Strength check as an action. On its turn, the darkmantle can detach itself from the target by using 5 feet of movement.</desc>
+						<name type="string">Crush</name>
+						<value type="string">Crush [M] [ATK: +5] [DMG: 1d6+3 bludgeoning] [EFF: Blinded]</value>
+					</id-00001>
+					<id-00002>
+						<public />
+						<desc type="string">A 15-foot radius of magical darkness extends out from the darkmantle, moves with it, and spreads around corners. The darkness lasts as long as the darkmantle maintains concentration, up to 10 minutes (as if concentrating on a spell). Darkvision can't penetrate this darkness, and no natural light can illuminate it. If any of the darkness overlaps with an area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled.</desc>
+						<name type="string">Darkness Aura (1/Day)</name>
+						<value type="string">Darkness aura (1/day)</value>
+					</id-00002>
+				</actions>
+				<active type="number">0</active>
+				<alignment type="string">unaligned</alignment>
+				<cr type="string">1/2</cr>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<effects>
+					<public />
+				</effects>
+				<friendfoe type="string">foe</friendfoe>
+				<hd type="string">(5d6 + 5)</hd>
+				<hp type="number">22</hp>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">28</hptotal>
+				<init type="number">1</init>
+				<initresult type="number">15</initresult>
+				<innatespells>
+					<public />
+				</innatespells>
+				<lairactions>
+					<public />
+				</lairactions>
+				<languages type="string">-</languages>
+				<legendaryactions>
+					<public />
+				</legendaryactions>
+				<link type="windowreference">
+					<class>npc</class>
+					<recordname></recordname>
+				</link>
+				<locked type="number">1</locked>
+				<name type="string">Darkmantle 3</name>
+				<reach type="number">5</reach>
+				<reaction type="number">0</reaction>
+				<reactions>
+					<public />
+				</reactions>
+				<senses type="string">blindsight 60 ft., passive Perception 10</senses>
+				<size type="string">Small</size>
+				<skills type="string">Stealth +3</skills>
+				<space type="number">5</space>
+				<speed type="string">10 ft., fly 30 ft.</speed>
+				<spells>
+					<public />
+				</spells>
+				<status type="string">Healthy</status>
+				<targets>
+					<public />
+					<id-00001>
+						<public />
+						<noderef type="string">combattracker.list.id-00002</noderef>
+					</id-00001>
+				</targets>
+				<text type="formattedtext">
+					<p></p>
+				</text>
+				<token type="token">tokens/D.png@DD5E SRD Bestiary</token>
+				<tokenrefid type="string">6</tokenrefid>
+				<tokenrefnode type="string">image.id-00014.image</tokenrefnode>
+				<tokenscale type="number">1</tokenscale>
+				<tokenvis type="number">0</tokenvis>
+				<traits>
+					<public />
+					<id-00001>
+						<public />
+						<desc type="string">The darkmantle can't use its blindsight while deafened.</desc>
+						<name type="string">Echolocation</name>
+						<value type="string">Echolocation</value>
+					</id-00001>
+					<id-00002>
+						<public />
+						<desc type="string">While the darkmantle remains motionless, it is indistinguishable from a cave formation such as a stalactite or stalagmite.</desc>
+						<name type="string">False Appearance</name>
+						<value type="string">False appearance</value>
+					</id-00002>
+				</traits>
+				<type type="string">monstrosity</type>
+				<wounds type="number">0</wounds>
+				<xp type="number">100</xp>
+			</id-00013>
 		</list>
-		<round type="number">0</round>
+		<round type="number">2</round>
 	</combattracker>
 	<effects>
 		<public />
@@ -720,6 +3036,83 @@
 				</linklist>
 			</text>
 		</id-00013>
+		<category name="WestMarches - 0,1" baseicon="0" decalicon="0">
+			<id-00015>
+				<name type="string">dirt</name>
+				<text type="formattedtext">
+					<p>Hilly area.</p>
+				</text>
+			</id-00015>
+			<id-00016>
+				<name type="string">Cave Entrance</name>
+				<text type="formattedtext">
+					<h>Description</h>
+					<frame>You notice a dip in the ground and as you come to the edge you see that there is a short cliff with a cave entrance at the bottom of it.;</frame>
+					<linklist>
+						<link class="item" recordname="item.id-00264@ProNobis-WorldCreation">Dragonchess Set</link>
+					</linklist>
+					<frame>; The entire area feels warmer than you would expect.; You notice some scat. The odd thing is that it seems to be made of stones...; There are large piles of predetor bones in various states of decay.; A smooth narrow tunnel melted through stone coming from deep below.</frame>
+					<linklist>
+						<link class="storytemplate" recordname="storytemplate.id-00187@ProNobis-WorldCreation">Zalia</link>
+					</linklist>
+					<frame>Forshadowing - Zalia</frame>
+					<h>Possible Next Elements</h>
+					<linklist>
+						<link class="storytemplate" recordname="storytemplate.id-00134@ProNobis-WorldCreation">Cave Chamber</link>
+						<link class="storytemplate" recordname="storytemplate.id-00149@ProNobis-WorldCreation">Cave Hallway</link>
+						<link class="storytemplate" recordname="storytemplate.id-00137@ProNobis-WorldCreation">Cave Boss Chamber</link>
+						<link class="storytemplate" recordname="storytemplate.id-00145@ProNobis-WorldCreation">Cave Treasure Chamber</link>
+						<link class="table" recordname="tables.id-01667@ProNobis-WorldCreation">Random - Dungeon - Cave - Element</link>
+					</linklist>
+				</text>
+			</id-00016>
+			<id-00017>
+				<name type="string">Cave Hallway</name>
+				<text type="formattedtext">
+					<h>Description</h>
+					<frame>The hallway is 19 ft. wide and 10 ft. tall. It goes forward forward 13 ft. before reaching branches leaving to the left and right. The area is filled with glowing moss giving off dim light. The walls are made of polished slate. The air is slowly falling tingling your nose with a damp smell. As you listen carefully you hear the crackling of a fire in front of you.</frame>
+					<h>Possible Next Elements</h>
+					<linklist>
+						<link class="storytemplate" recordname="storytemplate.id-00134@ProNobis-WorldCreation">Cave Chamber</link>
+						<link class="storytemplate" recordname="..@ProNobis-WorldCreation">Cave Hallway</link>
+						<link class="storytemplate" recordname="storytemplate.id-00126@ProNobis-WorldCreation">Cave Entrance</link>
+						<link class="storytemplate" recordname="storytemplate.id-00137@ProNobis-WorldCreation">Cave Boss Chamber</link>
+						<link class="storytemplate" recordname="storytemplate.id-00145@ProNobis-WorldCreation">Cave Treasure Chamber</link>
+						<link class="table" recordname="tables.id-01667@ProNobis-WorldCreation">Random - Dungeon - Cave - Element</link>
+					</linklist>
+				</text>
+			</id-00017>
+			<id-00018>
+				<name type="string">Cave Chamber</name>
+				<text type="formattedtext">
+					<h>Description</h>
+					<frame>You walk into a chamber that is 34 ft. by 35 ft. with a ceiling 6 ft. high. The area is filled with glow worms giving off dim light. The walls are made of bumpy limestone. The air is slowly falling tingling your nose with a damp smell. As you listen carefully you hear meniachal laughter in front of you.</frame>
+					<h>Difficulty</h>
+					<p>Trap: The trap in this room is triggered by a tripwire causing doors lock and room starts to flood which has the following characteristics:</p>
+					<p>Setback; Save: 11; Attack: +5; 1d10 (1-4), 2d10 (5-10), 4d10 (11-16), 10d10 (17-20)</p>
+					<p>Possible Encoutner:</p>
+					<linklist>
+						<link class="battle" recordname="battle.G2800007@ProNobis - Random Encounter">G28-06 Encounter</link>
+					</linklist>
+					<h>Useful Items</h>
+					<linklist>
+						<link class="item" recordname="item.id-00004@ProNobis-WorldCreation">Blowgun Needle</link>
+						<link class="item" recordname="item.id-00227@ProNobis-WorldCreation">Dagger</link>
+						<link class="item" recordname="item.id-00237@ProNobis-WorldCreation">Dart</link>
+						<link class="item" recordname="item.id-00264@ProNobis-WorldCreation">Dragonchess Set</link>
+					</linklist>
+					<h>Possible Next Elements</h>
+					<linklist>
+						<link class="storytemplate" recordname="storytemplate.id-00149@ProNobis-WorldCreation">Cave Hallway</link>
+						<link class="storytemplate" recordname="..@ProNobis-WorldCreation">Cave Chamber</link>
+						<link class="storytemplate" recordname="storytemplate.id-00126@ProNobis-WorldCreation">Cave Entrance</link>
+						<link class="storytemplate" recordname="storytemplate.id-00137@ProNobis-WorldCreation">Cave Boss Chamber</link>
+						<link class="storytemplate" recordname="storytemplate.id-00145@ProNobis-WorldCreation">Cave Treasure Chamber</link>
+						<link class="table" recordname="tables.id-01667@ProNobis-WorldCreation">Random - Dungeon - Cave - Element</link>
+					</linklist>
+				</text>
+			</id-00018>
+		</category>
 	</encounter>
 	<export>
 		<author type="string">Fantasy Grounds College</author>
@@ -734,6 +3127,14 @@
 		<id-00001>
 			<image type="image">
 				<bitmap>images/Region_-1,-1.jpg</bitmap>
+				<shortcuts>
+					<shortcut>
+						<x>477</x>
+						<y>31</y>
+						<class>imagewindow</class>
+						<recordname>image.id-00013</recordname>
+					</shortcut>
+				</shortcuts>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">Region_-1,-1</name>
@@ -919,18 +3320,204 @@
 			<name type="string">World</name>
 		</id-00012>
 		<id-00013>
+			<public />
 			<image type="image">
 				<bitmap>images/dirt.png</bitmap>
+				<drawing>drawings/drawing_1507858933.png</drawing>
+				<gridsize>16</gridsize>
+				<gridoffset>2,0</gridoffset>
+				<gridsnap>on</gridsnap>
+				<shortcuts>
+					<shortcut>
+						<public />
+						<x>1462</x>
+						<y>205</y>
+						<class>imagewindow</class>
+						<recordname>image.id-00014</recordname>
+					</shortcut>
+				</shortcuts>
+				<tokens>
+					<idcounter>14</idcounter>
+					<scalelock>7.8125</scalelock>
+				</tokens>
+				<pointers>
+					<pointer>
+						<id>1</id>
+						<type>1</type>
+						<startx>1307</startx>
+						<starty>81</starty>
+						<endx>1483</endx>
+						<endy>137</endy>
+						<owner></owner>
+						<color>ffffff</color>
+					</pointer>
+					<pointer>
+						<id>2</id>
+						<type>2</type>
+						<startx>1491</startx>
+						<starty>137</starty>
+						<endx>1475</endx>
+						<endy>225</endy>
+						<owner></owner>
+						<color>ffffff</color>
+					</pointer>
+				</pointers>
 			</image>
 			<isidentified type="number">0</isidentified>
 			<name type="string">dirt</name>
 		</id-00013>
 		<id-00014>
+			<public />
 			<image type="image">
 				<bitmap>images/dirt1.png</bitmap>
+				<drawing>drawings/drawing_1507862518.png</drawing>
+				<gridsize>16</gridsize>
+				<gridoffset>5,1</gridoffset>
+				<gridsnap>on</gridsnap>
+				<shortcuts>
+					<shortcut>
+						<public />
+						<x>829</x>
+						<y>349</y>
+						<class>imagewindow</class>
+						<recordname>image.id-00013</recordname>
+					</shortcut>
+					<shortcut>
+						<x>810</x>
+						<y>357</y>
+						<class>encounter</class>
+						<recordname>encounter.id-00016</recordname>
+					</shortcut>
+					<shortcut>
+						<x>905</x>
+						<y>343</y>
+						<class>encounter</class>
+						<recordname>encounter.id-00017</recordname>
+					</shortcut>
+					<shortcut>
+						<x>959</x>
+						<y>227</y>
+						<class>encounter</class>
+						<recordname>encounter.id-00018</recordname>
+					</shortcut>
+					<shortcut>
+						<x>990</x>
+						<y>254</y>
+						<class>battle</class>
+						<recordname>battle.id-00018</recordname>
+					</shortcut>
+				</shortcuts>
+				<tokens>
+					<idcounter>7</idcounter>
+					<scalelock>7.8125</scalelock>
+					<token>
+						<prototype>tokens/G.png@DD5E SRD Bestiary</prototype>
+						<id>7</id>
+						<x>942</x>
+						<y>250</y>
+						<name>Gibbering Mouther</name>
+						<unmodifiable />
+						<visibilitylocked>off</visibilitylocked>
+					</token>
+					<token>
+						<prototype>tokens/D.png@DD5E SRD Bestiary</prototype>
+						<id>5</id>
+						<x>958</x>
+						<y>282</y>
+						<name>Darkmantle 10</name>
+						<unmodifiable />
+						<visibilitylocked>off</visibilitylocked>
+						<targets>1</targets>
+					</token>
+					<token>
+						<prototype>tokens/D.png@DD5E SRD Bestiary</prototype>
+						<id>6</id>
+						<x>942</x>
+						<y>282</y>
+						<name>Darkmantle 3</name>
+						<unmodifiable />
+						<visibilitylocked>off</visibilitylocked>
+						<targets>3</targets>
+					</token>
+					<token>
+						<prototype>portrait_id-00006_token</prototype>
+						<id>3</id>
+						<x>846</x>
+						<y>338</y>
+						<name>Debria</name>
+						<visibilitylocked>on</visibilitylocked>
+					</token>
+					<token>
+						<prototype>tokens/raven.png@DD5E SRD Bestiary</prototype>
+						<id>4</id>
+						<x>838</x>
+						<y>330</y>
+						<scale>0.58125</scale>
+						<name>Raven</name>
+						<visibilitylocked>on</visibilitylocked>
+					</token>
+					<token>
+						<prototype>portrait_id-00005_token</prototype>
+						<id>2</id>
+						<x>814</x>
+						<y>346</y>
+						<name>Zinbi the Tinkier</name>
+						<visibilitylocked>on</visibilitylocked>
+					</token>
+					<token>
+						<prototype>portrait_id-00008_token</prototype>
+						<id>1</id>
+						<x>854</x>
+						<y>346</y>
+						<name>Ugh AxFace</name>
+						<visibilitylocked>on</visibilitylocked>
+					</token>
+				</tokens>
+				<pointers>
+					<pointer>
+						<id>1</id>
+						<type>2</type>
+						<startx>942</startx>
+						<starty>282</starty>
+						<endx>910</endx>
+						<endy>306</endy>
+						<owner></owner>
+						<color>ffffff</color>
+					</pointer>
+					<pointer>
+						<id>2</id>
+						<type>2</type>
+						<startx>950</startx>
+						<starty>290</starty>
+						<endx>982</endx>
+						<endy>314</endy>
+						<owner></owner>
+						<color>ffffff</color>
+					</pointer>
+					<pointer>
+						<id>3</id>
+						<type>2</type>
+						<startx>934</startx>
+						<starty>258</starty>
+						<endx>958</endx>
+						<endy>274</endy>
+						<owner></owner>
+						<color>ffffff</color>
+					</pointer>
+					<pointer>
+						<id>0</id>
+						<type>1</type>
+						<startx>950</startx>
+						<starty>322</starty>
+						<endx>966</endx>
+						<endy>178</endy>
+						<owner>id-00005</owner>
+						<color>ff000000</color>
+					</pointer>
+				</pointers>
 			</image>
 			<isidentified type="number">0</isidentified>
-			<name type="string">dirt1</name>
+			<name type="string">cave1</name>
 		</id-00014>
 		<id-00015>
 			<image type="image">
@@ -1076,24 +3663,28 @@
 			<image type="image">
 				<bitmap>images/grass6.png</bitmap>
 			</image>
+			<isidentified type="number">0</isidentified>
 			<name type="string">grass6</name>
 		</id-00035>
 		<id-00036>
 			<image type="image">
 				<bitmap>images/grass7.png</bitmap>
 			</image>
+			<isidentified type="number">0</isidentified>
 			<name type="string">grass7</name>
 		</id-00036>
 		<id-00037>
 			<image type="image">
 				<bitmap>images/grass8.png</bitmap>
 			</image>
+			<isidentified type="number">0</isidentified>
 			<name type="string">grass8</name>
 		</id-00037>
 		<id-00038>
 			<image type="image">
 				<bitmap>images/grass9.png</bitmap>
 			</image>
+			<isidentified type="number">0</isidentified>
 			<name type="string">grass9</name>
 		</id-00038>
 		<id-00039>
@@ -1612,10 +4203,36 @@
 	</npc>
 	<options>
 		<public />
+		<HRDD type="string">variant</HRDD>
+		<HRNH type="string">random</HRNH>
+		<NNPC type="string">random</NNPC>
+		<REVL type="string">on</REVL>
 		<TBOX type="string">on</TBOX>
 	</options>
 	<partysheet>
 		<public />
+		<bonus type="number">0</bonus>
+		<checkdc type="number">0</checkdc>
+		<checkselected type="string">Strength</checkselected>
+		<encounters>
+			<public />
+			<id-00001>
+				<public />
+				<exp type="number">45</exp>
+				<name type="string">Combat 1</name>
+				<xpawarded type="number">1</xpawarded>
+			</id-00001>
+		</encounters>
+		<hiderollresults type="number">0</hiderollresults>
+		<partyinformation>
+			<public />
+		</partyinformation>
+		<quests>
+			<public />
+		</quests>
+		<savedc type="number">0</savedc>
+		<saveselected type="string">Strength</saveselected>
+		<skilldc type="number">0</skilldc>
 	</partysheet>
 	<race>
 	</race>
@@ -1627,4 +4244,33 @@
 	</spell>
 	<tables>
 	</tables>
+	<treasureparcels>
+		<id-00001>
+			<coinlist>
+				<id-00001>
+					<amount type="number">0</amount>
+					<description type="string">PP</description>
+				</id-00001>
+				<id-00002>
+					<amount type="number">5</amount>
+					<description type="string">GP</description>
+				</id-00002>
+				<id-00003>
+					<amount type="number">0</amount>
+					<description type="string">EP</description>
+				</id-00003>
+				<id-00004>
+					<amount type="number">10</amount>
+					<description type="string">SP</description>
+				</id-00004>
+				<id-00005>
+					<amount type="number">13</amount>
+					<description type="string">CP</description>
+				</id-00005>
+			</coinlist>
+			<itemlist>
+			</itemlist>
+			<name type="string">[RESULT] CR 01 Treasure</name>
+		</id-00001>
+	</treasureparcels>
 </root>
