@@ -5,3 +5,4 @@
 !characters/*.xml
 CampaignRegistry.lua
 usersettings/*
+db.xml

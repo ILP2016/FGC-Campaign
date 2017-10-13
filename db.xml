@@ -270,6 +270,843 @@
 	</MJB_OLE>
 	<background>
 	</background>
+	<battle>
+		<id-00001>
+			<cr type="string">3</cr>
+			<exp type="number">700</exp>
+			<name type="string">[RESULT] Arctic - True Random Encounter</name>
+			<npclist>
+				<id-00001>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00264@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Manticore</name>
+					<token type="token">tokens/manticore.png@DD5E SRD Bestiary</token>
+				</id-00001>
+			</npclist>
+		</id-00001>
+		<id-00002>
+			<cr type="string">4</cr>
+			<exp type="number">1000</exp>
+			<name type="string">[RESULT] Arctic - True Random Encounter</name>
+			<npclist>
+				<id-00001>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00014@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Brown Bear</name>
+					<token type="token">tokens/brownbear.png@DD5E SRD Bestiary</token>
+				</id-00001>
+				<id-00002>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00014@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Brown Bear</name>
+					<token type="token">tokens/brownbear.png@DD5E SRD Bestiary</token>
+				</id-00002>
+				<id-00003>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00014@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Brown Bear</name>
+					<token type="token">tokens/brownbear.png@DD5E SRD Bestiary</token>
+				</id-00003>
+				<id-00004>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00014@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Brown Bear</name>
+					<token type="token">tokens/brownbear.png@DD5E SRD Bestiary</token>
+				</id-00004>
+				<id-00005>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00014@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Brown Bear</name>
+					<token type="token">tokens/brownbear.png@DD5E SRD Bestiary</token>
+				</id-00005>
+			</npclist>
+		</id-00002>
+		<id-00003>
+			<cr type="string">3</cr>
+			<exp type="number">700</exp>
+			<name type="string">[RESULT] Arctic - True Random Encounter</name>
+			<npclist>
+				<id-00001>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00264@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Manticore</name>
+					<token type="token">tokens/manticore.png@DD5E SRD Bestiary</token>
+				</id-00001>
+			</npclist>
+		</id-00003>
+		<id-00004>
+			<cr type="string">3</cr>
+			<exp type="number">700</exp>
+			<name type="string">[RESULT] Arctic - True Random Encounter</name>
+			<npclist>
+				<id-00001>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00212@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Druid</name>
+					<token type="token">tokens/druid.png@DD5E SRD Bestiary</token>
+				</id-00001>
+				<id-00002>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00045@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Giant Owl</name>
+					<token type="token">tokens/giantowl.png@DD5E SRD Bestiary</token>
+				</id-00002>
+				<id-00003>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00159@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Ice Mephit</name>
+					<token type="token">tokens/I.png@DD5E SRD Bestiary</token>
+				</id-00003>
+				<id-00004>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00159@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Ice Mephit</name>
+					<token type="token">tokens/I.png@DD5E SRD Bestiary</token>
+				</id-00004>
+			</npclist>
+		</id-00004>
+		<id-00005>
+			<cr type="string">3</cr>
+			<exp type="number">700</exp>
+			<name type="string">[RESULT] Arctic - True Random Encounter</name>
+			<npclist>
+				<id-00001>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00159@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Ice Mephit</name>
+					<token type="token">tokens/I.png@DD5E SRD Bestiary</token>
+				</id-00001>
+				<id-00002>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00219@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Scout</name>
+					<token type="token">tokens/scout.png@DD5E SRD Bestiary</token>
+				</id-00002>
+				<id-00003>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00241@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Orc</name>
+					<token type="token">tokens/orc.png@DD5E SRD Bestiary</token>
+				</id-00003>
+				<id-00004>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00159@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Ice Mephit</name>
+					<token type="token">tokens/I.png@DD5E SRD Bestiary</token>
+				</id-00004>
+				<id-00005>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00219@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Scout</name>
+					<token type="token">tokens/scout.png@DD5E SRD Bestiary</token>
+				</id-00005>
+				<id-00006>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00241@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Orc</name>
+					<token type="token">tokens/orc.png@DD5E SRD Bestiary</token>
+				</id-00006>
+				<id-00007>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00241@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Orc</name>
+					<token type="token">tokens/orc.png@DD5E SRD Bestiary</token>
+				</id-00007>
+			</npclist>
+		</id-00005>
+		<id-00006>
+			<cr type="string">2</cr>
+			<exp type="number">350</exp>
+			<name type="string">[RESULT] Arctic - True Random Encounter</name>
+			<npclist>
+				<id-00001>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00045@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Giant Owl</name>
+					<token type="token">tokens/giantowl.png@DD5E SRD Bestiary</token>
+				</id-00001>
+				<id-00002>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00045@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Giant Owl</name>
+					<token type="token">tokens/giantowl.png@DD5E SRD Bestiary</token>
+				</id-00002>
+				<id-00003>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00045@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Giant Owl</name>
+					<token type="token">tokens/giantowl.png@DD5E SRD Bestiary</token>
+				</id-00003>
+				<id-00004>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00045@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Giant Owl</name>
+					<token type="token">tokens/giantowl.png@DD5E SRD Bestiary</token>
+				</id-00004>
+				<id-00005>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00045@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Giant Owl</name>
+					<token type="token">tokens/giantowl.png@DD5E SRD Bestiary</token>
+				</id-00005>
+				<id-00006>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00238@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Kobold</name>
+					<token type="token">tokens/kobold.png@DD5E SRD Bestiary</token>
+				</id-00006>
+				<id-00007>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00238@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Kobold</name>
+					<token type="token">tokens/kobold.png@DD5E SRD Bestiary</token>
+				</id-00007>
+				<id-00008>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00238@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Kobold</name>
+					<token type="token">tokens/kobold.png@DD5E SRD Bestiary</token>
+				</id-00008>
+				<id-00009>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00238@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Kobold</name>
+					<token type="token">tokens/kobold.png@DD5E SRD Bestiary</token>
+				</id-00009>
+			</npclist>
+		</id-00006>
+		<id-00007>
+			<cr type="string">2</cr>
+			<exp type="number">450</exp>
+			<name type="string">[RESULT] Arctic - True Random Encounter</name>
+			<npclist>
+				<id-00001>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00045@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Giant Owl</name>
+					<token type="token">tokens/giantowl.png@DD5E SRD Bestiary</token>
+				</id-00001>
+				<id-00002>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00219@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Scout</name>
+					<token type="token">tokens/scout.png@DD5E SRD Bestiary</token>
+				</id-00002>
+				<id-00003>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00159@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Ice Mephit</name>
+					<token type="token">tokens/I.png@DD5E SRD Bestiary</token>
+				</id-00003>
+				<id-00004>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00219@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Scout</name>
+					<token type="token">tokens/scout.png@DD5E SRD Bestiary</token>
+				</id-00004>
+				<id-00005>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00219@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Scout</name>
+					<token type="token">tokens/scout.png@DD5E SRD Bestiary</token>
+				</id-00005>
+			</npclist>
+		</id-00007>
+		<id-00008>
+			<cr type="string">2</cr>
+			<exp type="number">225</exp>
+			<name type="string">[RESULT] Arctic - True Random Encounter</name>
+			<npclist>
+				<id-00001>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00012@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Blood Hawk</name>
+					<token type="token">tokens/B.png@DD5E SRD Bestiary</token>
+				</id-00001>
+				<id-00002>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00206@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Bandit</name>
+					<token type="token">tokens/bandit.png@DD5E SRD Bestiary</token>
+				</id-00002>
+				<id-00003>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00206@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Bandit</name>
+					<token type="token">tokens/bandit.png@DD5E SRD Bestiary</token>
+				</id-00003>
+				<id-00004>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00238@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Kobold</name>
+					<token type="token">tokens/kobold.png@DD5E SRD Bestiary</token>
+				</id-00004>
+				<id-00005>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00012@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Blood Hawk</name>
+					<token type="token">tokens/B.png@DD5E SRD Bestiary</token>
+				</id-00005>
+				<id-00006>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00206@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Bandit</name>
+					<token type="token">tokens/bandit.png@DD5E SRD Bestiary</token>
+				</id-00006>
+				<id-00007>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00206@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Bandit</name>
+					<token type="token">tokens/bandit.png@DD5E SRD Bestiary</token>
+				</id-00007>
+				<id-00008>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00222@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Tribal Warrior</name>
+					<token type="token">tokens/tribalwarrior.png@DD5E SRD Bestiary</token>
+				</id-00008>
+				<id-00009>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00238@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Kobold</name>
+					<token type="token">tokens/kobold.png@DD5E SRD Bestiary</token>
+				</id-00009>
+			</npclist>
+		</id-00008>
+	</battle>
 	<calendar>
 		<public />
 	</calendar>
