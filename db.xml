@@ -8761,6 +8761,8 @@
 		<readonly type="number">0</readonly>
 		<thumbnail type="string">C:\\users\\Wineskin\\Application Data\\Fantasy Grounds\\campaigns\\West Marches%3A Thomas\\images\\WMC FGC Smaller Logo.jpg</thumbnail>
 	</export>
+	<feat>
+	</feat>
 	<image>
 		<id-00001>
 			<image type="image">
@@ -10349,6 +10351,8 @@
 	<race>
 	</race>
 	<reference>
+		<armor>
+		</armor>
 		<weapon>
 		</weapon>
 	</reference>
