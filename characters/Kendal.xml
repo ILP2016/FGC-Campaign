@@ -3,18 +3,18 @@
 	<character>
 		<abilities>
 			<charisma>
+				<bonus type="number">4</bonus>
+				<save type="number">6</save>
+				<savemodifier type="number">0</savemodifier>
+				<saveprof type="number">1</saveprof>
+				<score type="number">18</score>
+			</charisma>
+			<constitution>
 				<bonus type="number">3</bonus>
 				<save type="number">5</save>
 				<savemodifier type="number">0</savemodifier>
 				<saveprof type="number">1</saveprof>
-				<score type="number">17</score>
-			</charisma>
-			<constitution>
-				<bonus type="number">2</bonus>
-				<save type="number">4</save>
-				<savemodifier type="number">0</savemodifier>
-				<saveprof type="number">1</saveprof>
-				<score type="number">15</score>
+				<score type="number">16</score>
 			</constitution>
 			<dexterity>
 				<bonus type="number">0</bonus>
@@ -49,7 +49,7 @@
 		</adventurelist>
 		<age type="string">31</age>
 		<alignment type="string">Lawful Neutral</alignment>
-		<appearance type="string">Golden Skin, golden hair, silver eyes.</appearance>
+		<appearance type="string">Golden Skin, golden hair, ruby eyes. Those are only the most notable features of the large looming figure clad in white costume, and wielding a glassy white staff . His natural radiance in every room casts brighter light and darker shadows.</appearance>
 		<background type="string">Soldier</background>
 		<backgroundlink type="windowreference">
 			<class>reference_background</class>
@@ -62,7 +62,7 @@
 				<casterpactmagic type="number">0</casterpactmagic>
 				<hddie type="dice">d6</hddie>
 				<hdused type="number">0</hdused>
-				<level type="number">3</level>
+				<level type="number">4</level>
 				<name type="string">Sorcerer</name>
 				<shortcut type="windowreference">
 					<class>reference_class</class>
@@ -72,13 +72,16 @@
 		</classes>
 		<coins>
 			<slot1>
-				<amount type="number">0</amount>
+				<amount type="number">32</amount>
+				<name type="string">GP</name>
 			</slot1>
 			<slot2>
-				<amount type="number">0</amount>
+				<amount type="number">57</amount>
+				<name type="string">SP</name>
 			</slot2>
 			<slot3>
-				<amount type="number">0</amount>
+				<amount type="number">18</amount>
+				<name type="string">CP</name>
 			</slot3>
 			<slot4>
 				<amount type="number">0</amount>
@@ -107,8 +110,8 @@
 			<load type="number">73.5</load>
 			<max type="number">180</max>
 		</encumbrance>
-		<exp type="number">310</exp>
-		<expneeded type="number">400</expneeded>
+		<exp type="number">417</exp>
+		<expneeded type="number">500</expneeded>
 		<featlist>
 		</featlist>
 		<featurelist>
@@ -303,6 +306,15 @@
 					<p>When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip). To be eligible for Twinned Spell, a spell must be incapable of targeting more than one creature at the spell's current level.</p>
 				</text>
 			</id-00007>
+			<id-00008>
+				<level type="number">4</level>
+				<locked type="number">1</locked>
+				<name type="string">Ability Score Improvement</name>
+				<source type="string">Sorcerer</source>
+				<text type="formattedtext">
+					<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+				</text>
+			</id-00008>
 		</featurelist>
 		<flaws type="string">I obey the law, even if the law causes misery.</flaws>
 		<gender type="string">Male</gender>
@@ -311,7 +323,7 @@
 			<deathsavefail type="number">0</deathsavefail>
 			<deathsavesuccess type="number">0</deathsavesuccess>
 			<temporary type="number">0</temporary>
-			<total type="number">23</total>
+			<total type="number">30</total>
 			<wounds type="number">0</wounds>
 		</hp>
 		<ideals type="string">Independence. When people follow orders blindly, they embrace a kind of tyranny. (Chaotic)</ideals>
@@ -482,7 +494,7 @@
 				<name type="string">Celestial</name>
 			</id-00002>
 		</languagelist>
-		<level type="number">3</level>
+		<level type="number">4</level>
 		<name type="string">Kendal</name>
 		<notes type="string">Kendal had always felt a call to protect and serve. He even joined the City watch when he came of age. However after years of feeling unfulfilled at his mission, one day celestial revealed his true Aasimar-draconic heritage. Now knowing his purpose and filled with a strong sense of right and wrong and wrong Kendal has fully committed himself becoming a blazing beacon of justice.</notes>
 		<perception type="number">11</perception>
@@ -508,71 +520,102 @@
 				<uses type="number">0</uses>
 			</id-00004>
 			<id-00005>
+				<atkmod type="number">0</atkmod>
+				<atkprof type="number">1</atkprof>
+				<atkstat type="string">charisma</atkstat>
 				<castertype type="string">memorization</castertype>
 				<name type="string">Spells</name>
+				<prepared type="number">0</prepared>
+				<savemod type="number">0</savemod>
+				<saveprof type="number">1</saveprof>
+				<savestat type="string">charisma</savestat>
+				<uses type="number">0</uses>
 			</id-00005>
 			<id-00006>
+				<atkmod type="number">0</atkmod>
+				<atkprof type="number">1</atkprof>
 				<name type="string">Class Feature</name>
+				<prepared type="number">0</prepared>
+				<savemod type="number">0</savemod>
+				<saveprof type="number">1</saveprof>
+				<uses type="number">0</uses>
 			</id-00006>
 		</powergroup>
 		<powermeta>
 			<pactmagicslots1>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots1>
 			<pactmagicslots2>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots2>
 			<pactmagicslots3>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots3>
 			<pactmagicslots4>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots4>
 			<pactmagicslots5>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots5>
 			<pactmagicslots6>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots6>
 			<pactmagicslots7>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots7>
 			<pactmagicslots8>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots8>
 			<pactmagicslots9>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots9>
 			<spellslots1>
 				<max type="number">4</max>
 				<used type="number">0</used>
 			</spellslots1>
 			<spellslots2>
-				<max type="number">2</max>
+				<max type="number">3</max>
+				<used type="number">0</used>
 			</spellslots2>
 			<spellslots3>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots3>
 			<spellslots4>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots4>
 			<spellslots5>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots5>
 			<spellslots6>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots6>
 			<spellslots7>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots7>
 			<spellslots8>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots8>
 			<spellslots9>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots9>
 		</powermeta>
-		<powermode type="string">preparation</powermode>
+		<powermode type="string">standard</powermode>
 		<powers>
 			<id-00001>
 				<actions>
@@ -587,7 +630,7 @@
 					<id-00002>
 						<damagelist>
 							<id-00001>
-								<bonus type="number">1</bonus>
+								<bonus type="number">2</bonus>
 								<dice type="dice"></dice>
 								<type type="string">radiant</type>
 							</id-00001>
@@ -698,6 +741,27 @@
 				<ritual type="number">0</ritual>
 				<usesperiod type="string">once</usesperiod>
 			</id-00004>
+			<id-00005>
+				<actions>
+				</actions>
+				<cast type="number">0</cast>
+				<castingtime type="string">1 action</castingtime>
+				<components type="string">V, M (bat fur and a drop of pitch or piece of coal)</components>
+				<description type="formattedtext">
+					<p>Magical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can't see through this darkness, and nonmagical light can't illuminate it.</p>
+					<p>If the point you choose is on an object you are holding or one that isn't being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness.</p>
+					<p>If any of this spell's area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled.</p>
+				</description>
+				<duration type="string">Concentration, up to 10 minutes</duration>
+				<group type="string">Spells</group>
+				<level type="number">2</level>
+				<locked type="number">1</locked>
+				<name type="string">Darkness</name>
+				<prepared type="number">0</prepared>
+				<range type="string">60 feet</range>
+				<school type="string">Evocation</school>
+				<source type="string">Sorcerer, Warlock, Wizard</source>
+			</id-00005>
 			<id-00006>
 				<actions>
 				</actions>
@@ -709,7 +773,7 @@
 				<level type="number">0</level>
 				<locked type="number">1</locked>
 				<name type="string">Sorcerer: Sorcery Points</name>
-				<prepared type="number">3</prepared>
+				<prepared type="number">4</prepared>
 				<ritual type="number">0</ritual>
 				<school type="string">Class</school>
 				<source type="string">Sorcerer</source>
@@ -834,8 +898,10 @@
 			<id-00010>
 				<actions>
 					<id-00001>
+						<atkprof type="number">1</atkprof>
 						<onmissdamage type="string">half</onmissdamage>
 						<order type="number">1</order>
+						<savedcprof type="number">1</savedcprof>
 						<savetype type="string">dexterity</savetype>
 						<type type="string">cast</type>
 					</id-00001>
@@ -1125,6 +1191,26 @@
 				<school type="string">Transmutation</school>
 				<source type="string">Bard, Eldritch Knight, Sorcerer, Wizard, Arcane Trickster</source>
 			</id-00018>
+			<id-00019>
+				<actions>
+				</actions>
+				<cast type="number">0</cast>
+				<castingtime type="string">1 minute</castingtime>
+				<components type="string">V, S, M (two lodestones)</components>
+				<description type="formattedtext">
+					<p>This spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it. leaving no trace of the former damage.</p>
+					<p>This spell can physically repair a magic item or construct, but the spell can't restore magic to such an object.</p>
+				</description>
+				<duration type="string">Instantaneous</duration>
+				<group type="string">Spells</group>
+				<level type="number">0</level>
+				<locked type="number">1</locked>
+				<name type="string">Mending</name>
+				<prepared type="number">0</prepared>
+				<range type="string">Touch</range>
+				<school type="string">Transmutation</school>
+				<source type="string">Bard, Cleric, Druid, Sorcerer, Wizard</source>
+			</id-00019>
 		</powers>
 		<profbonus type="number">2</profbonus>
 		<proficiencylist>
@@ -1162,7 +1248,7 @@
 				<name type="string">Intimidation</name>
 				<prof type="number">1</prof>
 				<stat type="string">charisma</stat>
-				<total type="number">5</total>
+				<total type="number">6</total>
 			</id-00003>
 			<id-00004>
 				<misc type="number">0</misc>
@@ -1176,7 +1262,7 @@
 				<name type="string">Persuasion</name>
 				<prof type="number">1</prof>
 				<stat type="string">charisma</stat>
-				<total type="number">5</total>
+				<total type="number">6</total>
 			</id-00005>
 			<id-00006>
 				<misc type="number">0</misc>
@@ -1211,7 +1297,7 @@
 				<name type="string">Performance</name>
 				<prof type="number">0</prof>
 				<stat type="string">charisma</stat>
-				<total type="number">3</total>
+				<total type="number">4</total>
 			</id-00010>
 			<id-00011>
 				<misc type="number">0</misc>
@@ -1239,7 +1325,7 @@
 				<name type="string">Deception</name>
 				<prof type="number">0</prof>
 				<stat type="string">charisma</stat>
-				<total type="number">3</total>
+				<total type="number">4</total>
 			</id-00014>
 			<id-00015>
 				<misc type="number">0</misc>
