@@ -60,7 +60,7 @@
 				<casterpactmagic type="number">0</casterpactmagic>
 				<hddie type="dice">d10</hddie>
 				<hdused type="number">0</hdused>
-				<level type="number">3</level>
+				<level type="number">4</level>
 				<name type="string">Fighter</name>
 				<shortcut type="windowreference">
 					<class>reference_class</class>
@@ -74,20 +74,20 @@
 				<name type="string">pp</name>
 			</slot1>
 			<slot2>
-				<amount type="number">0</amount>
-				<name type="string">gp</name>
+				<amount type="number">11</amount>
+				<name type="string">GP</name>
 			</slot2>
 			<slot3>
 				<amount type="number">0</amount>
 				<name type="string">ep</name>
 			</slot3>
 			<slot4>
-				<amount type="number">0</amount>
-				<name type="string">sp</name>
+				<amount type="number">11</amount>
+				<name type="string">SP</name>
 			</slot4>
 			<slot5>
-				<amount type="number">0</amount>
-				<name type="string">cp</name>
+				<amount type="number">9</amount>
+				<name type="string">CP</name>
 			</slot5>
 			<slot6>
 				<amount type="number">0</amount>
@@ -112,9 +112,22 @@
 			<load type="number">107</load>
 			<max type="number">150</max>
 		</encumbrance>
-		<exp type="number">380</exp>
+		<exp type="number">420</exp>
 		<expneeded type="number">400</expneeded>
 		<featlist>
+			<id-00001>
+				<locked type="number">1</locked>
+				<name type="string">Elven Accuracy</name>
+				<prerequisite type="string">Elf or half-elf</prerequisite>
+				<text type="formattedtext">
+					<p><i>Prerequisite: Elf or half-elf</i></p>
+					<p>You have uncanny aim. You gain the following benefits:</p>
+					<list>
+						<li>Increase your Dexterity score by 1, to a maximum of 20.</li>
+						<li>Whenever you have advantage on an attack roll, you can reroll one of the dice once.</li>
+					</list>
+				</text>
+			</id-00001>
 		</featlist>
 		<featurelist>
 			<id-00001>
@@ -195,11 +208,22 @@
 					<p>Thanks to your noble birth, people are inclined to think the best of you. You are welcome in high society, and people assume you have the right to be wherever you are. The common folk make every effort to accommodate you and avoid your displeasure, and other people of high birth treat you as a member of the same social sphere. You can secure an audience with a local noble if you need to.</p>
 				</text>
 			</id-00006>
+			<id-00007>
+				<level type="number">4</level>
+				<locked type="number">1</locked>
+				<name type="string">Ability Score Improvement</name>
+				<source type="string">Fighter</source>
+				<text type="formattedtext">
+					<p>When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+				</text>
+			</id-00007>
 		</featurelist>
 		<flaws type="string">In fact, the world does revolve around me.</flaws>
 		<hp>
+			<deathsavefail type="number">0</deathsavefail>
+			<deathsavesuccess type="number">0</deathsavesuccess>
 			<temporary type="number">0</temporary>
-			<total type="number">28</total>
+			<total type="number">36</total>
 			<wounds type="number">0</wounds>
 		</hp>
 		<ideals type="string">Respect. Respect is due to me because of my position, but all people regardless of station deserve to be treated with dignity. (Good)</ideals>
@@ -453,17 +477,18 @@
 		</inventorylist>
 		<languagelist>
 			<id-00003>
-				<name type="string">Common </name>
+				<name type="string">Common</name>
 			</id-00003>
 			<id-00004>
 				<name type="string">Elvish</name>
 			</id-00004>
 		</languagelist>
-		<level type="number">3</level>
+		<level type="number">4</level>
 		<name type="string">Barda</name>
 		<perception type="number">14</perception>
 		<perceptionmodifier type="number">0</perceptionmodifier>
 		<personalitytraits type="string">My eloquent flattery makes everyone I talk to feel like the most wonderful and important person in the world.\nDespite my noble birth, I do not place myself above other folk. We all have the same blood.</personalitytraits>
+		<powerdisplaymode type="string">action</powerdisplaymode>
 		<powergroup>
 			<id-00007>
 				<name type="string">Resourse</name>
@@ -475,57 +500,75 @@
 		<powermeta>
 			<pactmagicslots1>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots1>
 			<pactmagicslots2>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots2>
 			<pactmagicslots3>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots3>
 			<pactmagicslots4>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots4>
 			<pactmagicslots5>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots5>
 			<pactmagicslots6>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots6>
 			<pactmagicslots7>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots7>
 			<pactmagicslots8>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots8>
 			<pactmagicslots9>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots9>
 			<spellslots1>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots1>
 			<spellslots2>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots2>
 			<spellslots3>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots3>
 			<spellslots4>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots4>
 			<spellslots5>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots5>
 			<spellslots6>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots6>
 			<spellslots7>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots7>
 			<spellslots8>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots8>
 			<spellslots9>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots9>
 		</powermeta>
 		<powermode type="string">standard</powermode>
@@ -636,6 +679,7 @@
 					<p>You can use this feature three times. You regain all expended uses of it when you finish a short or long rest.</p>
 				</description>
 				<group type="string">Resourse</group>
+				<level type="number">0</level>
 				<locked type="number">1</locked>
 				<name type="string">Fighting Spirit</name>
 				<prepared type="number">3</prepared>
@@ -815,7 +859,7 @@
 		</speed>
 		<temp>
 		</temp>
-		<token type="token">portrait_id-00001_token</token>
+		<token type="token">portrait_id-00009_token</token>
 		<traitlist>
 			<id-00007>
 				<locked type="number">1</locked>
@@ -874,7 +918,7 @@
 				<carried type="number">2</carried>
 				<damagelist>
 					<id-00001>
-						<bonus type="number">0</bonus>
+						<bonus type="number">2</bonus>
 						<dice type="dice">d8</dice>
 						<stat type="string">dexterity</stat>
 						<type type="string">piercing</type>
@@ -925,7 +969,7 @@
 					</id-00001>
 				</damagelist>
 				<isidentified type="number">1</isidentified>
-				<maxammo type="number">0</maxammo>
+				<maxammo type="number">2</maxammo>
 				<name type="string">Dagger</name>
 				<prof type="number">1</prof>
 				<shortcut type="windowreference">

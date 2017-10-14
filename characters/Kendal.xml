@@ -107,7 +107,7 @@
 			<load type="number">73.5</load>
 			<max type="number">180</max>
 		</encumbrance>
-		<exp type="number">310</exp>
+		<exp type="number">300</exp>
 		<expneeded type="number">400</expneeded>
 		<featlist>
 		</featlist>
@@ -308,8 +308,6 @@
 		<gender type="string">Male</gender>
 		<height type="string">6'1''</height>
 		<hp>
-			<deathsavefail type="number">0</deathsavefail>
-			<deathsavesuccess type="number">0</deathsavesuccess>
 			<temporary type="number">0</temporary>
 			<total type="number">23</total>
 			<wounds type="number">0</wounds>
@@ -572,7 +570,7 @@
 				<max type="number">0</max>
 			</spellslots9>
 		</powermeta>
-		<powermode type="string">preparation</powermode>
+		<powermode type="string">standard</powermode>
 		<powers>
 			<id-00001>
 				<actions>
@@ -1279,7 +1277,7 @@
 		</speed>
 		<temp>
 		</temp>
-		<token type="token">portrait_id-00005_token</token>
+		<token type="token">portrait_id-00001_token</token>
 		<traitlist>
 			<id-00001>
 				<locked type="number">1</locked>
