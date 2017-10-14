@@ -4940,19 +4940,19 @@
 				</charisma>
 				<constitution>
 					<holder name="Sonny" owner="true" />
-					<bonus type="number">0</bonus>
-					<save type="number">0</save>
+					<bonus type="number">1</bonus>
+					<save type="number">1</save>
 					<savemodifier type="number">0</savemodifier>
 					<saveprof type="number">0</saveprof>
-					<score type="number">10</score>
+					<score type="number">13</score>
 				</constitution>
 				<dexterity>
 					<holder name="Sonny" owner="true" />
-					<bonus type="number">0</bonus>
-					<save type="number">0</save>
+					<bonus type="number">1</bonus>
+					<save type="number">1</save>
 					<savemodifier type="number">0</savemodifier>
 					<saveprof type="number">0</saveprof>
-					<score type="number">10</score>
+					<score type="number">12</score>
 				</dexterity>
 				<intelligence>
 					<holder name="Sonny" owner="true" />
@@ -4964,19 +4964,19 @@
 				</intelligence>
 				<strength>
 					<holder name="Sonny" owner="true" />
-					<bonus type="number">0</bonus>
-					<save type="number">0</save>
+					<bonus type="number">3</bonus>
+					<save type="number">3</save>
 					<savemodifier type="number">0</savemodifier>
 					<saveprof type="number">0</saveprof>
-					<score type="number">10</score>
+					<score type="number">17</score>
 				</strength>
 				<wisdom>
 					<holder name="Sonny" owner="true" />
-					<bonus type="number">0</bonus>
-					<save type="number">2</save>
+					<bonus type="number">67</bonus>
+					<save type="number">69</save>
 					<savemodifier type="number">0</savemodifier>
 					<saveprof type="number">1</saveprof>
-					<score type="number">10</score>
+					<score type="number">145</score>
 				</wisdom>
 			</abilities>
 			<adventurelist>
@@ -5056,11 +5056,11 @@
 			<deity type="string">Tyr</deity>
 			<encumbrance>
 				<holder name="Sonny" owner="true" />
-				<encumbered type="number">50</encumbered>
-				<encumberedheavy type="number">100</encumberedheavy>
-				<liftpushdrag type="number">300</liftpushdrag>
+				<encumbered type="number">85</encumbered>
+				<encumberedheavy type="number">170</encumberedheavy>
+				<liftpushdrag type="number">510</liftpushdrag>
 				<load type="number">116</load>
-				<max type="number">150</max>
+				<max type="number">255</max>
 			</encumbrance>
 			<exp type="number">310</exp>
 			<expneeded type="number">400</expneeded>
@@ -5254,7 +5254,7 @@
 				<holder name="Sonny" owner="true" />
 				<misc type="number">0</misc>
 				<temporary type="number">0</temporary>
-				<total type="number">0</total>
+				<total type="number">1</total>
 			</initiative>
 			<inventorylist>
 				<holder name="Sonny" owner="true" />
@@ -5505,7 +5505,7 @@
 			</languagelist>
 			<level type="number">3</level>
 			<name type="string">Trakorsh</name>
-			<perception type="number">10</perception>
+			<perception type="number">77</perception>
 			<perceptionmodifier type="number">0</perceptionmodifier>
 			<personalitytraits type="string">If you do me an injury, I will crush you, ruin your name, and salt your fields. Also My eloquent flattery makes everyone I talk to feel like the most wonderful and important person in the world.</personalitytraits>
 			<powerdisplaymode type="string">action</powerdisplaymode>
@@ -6027,7 +6027,7 @@
 					<name type="string">Perception</name>
 					<prof type="number">0</prof>
 					<stat type="string">wisdom</stat>
-					<total type="number">-1</total>
+					<total type="number">67</total>
 				</id-00001>
 				<id-00002>
 					<holder name="Sonny" owner="true" />
@@ -6035,7 +6035,7 @@
 					<name type="string">Intimidation</name>
 					<prof type="number">1</prof>
 					<stat type="string">charisma</stat>
-					<total type="number">4</total>
+					<total type="number">2</total>
 				</id-00002>
 				<id-00003>
 					<holder name="Sonny" owner="true" />
@@ -6051,7 +6051,7 @@
 					<name type="string">Persuasion</name>
 					<prof type="number">1</prof>
 					<stat type="string">charisma</stat>
-					<total type="number">4</total>
+					<total type="number">2</total>
 				</id-00004>
 				<id-00005>
 					<holder name="Sonny" owner="true" />
@@ -6067,7 +6067,7 @@
 					<name type="string">Medicine</name>
 					<prof type="number">1</prof>
 					<stat type="string">wisdom</stat>
-					<total type="number">1</total>
+					<total type="number">69</total>
 				</id-00006>
 				<id-00007>
 					<holder name="Sonny" owner="true" />
@@ -6075,7 +6075,7 @@
 					<name type="string">Survival</name>
 					<prof type="number">0</prof>
 					<stat type="string">wisdom</stat>
-					<total type="number">-1</total>
+					<total type="number">67</total>
 				</id-00007>
 				<id-00008>
 					<holder name="Sonny" owner="true" />
@@ -6083,7 +6083,7 @@
 					<name type="string">Performance</name>
 					<prof type="number">0</prof>
 					<stat type="string">charisma</stat>
-					<total type="number">2</total>
+					<total type="number">0</total>
 				</id-00008>
 				<id-00009>
 					<holder name="Sonny" owner="true" />
@@ -6123,7 +6123,7 @@
 					<name type="string">Insight</name>
 					<prof type="number">0</prof>
 					<stat type="string">wisdom</stat>
-					<total type="number">-1</total>
+					<total type="number">67</total>
 				</id-00013>
 				<id-00014>
 					<holder name="Sonny" owner="true" />
@@ -6131,7 +6131,7 @@
 					<name type="string">Deception</name>
 					<prof type="number">0</prof>
 					<stat type="string">charisma</stat>
-					<total type="number">2</total>
+					<total type="number">0</total>
 				</id-00014>
 				<id-00015>
 					<holder name="Sonny" owner="true" />
@@ -6163,7 +6163,7 @@
 					<name type="string">Animal Handling</name>
 					<prof type="number">0</prof>
 					<stat type="string">wisdom</stat>
-					<total type="number">-1</total>
+					<total type="number">67</total>
 				</id-00018>
 			</skilllist>
 			<speed>
@@ -19565,11 +19565,11 @@
 				</constitution>
 				<dexterity>
 					<holder name="Telvolas" owner="true" />
-					<bonus type="number">4</bonus>
-					<save type="number">6</save>
+					<bonus type="number">3</bonus>
+					<save type="number">5</save>
 					<savemodifier type="number">0</savemodifier>
 					<saveprof type="number">1</saveprof>
-					<score type="number">19</score>
+					<score type="number">16</score>
 				</dexterity>
 				<intelligence>
 					<holder name="Telvolas" owner="true" />
@@ -19581,11 +19581,11 @@
 				</intelligence>
 				<strength>
 					<holder name="Telvolas" owner="true" />
-					<bonus type="number">2</bonus>
-					<save type="number">4</save>
+					<bonus type="number">1</bonus>
+					<save type="number">3</save>
 					<savemodifier type="number">0</savemodifier>
 					<saveprof type="number">1</saveprof>
-					<score type="number">14</score>
+					<score type="number">12</score>
 				</strength>
 				<wisdom>
 					<holder name="Telvolas" owner="true" />
@@ -19835,7 +19835,7 @@
 				<holder name="Telvolas" owner="true" />
 				<misc type="number">0</misc>
 				<temporary type="number">0</temporary>
-				<total type="number">4</total>
+				<total type="number">3</total>
 			</initiative>
 			<inventorylist>
 				<holder name="Telvolas" owner="true" />
@@ -21149,11 +21149,11 @@
 					</charisma>
 					<constitution>
 						<public />
-						<score type="number">10</score>
+						<score type="number">13</score>
 					</constitution>
 					<dexterity>
 						<public />
-						<score type="number">10</score>
+						<score type="number">12</score>
 					</dexterity>
 					<intelligence>
 						<public />
@@ -21161,11 +21161,11 @@
 					</intelligence>
 					<strength>
 						<public />
-						<score type="number">10</score>
+						<score type="number">17</score>
 					</strength>
 					<wisdom>
 						<public />
-						<score type="number">10</score>
+						<score type="number">145</score>
 					</wisdom>
 				</abilities>
 				<ac type="number">18</ac>
@@ -21199,7 +21199,7 @@
 				<friendfoe type="string">friend</friendfoe>
 				<hptemp type="number">0</hptemp>
 				<hptotal type="number">32</hptotal>
-				<init type="number">0</init>
+				<init type="number">1</init>
 				<initresult type="number">11</initresult>
 				<innatespells>
 					<public />
@@ -26051,10 +26051,10 @@
 				<chabonus type="number">0</chabonus>
 				<charisma type="number">10</charisma>
 				<classlevel type="string">Paladin 3</classlevel>
-				<conbonus type="number">0</conbonus>
-				<constitution type="number">10</constitution>
-				<dexbonus type="number">0</dexbonus>
-				<dexterity type="number">10</dexterity>
+				<conbonus type="number">1</conbonus>
+				<constitution type="number">13</constitution>
+				<dexbonus type="number">1</dexbonus>
+				<dexterity type="number">12</dexterity>
 				<exp type="number">310</exp>
 				<expneeded type="number">400</expneeded>
 				<hd type="number">3</hd>
@@ -26068,16 +26068,16 @@
 					<recordname>charsheet.id-00001</recordname>
 				</link>
 				<name type="string">Trakorsh</name>
-				<perception type="number">10</perception>
+				<perception type="number">77</perception>
 				<race type="string">Half-Orc</race>
 				<senses type="string">Darkvision 60</senses>
-				<strbonus type="number">0</strbonus>
-				<strength type="number">10</strength>
+				<strbonus type="number">3</strbonus>
+				<strength type="number">17</strength>
 				<token type="token">portrait_id-00001_token</token>
 				<tokenscale type="number">1</tokenscale>
 				<watchid type="number">0</watchid>
-				<wisbonus type="number">0</wisbonus>
-				<wisdom type="number">10</wisdom>
+				<wisbonus type="number">67</wisbonus>
+				<wisdom type="number">145</wisdom>
 				<wounds type="number">16</wounds>
 			</id-00008>
 		</partyinformation>
