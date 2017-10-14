@@ -48,6 +48,10 @@
 		<adventurelist>
 		</adventurelist>
 		<alignment type="string">Neutral</alignment>
+<<<<<<< HEAD:characters/Mathris.xml
+=======
+		<appearance type="string">Mathris Harrick is a rather scrawny looking half elf. His clothes, though once opulent are threadbare, worn at the elbows. He wears the robe of a courtier over studded leather armour of serviceable design. In his hand he holds an unusual looking staff. Its head is carved in the form of an squid like creature with a number of tentacles. The number is different every time you count them, if you can be bothered to. Its eyes glint - brighter when they have nothing to reflect, strangelyr. His familiar owl, Cthoot, is also odd looking. Its eyes have unworldly shaped pupils that seem to writhe. Also, and this may just be a trick of the light, its tongue seems to have a tentacle like appearance when glimpsed from the corner of your eye.</appearance>
+>>>>>>> 1e0810a34cf9726151fda600c3cb97b5bfbe20a7:characters/Mathris Harrick.xml
 		<background type="string">Courtier</background>
 		<backgroundlink type="windowreference">
 			<class>reference_background</class>
@@ -59,7 +63,7 @@
 				<casterpactmagic type="number">1</casterpactmagic>
 				<hddie type="dice">d8</hddie>
 				<hdused type="number">0</hdused>
-				<level type="number">5</level>
+				<level type="number">6</level>
 				<name type="string">Warlock</name>
 				<shortcut type="windowreference">
 					<class>reference_class</class>
@@ -69,6 +73,7 @@
 		</classes>
 		<coins>
 			<slot1>
+<<<<<<< HEAD:characters/Mathris.xml
 				<amount type="number">43</amount>
 				<name type="string">GP</name>
 			</slot1>
@@ -78,6 +83,17 @@
 			</slot2>
 			<slot3>
 				<amount type="number">31</amount>
+=======
+				<amount type="number">77</amount>
+				<name type="string">GP</name>
+			</slot1>
+			<slot2>
+				<amount type="number">103</amount>
+				<name type="string">SP</name>
+			</slot2>
+			<slot3>
+				<amount type="number">51</amount>
+>>>>>>> 1e0810a34cf9726151fda600c3cb97b5bfbe20a7:characters/Mathris Harrick.xml
 				<name type="string">CP</name>
 			</slot3>
 			<slot4>
@@ -109,8 +125,14 @@
 			<load type="number">30.59</load>
 			<max type="number">120</max>
 		</encumbrance>
+<<<<<<< HEAD:characters/Mathris.xml
 		<exp type="number">527</exp>
 		<expneeded type="number">500</expneeded>
+=======
+		<exp type="number">624</exp>
+		<expneeded type="number">700</expneeded>
+		<faction type="string">Zhentarim</faction>
+>>>>>>> 1e0810a34cf9726151fda600c3cb97b5bfbe20a7:characters/Mathris Harrick.xml
 		<featlist>
 		</featlist>
 		<featurelist>
@@ -474,6 +496,9 @@
 				<name type="string">Pact Boon: tome</name>
 				<source type="string">Warlock</source>
 				<text type="formattedtext">
+					<linklist>
+						<link class="npc" recordname="npc.id-00069@ProNobis - Random Encounter">Owl</link>
+					</linklist>
 					<p>At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.</p>
 					<h>Pact of the Chain</h>
 					<p>You learn the <i>find familiar </i>spell and can cast it as a ritual. The spell doesn't count against your number of spells known.</p>
@@ -504,12 +529,23 @@
 					<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability s cores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
 				</text>
 			</id-00008>
+			<id-00009>
+				<level type="number">6</level>
+				<locked type="number">1</locked>
+				<name type="string">Entropic Ward</name>
+				<source type="string">Warlock</source>
+				<specialization type="string">The Great Old One</specialization>
+				<text type="formattedtext">
+					<p>At 6th level, you learn to magically ward yourself against attack and to turn an enemy's failed strike into good luck for yourself. When a creature makes an attack roll against you, you can use your reaction to impose disadvantage on that roll. If the attack misses you, your next attack roll against the creature has advantage if you make it before the end of your next turn.</p>
+					<p>Once you use this feature, you can't use it again until you finish a short or long rest.</p>
+				</text>
+			</id-00009>
 		</featurelist>
 		<hp>
 			<deathsavefail type="number">0</deathsavefail>
 			<deathsavesuccess type="number">0</deathsavesuccess>
 			<temporary type="number">0</temporary>
-			<total type="number">38</total>
+			<total type="number">45</total>
 			<wounds type="number">0</wounds>
 		</hp>
 		<ideals type="string">Knowledge. If other people get hurt so be it, knowledge is all that matters.</ideals>
@@ -561,8 +597,14 @@
 				<description type="formattedtext">
 					<h>Spells</h>
 					<p>1x invisibility</p>
+<<<<<<< HEAD:characters/Mathris.xml
 					<p>1x shatter</p>
 					<p>1x Hex</p>
+=======
+					<p>1x hex</p>
+					<p>1x Misty Step</p>
+					<p></p>
+>>>>>>> 1e0810a34cf9726151fda600c3cb97b5bfbe20a7:characters/Mathris Harrick.xml
 					<h>Description</h>
 					<p>This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 5 levels worth of spells at a time. When found, it contains 1d6 - 1 levels of stored spells chosen by the GM.</p>
 					<p>Any creature can cast a spell of 1st through 5th level into the ring by touching the ring as the spell is cast. The spell has no effect, other than to be stored in the ring. If the ring can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses.</p>
@@ -677,6 +719,44 @@
 				<name type="string">Silver Bowl</name>
 				<weight type="number">1</weight>
 			</id-00012>
+			<id-00013>
+				<ac type="number">0</ac>
+				<bonus type="number">0</bonus>
+				<carried type="number">1</carried>
+				<cost type="string">50 - 100 gp</cost>
+				<count type="number">1</count>
+				<description type="formattedtext">
+					<h>Description</h>
+					<p>You regain 2d4 + 2 hit points when you drink this potion. The potion's red liquid glimmers when agitated.</p>
+				</description>
+				<isidentified type="number">1</isidentified>
+				<locked type="number">1</locked>
+				<name type="string">Potion of Healing</name>
+				<nonid_name type="string">Potion</nonid_name>
+				<nonidentified type="string">A vial of red liquid that shimmers when agitated.</nonidentified>
+				<rarity type="string">Common</rarity>
+				<type type="string">Potion</type>
+				<weight type="number">0</weight>
+			</id-00013>
+			<id-00014>
+				<ac type="number">0</ac>
+				<bonus type="number">0</bonus>
+				<carried type="number">1</carried>
+				<count type="number">1</count>
+				<description type="formattedtext">
+					<p></p>
+				</description>
+				<isidentified type="number">1</isidentified>
+				<locked type="number">1</locked>
+				<name type="string">Magical gem that pulses with some sort of magic</name>
+				<weight type="number">0</weight>
+			</id-00014>
+			<id-00015>
+				<carried type="number">1</carried>
+				<count type="number">1</count>
+				<isidentified type="number">1</isidentified>
+				<weight type="number">0</weight>
+			</id-00015>
 		</inventorylist>
 		<languagelist>
 			<id-00001>
@@ -694,16 +774,27 @@
 			<id-00005>
 				<name type="string">Drow</name>
 			</id-00005>
+			<id-00006>
+			</id-00006>
+			<id-00007>
+			</id-00007>
 		</languagelist>
-		<level type="number">5</level>
+		<level type="number">6</level>
 		<name type="string">Mathris Harrick</name>
+<<<<<<< HEAD:characters/Mathris.xml
+=======
+		<notes type="string">\n</notes>
+>>>>>>> 1e0810a34cf9726151fda600c3cb97b5bfbe20a7:characters/Mathris Harrick.xml
 		<perception type="number">13</perception>
 		<perceptionmodifier type="number">0</perceptionmodifier>
 		<personalitytraits type="string">I always want to know how things work and what makes people tick.</personalitytraits>
 		<powergroup>
 			<id-00001>
+				<atkprof type="number">1</atkprof>
 				<castertype type="string">memorization</castertype>
 				<name type="string">Spells</name>
+				<saveprof type="number">1</saveprof>
+				<savestat type="string">charisma</savestat>
 				<stat type="string">charisma</stat>
 			</id-00001>
 		</powergroup>
@@ -1107,6 +1198,30 @@
 				<school type="string">Illusion</school>
 				<source type="string">Bard, Druid Grassland Circle, Eldritch Knight, Sorcerer, Warlock, Wizard, Arcane Trickster</source>
 			</id-00013>
+<<<<<<< HEAD:characters/Mathris.xml
+=======
+			<id-00014>
+				<actions>
+				</actions>
+				<cast type="number">0</cast>
+				<castingtime type="string">1 minute</castingtime>
+				<components type="string">V, S, M (a pearl worth at least 100 gp and an owl feather)</components>
+				<description type="formattedtext">
+					<p>You choose one object that you must touch throughout the casting of the spell. If it is a magic item or some other magic-imbued object, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it.</p>
+					<p>If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.</p>
+				</description>
+				<duration type="string">Instantaneous</duration>
+				<group type="string">Spells</group>
+				<level type="number">1</level>
+				<locked type="number">1</locked>
+				<name type="string">Identify (tome)</name>
+				<prepared type="number">0</prepared>
+				<range type="string">Touch</range>
+				<ritual type="number">1</ritual>
+				<school type="string">Divination</school>
+				<source type="string">Bard, Cleric Knowledge Domain, Eldritch Knight, Wizard, Arcane Trickster</source>
+			</id-00014>
+>>>>>>> 1e0810a34cf9726151fda600c3cb97b5bfbe20a7:characters/Mathris Harrick.xml
 			<id-00015>
 				<actions>
 					<id-00001>
@@ -1202,6 +1317,42 @@
 				<school type="string">Evocation</school>
 				<source type="string">Warlock</source>
 			</id-00017>
+			<id-00018>
+				<actions>
+					<id-00001>
+						<atktype type="string">melee</atktype>
+						<order type="number">1</order>
+						<type type="string">cast</type>
+					</id-00001>
+					<id-00002>
+						<damagelist>
+							<id-00001>
+								<dice type="dice">d6,d6,d6</dice>
+								<type type="string">necrotic</type>
+							</id-00001>
+						</damagelist>
+						<order type="number">2</order>
+						<type type="string">damage</type>
+					</id-00002>
+				</actions>
+				<cast type="number">0</cast>
+				<castingtime type="string">1 action</castingtime>
+				<components type="string">V, S</components>
+				<description type="formattedtext">
+					<p>The touch of your shadow-wreathed hand can siphon life force from others to heal your wounds. Make a melee spell attack against a creature within your reach. On a hit, the target takes 3d6 necrotic damage, and you regain hit points equal to half the amount of necrotic damage dealt. Until the spell ends, you can make the attack again on each of your turns as an action.</p>
+					<p><b>At Higher Levels. </b>When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.</p>
+				</description>
+				<duration type="string">Concentration, up to 1 minute</duration>
+				<group type="string">Spells</group>
+				<level type="number">3</level>
+				<locked type="number">1</locked>
+				<name type="string">Vampiric Touch</name>
+				<prepared type="number">0</prepared>
+				<range type="string">Self</range>
+				<ritual type="number">0</ritual>
+				<school type="string">Necromancy</school>
+				<source type="string">Eldritch Knight, Warlock, Wizard, Arcane Trickster</source>
+			</id-00018>
 		</powers>
 		<profbonus type="number">3</profbonus>
 		<proficiencylist>
