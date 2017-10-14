@@ -47,12 +47,15 @@
 		</abilities>
 		<adventurelist>
 		</adventurelist>
+		<age type="string">42</age>
 		<alignment type="string">Neutral</alignment>
+		<appearance type="string">Mathris Harrick is a rather scrawny looking half elf.  His clothes, though once opulent are threadbare, worn at the elbows.  He wears the robe of a courtier over studded leather armour of serviceable design.  In his hand he holds an odd looking staff.  Its head is carved in the form of an odd squid like creature with a number of tentacles.  The number is different every time you count them, if you can be bothered too. Its eyes glint - brighter when they have nothing to reflect, oddly.</appearance>
 		<background type="string">Courtier</background>
 		<backgroundlink type="windowreference">
 			<class>reference_background</class>
 			<recordname>reference.backgrounddata.courtier@D&#38;D Sword Coast Adventurer's Guide - Player's Guide</recordname>
 		</backgroundlink>
+		<bonds type="string">There&#146;s madness in me, I can feel it. It must never be set free.</bonds>
 		<classes>
 			<id-00001>
 				<casterlevelinvmult type="number">1</casterlevelinvmult>
@@ -69,15 +72,15 @@
 		</classes>
 		<coins>
 			<slot1>
-				<amount type="number">43</amount>
+				<amount type="number">45</amount>
 				<name type="string">GP</name>
 			</slot1>
 			<slot2>
-				<amount type="number">45</amount>
+				<amount type="number">46</amount>
 				<name type="string">SP</name>
 			</slot2>
 			<slot3>
-				<amount type="number">31</amount>
+				<amount type="number">33</amount>
 				<name type="string">CP</name>
 			</slot3>
 			<slot4>
@@ -90,6 +93,7 @@
 				<amount type="number">0</amount>
 			</slot6>
 		</coins>
+		<dci type="string">4115959025</dci>
 		<defenses>
 			<ac>
 				<armor type="number">2</armor>
@@ -109,8 +113,9 @@
 			<load type="number">30.59</load>
 			<max type="number">120</max>
 		</encumbrance>
-		<exp type="number">507</exp>
-		<expneeded type="number">500</expneeded>
+		<exp type="number">529</exp>
+		<expneeded type="number">600</expneeded>
+		<faction type="string">Zhentarim</faction>
 		<featlist>
 		</featlist>
 		<featurelist>
@@ -505,6 +510,9 @@
 				</text>
 			</id-00008>
 		</featurelist>
+		<flaws type="string">I am a purveyor of doom and gloom who lives in a world without hope.</flaws>
+		<gender type="string">M</gender>
+		<height type="string">5'9</height>
 		<hp>
 			<deathsavefail type="number">0</deathsavefail>
 			<deathsavesuccess type="number">0</deathsavesuccess>
@@ -561,8 +569,7 @@
 				<description type="formattedtext">
 					<h>Spells</h>
 					<p>1x invisibility</p>
-					<p>1x shatter</p>
-					<p>1x Hex</p>
+					<p>1x Hypnotic Pattern</p>
 					<h>Description</h>
 					<p>This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 5 levels worth of spells at a time. When found, it contains 1d6 - 1 levels of stored spells chosen by the GM.</p>
 					<p>Any creature can cast a spell of 1st through 5th level into the ring by touching the ring as the spell is cast. The spell has no effect, other than to be stored in the ring. If the ring can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses.</p>
@@ -697,6 +704,7 @@
 		</languagelist>
 		<level type="number">5</level>
 		<name type="string">Mathris Harrick</name>
+		<notes type="string">&#34;When the heir of Tuli arrives the mina can be turned and the passage of Ifa will open.&#34;\n</notes>
 		<perception type="number">13</perception>
 		<perceptionmodifier type="number">0</perceptionmodifier>
 		<personalitytraits type="string">I always want to know how things work and what makes people tick.</personalitytraits>
@@ -1107,6 +1115,27 @@
 				<school type="string">Illusion</school>
 				<source type="string">Bard, Druid Grassland Circle, Eldritch Knight, Sorcerer, Warlock, Wizard, Arcane Trickster</source>
 			</id-00013>
+			<id-00014>
+				<actions>
+				</actions>
+				<cast type="number">0</cast>
+				<castingtime type="string">1 minute</castingtime>
+				<components type="string">V, S, M (a pearl worth at least 100 gp and an owl feather)</components>
+				<description type="formattedtext">
+					<p>You choose one object that you must touch throughout the casting of the spell. If it is a magic item or some other magic-imbued object, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it.</p>
+					<p>If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.</p>
+				</description>
+				<duration type="string">Instantaneous</duration>
+				<group type="string">Spells</group>
+				<level type="number">1</level>
+				<locked type="number">1</locked>
+				<name type="string">Identify</name>
+				<prepared type="number">0</prepared>
+				<range type="string">Touch</range>
+				<ritual type="number">1</ritual>
+				<school type="string">Divination</school>
+				<source type="string">Bard, Cleric Knowledge Domain, Eldritch Knight, Wizard, Arcane Trickster</source>
+			</id-00014>
 			<id-00015>
 				<actions>
 					<id-00001>
@@ -1177,6 +1206,7 @@
 						<damagelist>
 							<id-00001>
 								<dice type="dice">d10</dice>
+								<stat type="string">charisma</stat>
 								<type type="string">force</type>
 							</id-00001>
 						</damagelist>
@@ -1356,7 +1386,7 @@
 		</speed>
 		<temp>
 		</temp>
-		<token type="token">portrait_id-00003_token</token>
+		<token type="token">portrait_id-00009_token</token>
 		<traitlist>
 			<id-00001>
 				<locked type="number">1</locked>
@@ -1444,5 +1474,6 @@
 				<type type="number">2</type>
 			</id-00003>
 		</weaponlist>
+		<weight type="string">135 pounds</weight>
 	</character>
 </root>

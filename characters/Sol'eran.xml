@@ -84,14 +84,16 @@
 		</classes>
 		<coins>
 			<slot1>
-				<amount type="number">10</amount>
+				<amount type="number">12</amount>
 				<name type="string">GP</name>
 			</slot1>
 			<slot2>
-				<amount type="number">0</amount>
+				<amount type="number">1</amount>
+				<name type="string">SP</name>
 			</slot2>
 			<slot3>
-				<amount type="number">0</amount>
+				<amount type="number">2</amount>
+				<name type="string">CP</name>
 			</slot3>
 			<slot4>
 				<amount type="number">0</amount>
@@ -119,11 +121,11 @@
 			<encumbered type="number">50</encumbered>
 			<encumberedheavy type="number">100</encumberedheavy>
 			<liftpushdrag type="number">300</liftpushdrag>
-			<load type="number">82.1</load>
+			<load type="number">84.1</load>
 			<max type="number">150</max>
 		</encumbrance>
-		<exp type="number">901</exp>
-		<expneeded type="number">2700</expneeded>
+		<exp type="number">323</exp>
+		<expneeded type="number">400</expneeded>
 		<featlist>
 		</featlist>
 		<featurelist>
@@ -490,6 +492,25 @@
 				<type type="string">Adventuring Gear</type>
 				<weight type="number">4</weight>
 			</id-00016>
+			<id-00017>
+				<ac type="number">0</ac>
+				<bonus type="number">0</bonus>
+				<carried type="number">1</carried>
+				<cost type="string">1 sp</cost>
+				<count type="number">1</count>
+				<damage type="string">1d4 bludgeoning</damage>
+				<description type="formattedtext">
+					<p></p>
+				</description>
+				<isidentified type="number">1</isidentified>
+				<istemplate type="number">0</istemplate>
+				<locked type="number">1</locked>
+				<name type="string">Club</name>
+				<properties type="string">Light</properties>
+				<subtype type="string">Simple Melee Weapons</subtype>
+				<type type="string">Weapon</type>
+				<weight type="number">2</weight>
+			</id-00017>
 		</inventorylist>
 		<languagelist>
 			<id-00001>
@@ -507,21 +528,38 @@
 		</languagelist>
 		<level type="number">3</level>
 		<name type="string">Sol'eran</name>
+		<notes type="string">Found myself teleported into a strange town covered by a field of invulnrability. A man stabbed himself in the leg to prove it. But was well unharmed his clothes was left damaged though.\n\nWe went to the tavern run by a half trolll half orc. You cannot even get drunk.\n\nOutside of the town you can get hurt.\n\nThere is dungeon to the east part explored. There are artifacts in the there. a large washing basin, a small bowl with 6 copper pieces and a picture of a maiden, wiith a knight. A statue of the maiden and a\n\nThe dungeon belongs to an order of knights who worship the maiden, who keeps them alive longer than normal.\n\nMathris Harrick one of our comrades has a strange grey owl with a tentacle for a tongue\n\nMathris Harrick is a rather scrawny looking half elf.  His clothes, though once opulent are threadbare, worn at the elbows.  He wears the robe of a courtier over studded leather armour of serviceable design.  In his hand he holds an odd looking staff.  Its head is carved in the form of an odd squid like creature with a number of tentacles.  The number is different every time you count them, if you can be bothered too. Its eyes glint - brighter when they have nothing to reflect, oddly.\n\nThere is a big majestic door in the dungeon. Bands of monsters, mercenaries have been seen in the dungeon pertainning to someone to be the master who wants what is behind the door.\n\nThe complex is guarded by an order of knights called the knights of vinoa.\n\n\n\n</notes>
 		<perception type="number">15</perception>
 		<perceptionmodifier type="number">0</perceptionmodifier>
 		<personalitytraits type="string">I have lost too many friends and am slow to make new ones.\nII'm driven by wanderlust that led me away from home</personalitytraits>
 		<powergroup>
 			<id-00001>
-				<atkmod type="number">0</atkmod>
 				<atkprof type="number">1</atkprof>
 				<castertype type="string">memorization</castertype>
 				<name type="string">Spells</name>
 				<prepared type="number">6</prepared>
-				<savemod type="number">0</savemod>
 				<saveprof type="number">1</saveprof>
 				<stat type="string">wisdom</stat>
-				<uses type="number">0</uses>
 			</id-00001>
+			<id-00002>
+				<atkmod type="number">0</atkmod>
+				<atkprof type="number">1</atkprof>
+				<name type="string">Circle of the Moon</name>
+				<prepared type="number">0</prepared>
+				<savemod type="number">0</savemod>
+				<saveprof type="number">1</saveprof>
+				<uses type="number">0</uses>
+			</id-00002>
+			<id-00005>
+				<atkmod type="number">0</atkmod>
+				<atkprof type="number">1</atkprof>
+				<name type="string">Class - Druid</name>
+				<prepared type="number">0</prepared>
+				<savemod type="number">0</savemod>
+				<saveprof type="number">1</saveprof>
+				<uses type="number">2</uses>
+				<usesperiod type="string">enc</usesperiod>
+			</id-00005>
 		</powergroup>
 		<powermeta>
 			<pactmagicslots1>
@@ -1488,7 +1526,7 @@
 						<durmod type="number">1</durmod>
 						<durunit type="string">hour</durunit>
 						<label type="string">Enhance Ability (C)</label>
-						<order type="number">2</order>
+						<order type="number">1</order>
 						<targeting type="string">self</targeting>
 						<type type="string">effect</type>
 					</id-00002>
@@ -1496,7 +1534,7 @@
 						<durmod type="number">1</durmod>
 						<durunit type="string">hour</durunit>
 						<label type="string">Enhance Ability - Bear's Endurance (C); ADVCHK: constitution</label>
-						<order type="number">3</order>
+						<order type="number">1</order>
 						<type type="string">effect</type>
 					</id-00003>
 					<id-00005>
@@ -2108,16 +2146,26 @@
 				<school type="string">Evocation</school>
 				<source type="string">Bard, Druid, Sorcerer</source>
 			</id-00047>
+			<id-00048>
+				<actions>
+				</actions>
+				<cast type="number">0</cast>
+				<description type="formattedtext">
+					<p></p>
+				</description>
+				<group type="string">Class - Druid</group>
+				<level type="number">0</level>
+				<name type="string">Wild Shape</name>
+				<prepared type="number">0</prepared>
+				<ritual type="number">0</ritual>
+			</id-00048>
 			<id-00049>
 				<actions>
 					<id-00001>
-						<atkmod type="number">0</atkmod>
 						<atkprof type="number">1</atkprof>
 						<atktype type="string">ranged</atktype>
 						<order type="number">1</order>
-						<savedcmod type="number">0</savedcmod>
 						<savedcprof type="number">1</savedcprof>
-						<savemagic type="number">0</savemagic>
 						<type type="string">cast</type>
 					</id-00001>
 					<id-00002>
@@ -2183,6 +2231,131 @@
 				<school type="string">Transmutation</school>
 				<source type="string">Druid, Sorcerer, Wizard</source>
 			</id-00050>
+			<id-00061>
+				<actions>
+					<id-00001>
+						<heallist>
+							<id-00001>
+								<bonus type="number">0</bonus>
+								<dice type="dice">d8</dice>
+							</id-00001>
+						</heallist>
+						<healtargeting type="string">self</healtargeting>
+						<healtype type="string">temp</healtype>
+						<order type="number">1</order>
+						<type type="string">heal</type>
+					</id-00001>
+					<id-00002>
+						<heallist>
+							<id-00001>
+								<bonus type="number">0</bonus>
+								<dice type="dice">d8,d8</dice>
+							</id-00001>
+						</heallist>
+						<healtargeting type="string">self</healtargeting>
+						<healtype type="string">temp</healtype>
+						<order type="number">2</order>
+						<type type="string">heal</type>
+					</id-00002>
+					<id-00003>
+						<heallist>
+							<id-00001>
+								<bonus type="number">0</bonus>
+								<dice type="dice">d8,d8,d8</dice>
+							</id-00001>
+						</heallist>
+						<healtargeting type="string">self</healtargeting>
+						<healtype type="string">temp</healtype>
+						<order type="number">3</order>
+						<type type="string">heal</type>
+					</id-00003>
+					<id-00004>
+						<heallist>
+							<id-00001>
+								<bonus type="number">0</bonus>
+								<dice type="dice">d8,d8,d8,d8</dice>
+							</id-00001>
+						</heallist>
+						<healtargeting type="string">self</healtargeting>
+						<healtype type="string">temp</healtype>
+						<order type="number">4</order>
+						<type type="string">heal</type>
+					</id-00004>
+					<id-00005>
+						<heallist>
+							<id-00001>
+								<bonus type="number">0</bonus>
+								<dice type="dice">d8,d8,d8,d8,d8</dice>
+							</id-00001>
+						</heallist>
+						<healtargeting type="string">self</healtargeting>
+						<healtype type="string">temp</healtype>
+						<order type="number">5</order>
+						<type type="string">heal</type>
+					</id-00005>
+					<id-00006>
+						<heallist>
+							<id-00001>
+								<bonus type="number">0</bonus>
+								<dice type="dice">d8,d8,d8,d8,d8,d8</dice>
+							</id-00001>
+						</heallist>
+						<healtargeting type="string">self</healtargeting>
+						<healtype type="string">temp</healtype>
+						<order type="number">6</order>
+						<type type="string">heal</type>
+					</id-00006>
+					<id-00007>
+						<heallist>
+							<id-00001>
+								<bonus type="number">0</bonus>
+								<dice type="dice">d8,d8,d8,d8,d8,d8,d8</dice>
+							</id-00001>
+						</heallist>
+						<healtargeting type="string">self</healtargeting>
+						<healtype type="string">temp</healtype>
+						<order type="number">7</order>
+						<type type="string">heal</type>
+					</id-00007>
+					<id-00008>
+						<heallist>
+							<id-00001>
+								<bonus type="number">0</bonus>
+								<dice type="dice">d8,d8,d8,d8,d8,d8,d8,d8</dice>
+							</id-00001>
+						</heallist>
+						<healtargeting type="string">self</healtargeting>
+						<healtype type="string">temp</healtype>
+						<order type="number">8</order>
+						<type type="string">heal</type>
+					</id-00008>
+					<id-00009>
+						<heallist>
+							<id-00001>
+								<bonus type="number">0</bonus>
+								<dice type="dice">d8,d8,d8,d8,d8,d8,d8,d8,d8</dice>
+							</id-00001>
+						</heallist>
+						<healtargeting type="string">self</healtargeting>
+						<healtype type="string">temp</healtype>
+						<order type="number">9</order>
+						<type type="string">heal</type>
+					</id-00009>
+				</actions>
+				<cast type="number">0</cast>
+				<description type="formattedtext">
+					<p>When you choose this circle at 2nd level, you gain the ability to use Wild Shape on your turn as a bonus action, rather than as an action.</p>
+					<p>Additionally, while you are transformed by Wild Shape, you can use a bonus action to expend one spell slot to regain 1d8 hit points per level of the spell slot expended.</p>
+				</description>
+				<group type="string">Circle of the Moon</group>
+				<level type="number">0</level>
+				<locked type="number">1</locked>
+				<name type="string">Combat Wild Shape\nSpellslot Heals</name>
+				<prepared type="number">0</prepared>
+				<ritual type="number">0</ritual>
+				<specialization type="string">Circle of the Moon</specialization>
+				<usesperiod type="string">enc</usesperiod>
+			</id-00061>
 		</powers>
 		<profbonus type="number">2</profbonus>
 		<proficiencylist>
@@ -2350,7 +2523,7 @@
 		</speed>
 		<temp>
 		</temp>
-		<token type="token">portrait_id-00001_token</token>
+		<token type="token">portrait_id-00002_token</token>
 		<traitlist>
 			<id-00001>
 				<locked type="number">1</locked>
@@ -2425,6 +2598,26 @@
 				</shortcut>
 				<type type="number">1</type>
 			</id-00002>
+			<id-00003>
+				<attackbonus type="number">0</attackbonus>
+				<carried type="number">2</carried>
+				<damagelist>
+					<id-00001>
+						<bonus type="number">0</bonus>
+						<dice type="dice">d4</dice>
+						<stat type="string">base</stat>
+						<type type="string">bludgeoning</type>
+					</id-00001>
+				</damagelist>
+				<isidentified type="number">1</isidentified>
+				<name type="string">Club</name>
+				<prof type="number">1</prof>
+				<shortcut type="windowreference">
+					<class>item</class>
+					<recordname>....inventorylist.id-00017</recordname>
+				</shortcut>
+				<type type="number">0</type>
+			</id-00003>
 			<id-00004>
 				<attackbonus type="number">1</attackbonus>
 				<attackstat type="string">dexterity</attackstat>
