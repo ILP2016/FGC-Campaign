@@ -71,7 +71,7 @@
 		</classes>
 		<coins>
 			<slot1>
-				<amount type="number">0</amount>
+				<amount type="number">27</amount>
 				<name type="string">GP</name>
 			</slot1>
 			<slot2>
@@ -79,7 +79,7 @@
 				<name type="string">PP</name>
 			</slot2>
 			<slot3>
-				<amount type="number">0</amount>
+				<amount type="number">16</amount>
 				<name type="string">CP</name>
 			</slot3>
 			<slot4>
@@ -87,7 +87,7 @@
 				<name type="string">EP</name>
 			</slot4>
 			<slot5>
-				<amount type="number">0</amount>
+				<amount type="number">34</amount>
 				<name type="string">SP</name>
 			</slot5>
 			<slot6>
@@ -112,7 +112,7 @@
 			<load type="number">15</load>
 			<max type="number">120</max>
 		</encumbrance>
-		<exp type="number">315</exp>
+		<exp type="number">390</exp>
 		<expneeded type="number">400</expneeded>
 		<featlist>
 		</featlist>
@@ -206,6 +206,9 @@
 				<source type="string">Warlock</source>
 				<specialization type="string">The Raven Queen</specialization>
 				<text type="formattedtext">
+					<linklist>
+						<link class="npc" recordname="npc.id-00077@ProNobis - Random Encounter">Raven</link>
+					</linklist>
 					<p>Starting at 1st level, you gain the service of a spirit sent by the Raven Queen to watch over you. The spirit assumes the form and game statistics of a raven, and it always obeys your commands, which you can give telepathically while it is within 100 feet of you.</p>
 					<p>While the raven is perched on your shoulder, you gain darkvision with a range of 30 feet and a bonus to your passive Wisdom (Perception) score and to Wisdom (Perception) checks. The bonus equals your Charisma modifier. While perched on your shoulder, the raven can't be targeted by any attack or other harmful effect; only you can cast spells on it; it can't take damage; and it is incapacitated.</p>
 					<p>You can see through the raven's eyes and hear what it hears while it is within 100 feet of you.</p>
@@ -520,7 +523,7 @@
 			<deathsavesuccess type="number">0</deathsavesuccess>
 			<temporary type="number">0</temporary>
 			<total type="number">21</total>
-			<wounds type="number">12</wounds>
+			<wounds type="number">0</wounds>
 		</hp>
 		<ideals type="string">Responsibility. I do what I must and obey the Night Queen's Orders. (Lawful)</ideals>
 		<initiative>
@@ -591,6 +594,25 @@
 				<type type="string">Weapon</type>
 				<weight type="number">1</weight>
 			</id-00002>
+			<id-00003>
+				<ac type="number">0</ac>
+				<bonus type="number">0</bonus>
+				<carried type="number">1</carried>
+				<cost type="string">501 - 5,000 gp</cost>
+				<count type="number">1</count>
+				<description type="formattedtext">
+					<h>Description</h>
+					<p>You have resistance to force damage type while wearing this ring</p>
+				</description>
+				<isidentified type="number">1</isidentified>
+				<locked type="number">1</locked>
+				<name type="string">Ring of Force Resistance</name>
+				<nonid_name type="string">Gold Ring</nonid_name>
+				<nonidentified type="string">A delicately made gold ring with a sapphire setting.</nonidentified>
+				<rarity type="string">Rare (Requires Attunement)</rarity>
+				<type type="string">Ring</type>
+				<weight type="number">0</weight>
+			</id-00003>
 		</inventorylist>
 		<languagelist>
 			<id-00001>
@@ -605,7 +627,8 @@
 		</languagelist>
 		<level type="number">3</level>
 		<name type="string">Debria</name>
-		<perception type="number">14</perception>
+		<notes type="string">aluminum ore in dungeon to east!</notes>
+		<perception type="number">17</perception>
 		<perceptionmodifier type="number">0</perceptionmodifier>
 		<personalitytraits type="string">I'm always polite and respectful.\nI can stare down a hell hound without flinching.</personalitytraits>
 		<powergroup>
@@ -1098,6 +1121,41 @@
 				<school type="string">Conjuration</school>
 				<source type="string">Eldritch Knight, Wizard, Arcane Trickster</source>
 			</id-00014>
+			<id-00015>
+				<actions>
+					<id-00001>
+						<atktype type="string">ranged</atktype>
+						<order type="number">1</order>
+						<type type="string">cast</type>
+					</id-00001>
+					<id-00002>
+						<damagelist>
+							<id-00001>
+								<dice type="dice">d10</dice>
+								<type type="string">force</type>
+							</id-00001>
+						</damagelist>
+						<order type="number">2</order>
+						<type type="string">damage</type>
+					</id-00002>
+				</actions>
+				<cast type="number">0</cast>
+				<castingtime type="string">1 action</castingtime>
+				<components type="string">V, S</components>
+				<description type="formattedtext">
+					<p>A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 force damage.</p>
+					<p>The spell creates more than one beam when you reach higher levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.</p>
+				</description>
+				<duration type="string">Instantaneous</duration>
+				<group type="string">Spells</group>
+				<level type="number">0</level>
+				<locked type="number">1</locked>
+				<name type="string">Eldritch Blast</name>
+				<prepared type="number">0</prepared>
+				<range type="string">120 feet</range>
+				<school type="string">Evocation</school>
+				<source type="string">Warlock</source>
+			</id-00015>
 			<id-00016>
 				<actions>
 				</actions>
@@ -1234,11 +1292,11 @@
 		<size type="string">Medium</size>
 		<skilllist>
 			<id-00001>
-				<misc type="number">0</misc>
+				<misc type="number">3</misc>
 				<name type="string">Perception</name>
 				<prof type="number">1</prof>
 				<stat type="string">wisdom</stat>
-				<total type="number">4</total>
+				<total type="number">7</total>
 			</id-00001>
 			<id-00002>
 				<misc type="number">0</misc>

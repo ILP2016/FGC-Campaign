@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<root version="3.3" release="7|CoreRPG:3">
+<root version="3.3" release="8|CoreRPG:3">
 	<character>
 		<abilities>
 			<charisma>
@@ -58,8 +58,9 @@
 		<classes>
 			<id-00001>
 				<casterlevelinvmult type="number">1</casterlevelinvmult>
+				<casterpactmagic type="number">0</casterpactmagic>
 				<hddie type="dice">d8</hddie>
-				<hdused type="number">0</hdused>
+				<hdused type="number">2</hdused>
 				<level type="number">3</level>
 				<name type="string">Druid</name>
 				<shortcut type="windowreference">
@@ -70,23 +71,31 @@
 		</classes>
 		<coins>
 			<slot1>
-				<amount type="number">10</amount>
+				<amount type="number">50</amount>
 				<name type="string">GP</name>
 			</slot1>
 			<slot2>
+				<amount type="number">43</amount>
+				<name type="string">SP</name>
 			</slot2>
 			<slot3>
+				<amount type="number">29</amount>
+				<name type="string">CP</name>
 			</slot3>
 			<slot4>
+				<amount type="number">0</amount>
 			</slot4>
 			<slot5>
+				<amount type="number">0</amount>
 			</slot5>
 			<slot6>
+				<amount type="number">0</amount>
 			</slot6>
 		</coins>
 		<defenses>
 			<ac>
 				<armor type="number">1</armor>
+				<disstealth type="number">0</disstealth>
 				<misc type="number">0</misc>
 				<prof type="number">1</prof>
 				<shield type="number">2</shield>
@@ -102,6 +111,8 @@
 			<load type="number">81</load>
 			<max type="number">150</max>
 		</encumbrance>
+		<exp type="number">407</exp>
+		<expneeded type="number">400</expneeded>
 		<featlist>
 		</featlist>
 		<featurelist>
@@ -341,9 +352,11 @@
 		<gender type="string">Male</gender>
 		<height type="string">5' 11&#34;</height>
 		<hp>
+			<deathsavefail type="number">0</deathsavefail>
+			<deathsavesuccess type="number">0</deathsavesuccess>
 			<temporary type="number">0</temporary>
 			<total type="number">24</total>
-			<wounds type="number">0</wounds>
+			<wounds type="number">9</wounds>
 		</hp>
 		<ideals type="string">Self-Improvement. The goal of a life of study is the betterment of oneself. (Any)</ideals>
 		<initiative>
@@ -358,6 +371,7 @@
 				<isidentified type="number">1</isidentified>
 				<location type="string">Backpack</location>
 				<name type="string">Quill</name>
+				<weight type="number">0</weight>
 			</id-00001>
 			<id-00002>
 				<carried type="number">1</carried>
@@ -365,6 +379,7 @@
 				<isidentified type="number">1</isidentified>
 				<location type="string">Backpack</location>
 				<name type="string">Bottle of Black Ink</name>
+				<weight type="number">0</weight>
 			</id-00002>
 			<id-00003>
 				<carried type="number">1</carried>
@@ -372,6 +387,7 @@
 				<isidentified type="number">1</isidentified>
 				<location type="string">Backpack</location>
 				<name type="string">Small Knife</name>
+				<weight type="number">0</weight>
 			</id-00003>
 			<id-00004>
 				<carried type="number">1</carried>
@@ -379,6 +395,7 @@
 				<isidentified type="number">1</isidentified>
 				<location type="string">Backpack</location>
 				<name type="string">Letter from Prof Colin</name>
+				<weight type="number">0</weight>
 			</id-00004>
 			<id-00005>
 				<carried type="number">1</carried>
@@ -553,11 +570,66 @@
 				<count type="number">1</count>
 				<isidentified type="number">1</isidentified>
 				<name type="string">Sprig of Mistletoe</name>
+				<weight type="number">0</weight>
 			</id-00017>
+			<id-00018>
+				<ac type="number">0</ac>
+				<bonus type="number">0</bonus>
+				<carried type="number">1</carried>
+				<cost type="string">54 gp</cost>
+				<count type="number">1</count>
+				<description type="formattedtext">
+					<h>Description</h>
+					<linklist>
+						<link class="power" recordname="spell.id-00204@ProNobis-WorldCreation">Spell: Moonbeam</link>
+					</linklist>
+					<p>This <u>spell scroll </u>bears the words of a single spell, <i>Moonbeam </i>, written in a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.</p>
+					<p>If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10 + the spell's level. On a failed check, the spell disappears from the scroll with no other effect.</p>
+					<p>Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.</p>
+					<p>This spell scroll's saving throw DC 13 and attack bonus +5.</p>
+					<p>A wizard spell on a <i>spell scroll </i>can be copied just as spells in spellbooks can be copied. When a spell is copied from a <i>spell scroll </i>, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the <i>spell scroll </i>is destroyed.</p>
+				</description>
+				<isidentified type="number">1</isidentified>
+				<locked type="number">1</locked>
+				<name type="string">Scroll of Moonbeam</name>
+				<nonid_name type="string">Elegant Scroll</nonid_name>
+				<nonidentified type="string">The materials used in this scroll are of very high quality and the writing is precise and done with a great deal of care and attention to detail.</nonidentified>
+				<rarity type="string">Uncommon</rarity>
+				<spells>
+					<id-00001>
+						<link type="windowreference">
+							<class>reference_spell</class>
+							<recordname>reference.spelldata.moonbeam@*</recordname>
+						</link>
+						<name type="string">Moonbeam</name>
+					</id-00001>
+				</spells>
+				<type type="string">Scroll</type>
+				<weight type="number">0</weight>
+			</id-00018>
+			<id-00019>
+				<ac type="number">0</ac>
+				<bonus type="number">0</bonus>
+				<carried type="number">2</carried>
+				<cost type="string">101 - 500 gp</cost>
+				<count type="number">1</count>
+				<description type="formattedtext">
+					<h>Description</h>
+					<p>While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have advantage on Dexterity (Stealth) checks that rely on moving silently.</p>
+				</description>
+				<isidentified type="number">1</isidentified>
+				<locked type="number">1</locked>
+				<name type="string">Boots of Elvenkind</name>
+				<nonid_name type="string">Boots</nonid_name>
+				<nonidentified type="string">The finest leather has gone into the making of these superb boots. They are unmistakably Elven in origin.</nonidentified>
+				<rarity type="string">Uncommon</rarity>
+				<type type="string">Wondrous Item</type>
+				<weight type="number">0</weight>
+			</id-00019>
 		</inventorylist>
 		<languagelist>
 			<id-00001>
-				<name type="string">Common </name>
+				<name type="string">Common</name>
 			</id-00001>
 			<id-00002>
 				<name type="string">Elvish</name>
@@ -573,7 +645,7 @@
 			</id-00005>
 		</languagelist>
 		<level type="number">3</level>
-		<name type="string">High Elf (Land Druid)</name>
+		<name type="string">Aravor</name>
 		<perception type="number">15</perception>
 		<perceptionmodifier type="number">0</perceptionmodifier>
 		<personalitytraits type="string">I . . . speak . . . slowly . . . when talking . . . to idiots, . . . which . . . almost . . . everyone . . . is . . . compared . . . to me.\n\nI am horribly, horribly awkward in social situations.</personalitytraits>
@@ -603,45 +675,79 @@
 		</powergroup>
 		<powermeta>
 			<pactmagicslots1>
+				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots1>
 			<pactmagicslots2>
+				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots2>
 			<pactmagicslots3>
+				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots3>
 			<pactmagicslots4>
+				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots4>
 			<pactmagicslots5>
+				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots5>
 			<pactmagicslots6>
+				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots6>
 			<pactmagicslots7>
+				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots7>
 			<pactmagicslots8>
+				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots8>
 			<pactmagicslots9>
+				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots9>
 			<spellslots1>
 				<max type="number">4</max>
+				<used type="number">0</used>
 			</spellslots1>
 			<spellslots2>
 				<max type="number">2</max>
+				<used type="number">1</used>
 			</spellslots2>
 			<spellslots3>
+				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots3>
 			<spellslots4>
+				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots4>
 			<spellslots5>
+				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots5>
 			<spellslots6>
+				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots6>
 			<spellslots7>
+				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots7>
 			<spellslots8>
+				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots8>
 			<spellslots9>
+				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots9>
 		</powermeta>
-		<powermode type="string">combat</powermode>
+		<powermode type="string">standard</powermode>
 		<powers>
 			<id-00001>
 				<actions>
@@ -679,6 +785,7 @@
 				<name type="string">Spider Climb</name>
 				<prepared type="number">0</prepared>
 				<range type="string">Touch</range>
+				<ritual type="number">0</ritual>
 				<school type="string">Transmutation</school>
 				<source type="string">Druid Forest Circle, Druid Mountain Circle, Druid Underdark Circle, Eldritch Knight, Sorcerer, Warlock, Wizard, Arcane Trickster</source>
 			</id-00002>
@@ -709,6 +816,7 @@
 					<id-00001>
 						<atktype type="string">ranged</atktype>
 						<order type="number">1</order>
+						<savemagic type="number">1</savemagic>
 						<type type="string">cast</type>
 					</id-00001>
 					<id-00002>
@@ -771,6 +879,7 @@
 					<id-00001>
 						<atktype type="string">melee</atktype>
 						<order type="number">1</order>
+						<savemagic type="number">1</savemagic>
 						<type type="string">cast</type>
 					</id-00001>
 					<id-00002>
@@ -803,11 +912,182 @@
 				<school type="string">Transmutation</school>
 				<source type="string">Druid</source>
 			</id-00006>
-			<id-00007>
+			<id-00008>
+				<actions>
+					<id-00001>
+						<damagelist>
+							<id-00001>
+								<dice type="dice">d4,d4</dice>
+								<type type="string">piercing</type>
+							</id-00001>
+						</damagelist>
+						<order type="number">1</order>
+						<type type="string">damage</type>
+					</id-00001>
+				</actions>
+				<cast type="number">0</cast>
+				<castingtime type="string">1 action</castingtime>
+				<components type="string">V, S, M (seven sharp thorns or seven small twigs, each sharpened to a point)</components>
+				<description type="formattedtext">
+					<p>The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves into or within the area, it takes 2d4 piercing damage for every 5 feet it travels. The transformation of the ground is camouflaged to look natural. Any creature that can't see the area at the time the spell is cast must make a Wisdom (Perception) check against your spell save DC to recognize the terrain as hazardous before entering it.</p>
+				</description>
+				<duration type="string">Concentration, up to 10 minutes</duration>
+				<group type="string">Spells</group>
+				<level type="number">2</level>
+				<locked type="number">1</locked>
+				<name type="string">Spike Growth</name>
+				<prepared type="number">1</prepared>
+				<range type="string">150 feet</range>
+				<ritual type="number">0</ritual>
+				<school type="string">Transmutation</school>
+				<source type="string">Cleric Nature Domain, Druid, Druid Arctic Circle, Druid Mountain Circle, Ranger</source>
+			</id-00008>
+			<id-00009>
+				<actions>
+					<id-00001>
+						<order type="number">1</order>
+						<savemagic type="number">1</savemagic>
+						<savetype type="string">wisdom</savetype>
+						<type type="string">cast</type>
+					</id-00001>
+					<id-00002>
+						<durmod type="number">1</durmod>
+						<durunit type="string">hour</durunit>
+						<label type="string">Charmed</label>
+						<order type="number">2</order>
+						<type type="string">effect</type>
+					</id-00002>
+				</actions>
+				<cast type="number">0</cast>
+				<castingtime type="string">1 action</castingtime>
+				<components type="string">V, S</components>
+				<description type="formattedtext">
+					<p>You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw, and does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.</p>
+					<p><b>At Higher Levels. </b>When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.</p>
+				</description>
+				<duration type="string">1 hour</duration>
+				<group type="string">Spells</group>
+				<level type="number">1</level>
+				<locked type="number">1</locked>
+				<name type="string">Charm Person</name>
+				<prepared type="number">1</prepared>
+				<range type="string">30 feet</range>
+				<ritual type="number">0</ritual>
+				<school type="string">Enchantment</school>
+				<source type="string">Bard, Cleric Trickery Domain, Druid, Eldritch Knight, Sorcerer, Warlock, Wizard, Arcane Trickster</source>
+			</id-00009>
+			<id-00010>
+				<actions>
+					<id-00001>
+						<heallist>
+							<id-00001>
+								<dice type="dice">d4</dice>
+								<stat type="string">base</stat>
+							</id-00001>
+						</heallist>
+						<order type="number">1</order>
+						<type type="string">heal</type>
+					</id-00001>
+					<id-00002>
+						<heallist>
+							<id-00001>
+								<bonus type="number">0</bonus>
+								<dice type="dice">d4,d4</dice>
+								<stat type="string">base</stat>
+							</id-00001>
+						</heallist>
+						<order type="number">2</order>
+						<type type="string">heal</type>
+					</id-00002>
+				</actions>
+				<cast type="number">0</cast>
+				<castingtime type="string">1 bonus action</castingtime>
+				<components type="string">V</components>
+				<description type="formattedtext">
+					<p>A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.</p>
+					<p><b>At Higher Levels. </b>When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.</p>
+				</description>
+				<duration type="string">Instantaneous</duration>
+				<group type="string">Spells</group>
+				<level type="number">1</level>
+				<locked type="number">1</locked>
+				<name type="string">Healing Word</name>
+				<prepared type="number">1</prepared>
+				<range type="string">60 feet</range>
+				<ritual type="number">0</ritual>
+				<school type="string">Evocation</school>
+				<source type="string">Bard, Cleric, Druid</source>
+			</id-00010>
+			<id-00011>
+				<actions>
+				</actions>
+				<cast type="number">0</cast>
+				<castingtime type="string">1 action</castingtime>
+				<components type="string">V, S</components>
+				<description type="formattedtext">
+					<p>For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.</p>
+					<p>The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.</p>
+				</description>
+				<duration type="string">Concentration, up to 10 minutes</duration>
+				<group type="string">Spells</group>
+				<level type="number">1</level>
+				<locked type="number">1</locked>
+				<name type="string">Detect Magic</name>
+				<prepared type="number">1</prepared>
+				<range type="string">Self</range>
+				<ritual type="number">1</ritual>
+				<school type="string">Divination</school>
+				<source type="string">Bard, Cleric, Druid, Eldritch Knight, Eldritch Invocations, Paladin, Ranger, Sorcerer, Wizard, Arcane Trickster</source>
+			</id-00011>
+			<id-00012>
+				<actions>
+					<id-00001>
+						<order type="number">1</order>
+						<savemagic type="number">1</savemagic>
+						<savetype type="string">wisdom</savetype>
+						<type type="string">cast</type>
+					</id-00001>
+					<id-00002>
+						<durmod type="number">24</durmod>
+						<durunit type="string">hour</durunit>
+						<label type="string">Charmed</label>
+						<order type="number">2</order>
+						<type type="string">effect</type>
+					</id-00002>
+				</actions>
+				<cast type="number">0</cast>
+				<castingtime type="string">1 action</castingtime>
+				<components type="string">V, S, M (a morsel of food)</components>
+				<description type="formattedtext">
+					<p>This spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within range. It must see and hear you. If the beast's Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for the spell's duration. If you or one of your companions harms the target, the spells ends.</p>
+					<p><b>At Higher Levels. </b>When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast for each slot level above 1st.</p>
+				</description>
+				<duration type="string">24 hours</duration>
+				<group type="string">Spells</group>
+				<level type="number">1</level>
+				<locked type="number">1</locked>
+				<name type="string">Animal Friendship</name>
+				<prepared type="number">1</prepared>
+				<range type="string">30 feet</range>
+				<ritual type="number">0</ritual>
+				<school type="string">Enchantment</school>
+				<source type="string">Bard, Cleric Nature Domain, Druid, Ranger</source>
+			</id-00012>
+			<id-00013>
+				<actions>
+				</actions>
+				<cast type="number">0</cast>
+				<group type="string">Druid</group>
+				<level type="number">0</level>
+				<name type="string">Wild Shape</name>
+				<prepared type="number">2</prepared>
+			</id-00013>
+			<id-00018>
 				<actions>
 					<id-00001>
 						<onmissdamage type="string">half</onmissdamage>
 						<order type="number">1</order>
+						<savemagic type="number">1</savemagic>
 						<savetype type="string">constitution</savetype>
 						<type type="string">cast</type>
 					</id-00001>
@@ -836,166 +1116,12 @@
 				<level type="number">2</level>
 				<locked type="number">1</locked>
 				<name type="string">Moonbeam</name>
-				<prepared type="number">0</prepared>
+				<prepared type="number">1</prepared>
 				<range type="string">120 feet</range>
 				<ritual type="number">0</ritual>
 				<school type="string">Evocation</school>
 				<source type="string">Druid</source>
-			</id-00007>
-			<id-00008>
-				<actions>
-					<id-00001>
-						<damagelist>
-							<id-00001>
-								<dice type="dice">d4,d4</dice>
-								<type type="string">piercing</type>
-							</id-00001>
-						</damagelist>
-						<order type="number">1</order>
-						<type type="string">damage</type>
-					</id-00001>
-				</actions>
-				<cast type="number">0</cast>
-				<castingtime type="string">1 action</castingtime>
-				<components type="string">V, S, M (seven sharp thorns or seven small twigs, each sharpened to a point)</components>
-				<description type="formattedtext">
-					<p>The ground in a 20-foot radius centered on a point within range twists and sprouts hard spikes and thorns. The area becomes difficult terrain for the duration. When a creature moves into or within the area, it takes 2d4 piercing damage for every 5 feet it travels. The transformation of the ground is camouflaged to look natural. Any creature that can't see the area at the time the spell is cast must make a Wisdom (Perception) check against your spell save DC to recognize the terrain as hazardous before entering it.</p>
-				</description>
-				<duration type="string">Concentration, up to 10 minutes</duration>
-				<group type="string">Spells</group>
-				<level type="number">2</level>
-				<locked type="number">1</locked>
-				<name type="string">Spike Growth</name>
-				<prepared type="number">0</prepared>
-				<range type="string">150 feet</range>
-				<ritual type="number">0</ritual>
-				<school type="string">Transmutation</school>
-				<source type="string">Cleric Nature Domain, Druid, Druid Arctic Circle, Druid Mountain Circle, Ranger</source>
-			</id-00008>
-			<id-00009>
-				<actions>
-					<id-00001>
-						<order type="number">1</order>
-						<savetype type="string">wisdom</savetype>
-						<type type="string">cast</type>
-					</id-00001>
-					<id-00002>
-						<durmod type="number">1</durmod>
-						<durunit type="string">hour</durunit>
-						<label type="string">Charmed</label>
-						<order type="number">2</order>
-						<type type="string">effect</type>
-					</id-00002>
-				</actions>
-				<cast type="number">0</cast>
-				<castingtime type="string">1 action</castingtime>
-				<components type="string">V, S</components>
-				<description type="formattedtext">
-					<p>You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw, and does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.</p>
-					<p><b>At Higher Levels. </b>When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.</p>
-				</description>
-				<duration type="string">1 hour</duration>
-				<group type="string">Spells</group>
-				<level type="number">1</level>
-				<locked type="number">1</locked>
-				<name type="string">Charm Person</name>
-				<prepared type="number">0</prepared>
-				<range type="string">30 feet</range>
-				<ritual type="number">0</ritual>
-				<school type="string">Enchantment</school>
-				<source type="string">Bard, Cleric Trickery Domain, Druid, Eldritch Knight, Sorcerer, Warlock, Wizard, Arcane Trickster</source>
-			</id-00009>
-			<id-00010>
-				<actions>
-					<id-00001>
-						<heallist>
-							<id-00001>
-								<dice type="dice">d4</dice>
-								<stat type="string">base</stat>
-							</id-00001>
-						</heallist>
-						<order type="number">1</order>
-						<type type="string">heal</type>
-					</id-00001>
-				</actions>
-				<cast type="number">0</cast>
-				<castingtime type="string">1 bonus action</castingtime>
-				<components type="string">V</components>
-				<description type="formattedtext">
-					<p>A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.</p>
-					<p><b>At Higher Levels. </b>When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.</p>
-				</description>
-				<duration type="string">Instantaneous</duration>
-				<group type="string">Spells</group>
-				<level type="number">1</level>
-				<locked type="number">1</locked>
-				<name type="string">Healing Word</name>
-				<prepared type="number">0</prepared>
-				<range type="string">60 feet</range>
-				<ritual type="number">0</ritual>
-				<school type="string">Evocation</school>
-				<source type="string">Bard, Cleric, Druid</source>
-			</id-00010>
-			<id-00011>
-				<actions>
-				</actions>
-				<cast type="number">0</cast>
-				<castingtime type="string">1 action</castingtime>
-				<components type="string">V, S</components>
-				<description type="formattedtext">
-					<p>For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.</p>
-					<p>The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.</p>
-				</description>
-				<duration type="string">Concentration, up to 10 minutes</duration>
-				<group type="string">Spells</group>
-				<level type="number">1</level>
-				<locked type="number">1</locked>
-				<name type="string">Detect Magic</name>
-				<prepared type="number">0</prepared>
-				<range type="string">Self</range>
-				<ritual type="number">1</ritual>
-				<school type="string">Divination</school>
-				<source type="string">Bard, Cleric, Druid, Eldritch Knight, Eldritch Invocations, Paladin, Ranger, Sorcerer, Wizard, Arcane Trickster</source>
-			</id-00011>
-			<id-00012>
-				<actions>
-					<id-00001>
-						<order type="number">1</order>
-						<savetype type="string">wisdom</savetype>
-						<type type="string">cast</type>
-					</id-00001>
-					<id-00002>
-						<durmod type="number">24</durmod>
-						<durunit type="string">hour</durunit>
-						<label type="string">Charmed</label>
-						<order type="number">2</order>
-						<type type="string">effect</type>
-					</id-00002>
-				</actions>
-				<cast type="number">0</cast>
-				<castingtime type="string">1 action</castingtime>
-				<components type="string">V, S, M (a morsel of food)</components>
-				<description type="formattedtext">
-					<p>This spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within range. It must see and hear you. If the beast's Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for the spell's duration. If you or one of your companions harms the target, the spells ends.</p>
-					<p><b>At Higher Levels. </b>When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast for each slot level above 1st.</p>
-				</description>
-				<duration type="string">24 hours</duration>
-				<group type="string">Spells</group>
-				<level type="number">1</level>
-				<locked type="number">1</locked>
-				<name type="string">Animal Friendship</name>
-				<prepared type="number">0</prepared>
-				<range type="string">30 feet</range>
-				<ritual type="number">0</ritual>
-				<school type="string">Enchantment</school>
-				<source type="string">Bard, Cleric Nature Domain, Druid, Ranger</source>
-			</id-00012>
-			<id-00013>
-				<actions>
-				</actions>
-				<group type="string">Druid</group>
-				<name type="string">Wild Shape</name>
-			</id-00013>
+			</id-00018>
 		</powers>
 		<profbonus type="number">2</profbonus>
 		<proficiencylist>
@@ -1018,95 +1144,128 @@
 		<size type="string">Medium</size>
 		<skilllist>
 			<id-00001>
+				<misc type="number">0</misc>
 				<name type="string">Perception</name>
 				<prof type="number">1</prof>
 				<stat type="string">wisdom</stat>
 				<total type="number">5</total>
 			</id-00001>
 			<id-00002>
+				<misc type="number">0</misc>
 				<name type="string">Arcana</name>
 				<prof type="number">1</prof>
 				<stat type="string">intelligence</stat>
 				<total type="number">3</total>
 			</id-00002>
 			<id-00003>
+				<misc type="number">0</misc>
 				<name type="string">History</name>
 				<prof type="number">1</prof>
 				<stat type="string">intelligence</stat>
 				<total type="number">3</total>
 			</id-00003>
 			<id-00004>
+				<misc type="number">0</misc>
 				<name type="string">Persuasion</name>
+				<prof type="number">0</prof>
 				<stat type="string">charisma</stat>
 				<total type="number">1</total>
 			</id-00004>
 			<id-00005>
+				<misc type="number">0</misc>
 				<name type="string">Nature</name>
+				<prof type="number">0</prof>
 				<stat type="string">intelligence</stat>
 				<total type="number">1</total>
 			</id-00005>
 			<id-00006>
+				<misc type="number">0</misc>
 				<name type="string">Medicine</name>
+				<prof type="number">0</prof>
 				<stat type="string">wisdom</stat>
 				<total type="number">3</total>
 			</id-00006>
 			<id-00007>
+				<misc type="number">0</misc>
 				<name type="string">Survival</name>
+				<prof type="number">0</prof>
 				<stat type="string">wisdom</stat>
 				<total type="number">3</total>
 			</id-00007>
 			<id-00008>
+				<misc type="number">0</misc>
 				<name type="string">Performance</name>
+				<prof type="number">0</prof>
 				<stat type="string">charisma</stat>
 				<total type="number">1</total>
 			</id-00008>
 			<id-00009>
+				<misc type="number">0</misc>
 				<name type="string">Acrobatics</name>
+				<prof type="number">0</prof>
 				<stat type="string">dexterity</stat>
 				<total type="number">3</total>
 			</id-00009>
 			<id-00010>
+				<misc type="number">0</misc>
 				<name type="string">Religion</name>
 				<prof type="number">1</prof>
 				<stat type="string">intelligence</stat>
 				<total type="number">3</total>
 			</id-00010>
 			<id-00011>
+				<misc type="number">0</misc>
 				<name type="string">Athletics</name>
+				<prof type="number">0</prof>
 				<stat type="string">strength</stat>
+				<total type="number">0</total>
 			</id-00011>
 			<id-00012>
+				<misc type="number">0</misc>
 				<name type="string">Sleight of Hand</name>
+				<prof type="number">0</prof>
 				<stat type="string">dexterity</stat>
 				<total type="number">3</total>
 			</id-00012>
 			<id-00013>
+				<misc type="number">0</misc>
 				<name type="string">Insight</name>
+				<prof type="number">0</prof>
 				<stat type="string">wisdom</stat>
 				<total type="number">3</total>
 			</id-00013>
 			<id-00014>
+				<misc type="number">0</misc>
 				<name type="string">Intimidation</name>
+				<prof type="number">0</prof>
 				<stat type="string">charisma</stat>
 				<total type="number">1</total>
 			</id-00014>
 			<id-00015>
+				<misc type="number">0</misc>
 				<name type="string">Deception</name>
+				<prof type="number">0</prof>
 				<stat type="string">charisma</stat>
 				<total type="number">1</total>
 			</id-00015>
 			<id-00016>
+				<misc type="number">0</misc>
 				<name type="string">Investigation</name>
+				<prof type="number">0</prof>
 				<stat type="string">intelligence</stat>
 				<total type="number">1</total>
 			</id-00016>
 			<id-00017>
+				<misc type="number">0</misc>
 				<name type="string">Stealth</name>
+				<prof type="number">0</prof>
 				<stat type="string">dexterity</stat>
 				<total type="number">3</total>
 			</id-00017>
 			<id-00018>
+				<misc type="number">0</misc>
 				<name type="string">Animal Handling</name>
+				<prof type="number">0</prof>
 				<stat type="string">wisdom</stat>
 				<total type="number">3</total>
 			</id-00018>
@@ -1120,7 +1279,7 @@
 		</speed>
 		<temp>
 		</temp>
-		<token type="token"></token>
+		<token type="token">portrait_id-00005_token</token>
 		<traitlist>
 			<id-00001>
 				<locked type="number">1</locked>
