@@ -4651,6 +4651,165 @@
 				</id-00004>
 			</npclist>
 		</id-00040>
+		<id-00041>
+			<public />
+			<cr type="string">6</cr>
+			<exp type="number">2000</exp>
+			<name type="string">[RESULT] Cavern - True Random Encounter</name>
+			<npclist>
+				<public />
+				<id-00002>
+					<public />
+					<count type="number">2</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00308@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<public />
+						<id-00001>
+							<public />
+							<imageref type="windowreference">
+								<class>imagewindow</class>
+								<recordname>image.id-00016.image</recordname>
+							</imageref>
+							<imagex type="number">1172</imagex>
+							<imagey type="number">1180</imagey>
+						</id-00001>
+						<id-00002>
+							<public />
+							<imageref type="windowreference">
+								<class>imagewindow</class>
+								<recordname>image.id-00016.image</recordname>
+							</imageref>
+							<imagex type="number">1260</imagex>
+							<imagey type="number">1236</imagey>
+						</id-00002>
+					</maplink>
+					<name type="string">Specter</name>
+					<token type="token">tokens/specter.png@DD5E SRD Bestiary</token>
+				</id-00002>
+				<id-00003>
+					<public />
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00052@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<public />
+						<id-00001>
+							<public />
+							<imageref type="windowreference">
+								<class>imagewindow</class>
+								<recordname>image.id-00016.image</recordname>
+							</imageref>
+							<imagex type="number">1196</imagex>
+							<imagey type="number">1220</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Giant Toad</name>
+					<token type="token">tokens/G.png@DD5E SRD Bestiary</token>
+				</id-00003>
+				<id-00005>
+					<public />
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00300@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<public />
+						<id-00001>
+							<public />
+							<imageref type="windowreference">
+								<class>imagewindow</class>
+								<recordname>image.id-00016.image</recordname>
+							</imageref>
+							<imagex type="number">1260</imagex>
+							<imagey type="number">1204</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Ghoul</name>
+					<token type="token">tokens/ghoul.png@DD5E SRD Bestiary</token>
+				</id-00005>
+				<id-00006>
+					<public />
+					<count type="number">2</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00228@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<public />
+						<id-00001>
+							<public />
+							<imageref type="windowreference">
+								<class>imagewindow</class>
+								<recordname>image.id-00016.image</recordname>
+							</imageref>
+							<imagex type="number">1236</imagex>
+							<imagey type="number">1212</imagey>
+						</id-00001>
+						<id-00002>
+							<public />
+							<imageref type="windowreference">
+								<class>imagewindow</class>
+								<recordname>image.id-00016.image</recordname>
+							</imageref>
+							<imagex type="number">1324</imagex>
+							<imagey type="number">1172</imagey>
+						</id-00002>
+					</maplink>
+					<name type="string">Bugbear</name>
+					<token type="token">tokens/B.png@DD5E SRD Bestiary</token>
+				</id-00006>
+				<id-00007>
+					<public />
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00230@ProNobis - Random Encounter</recordname>
+					</link>
+					<maplink>
+						<public />
+						<id-00001>
+							<public />
+							<imageref type="windowreference">
+								<class>imagewindow</class>
+								<recordname>image.id-00016.image</recordname>
+							</imageref>
+							<imagex type="number">1284</imagex>
+							<imagey type="number">1172</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Hobgoblin</name>
+					<token type="token">tokens/H.png@DD5E SRD Bestiary</token>
+				</id-00007>
+				<id-00008>
+					<public />
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>npc.id-00002@ProNobis-WorldCreation</recordname>
+					</link>
+					<maplink>
+						<public />
+						<id-00001>
+							<public />
+							<imageref type="windowreference">
+								<class>imagewindow</class>
+								<recordname>image.id-00016.image</recordname>
+							</imageref>
+							<imagex type="number">1260</imagex>
+							<imagey type="number">1260</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Knight of the Order of Vinoa</name>
+					<token type="token">tokens/Medium/v.png@Letter Tokens</token>
+				</id-00008>
+			</npclist>
+		</id-00041>
 	</battle>
 	<calendar>
 		<public />
@@ -4744,17 +4903,17 @@
 				<holder name="jtron" owner="true" />
 				<slot1>
 					<holder name="jtron" owner="true" />
-					<amount type="number">54</amount>
+					<amount type="number">57</amount>
 					<name type="string">GP</name>
 				</slot1>
 				<slot2>
 					<holder name="jtron" owner="true" />
-					<amount type="number">56</amount>
+					<amount type="number">58</amount>
 					<name type="string">SP</name>
 				</slot2>
 				<slot3>
 					<holder name="jtron" owner="true" />
-					<amount type="number">43</amount>
+					<amount type="number">45</amount>
 					<name type="string">CP</name>
 				</slot3>
 				<slot4>
@@ -4788,11 +4947,11 @@
 				<encumbered type="number">70</encumbered>
 				<encumberedheavy type="number">140</encumberedheavy>
 				<liftpushdrag type="number">420</liftpushdrag>
-				<load type="number">129.525</load>
+				<load type="number">132.025</load>
 				<max type="number">210</max>
 			</encumbrance>
-			<exp type="number">497</exp>
-			<expneeded type="number">500</expneeded>
+			<exp type="number">557</exp>
+			<expneeded type="number">600</expneeded>
 			<featlist>
 				<holder name="jtron" owner="true" />
 			</featlist>
@@ -5443,7 +5602,8 @@
 					<carried type="number">1</carried>
 					<count type="number">1</count>
 					<isidentified type="number">1</isidentified>
-					<name type="string">Magically Attuned Doorknob (EVIL)</name>
+					<location type="string">Backpack</location>
+					<name type="string">Trophy - Magically Attuned Doorknob (EVIL)</name>
 					<weight type="number">1</weight>
 				</id-00024>
 				<id-00025>
@@ -5465,23 +5625,15 @@
 					<type type="string">Tools</type>
 					<weight type="number">0</weight>
 				</id-00025>
-				<id-00026>
+				<id-00027>
 					<holder name="jtron" owner="true" />
-					<ac type="number">0</ac>
-					<bonus type="number">0</bonus>
 					<carried type="number">1</carried>
-					<cost type="string">50 gp</cost>
 					<count type="number">1</count>
-					<description type="formattedtext">
-						<p>A character who drinks the magical red fluid in this vial regains 2d4 + 2 hit points. Drinking or administering a potion takes an action.</p>
-					</description>
 					<isidentified type="number">1</isidentified>
-					<locked type="number">1</locked>
-					<name type="string">Potion Of Healing</name>
-					<subtype type="string">Standard</subtype>
-					<type type="string">Adventuring Gear</type>
-					<weight type="number">0.5</weight>
-				</id-00026>
+					<location type="string">Backpack</location>
+					<name type="string">Trophy - Spiked Black Helmet</name>
+					<weight type="number">3</weight>
+				</id-00027>
 			</inventorylist>
 			<languagelist>
 				<holder name="jtron" owner="true" />
@@ -5570,7 +5722,7 @@
 				<spellslots1>
 					<holder name="jtron" owner="true" />
 					<max type="number">3</max>
-					<used type="number">0</used>
+					<used type="number">1</used>
 				</spellslots1>
 				<spellslots2>
 					<holder name="jtron" owner="true" />
@@ -6250,7 +6402,7 @@
 				<dexterity>
 					<holder name="Umma" owner="true" />
 					<bonus type="number">5</bonus>
-					<save type="number">7</save>
+					<save type="number">8</save>
 					<savemodifier type="number">0</savemodifier>
 					<saveprof type="number">1</saveprof>
 					<score type="number">20</score>
@@ -6258,7 +6410,7 @@
 				<intelligence>
 					<holder name="Umma" owner="true" />
 					<bonus type="number">1</bonus>
-					<save type="number">3</save>
+					<save type="number">4</save>
 					<savemodifier type="number">0</savemodifier>
 					<saveprof type="number">1</saveprof>
 					<score type="number">13</score>
@@ -6299,7 +6451,7 @@
 					<casterpactmagic type="number">0</casterpactmagic>
 					<hddie type="dice">d8</hddie>
 					<hdused type="number">2</hdused>
-					<level type="number">4</level>
+					<level type="number">5</level>
 					<name type="string">Rogue</name>
 					<shortcut type="windowreference">
 						<class>reference_class</class>
@@ -6311,17 +6463,17 @@
 				<holder name="Umma" owner="true" />
 				<slot1>
 					<holder name="Umma" owner="true" />
-					<amount type="number">17</amount>
+					<amount type="number">20</amount>
 					<name type="string">GP</name>
 				</slot1>
 				<slot2>
 					<holder name="Umma" owner="true" />
-					<amount type="number">12</amount>
+					<amount type="number">14</amount>
 					<name type="string">SP</name>
 				</slot2>
 				<slot3>
 					<holder name="Umma" owner="true" />
-					<amount type="number">19</amount>
+					<amount type="number">21</amount>
 					<name type="string">CP</name>
 				</slot3>
 				<slot4>
@@ -6359,7 +6511,7 @@
 				<load type="number">68.61</load>
 				<max type="number">150</max>
 			</encumbrance>
-			<exp type="number">442</exp>
+			<exp type="number">502</exp>
 			<expneeded type="number">500</expneeded>
 			<featlist>
 				<holder name="Umma" owner="true" />
@@ -6469,6 +6621,16 @@
 						<p>When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
 					</text>
 				</id-00009>
+				<id-00010>
+					<holder name="Umma" owner="true" />
+					<level type="number">5</level>
+					<locked type="number">1</locked>
+					<name type="string">Uncanny Dodge</name>
+					<source type="string">Rogue</source>
+					<text type="formattedtext">
+						<p>Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.</p>
+					</text>
+				</id-00010>
 			</featurelist>
 			<flaws type="string">An innocent person is in prison for a crime that I committed. I'm okay with that.</flaws>
 			<gender type="string">Female</gender>
@@ -6478,7 +6640,7 @@
 				<deathsavefail type="number">0</deathsavefail>
 				<deathsavesuccess type="number">0</deathsavesuccess>
 				<temporary type="number">0</temporary>
-				<total type="number">27</total>
+				<total type="number">33</total>
 				<wounds type="number">0</wounds>
 			</hp>
 			<ideals type="string">Freedom. Chains are meant to be broken, as are those who would forge them. (Chaotic)</ideals>
@@ -6932,9 +7094,9 @@
 					<name type="string">Halfling</name>
 				</id-00002>
 			</languagelist>
-			<level type="number">4</level>
+			<level type="number">5</level>
 			<name type="string">Umma Kynes</name>
-			<perception type="number">15</perception>
+			<perception type="number">16</perception>
 			<perceptionmodifier type="number">0</perceptionmodifier>
 			<personalitytraits type="string">I always have a plan for what to do when things go wrong.\n\nThe first thing I do in a new place is note the locations of everything valuable-or where such things could be hidden.</personalitytraits>
 			<powergroup>
@@ -7081,7 +7243,7 @@
 					<prepared type="number">0</prepared>
 					<source type="string">Rogue</source>
 				</id-00002>
-				<id-00003>
+				<id-00004>
 					<holder name="Umma" owner="true" />
 					<actions>
 						<holder name="Umma" owner="true" />
@@ -7108,9 +7270,9 @@
 					<prepared type="number">0</prepared>
 					<ritual type="number">0</ritual>
 					<source type="string">Rogue</source>
-				</id-00003>
+				</id-00004>
 			</powers>
-			<profbonus type="number">2</profbonus>
+			<profbonus type="number">3</profbonus>
 			<proficiencylist>
 				<holder name="Umma" owner="true" />
 				<id-00001>
@@ -7144,7 +7306,7 @@
 					<name type="string">Perception</name>
 					<prof type="number">1</prof>
 					<stat type="string">wisdom</stat>
-					<total type="number">5</total>
+					<total type="number">6</total>
 				</id-00001>
 				<id-00002>
 					<holder name="Umma" owner="true" />
@@ -7200,7 +7362,7 @@
 					<name type="string">Acrobatics</name>
 					<prof type="number">1</prof>
 					<stat type="string">dexterity</stat>
-					<total type="number">7</total>
+					<total type="number">8</total>
 				</id-00008>
 				<id-00009>
 					<holder name="Umma" owner="true" />
@@ -7216,7 +7378,7 @@
 					<name type="string">Athletics</name>
 					<prof type="number">1</prof>
 					<stat type="string">strength</stat>
-					<total type="number">2</total>
+					<total type="number">3</total>
 				</id-00010>
 				<id-00011>
 					<holder name="Umma" owner="true" />
@@ -7224,7 +7386,7 @@
 					<name type="string">Sleight of Hand</name>
 					<prof type="number">1</prof>
 					<stat type="string">dexterity</stat>
-					<total type="number">7</total>
+					<total type="number">8</total>
 				</id-00011>
 				<id-00012>
 					<holder name="Umma" owner="true" />
@@ -7248,7 +7410,7 @@
 					<name type="string">Deception</name>
 					<prof type="number">1</prof>
 					<stat type="string">charisma</stat>
-					<total type="number">4</total>
+					<total type="number">5</total>
 				</id-00014>
 				<id-00015>
 					<holder name="Umma" owner="true" />
@@ -7264,7 +7426,7 @@
 					<name type="string">Stealth</name>
 					<prof type="number">1</prof>
 					<stat type="string">dexterity</stat>
-					<total type="number">7</total>
+					<total type="number">8</total>
 				</id-00016>
 				<id-00017>
 					<holder name="Umma" owner="true" />
@@ -7291,7 +7453,7 @@
 					<text type="formattedtext">
 						<p></p>
 					</text>
-					<total type="number">4</total>
+					<total type="number">5</total>
 				</id-00019>
 				<id-00020>
 					<holder name="Umma" owner="true" />
@@ -7302,7 +7464,7 @@
 					<text type="formattedtext">
 						<p></p>
 					</text>
-					<total type="number">3</total>
+					<total type="number">4</total>
 				</id-00020>
 				<id-00021>
 					<holder name="Umma" owner="true" />
@@ -7313,7 +7475,7 @@
 					<text type="formattedtext">
 						<p></p>
 					</text>
-					<total type="number">7</total>
+					<total type="number">8</total>
 				</id-00021>
 			</skilllist>
 			<speed>
@@ -7425,7 +7587,7 @@
 				</id-00002>
 				<id-00003>
 					<holder name="Umma" owner="true" />
-					<ammo type="number">0</ammo>
+					<ammo type="number">2</ammo>
 					<attackbonus type="number">0</attackbonus>
 					<carried type="number">2</carried>
 					<damagelist>
@@ -7538,7 +7700,6 @@
 				<class>reference_background</class>
 				<recordname>reference.backgrounddata.courtier@D&#38;D Sword Coast Adventurer's Guide - Player's Guide</recordname>
 			</backgroundlink>
-			<bonds type="string"> /w g</bonds>
 			<classes>
 				<holder name="Faz" owner="true" />
 				<id-00001>
@@ -7559,17 +7720,17 @@
 				<holder name="Faz" owner="true" />
 				<slot1>
 					<holder name="Faz" owner="true" />
-					<amount type="number">40</amount>
+					<amount type="number">43</amount>
 					<name type="string">GP</name>
 				</slot1>
 				<slot2>
 					<holder name="Faz" owner="true" />
-					<amount type="number">43</amount>
+					<amount type="number">45</amount>
 					<name type="string">SP</name>
 				</slot2>
 				<slot3>
 					<holder name="Faz" owner="true" />
-					<amount type="number">29</amount>
+					<amount type="number">31</amount>
 					<name type="string">CP</name>
 				</slot3>
 				<slot4>
@@ -7604,10 +7765,10 @@
 				<encumbered type="number">40</encumbered>
 				<encumberedheavy type="number">80</encumberedheavy>
 				<liftpushdrag type="number">240</liftpushdrag>
-				<load type="number">29.59</load>
+				<load type="number">30.59</load>
 				<max type="number">120</max>
 			</encumbrance>
-			<exp type="number">447</exp>
+			<exp type="number">507</exp>
 			<expneeded type="number">500</expneeded>
 			<featlist>
 				<holder name="Faz" owner="true" />
@@ -8028,6 +8189,7 @@
 				<temporary type="number">0</temporary>
 				<total type="number">3</total>
 			</initiative>
+			<inspiration type="number">1</inspiration>
 			<inventorylist>
 				<holder name="Faz" owner="true" />
 				<id-00001>
@@ -8073,7 +8235,8 @@
 					<count type="number">1</count>
 					<description type="formattedtext">
 						<h>Spells</h>
-						<p>2 x Blindness/Deafness</p>
+						<p>1x invisibility</p>
+						<p>1x shatter</p>
 						<p>1x Hex</p>
 						<h>Description</h>
 						<p>This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 5 levels worth of spells at a time. When found, it contains 1d6 - 1 levels of stored spells chosen by the GM.</p>
@@ -8196,7 +8359,7 @@
 					<count type="number">1</count>
 					<isidentified type="number">1</isidentified>
 					<name type="string">Silver Bowl</name>
-					<weight type="number">0</weight>
+					<weight type="number">1</weight>
 				</id-00012>
 			</inventorylist>
 			<languagelist>
@@ -10631,7 +10794,7 @@
 				<holder name="Debria" owner="true" />
 				<slot1>
 					<holder name="Debria" owner="true" />
-					<amount type="number">24</amount>
+					<amount type="number">27</amount>
 					<name type="string">GP</name>
 				</slot1>
 				<slot2>
@@ -10641,7 +10804,7 @@
 				</slot2>
 				<slot3>
 					<holder name="Debria" owner="true" />
-					<amount type="number">14</amount>
+					<amount type="number">16</amount>
 					<name type="string">CP</name>
 				</slot3>
 				<slot4>
@@ -10651,7 +10814,7 @@
 				</slot4>
 				<slot5>
 					<holder name="Debria" owner="true" />
-					<amount type="number">32</amount>
+					<amount type="number">34</amount>
 					<name type="string">SP</name>
 				</slot5>
 				<slot6>
@@ -10680,7 +10843,7 @@
 				<load type="number">15</load>
 				<max type="number">120</max>
 			</encumbrance>
-			<exp type="number">330</exp>
+			<exp type="number">390</exp>
 			<expneeded type="number">400</expneeded>
 			<featlist>
 				<holder name="Debria" owner="true" />
@@ -11178,6 +11341,26 @@
 					<type type="string">Weapon</type>
 					<weight type="number">1</weight>
 				</id-00002>
+				<id-00003>
+					<holder name="Debria" owner="true" />
+					<ac type="number">0</ac>
+					<bonus type="number">0</bonus>
+					<carried type="number">1</carried>
+					<cost type="string">501 - 5,000 gp</cost>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<h>Description</h>
+						<p>You have resistance to force damage type while wearing this ring</p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Ring of Force Resistance</name>
+					<nonid_name type="string">Gold Ring</nonid_name>
+					<nonidentified type="string">A delicately made gold ring with a sapphire setting.</nonidentified>
+					<rarity type="string">Rare (Requires Attunement)</rarity>
+					<type type="string">Ring</type>
+					<weight type="number">0</weight>
+				</id-00003>
 			</inventorylist>
 			<languagelist>
 				<holder name="Debria" owner="true" />
@@ -11233,7 +11416,7 @@
 				<pactmagicslots2>
 					<holder name="Debria" owner="true" />
 					<max type="number">2</max>
-					<used type="number">2</used>
+					<used type="number">0</used>
 				</pactmagicslots2>
 				<pactmagicslots3>
 					<holder name="Debria" owner="true" />
@@ -11764,6 +11947,47 @@
 					<school type="string">Conjuration</school>
 					<source type="string">Eldritch Knight, Wizard, Arcane Trickster</source>
 				</id-00014>
+				<id-00015>
+					<holder name="Debria" owner="true" />
+					<actions>
+						<holder name="Debria" owner="true" />
+						<id-00001>
+							<holder name="Debria" owner="true" />
+							<atktype type="string">ranged</atktype>
+							<order type="number">1</order>
+							<type type="string">cast</type>
+						</id-00001>
+						<id-00002>
+							<holder name="Debria" owner="true" />
+							<damagelist>
+								<holder name="Debria" owner="true" />
+								<id-00001>
+									<holder name="Debria" owner="true" />
+									<dice type="dice">d10</dice>
+									<type type="string">force</type>
+								</id-00001>
+							</damagelist>
+							<order type="number">2</order>
+							<type type="string">damage</type>
+						</id-00002>
+					</actions>
+					<cast type="number">0</cast>
+					<castingtime type="string">1 action</castingtime>
+					<components type="string">V, S</components>
+					<description type="formattedtext">
+						<p>A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 force damage.</p>
+						<p>The spell creates more than one beam when you reach higher levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.</p>
+					</description>
+					<duration type="string">Instantaneous</duration>
+					<group type="string">Spells</group>
+					<level type="number">0</level>
+					<locked type="number">1</locked>
+					<name type="string">Eldritch Blast</name>
+					<prepared type="number">0</prepared>
+					<range type="string">120 feet</range>
+					<school type="string">Evocation</school>
+					<source type="string">Warlock</source>
+				</id-00015>
 				<id-00016>
 					<holder name="Debria" owner="true" />
 					<actions>
@@ -12201,6 +12425,9 @@
 					<score type="number">10</score>
 				</wisdom>
 			</abilities>
+			<adventurelist>
+				<holder name="Brokenbikez" owner="true" />
+			</adventurelist>
 			<age type="string">35</age>
 			<background type="string">Soldier</background>
 			<backgroundlink type="windowreference">
@@ -12228,15 +12455,18 @@
 				<holder name="Brokenbikez" owner="true" />
 				<slot1>
 					<holder name="Brokenbikez" owner="true" />
-					<amount type="number">0</amount>
+					<amount type="number">3</amount>
+					<name type="string">GP</name>
 				</slot1>
 				<slot2>
 					<holder name="Brokenbikez" owner="true" />
-					<amount type="number">0</amount>
+					<amount type="number">2</amount>
+					<name type="string">SP</name>
 				</slot2>
 				<slot3>
 					<holder name="Brokenbikez" owner="true" />
-					<amount type="number">0</amount>
+					<amount type="number">2</amount>
+					<name type="string">CP</name>
 				</slot3>
 				<slot4>
 					<holder name="Brokenbikez" owner="true" />
@@ -12272,7 +12502,7 @@
 				<load type="number">91.5</load>
 				<max type="number">255</max>
 			</encumbrance>
-			<exp type="number">315</exp>
+			<exp type="number">375</exp>
 			<expneeded type="number">400</expneeded>
 			<featlist>
 				<holder name="Brokenbikez" owner="true" />
@@ -12376,7 +12606,7 @@
 				<deathsavesuccess type="number">0</deathsavesuccess>
 				<temporary type="number">0</temporary>
 				<total type="number">32</total>
-				<wounds type="number">6</wounds>
+				<wounds type="number">20</wounds>
 			</hp>
 			<ideals type="string">Independence. When people follow orders blindly, they embrace a kind of tyranny. (Chaotic)</ideals>
 			<initiative>
@@ -13128,6 +13358,1571 @@
 			</weaponlist>
 			<weight type="string">220</weight>
 		</id-00007>
+		<id-00008>
+			<holder name="Freedowl" owner="true" />
+			<abilities>
+				<holder name="Freedowl" owner="true" />
+				<charisma>
+					<holder name="Freedowl" owner="true" />
+					<bonus type="number">2</bonus>
+					<save type="number">4</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">1</saveprof>
+					<score type="number">15</score>
+				</charisma>
+				<constitution>
+					<holder name="Freedowl" owner="true" />
+					<bonus type="number">2</bonus>
+					<save type="number">2</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">14</score>
+				</constitution>
+				<dexterity>
+					<holder name="Freedowl" owner="true" />
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</dexterity>
+				<intelligence>
+					<holder name="Freedowl" owner="true" />
+					<bonus type="number">-1</bonus>
+					<save type="number">-1</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">8</score>
+				</intelligence>
+				<strength>
+					<holder name="Freedowl" owner="true" />
+					<bonus type="number">2</bonus>
+					<save type="number">2</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">15</score>
+				</strength>
+				<wisdom>
+					<holder name="Freedowl" owner="true" />
+					<bonus type="number">1</bonus>
+					<save type="number">3</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">1</saveprof>
+					<score type="number">13</score>
+				</wisdom>
+			</abilities>
+			<adventurelist>
+				<holder name="Freedowl" owner="true" />
+			</adventurelist>
+			<age type="string">74</age>
+			<background type="string">Far Traveler</background>
+			<backgroundlink type="windowreference">
+				<class>reference_background</class>
+				<recordname>reference.backgrounddata.fartraveler@D&#38;D Sword Coast Adventurer's Guide - Player's Guide</recordname>
+			</backgroundlink>
+			<bonds type="string">So long as I have this token from my homeland, I can face any adversity in this strange land.</bonds>
+			<classes>
+				<holder name="Freedowl" owner="true" />
+				<id-00001>
+					<holder name="Freedowl" owner="true" />
+					<casterlevelinvmult type="number">2</casterlevelinvmult>
+					<casterpactmagic type="number">0</casterpactmagic>
+					<hddie type="dice">d10</hddie>
+					<hdused type="number">0</hdused>
+					<level type="number">3</level>
+					<name type="string">Paladin</name>
+					<shortcut type="windowreference">
+						<class>reference_class</class>
+						<recordname>reference.classdata.paladin@D&#38;D Sword Coast Adventurer's Guide - Player's Guide</recordname>
+					</shortcut>
+				</id-00001>
+			</classes>
+			<coins>
+				<holder name="Freedowl" owner="true" />
+				<slot1>
+					<holder name="Freedowl" owner="true" />
+					<amount type="number">8</amount>
+					<name type="string">GP</name>
+				</slot1>
+				<slot2>
+					<holder name="Freedowl" owner="true" />
+					<amount type="number">2</amount>
+					<name type="string">SP</name>
+				</slot2>
+				<slot3>
+					<holder name="Freedowl" owner="true" />
+					<amount type="number">2</amount>
+					<name type="string">CP</name>
+				</slot3>
+				<slot4>
+					<holder name="Freedowl" owner="true" />
+					<amount type="number">0</amount>
+				</slot4>
+				<slot5>
+					<holder name="Freedowl" owner="true" />
+					<amount type="number">0</amount>
+				</slot5>
+				<slot6>
+					<holder name="Freedowl" owner="true" />
+					<amount type="number">0</amount>
+				</slot6>
+			</coins>
+			<defenses>
+				<holder name="Freedowl" owner="true" />
+				<ac>
+					<holder name="Freedowl" owner="true" />
+					<armor type="number">6</armor>
+					<dexbonus type="string">no</dexbonus>
+					<disstealth type="number">1</disstealth>
+					<misc type="number">0</misc>
+					<prof type="number">1</prof>
+					<shield type="number">2</shield>
+					<temporary type="number">0</temporary>
+					<total type="number">18</total>
+				</ac>
+			</defenses>
+			<encumbrance>
+				<holder name="Freedowl" owner="true" />
+				<encumbered type="number">75</encumbered>
+				<encumberedheavy type="number">150</encumberedheavy>
+				<liftpushdrag type="number">450</liftpushdrag>
+				<load type="number">133.1</load>
+				<max type="number">225</max>
+			</encumbrance>
+			<exp type="number">321</exp>
+			<expneeded type="number">400</expneeded>
+			<featlist>
+				<holder name="Freedowl" owner="true" />
+			</featlist>
+			<featurelist>
+				<holder name="Freedowl" owner="true" />
+				<id-00001>
+					<holder name="Freedowl" owner="true" />
+					<locked type="number">1</locked>
+					<name type="string">All Eyes on You</name>
+					<source type="string">Far Traveler</source>
+					<text type="formattedtext">
+						<p>Your accent, mannerisms, figures of speech, and perhaps even your appearance all mark you as foreign. Curious glances are directed your way wherever you go, which can be a nuisance, but you also gain the friendly interest of scholars and others intrigued by far-off lands, to say nothing of everyday folk who are eager to hear stories of your homeland.</p>
+						<p>You can parley this attention into access to people and places you might not otherwise have, for you and your traveling companions. Noble lords, scholars, and merchant princes, to name a few, might be interested in hearing about your distant homeland and people.</p>
+					</text>
+				</id-00001>
+				<id-00002>
+					<holder name="Freedowl" owner="true" />
+					<level type="number">1</level>
+					<locked type="number">1</locked>
+					<name type="string">Divine Sense</name>
+					<source type="string">Paladin</source>
+					<text type="formattedtext">
+						<p>The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance).</p>
+						<p>Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the hallow spell.</p>
+						<p>You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.</p>
+					</text>
+				</id-00002>
+				<id-00003>
+					<holder name="Freedowl" owner="true" />
+					<level type="number">1</level>
+					<locked type="number">1</locked>
+					<name type="string">Lay on Hands</name>
+					<source type="string">Paladin</source>
+					<text type="formattedtext">
+						<p>Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level x5. As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.</p>
+						<p>Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.</p>
+						<p>This feature has no effect on undead and constructs.</p>
+					</text>
+				</id-00003>
+				<id-00004>
+					<holder name="Freedowl" owner="true" />
+					<level type="number">2</level>
+					<locked type="number">1</locked>
+					<name type="string">Spellcasting</name>
+					<source type="string">Paladin</source>
+					<text type="formattedtext">
+						<p>By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast spells as a cleric does. See chapter 10 for the general rules of spellcasting and chapter 11 for the paladin spell list.</p>
+						<p><b>Preparing and Casting Spells</b></p>
+						<p>The Paladin table shows how many spell slots you have to cast your spells. To cast one of your paladin spells of 1st level or higher, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</p>
+						<p>You prepare the list of paladin spells that are available for you to cast, choosing from the paladin spell list. When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots. For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells. You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.</p>
+						<p><b>Spellcasting Ability</b></p>
+						<p>Charisma is your spellcasting ability for your paladin spells, since their power derives from the strength of your convictions. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a paladin spell you cast and when making an attack roll with one.</p>
+						<p><b>Spell save DC </b>= 8 + your proficiency bonus + your Charisma modifier</p>
+						<p><b>Spell attack modifier </b>= your proficiency bonus + your Charisma modifier</p>
+						<p><b>Spellcasting Focus</b></p>
+						<p>You can use a holy symbol (found in chapter 5) as a spellcasting focus for your paladin spells.</p>
+					</text>
+				</id-00004>
+				<id-00005>
+					<holder name="Freedowl" owner="true" />
+					<level type="number">2</level>
+					<locked type="number">1</locked>
+					<name type="string">Fighting Style (Great Weapon Fighting)</name>
+					<source type="string">Paladin</source>
+					<text type="formattedtext">
+						<p>At 2nd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.</p>
+						<p><b>Defense</b></p>
+						<p>While you are wearing armor, you gain a +1 bonus to AC.</p>
+						<p><b>Dueling</b></p>
+						<p>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.</p>
+						<p><b>Great Weapon Fighting</b></p>
+						<p>When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll. The weapon must have the two-handed or versatile property for you to gain this benefit.</p>
+						<p><b>Protection</b></p>
+						<p>When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.</p>
+					</text>
+				</id-00005>
+				<id-00006>
+					<holder name="Freedowl" owner="true" />
+					<level type="number">2</level>
+					<locked type="number">1</locked>
+					<name type="string">Divine Smite</name>
+					<source type="string">Paladin</source>
+					<text type="formattedtext">
+						<p>Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend.</p>
+					</text>
+				</id-00006>
+				<id-00007>
+					<holder name="Freedowl" owner="true" />
+					<level type="number">1</level>
+					<locked type="number">1</locked>
+					<name type="string">Oath of the Ancients</name>
+					<source type="string">Paladin</source>
+					<text type="formattedtext">
+						<p>The Oath of the Ancients is as old as the race of elves and the rituals of the druids. Sometimes called fey knights, green knights, or horned knights, paladins who swear this oath cast their lot with the side of the light in the cosmic struggle against darkness because they love the beautiful and life-giving things of the world, not necessarily because they believe in principles of honor, courage, and justice. They adorn their armor and clothing with images of growing things-leaves, antlers, or flowers-to reflect their commitment to preserving life and light in the world.</p>
+						<h>Features</h>
+						<linklist>
+							<link class="reference_classfeature" recordname="reference.classdata.paladin.features.tenetsoftheancients3@DD PHB Deluxe">Tenets of the Ancients</link>
+							<link class="reference_classfeature" recordname="reference.classdata.paladin.features.oathspells_ancients_3@DD PHB Deluxe">Oath Spells (Ancients)</link>
+							<link class="reference_classfeature" recordname="reference.classdata.paladin.features.channeldivinity_ancients_3@DD PHB Deluxe">Channel Divinity (Ancients)</link>
+							<link class="reference_classfeature" recordname="reference.classdata.paladin.features.auraofwarding7@DD PHB Deluxe">Aura of Warding</link>
+							<link class="reference_classfeature" recordname="reference.classdata.paladin.features.undyingsentinel15@DD PHB Deluxe">Undying Sentinel</link>
+							<link class="reference_classfeature" recordname="reference.classdata.paladin.features.elderchampion20@DD PHB Deluxe">Elder Champion</link>
+						</linklist>
+					</text>
+				</id-00007>
+				<id-00008>
+					<holder name="Freedowl" owner="true" />
+					<level type="number">3</level>
+					<locked type="number">1</locked>
+					<name type="string">Divine Health</name>
+					<source type="string">Paladin</source>
+					<text type="formattedtext">
+						<p>By 3rd level, the divine magic flowing through you makes you immune to disease.</p>
+					</text>
+				</id-00008>
+				<id-00009>
+					<holder name="Freedowl" owner="true" />
+					<level type="number">3</level>
+					<locked type="number">1</locked>
+					<name type="string">Tenets of the Ancients</name>
+					<source type="string">Paladin</source>
+					<specialization type="string">Oath of the Ancients</specialization>
+					<text type="formattedtext">
+						<p>The tenets of the Oath of the Ancients have been preserved for uncounted centuries. This oath emphasizes the principles of good above any concerns of law or chaos. Its four central principles are simple.</p>
+						<p><b>Kindle the Light. </b>Through your acts of mercy, kindness, and forgiveness, kindle the light of hope in the world, beating back despair.</p>
+						<p><b>Shelter the Light. </b>Where there is good, beauty, love, and laughter in the world, stand against the wickedness that would swallow it. Where life flourishes, stand against the forces that would render it barren.</p>
+						<p><b>Preserve Your Own Light. </b>Delight in song and laughter, in beauty and art. If you allow the light to die in your own heart, you can't preserve it in the world.</p>
+						<p><b>Be the Light. </b>Be a glorious beacon for all who live in despair. Let the light of your joy and courage shine forth in all your deeds.</p>
+					</text>
+				</id-00009>
+				<id-00010>
+					<holder name="Freedowl" owner="true" />
+					<level type="number">3</level>
+					<locked type="number">1</locked>
+					<name type="string">Oath Spells (Ancients)</name>
+					<source type="string">Paladin</source>
+					<specialization type="string">Oath of the Ancients</specialization>
+					<text type="formattedtext">
+						<p>You gain oath spells at the paladin levels listed.</p>
+						<h>Oath of the Ancients Spells</h>
+						<p><b>Paladin Level - Spell</b></p>
+						<linklist>
+							<link class="reference_spell" recordname="reference.spelldata.ensnaringstrike@DD PHB Deluxe"><b>Spell: </b></link>3rd - Ensnaring Strike</linklist>
+							<link class="reference_spell" recordname="reference.spelldata.speakwithanimals@DD PHB Deluxe"><b>Spell: </b></link>3rd - Speak with Animals
+							<link class="reference_spell" recordname="reference.spelldata.moonbeam@DD PHB Deluxe"><b>Spell: </b></link>5th - Moonbeam
+							<link class="reference_spell" recordname="reference.spelldata.mistystep@DD PHB Deluxe"><b>Spell: </b></link>5th - Misty Step
+							<link class="reference_spell" recordname="reference.spelldata.plantgrowth@DD PHB Deluxe"><b>Spell: </b></link>9th - Plant Growth
+							<link class="reference_spell" recordname="reference.spelldata.protectionfromenergy@DD PHB Deluxe"><b>Spell: </b></link>9th - Protection from Energy
+							<link class="reference_spell" recordname="reference.spelldata.icestorm@DD PHB Deluxe"><b>Spell: </b></link>13th - Ice Storm
+							<link class="reference_spell" recordname="reference.spelldata.stoneskin@DD PHB Deluxe"><b>Spell: </b></link>13th - Stoneskin
+							<link class="reference_spell" recordname="reference.spelldata.communewithnature@DD PHB Deluxe"><b>Spell: </b></link>17th - Commune With Nature
+							<link class="reference_spell" recordname="reference.spelldata.treestride@DD PHB Deluxe"><b>Spell: </b></link>17th - Tree Stride
+					</text>
+				</id-00010>
+				<id-00011>
+					<holder name="Freedowl" owner="true" />
+					<level type="number">3</level>
+					<locked type="number">1</locked>
+					<name type="string">Channel Divinity (Ancients)</name>
+					<source type="string">Paladin</source>
+					<specialization type="string">Oath of the Ancients</specialization>
+					<text type="formattedtext">
+						<p>When you take this oath at 3rd level, you gain the following two Channel Divinity options.</p>
+						<p><b>Nature's Wrath. </b>You can use your Channel Divinity to invoke primeval forces to ensnare a foe. As an action, you can cause spectral vines to spring up and reach for a creature within 10 feet of you that you can see.</p>
+						<p>The creature must succeed on a Strength or Dexterity saving throw (its choice) or be restrained. While restrained by the vines, the creature repeats the saving throw at the end of each of its turns. On a success, it frees itself and the vines vanish.</p>
+						<p><b>Turn the Faithless. </b>You can use your Channel Divinity to utter ancient words that are painful for fey and fiends to hear. As an action, you present your holy symbol, and each fey or fiend within 30 feet of you that can hear you must make a Wisdom saving throw. On a failed save, the creature is turned for 1 minute or until it takes damage.</p>
+						<p>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</p>
+						<p>If the creature's true form is concealed by an illusion, shapeshifting, or other effect, that form is revealed while it is turned.</p>
+					</text>
+				</id-00011>
+			</featurelist>
+			<flaws type="string">I consider the adherents of other gods to be deluded innocents at best, or ignorant fools at worst.</flaws>
+			<gender type="string">Male</gender>
+			<height type="string">6' 3&#34;</height>
+			<hp>
+				<holder name="Freedowl" owner="true" />
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<temporary type="number">0</temporary>
+				<total type="number">28</total>
+				<wounds type="number">0</wounds>
+			</hp>
+			<ideals type="string">Suspicious. I must be careful, for I have no way of telling friend from foe here.</ideals>
+			<initiative>
+				<holder name="Freedowl" owner="true" />
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+			</initiative>
+			<inventorylist>
+				<holder name="Freedowl" owner="true" />
+				<id-00001>
+					<holder name="Freedowl" owner="true" />
+					<ac type="number">0</ac>
+					<bonus type="number">0</bonus>
+					<carried type="number">2</carried>
+					<cost type="string">10 gp</cost>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<p>A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic. Appendix B lists the symbols commonly associated with many gods in the multiverse. A cleric or paladin can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.</p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<location type="string">sheath</location>
+					<locked type="number">1</locked>
+					<name type="string">Amulet of Chauntea(Holy Symbol)</name>
+					<subtype type="string">Holy Symbol</subtype>
+					<type type="string">Adventuring Gear</type>
+					<weight type="number">1</weight>
+				</id-00001>
+				<id-00002>
+					<holder name="Freedowl" owner="true" />
+					<carried type="number">1</carried>
+					<cost type="string">1 gp</cost>
+					<count type="number">1</count>
+					<isidentified type="number">1</isidentified>
+					<location type="string">Backpack</location>
+					<locked type="number">1</locked>
+					<name type="string">Bedroll</name>
+					<subtype type="string">Standard</subtype>
+					<type type="string">Adventuring Gear</type>
+					<weight type="number">7</weight>
+				</id-00002>
+				<id-00003>
+					<holder name="Freedowl" owner="true" />
+					<carried type="number">1</carried>
+					<cost type="string">35 gp</cost>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<p>Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus, as described in Part 3: The Rules of Magic, Casting a Spell. Each type of musical instrument requires a separate proficiency.</p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Lute</name>
+					<subtype type="string">Musical Instrument</subtype>
+					<type type="string">Tools</type>
+					<weight type="number">2</weight>
+				</id-00003>
+				<id-00004>
+					<holder name="Freedowl" owner="true" />
+					<carried type="number">1</carried>
+					<cost type="string">5 sp</cost>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<p>This item encompasses a wide range of game pieces, including dice and decks of cards (for games such as Three-Dragon Ante). A few common examples appear on the Tools table, but other kinds of gaming sets exist. If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<location type="string">Backpack</location>
+					<locked type="number">1</locked>
+					<name type="string">Playing Card Set</name>
+					<subtype type="string">Gaming Set</subtype>
+					<type type="string">Tools</type>
+					<weight type="number">0.1</weight>
+				</id-00004>
+				<id-00005>
+					<holder name="Freedowl" owner="true" />
+					<carried type="number">1</carried>
+					<cost type="string">5 sp</cost>
+					<count type="number">10</count>
+					<description type="formattedtext">
+						<p>Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.</p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Rations (1 Day)</name>
+					<subtype type="string">Standard</subtype>
+					<type type="string">Adventuring Gear</type>
+					<weight type="number">2</weight>
+				</id-00005>
+				<id-00006>
+					<holder name="Freedowl" owner="true" />
+					<carried type="number">1</carried>
+					<cost type="string">1 gp</cost>
+					<count type="number">1</count>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Rope, Hempen (50 Feet)</name>
+					<subtype type="string">Standard</subtype>
+					<type type="string">Adventuring Gear</type>
+					<weight type="number">10</weight>
+				</id-00006>
+				<id-00007>
+					<holder name="Freedowl" owner="true" />
+					<carried type="number">1</carried>
+					<cost type="string">2 sp</cost>
+					<count type="number">1</count>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Waterskin</name>
+					<subtype type="string">Standard</subtype>
+					<type type="string">Adventuring Gear</type>
+					<weight type="number">5</weight>
+				</id-00007>
+				<id-00008>
+					<holder name="Freedowl" owner="true" />
+					<ac type="number">16</ac>
+					<carried type="number">2</carried>
+					<cost type="string">75 gp</cost>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<p>Of all the armor categories, heavy armor offers the best protection. These suits of armor cover the entire body and are designed to stop a wide range of attacks. Only proficient warriors can manage their weight and bulk.</p>
+						<p>Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.</p>
+					</description>
+					<dexbonus type="string">-</dexbonus>
+					<isidentified type="number">1</isidentified>
+					<location type="string">worn</location>
+					<locked type="number">1</locked>
+					<name type="string">Chain Mail</name>
+					<stealth type="string">Disadvantage</stealth>
+					<strength type="string">Str 13</strength>
+					<subtype type="string">Heavy Armor</subtype>
+					<type type="string">Armor</type>
+					<weight type="number">55</weight>
+				</id-00008>
+				<id-00009>
+					<holder name="Freedowl" owner="true" />
+					<ac type="number">0</ac>
+					<bonus type="number">0</bonus>
+					<carried type="number">2</carried>
+					<cost type="string">15 gp</cost>
+					<count type="number">1</count>
+					<damage type="string">1d8 slashing</damage>
+					<description type="formattedtext">
+						<p></p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<location type="string">Backpack</location>
+					<locked type="number">1</locked>
+					<name type="string">Chauntea's Justice</name>
+					<properties type="string">Versatile (1d10)</properties>
+					<subtype type="string">Martial Weapons</subtype>
+					<type type="string">Weapon</type>
+					<weight type="number">3</weight>
+				</id-00009>
+				<id-00010>
+					<holder name="Freedowl" owner="true" />
+					<carried type="number">1</carried>
+					<cost type="string">5 sp</cost>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<p>A cloth or leather pouch can hold up to 20 sling bullets or 50 blowgun needles, among other things. A compartmentalized pouch for holding spell components is called a component pouch (described earlier in this section).</p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Pouch</name>
+					<subtype type="string">Standard</subtype>
+					<type type="string">Adventuring Gear</type>
+					<weight type="number">1</weight>
+				</id-00010>
+				<id-00011>
+					<holder name="Freedowl" owner="true" />
+					<carried type="number">2</carried>
+					<cost type="string">5 gp</cost>
+					<count type="number">1</count>
+					<damage type="string">1d6 slashing</damage>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Handaxe</name>
+					<properties type="string">Light, thrown (range 20/60)</properties>
+					<subtype type="string">Simple Melee Weapons</subtype>
+					<type type="string">Weapon</type>
+					<weight type="number">2</weight>
+				</id-00011>
+				<id-00012>
+					<holder name="Freedowl" owner="true" />
+					<ac type="number">2</ac>
+					<bonus type="number">0</bonus>
+					<carried type="number">2</carried>
+					<cost type="string">10 gp</cost>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<p>A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.</p>
+					</description>
+					<dexbonus type="string">-</dexbonus>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Shield</name>
+					<stealth type="string">-</stealth>
+					<strength type="string">-</strength>
+					<subtype type="string">Shield</subtype>
+					<type type="string">Armor</type>
+					<weight type="number">6</weight>
+				</id-00012>
+				<id-00013>
+					<holder name="Freedowl" owner="true" />
+					<carried type="number">1</carried>
+					<cost type="string">2 gp</cost>
+					<count type="number">1</count>
+					<isidentified type="number">1</isidentified>
+					<location type="string">worn</location>
+					<locked type="number">1</locked>
+					<name type="string">Backpack</name>
+					<subtype type="string">Standard</subtype>
+					<type type="string">Adventuring Gear</type>
+					<weight type="number">5</weight>
+				</id-00013>
+				<id-00014>
+					<holder name="Freedowl" owner="true" />
+					<carried type="number">1</carried>
+					<cost type="string">1 cp</cost>
+					<count type="number">10</count>
+					<description type="formattedtext">
+						<p>A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.</p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<location type="string">Backpack</location>
+					<locked type="number">1</locked>
+					<name type="string">Torch</name>
+					<subtype type="string">Standard</subtype>
+					<type type="string">Adventuring Gear</type>
+					<weight type="number">1</weight>
+				</id-00014>
+				<id-00015>
+					<holder name="Freedowl" owner="true" />
+					<carried type="number">1</carried>
+					<cost type="string">2 gp</cost>
+					<count type="number">1</count>
+					<isidentified type="number">1</isidentified>
+					<location type="string">Backpack</location>
+					<locked type="number">1</locked>
+					<name type="string">Clothes, Traveler's</name>
+					<subtype type="string">Standard</subtype>
+					<type type="string">Adventuring Gear</type>
+					<weight type="number">4</weight>
+				</id-00015>
+				<id-00016>
+					<holder name="Freedowl" owner="true" />
+					<carried type="number">1</carried>
+					<cost type="string">2 sp</cost>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<p>This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.</p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<location type="string">Backpack</location>
+					<locked type="number">1</locked>
+					<name type="string">Mess Kit</name>
+					<subtype type="string">Equipment Kits</subtype>
+					<type type="string">Adventuring Gear</type>
+					<weight type="number">1</weight>
+				</id-00016>
+				<id-00017>
+					<holder name="Freedowl" owner="true" />
+					<carried type="number">1</carried>
+					<cost type="string">5 sp</cost>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<p>This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch-or anything else with abundant, exposed fuel-takes an action. Lighting any other fire takes 1 minute.</p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Tinderbox</name>
+					<subtype type="string">Standard</subtype>
+					<type type="string">Adventuring Gear</type>
+					<weight type="number">1</weight>
+				</id-00017>
+			</inventorylist>
+			<languagelist>
+				<holder name="Freedowl" owner="true" />
+				<id-00001>
+					<holder name="Freedowl" owner="true" />
+					<name type="string">Common</name>
+				</id-00001>
+				<id-00002>
+					<holder name="Freedowl" owner="true" />
+					<name type="string">Celestial</name>
+				</id-00002>
+				<id-00003>
+					<holder name="Freedowl" owner="true" />
+					<name type="string">Infernal</name>
+				</id-00003>
+			</languagelist>
+			<level type="number">3</level>
+			<name type="string">Yelvan</name>
+			<notes type="string">Token is my father's sword,</notes>
+			<perception type="number">13</perception>
+			<perceptionmodifier type="number">0</perceptionmodifier>
+			<personalitytraits type="string">I have a strong code of honor or sense of propriety that others don't comprehend.</personalitytraits>
+			<powerdisplaymode type="string">action</powerdisplaymode>
+			<powergroup>
+				<holder name="Freedowl" owner="true" />
+				<id-00001>
+					<holder name="Freedowl" owner="true" />
+					<atkmod type="number">0</atkmod>
+					<atkprof type="number">1</atkprof>
+					<castertype type="string">memorization</castertype>
+					<name type="string">Spells</name>
+					<prepared type="number">3</prepared>
+					<savemod type="number">0</savemod>
+					<saveprof type="number">1</saveprof>
+					<stat type="string">charisma</stat>
+					<uses type="number">0</uses>
+				</id-00001>
+				<id-00002>
+					<holder name="Freedowl" owner="true" />
+					<name type="string">Racial Abilities</name>
+				</id-00002>
+				<id-00003>
+					<holder name="Freedowl" owner="true" />
+					<name type="string">Class Abilities</name>
+				</id-00003>
+				<id-00004>
+					<holder name="Freedowl" owner="true" />
+					<name type="string">Racial Abilities</name>
+				</id-00004>
+				<id-00005>
+					<holder name="Freedowl" owner="true" />
+					<name type="string">Cantrip</name>
+				</id-00005>
+			</powergroup>
+			<powermeta>
+				<holder name="Freedowl" owner="true" />
+				<pactmagicslots1>
+					<holder name="Freedowl" owner="true" />
+					<max type="number">0</max>
+				</pactmagicslots1>
+				<pactmagicslots2>
+					<holder name="Freedowl" owner="true" />
+					<max type="number">0</max>
+				</pactmagicslots2>
+				<pactmagicslots3>
+					<holder name="Freedowl" owner="true" />
+					<max type="number">0</max>
+				</pactmagicslots3>
+				<pactmagicslots4>
+					<holder name="Freedowl" owner="true" />
+					<max type="number">0</max>
+				</pactmagicslots4>
+				<pactmagicslots5>
+					<holder name="Freedowl" owner="true" />
+					<max type="number">0</max>
+				</pactmagicslots5>
+				<pactmagicslots6>
+					<holder name="Freedowl" owner="true" />
+					<max type="number">0</max>
+				</pactmagicslots6>
+				<pactmagicslots7>
+					<holder name="Freedowl" owner="true" />
+					<max type="number">8</max>
+				</pactmagicslots7>
+				<pactmagicslots8>
+					<holder name="Freedowl" owner="true" />
+					<max type="number">0</max>
+				</pactmagicslots8>
+				<pactmagicslots9>
+					<holder name="Freedowl" owner="true" />
+					<max type="number">0</max>
+				</pactmagicslots9>
+				<spellslots1>
+					<holder name="Freedowl" owner="true" />
+					<max type="number">3</max>
+				</spellslots1>
+				<spellslots2>
+					<holder name="Freedowl" owner="true" />
+					<max type="number">0</max>
+				</spellslots2>
+				<spellslots3>
+					<holder name="Freedowl" owner="true" />
+					<max type="number">0</max>
+				</spellslots3>
+				<spellslots4>
+					<holder name="Freedowl" owner="true" />
+					<max type="number">0</max>
+				</spellslots4>
+				<spellslots5>
+					<holder name="Freedowl" owner="true" />
+					<max type="number">0</max>
+				</spellslots5>
+				<spellslots6>
+					<holder name="Freedowl" owner="true" />
+					<max type="number">0</max>
+				</spellslots6>
+				<spellslots7>
+					<holder name="Freedowl" owner="true" />
+					<max type="number">0</max>
+				</spellslots7>
+				<spellslots8>
+					<holder name="Freedowl" owner="true" />
+					<max type="number">0</max>
+				</spellslots8>
+				<spellslots9>
+					<holder name="Freedowl" owner="true" />
+					<max type="number">0</max>
+				</spellslots9>
+			</powermeta>
+			<powermode type="string">combat</powermode>
+			<powers>
+				<holder name="Freedowl" owner="true" />
+				<id-00001>
+					<holder name="Freedowl" owner="true" />
+					<actions>
+						<holder name="Freedowl" owner="true" />
+						<id-00001>
+							<holder name="Freedowl" owner="true" />
+							<durmod type="number">1</durmod>
+							<label type="string">Divine Sense; Know location of any clelestial, fiend, or undead, also hallow spell</label>
+							<order type="number">1</order>
+							<targeting type="string">self</targeting>
+							<type type="string">effect</type>
+						</id-00001>
+					</actions>
+					<cast type="number">0</cast>
+					<castingtime type="string">1 action</castingtime>
+					<description type="formattedtext">
+						<p>The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance).</p>
+						<p>Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the hallow spell.</p>
+						<p>You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.</p>
+					</description>
+					<duration type="string">End of next turn</duration>
+					<group type="string">Class Abilities</group>
+					<level type="number">0</level>
+					<locked type="number">1</locked>
+					<name type="string">Paladin: Divine Sense (60)</name>
+					<prepared type="number">1</prepared>
+					<range type="string">60 feet</range>
+					<ritual type="number">0</ritual>
+					<school type="string">Class</school>
+					<source type="string">Paladin</source>
+				</id-00001>
+				<id-00002>
+					<holder name="Freedowl" owner="true" />
+					<actions>
+						<holder name="Freedowl" owner="true" />
+						<id-00001>
+							<holder name="Freedowl" owner="true" />
+							<apply type="string">roll</apply>
+							<durmod type="number">0</durmod>
+							<label type="string">Divine Smite; DMG: 2d8 radiant; IFT: TYPE (undead,fiend); DMG: 1d8 radiant</label>
+							<order type="number">1</order>
+							<targeting type="string">self</targeting>
+							<type type="string">effect</type>
+						</id-00001>
+					</actions>
+					<cast type="number">0</cast>
+					<description type="formattedtext">
+						<p>Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon's damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8. The damage increases by 1d8 if the target is an undead or a fiend.</p>
+					</description>
+					<group type="string">Class Abilities</group>
+					<level type="number">0</level>
+					<locked type="number">1</locked>
+					<name type="string">Paladin: Divine Smite</name>
+					<prepared type="number">0</prepared>
+					<ritual type="number">0</ritual>
+					<school type="string">Class</school>
+					<source type="string">Paladin</source>
+				</id-00002>
+				<id-00003>
+					<holder name="Freedowl" owner="true" />
+					<actions>
+						<holder name="Freedowl" owner="true" />
+						<id-00001>
+							<holder name="Freedowl" owner="true" />
+							<durmod type="number">0</durmod>
+							<label type="string">Divine Health; Immune to disease</label>
+							<order type="number">1</order>
+							<targeting type="string">self</targeting>
+							<type type="string">effect</type>
+						</id-00001>
+					</actions>
+					<cast type="number">0</cast>
+					<description type="formattedtext">
+						<p>By 3rd level, the divine magic flowing through you makes you immune to disease.</p>
+					</description>
+					<group type="string">Class Abilities</group>
+					<level type="number">0</level>
+					<locked type="number">1</locked>
+					<name type="string">Paladin: Divine Health</name>
+					<prepared type="number">0</prepared>
+					<ritual type="number">0</ritual>
+					<school type="string">Class</school>
+					<source type="string">Paladin</source>
+				</id-00003>
+				<id-00004>
+					<holder name="Freedowl" owner="true" />
+					<actions>
+						<holder name="Freedowl" owner="true" />
+						<id-00001>
+							<holder name="Freedowl" owner="true" />
+							<heallist>
+								<holder name="Freedowl" owner="true" />
+								<id-00001>
+									<holder name="Freedowl" owner="true" />
+									<bonus type="number">0</bonus>
+									<dice type="dice"></dice>
+									<stat type="string">paladin</stat>
+								</id-00001>
+								<id-00002>
+									<holder name="Freedowl" owner="true" />
+									<bonus type="number">0</bonus>
+									<dice type="dice"></dice>
+									<stat type="string">paladin</stat>
+								</id-00002>
+								<id-00003>
+									<holder name="Freedowl" owner="true" />
+									<bonus type="number">0</bonus>
+									<dice type="dice"></dice>
+									<stat type="string">paladin</stat>
+								</id-00003>
+								<id-00004>
+									<holder name="Freedowl" owner="true" />
+									<bonus type="number">0</bonus>
+									<dice type="dice"></dice>
+									<stat type="string">paladin</stat>
+								</id-00004>
+								<id-00005>
+									<holder name="Freedowl" owner="true" />
+									<bonus type="number">0</bonus>
+									<dice type="dice"></dice>
+									<stat type="string">paladin</stat>
+								</id-00005>
+							</heallist>
+							<order type="number">1</order>
+							<type type="string">heal</type>
+						</id-00001>
+					</actions>
+					<cast type="number">0</cast>
+					<castingtime type="string">1 action</castingtime>
+					<description type="formattedtext">
+						<p>Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your paladin level x5. As an action, you can touch a creature and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.</p>
+						<p>Alternatively, you can expend 5 hit points from your pool of healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple diseases and neutralize multiple poisons with a single use of Lay on Hands, expending hit points separately for each one.</p>
+						<p>This feature has no effect on undead and constructs.</p>
+					</description>
+					<group type="string">Class Abilities</group>
+					<level type="number">0</level>
+					<locked type="number">1</locked>
+					<name type="string">Paladin: Lay on Hands (T)</name>
+					<prepared type="number">0</prepared>
+					<range type="string">Touch</range>
+					<ritual type="number">0</ritual>
+					<school type="string">Class</school>
+					<source type="string">Paladin</source>
+				</id-00004>
+				<id-00005>
+					<holder name="Freedowl" owner="true" />
+					<actions>
+						<holder name="Freedowl" owner="true" />
+					</actions>
+					<cast type="number">0</cast>
+					<description type="formattedtext">
+						<p>You have resistance to necrotic damage and radiant damage.</p>
+					</description>
+					<group type="string">Racial Abilities</group>
+					<level type="number">0</level>
+					<locked type="number">1</locked>
+					<name type="string">Celestial Resistance</name>
+					<prepared type="number">0</prepared>
+					<source type="string">Aasimar</source>
+					<type type="string">racial</type>
+				</id-00005>
+				<id-00006>
+					<holder name="Freedowl" owner="true" />
+					<actions>
+						<holder name="Freedowl" owner="true" />
+						<id-00001>
+							<holder name="Freedowl" owner="true" />
+							<heallist>
+								<holder name="Freedowl" owner="true" />
+								<id-00001>
+									<holder name="Freedowl" owner="true" />
+									<bonus type="number">0</bonus>
+									<dice type="dice"></dice>
+									<stat type="string">level</stat>
+								</id-00001>
+							</heallist>
+							<order type="number">1</order>
+							<type type="string">heal</type>
+						</id-00001>
+					</actions>
+					<cast type="number">0</cast>
+					<description type="formattedtext">
+						<p>As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can't use it again until you finish a long rest.</p>
+					</description>
+					<group type="string">Racial Abilities</group>
+					<level type="number">0</level>
+					<locked type="number">1</locked>
+					<name type="string">Aasimar: Healing Hands (T)</name>
+					<prepared type="number">1</prepared>
+					<ritual type="number">0</ritual>
+					<school type="string">Racial</school>
+					<source type="string">Aasimar</source>
+				</id-00006>
+				<id-00007>
+					<holder name="Freedowl" owner="true" />
+					<actions>
+						<holder name="Freedowl" owner="true" />
+						<id-00001>
+							<holder name="Freedowl" owner="true" />
+							<durmod type="number">1</durmod>
+							<durunit type="string">minute</durunit>
+							<label type="string">Radiant Soul; Fly 30</label>
+							<order type="number">1</order>
+							<targeting type="string">self</targeting>
+							<type type="string">effect</type>
+						</id-00001>
+						<id-00002>
+							<holder name="Freedowl" owner="true" />
+							<apply type="string">action</apply>
+							<durmod type="number">0</durmod>
+							<label type="string">Radiant Soul; DMG: [LVL] radiant</label>
+							<order type="number">2</order>
+							<type type="string">effect</type>
+						</id-00002>
+					</actions>
+					<cast type="number">0</cast>
+					<castingtime type="string">1 action</castingtime>
+					<description type="formattedtext">
+						<p>Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to glimmer and two luminous, incorporeal wings to sprout from your back.</p>
+						<p>Your transformation lasts for 1 minute or until you end it as a bonus action. During it, you have a flying speed of 30 feet, and once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra radiant damage equals your level.</p>
+						<p>Once you use this trait, you can't use it again until you finish a long rest.</p>
+					</description>
+					<duration type="string">1 Minute</duration>
+					<group type="string">Racial Abilities</group>
+					<level type="number">0</level>
+					<locked type="number">1</locked>
+					<name type="string">Aasimar: Radiant Soul (S)</name>
+					<prepared type="number">1</prepared>
+					<range type="string">Self</range>
+					<ritual type="number">0</ritual>
+					<school type="string">Racial</school>
+					<source type="string">Protector Aasimar</source>
+					<type type="string">subracial</type>
+				</id-00007>
+				<id-00008>
+					<holder name="Freedowl" owner="true" />
+					<actions>
+						<holder name="Freedowl" owner="true" />
+						<id-00001>
+							<holder name="Freedowl" owner="true" />
+							<order type="number">1</order>
+							<savetype type="string">dexterity</savetype>
+							<type type="string">cast</type>
+						</id-00001>
+						<id-00002>
+							<holder name="Freedowl" owner="true" />
+							<durmod type="number">1</durmod>
+							<durunit type="string">hour</durunit>
+							<label type="string">Light</label>
+							<order type="number">2</order>
+							<type type="string">effect</type>
+						</id-00002>
+					</actions>
+					<cast type="number">0</cast>
+					<castingtime type="string">1 action</castingtime>
+					<components type="string">V, M (a firefly or phosphorescent moss)</components>
+					<description type="formattedtext">
+						<p>You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action.</p>
+						<p>If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell.</p>
+					</description>
+					<duration type="string">1 hour</duration>
+					<group type="string">Cantrip</group>
+					<level type="number">0</level>
+					<locked type="number">1</locked>
+					<name type="string">Light (T)</name>
+					<prepared type="number">0</prepared>
+					<range type="string">Touch</range>
+					<ritual type="number">0</ritual>
+					<school type="string">Evocation</school>
+					<source type="string">Bard, Cleric, Eldritch Knight, Sorcerer, Wizard, Arcane Trickster</source>
+				</id-00008>
+				<id-00009>
+					<holder name="Freedowl" owner="true" />
+					<actions>
+						<holder name="Freedowl" owner="true" />
+						<id-00001>
+							<holder name="Freedowl" owner="true" />
+							<durmod type="number">1</durmod>
+							<durunit type="string">minute</durunit>
+							<label type="string">Bless (C)</label>
+							<order type="number">1</order>
+							<targeting type="string">self</targeting>
+							<type type="string">effect</type>
+						</id-00001>
+						<id-00002>
+							<holder name="Freedowl" owner="true" />
+							<durmod type="number">1</durmod>
+							<durunit type="string">minute</durunit>
+							<label type="string">Bless (C); ATK: 1d4; SAVE: 1d4</label>
+							<order type="number">2</order>
+							<type type="string">effect</type>
+						</id-00002>
+					</actions>
+					<cast type="number">0</cast>
+					<castingtime type="string">1 action</castingtime>
+					<components type="string">V, S, M (a sprinkling of holy water)</components>
+					<description type="formattedtext">
+						<p>You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw.</p>
+						<p>At Higher Levels.</p>
+						<p>When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.</p>
+					</description>
+					<duration type="string">Concentration, up to 1 minute</duration>
+					<group type="string">Spells</group>
+					<level type="number">1</level>
+					<locked type="number">1</locked>
+					<name type="string">Bless (30) (C)</name>
+					<prepared type="number">1</prepared>
+					<range type="string">30 feet</range>
+					<ritual type="number">0</ritual>
+					<school type="string">Enchantment</school>
+					<source type="string">Cleric, Cleric Life Domain, Paladin</source>
+				</id-00009>
+				<id-00010>
+					<holder name="Freedowl" owner="true" />
+					<actions>
+						<holder name="Freedowl" owner="true" />
+						<id-00001>
+							<holder name="Freedowl" owner="true" />
+							<durmod type="number">10</durmod>
+							<durunit type="string">minute</durunit>
+							<label type="string">Protection from Evil and Good (C); IFT: TYPE(aberration, celestial, elemental, fiend, fey, undead); GRANTDISATK; IMMUNE: Charmed,Frightened</label>
+							<order type="number">1</order>
+							<targeting type="string">self</targeting>
+							<type type="string">effect</type>
+						</id-00001>
+						<id-00002>
+							<holder name="Freedowl" owner="true" />
+							<durmod type="number">10</durmod>
+							<durunit type="string">minute</durunit>
+							<label type="string">Protection from Evil and Good (C); IFT: TYPE(aberration, celestial, elemental, fiend, fey, undead); GRANTDISATK; IMMUNE: Charmed,Frightened</label>
+							<order type="number">2</order>
+							<type type="string">effect</type>
+						</id-00002>
+						<id-00003>
+							<holder name="Freedowl" owner="true" />
+							<durmod type="number">10</durmod>
+							<durunit type="string">minute</durunit>
+							<label type="string">Protection from Evil and Good (C)</label>
+							<order type="number">3</order>
+							<targeting type="string">self</targeting>
+							<type type="string">effect</type>
+						</id-00003>
+					</actions>
+					<cast type="number">0</cast>
+					<castingtime type="string">1 action</castingtime>
+					<components type="string">V, S, M (holy water or powdered silver and iron, which the spell consumes)</components>
+					<description type="formattedtext">
+						<p>Until the spell ends, one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends, and undead.</p>
+						<p>The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can't be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.</p>
+					</description>
+					<duration type="string">Concentration up to 10 minutes</duration>
+					<group type="string">Spells</group>
+					<level type="number">1</level>
+					<locked type="number">1</locked>
+					<name type="string">Protection from Evil and Good (T) (C)</name>
+					<prepared type="number">1</prepared>
+					<range type="string">Touch</range>
+					<ritual type="number">0</ritual>
+					<school type="string">Abjuration</school>
+					<source type="string">Cleric, Eldritch Knight, Paladin, Warlock, Wizard, Arcane Trickster</source>
+				</id-00010>
+				<id-00011>
+					<holder name="Freedowl" owner="true" />
+					<actions>
+						<holder name="Freedowl" owner="true" />
+						<id-00001>
+							<holder name="Freedowl" owner="true" />
+							<durmod type="number">10</durmod>
+							<durunit type="string">minute</durunit>
+							<label type="string">Shield of Faith (C)</label>
+							<order type="number">1</order>
+							<targeting type="string">self</targeting>
+							<type type="string">effect</type>
+						</id-00001>
+						<id-00002>
+							<holder name="Freedowl" owner="true" />
+							<durmod type="number">10</durmod>
+							<durunit type="string">minute</durunit>
+							<label type="string">Shield of Faith (C); AC: 2</label>
+							<order type="number">2</order>
+							<type type="string">effect</type>
+						</id-00002>
+					</actions>
+					<cast type="number">0</cast>
+					<castingtime type="string">1 bonus action</castingtime>
+					<components type="string">V, S, M (a small parchment with a bit of holy text written on it)</components>
+					<description type="formattedtext">
+						<p>A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.</p>
+					</description>
+					<duration type="string">Concentration, up to 10 minutes</duration>
+					<group type="string">Spells</group>
+					<level type="number">1</level>
+					<locked type="number">1</locked>
+					<name type="string">Shield of Faith (B) (60) (C)</name>
+					<prepared type="number">1</prepared>
+					<range type="string">60 feet</range>
+					<ritual type="number">0</ritual>
+					<school type="string">Abjuration</school>
+					<source type="string">Cleric, Cleric War Domain, Paladin</source>
+				</id-00011>
+				<id-00012>
+					<holder name="Freedowl" owner="true" />
+					<actions>
+						<holder name="Freedowl" owner="true" />
+						<id-00001>
+							<holder name="Freedowl" owner="true" />
+							<order type="number">1</order>
+							<savetype type="string">wisdom</savetype>
+							<type type="string">cast</type>
+						</id-00001>
+						<id-00002>
+							<holder name="Freedowl" owner="true" />
+							<durmod type="number">0</durmod>
+							<label type="string">Command Grovel; Prone</label>
+							<order type="number">2</order>
+							<type type="string">effect</type>
+						</id-00002>
+						<id-00003>
+							<holder name="Freedowl" owner="true" />
+							<durmod type="number">1</durmod>
+							<label type="string">Command Approach; Move toward caster</label>
+							<order type="number">3</order>
+							<type type="string">effect</type>
+						</id-00003>
+						<id-00004>
+							<holder name="Freedowl" owner="true" />
+							<durmod type="number">1</durmod>
+							<label type="string">Command Drop; Drops item(s) held</label>
+							<order type="number">4</order>
+							<type type="string">effect</type>
+						</id-00004>
+						<id-00005>
+							<holder name="Freedowl" owner="true" />
+							<durmod type="number">1</durmod>
+							<label type="string">Command Flee; Moves away as fast as possible</label>
+							<order type="number">5</order>
+							<type type="string">effect</type>
+						</id-00005>
+						<id-00006>
+							<holder name="Freedowl" owner="true" />
+							<durmod type="number">1</durmod>
+							<label type="string">Command Halt; Movement stopped, no actions</label>
+							<order type="number">6</order>
+							<type type="string">effect</type>
+						</id-00006>
+					</actions>
+					<cast type="number">0</cast>
+					<castingtime type="string">1 action</castingtime>
+					<components type="string">V</components>
+					<description type="formattedtext">
+						<p>You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn't understand your language, or if your command is directly harmful to it.</p>
+						<p>Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the DM determines how the target behaves. If the target can't follow your command, the spell ends.</p>
+						<p>Approach.</p>
+						<p>The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.Drop.</p>
+						<p>The target drops whatever it is holding and then ends its turn.Flee.</p>
+						<p>The target spends its turn moving away from you by the fastest available means.Grovel.</p>
+						<p>The target falls prone and then ends its turn.Halt.</p>
+						<p>The target doesn't move and takes no actions. A flying creature stays aloft, provided that it is able to do so. If it must move to stay aloft, it flies the minimum distance needed to remain in the air.At Higher Levels.</p>
+						<p>When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.</p>
+					</description>
+					<duration type="string">1 round</duration>
+					<group type="string">Spells</group>
+					<level type="number">1</level>
+					<locked type="number">1</locked>
+					<name type="string">Command (60)</name>
+					<prepared type="number">0</prepared>
+					<range type="string">60 feet</range>
+					<ritual type="number">0</ritual>
+					<school type="string">Enchantment</school>
+					<source type="string">Cleric, Cleric Knowledge Domain, Warlock (Fiend), Paladin</source>
+				</id-00012>
+				<id-00013>
+					<holder name="Freedowl" owner="true" />
+					<actions>
+						<holder name="Freedowl" owner="true" />
+					</actions>
+					<cast type="number">0</cast>
+					<castingtime type="string">1 action</castingtime>
+					<components type="string">V, S</components>
+					<description type="formattedtext">
+						<p>Until the spell ends, one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends, and undead.</p>
+						<p>The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can't be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.</p>
+					</description>
+					<duration type="string">Instantaneous</duration>
+					<group type="string">Spells</group>
+					<level type="number">1</level>
+					<locked type="number">1</locked>
+					<name type="string">Purify Food and Drink (10)</name>
+					<prepared type="number">0</prepared>
+					<range type="string">10 feet</range>
+					<ritual type="number">1</ritual>
+					<school type="string">Transmutation</school>
+					<source type="string">Cleric, Druid, Paladin</source>
+				</id-00013>
+			</powers>
+			<profbonus type="number">2</profbonus>
+			<proficiencylist>
+				<holder name="Freedowl" owner="true" />
+				<id-00001>
+					<holder name="Freedowl" owner="true" />
+					<name type="string">Tool: Any one musical instrument or gaming set</name>
+				</id-00001>
+				<id-00002>
+					<holder name="Freedowl" owner="true" />
+					<name type="string">Weapon: Simple weapons, martial weapons</name>
+				</id-00002>
+				<id-00003>
+					<holder name="Freedowl" owner="true" />
+					<name type="string">Armor: All armor, shields</name>
+				</id-00003>
+			</proficiencylist>
+			<race type="string">Protector Aasimar</race>
+			<racelink type="windowreference">
+				<class>reference_race</class>
+				<recordname>reference.racedata.aasimar@Volos Guide to Monsters Players</recordname>
+			</racelink>
+			<senses type="string">Darkvision 60</senses>
+			<size type="string">Medium</size>
+			<skilllist>
+				<holder name="Freedowl" owner="true" />
+				<id-00001>
+					<holder name="Freedowl" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Perception</name>
+					<prof type="number">1</prof>
+					<stat type="string">wisdom</stat>
+					<total type="number">3</total>
+				</id-00001>
+				<id-00002>
+					<holder name="Freedowl" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Arcana</name>
+					<prof type="number">0</prof>
+					<stat type="string">intelligence</stat>
+					<total type="number">-1</total>
+				</id-00002>
+				<id-00003>
+					<holder name="Freedowl" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Persuasion</name>
+					<prof type="number">1</prof>
+					<stat type="string">charisma</stat>
+					<total type="number">4</total>
+				</id-00003>
+				<id-00004>
+					<holder name="Freedowl" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Nature</name>
+					<prof type="number">0</prof>
+					<stat type="string">intelligence</stat>
+					<total type="number">-1</total>
+				</id-00004>
+				<id-00005>
+					<holder name="Freedowl" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Medicine</name>
+					<prof type="number">1</prof>
+					<stat type="string">wisdom</stat>
+					<total type="number">3</total>
+				</id-00005>
+				<id-00006>
+					<holder name="Freedowl" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Survival</name>
+					<prof type="number">0</prof>
+					<stat type="string">wisdom</stat>
+					<total type="number">1</total>
+				</id-00006>
+				<id-00007>
+					<holder name="Freedowl" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Performance</name>
+					<prof type="number">0</prof>
+					<stat type="string">charisma</stat>
+					<total type="number">2</total>
+				</id-00007>
+				<id-00008>
+					<holder name="Freedowl" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Acrobatics</name>
+					<prof type="number">0</prof>
+					<stat type="string">dexterity</stat>
+					<total type="number">0</total>
+				</id-00008>
+				<id-00009>
+					<holder name="Freedowl" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Religion</name>
+					<prof type="number">0</prof>
+					<stat type="string">intelligence</stat>
+					<total type="number">-1</total>
+				</id-00009>
+				<id-00010>
+					<holder name="Freedowl" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Athletics</name>
+					<prof type="number">0</prof>
+					<stat type="string">strength</stat>
+					<total type="number">2</total>
+				</id-00010>
+				<id-00011>
+					<holder name="Freedowl" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Sleight of Hand</name>
+					<prof type="number">0</prof>
+					<stat type="string">dexterity</stat>
+					<total type="number">0</total>
+				</id-00011>
+				<id-00012>
+					<holder name="Freedowl" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Insight</name>
+					<prof type="number">1</prof>
+					<stat type="string">wisdom</stat>
+					<total type="number">3</total>
+				</id-00012>
+				<id-00013>
+					<holder name="Freedowl" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Intimidation</name>
+					<prof type="number">0</prof>
+					<stat type="string">charisma</stat>
+					<total type="number">2</total>
+				</id-00013>
+				<id-00014>
+					<holder name="Freedowl" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Deception</name>
+					<prof type="number">0</prof>
+					<stat type="string">charisma</stat>
+					<total type="number">2</total>
+				</id-00014>
+				<id-00015>
+					<holder name="Freedowl" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Investigation</name>
+					<prof type="number">0</prof>
+					<stat type="string">intelligence</stat>
+					<total type="number">-1</total>
+				</id-00015>
+				<id-00016>
+					<holder name="Freedowl" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Stealth</name>
+					<prof type="number">0</prof>
+					<stat type="string">dexterity</stat>
+					<total type="number">0</total>
+				</id-00016>
+				<id-00017>
+					<holder name="Freedowl" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">History</name>
+					<prof type="number">0</prof>
+					<stat type="string">intelligence</stat>
+					<total type="number">-1</total>
+				</id-00017>
+				<id-00018>
+					<holder name="Freedowl" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Animal Handling</name>
+					<prof type="number">0</prof>
+					<stat type="string">wisdom</stat>
+					<total type="number">1</total>
+				</id-00018>
+				<id-00019>
+					<holder name="Freedowl" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Lute</name>
+					<prof type="number">1</prof>
+					<stat type="string">charisma</stat>
+					<total type="number">4</total>
+				</id-00019>
+			</skilllist>
+			<speed>
+				<holder name="Freedowl" owner="true" />
+				<armor type="number">0</armor>
+				<base type="number">30</base>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">30</total>
+			</speed>
+			<temp>
+				<holder name="Freedowl" owner="true" />
+			</temp>
+			<token type="token">portrait_id-00008_token</token>
+			<traitlist>
+				<holder name="Freedowl" owner="true" />
+				<id-00001>
+					<holder name="Freedowl" owner="true" />
+					<locked type="number">1</locked>
+					<name type="string">Celestial Resistance</name>
+					<source type="string">Aasimar</source>
+					<text type="formattedtext">
+						<p>You have resistance to necrotic damage and radiant damage.</p>
+					</text>
+					<type type="string">racial</type>
+				</id-00001>
+				<id-00002>
+					<holder name="Freedowl" owner="true" />
+					<locked type="number">1</locked>
+					<name type="string">Light Bearer</name>
+					<source type="string">Aasimar</source>
+					<text type="formattedtext">
+						<p>You know the light cantrip. Charisma is your spellcasting ability for it.</p>
+						<linklist>
+							<link class="reference_spell" recordname="reference.spelldata.light@*"><b>Cantrip: </b></link>Light</linklist>
+					</text>
+					<type type="string">racial</type>
+				</id-00002>
+				<id-00003>
+					<holder name="Freedowl" owner="true" />
+					<locked type="number">1</locked>
+					<name type="string">Healing Hands</name>
+					<source type="string">Aasimar</source>
+					<text type="formattedtext">
+						<p>As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can't use it again until you finish a long rest.</p>
+					</text>
+					<type type="string">racial</type>
+				</id-00003>
+				<id-00004>
+					<holder name="Freedowl" owner="true" />
+					<locked type="number">1</locked>
+					<name type="string">Radiant Soul</name>
+					<source type="string">Protector Aasimar</source>
+					<text type="formattedtext">
+						<p>Starting at 3rd level, you can use your action to unleash the divine energy within yourself, causing your eyes to glimmer and two luminous, incorporeal wings to sprout from your back.</p>
+						<p>Your transformation lasts for 1 minute or until you end it as a bonus action. During it, you have a flying speed of 30 feet, and once on each of your turns, you can deal extra radiant damage to one target when you deal damage to it with an attack or a spell. The extra radiant damage equals your level.</p>
+						<p>Once you use this trait, you can't use it again until you finish a long rest.</p>
+					</text>
+					<type type="string">subracial</type>
+				</id-00004>
+			</traitlist>
+			<weapon>
+				<holder name="Freedowl" owner="true" />
+				<critdicebonus>
+					<holder name="Freedowl" owner="true" />
+					<melee type="number">0</melee>
+					<ranged type="number">0</ranged>
+				</critdicebonus>
+				<critrange>
+					<holder name="Freedowl" owner="true" />
+					<melee type="number">20</melee>
+					<ranged type="number">20</ranged>
+				</critrange>
+			</weapon>
+			<weaponlist>
+				<holder name="Freedowl" owner="true" />
+				<id-00001>
+					<holder name="Freedowl" owner="true" />
+					<attackbonus type="number">0</attackbonus>
+					<carried type="number">2</carried>
+					<damagelist>
+						<holder name="Freedowl" owner="true" />
+						<id-00001>
+							<holder name="Freedowl" owner="true" />
+							<bonus type="number">0</bonus>
+							<dice type="dice">d8</dice>
+							<stat type="string">base</stat>
+							<type type="string">slashing</type>
+						</id-00001>
+					</damagelist>
+					<isidentified type="number">1</isidentified>
+					<maxammo type="number">0</maxammo>
+					<name type="string">Chauntea's Justice</name>
+					<prof type="number">1</prof>
+					<shortcut type="windowreference">
+						<class>item</class>
+						<recordname>....inventorylist.id-00009</recordname>
+					</shortcut>
+					<type type="number">0</type>
+				</id-00001>
+				<id-00002>
+					<holder name="Freedowl" owner="true" />
+					<attackbonus type="number">0</attackbonus>
+					<carried type="number">2</carried>
+					<damagelist>
+						<holder name="Freedowl" owner="true" />
+						<id-00001>
+							<holder name="Freedowl" owner="true" />
+							<bonus type="number">0</bonus>
+							<dice type="dice">d6</dice>
+							<stat type="string">base</stat>
+							<type type="string">slashing</type>
+						</id-00001>
+					</damagelist>
+					<isidentified type="number">1</isidentified>
+					<maxammo type="number">0</maxammo>
+					<name type="string">Handaxe</name>
+					<prof type="number">1</prof>
+					<shortcut type="windowreference">
+						<class>item</class>
+						<recordname>....inventorylist.id-00011</recordname>
+					</shortcut>
+					<type type="number">0</type>
+				</id-00002>
+				<id-00003>
+					<holder name="Freedowl" owner="true" />
+					<attackbonus type="number">0</attackbonus>
+					<carried type="number">2</carried>
+					<damagelist>
+						<holder name="Freedowl" owner="true" />
+						<id-00001>
+							<holder name="Freedowl" owner="true" />
+							<bonus type="number">0</bonus>
+							<dice type="dice">d6</dice>
+							<stat type="string">base</stat>
+							<type type="string">slashing</type>
+						</id-00001>
+					</damagelist>
+					<isidentified type="number">1</isidentified>
+					<maxammo type="number">1</maxammo>
+					<name type="string">Handaxe</name>
+					<prof type="number">1</prof>
+					<shortcut type="windowreference">
+						<class>item</class>
+						<recordname>....inventorylist.id-00011</recordname>
+					</shortcut>
+					<type type="number">2</type>
+				</id-00003>
+				<id-00004>
+					<holder name="Freedowl" owner="true" />
+					<attackbonus type="number">0</attackbonus>
+					<carried type="number">2</carried>
+					<damagelist>
+						<holder name="Freedowl" owner="true" />
+						<id-00001>
+							<holder name="Freedowl" owner="true" />
+							<bonus type="number">0</bonus>
+							<dice type="dice">d10</dice>
+							<stat type="string">base</stat>
+							<type type="string">slashing</type>
+						</id-00001>
+					</damagelist>
+					<maxammo type="number">0</maxammo>
+					<name type="string">Chauntea's Justice (Two handed use)</name>
+					<prof type="number">1</prof>
+					<properties type="string">Two Handed</properties>
+					<shortcut type="windowreference">
+						<class></class>
+						<recordname></recordname>
+					</shortcut>
+					<type type="number">0</type>
+				</id-00004>
+			</weaponlist>
+		</id-00008>
 	</charsheet>
 	<class>
 	</class>
@@ -13178,7 +14973,7 @@
 				<hptemp type="number">0</hptemp>
 				<hptotal type="number">36</hptotal>
 				<init type="number">1</init>
-				<initresult type="number">13</initresult>
+				<initresult type="number">9</initresult>
 				<innatespells>
 					<public />
 				</innatespells>
@@ -13250,7 +15045,7 @@
 				<actions>
 					<public />
 				</actions>
-				<active type="number">1</active>
+				<active type="number">0</active>
 				<deathsavefail type="number">0</deathsavefail>
 				<deathsavesuccess type="number">0</deathsavesuccess>
 				<effects>
@@ -13260,7 +15055,7 @@
 				<hptemp type="number">0</hptemp>
 				<hptotal type="number">31</hptotal>
 				<init type="number">3</init>
-				<initresult type="number">10</initresult>
+				<initresult type="number">11</initresult>
 				<innatespells>
 					<public />
 				</innatespells>
@@ -13358,7 +15153,7 @@
 				<hptemp type="number">0</hptemp>
 				<hptotal type="number">1</hptotal>
 				<init type="number">1</init>
-				<initresult type="number">10</initresult>
+				<initresult type="number">11</initresult>
 				<innatespells>
 					<public />
 				</innatespells>
@@ -13415,88 +15210,6 @@
 				<wounds type="number">0</wounds>
 				<xp type="number">10</xp>
 			</id-00017>
-			<id-00027>
-				<public />
-				<abilities>
-					<public />
-					<charisma>
-						<public />
-						<score type="number">13</score>
-					</charisma>
-					<constitution>
-						<public />
-						<score type="number">15</score>
-					</constitution>
-					<dexterity>
-						<public />
-						<score type="number">16</score>
-					</dexterity>
-					<intelligence>
-						<public />
-						<score type="number">12</score>
-					</intelligence>
-					<strength>
-						<public />
-						<score type="number">10</score>
-					</strength>
-					<wisdom>
-						<public />
-						<score type="number">16</score>
-					</wisdom>
-				</abilities>
-				<ac type="number">16</ac>
-				<actions>
-					<public />
-				</actions>
-				<active type="number">0</active>
-				<deathsavefail type="number">0</deathsavefail>
-				<deathsavesuccess type="number">0</deathsavesuccess>
-				<effects>
-					<public />
-				</effects>
-				<friendfoe type="string">friend</friendfoe>
-				<hptemp type="number">0</hptemp>
-				<hptotal type="number">24</hptotal>
-				<init type="number">3</init>
-				<initresult type="number">21</initresult>
-				<innatespells>
-					<public />
-				</innatespells>
-				<lairactions>
-					<public />
-				</lairactions>
-				<legendaryactions>
-					<public />
-				</legendaryactions>
-				<link type="windowreference">
-					<class>charsheet</class>
-					<recordname>charsheet.id-00005</recordname>
-				</link>
-				<name type="string">Aravor</name>
-				<reach type="number">5</reach>
-				<reaction type="number">0</reaction>
-				<reactions>
-					<public />
-				</reactions>
-				<space type="number">5</space>
-				<speed type="string">30</speed>
-				<spells>
-					<public />
-				</spells>
-				<status type="string">Wounded</status>
-				<targets>
-					<public />
-				</targets>
-				<token type="token">portrait_id-00005_token</token>
-				<tokenrefid type="string">40</tokenrefid>
-				<tokenrefnode type="string">image.id-00016.image</tokenrefnode>
-				<tokenscale type="number">1</tokenscale>
-				<tokenvis type="number">1</tokenvis>
-				<traits>
-					<public />
-				</traits>
-				<wounds type="number">9</wounds>
-			</id-00027>
 			<id-00039>
 				<public />
 				<abilities>
@@ -13535,12 +15248,21 @@
 				<deathsavesuccess type="number">0</deathsavesuccess>
 				<effects>
 					<public />
+					<id-00007>
+						<public />
+						<holder name="Debria" owner="true" />
+						<duration type="number">0</duration>
+						<init type="number">21</init>
+						<isactive type="number">1</isactive>
+						<isgmonly type="number">0</isgmonly>
+						<label type="string">Suggestion (C)</label>
+					</id-00007>
 				</effects>
 				<friendfoe type="string">friend</friendfoe>
 				<hptemp type="number">0</hptemp>
 				<hptotal type="number">21</hptotal>
 				<init type="number">1</init>
-				<initresult type="number">18</initresult>
+				<initresult type="number">21</initresult>
 				<innatespells>
 					<public />
 				</innatespells>
@@ -13570,7 +15292,7 @@
 				<tokenrefid type="string">48</tokenrefid>
 				<tokenrefnode type="string">image.id-00016.image</tokenrefnode>
 				<tokenscale type="number">1</tokenscale>
-				<tokenvis type="number">0</tokenvis>
+				<tokenvis type="number">1</tokenvis>
 				<traits>
 					<public />
 				</traits>
@@ -13635,7 +15357,7 @@
 				<hptemp type="number">0</hptemp>
 				<hptotal type="number">1</hptotal>
 				<init type="number">2</init>
-				<initresult type="number">18</initresult>
+				<initresult type="number">21</initresult>
 				<innatespells>
 					<public />
 				</innatespells>
@@ -13666,11 +15388,13 @@
 					<public />
 				</spells>
 				<status type="string">Healthy</status>
+				<text type="formattedtext">
+				</text>
 				<token type="token">tokens/raven.png@DD5E SRD Bestiary</token>
 				<tokenrefid type="string">49</tokenrefid>
 				<tokenrefnode type="string">image.id-00016.image</tokenrefnode>
 				<tokenscale type="number">0.78125</tokenscale>
-				<tokenvis type="number">0</tokenvis>
+				<tokenvis type="number">1</tokenvis>
 				<traits>
 					<public />
 					<id-00001>
@@ -13722,12 +15446,21 @@
 				<deathsavesuccess type="number">0</deathsavesuccess>
 				<effects>
 					<public />
+					<id-00001>
+						<public />
+						<holder name="Brokenbikez" owner="true" />
+						<duration type="number">7</duration>
+						<init type="number">0</init>
+						<isactive type="number">1</isactive>
+						<isgmonly type="number">0</isgmonly>
+						<label type="string">Rage; ADVCHK: strength; ADVSAV: strength; DMG: 2 melee; RESIST: bludgeoning,slashing,piercing</label>
+					</id-00001>
 				</effects>
 				<friendfoe type="string">friend</friendfoe>
 				<hptemp type="number">0</hptemp>
 				<hptotal type="number">32</hptotal>
 				<init type="number">1</init>
-				<initresult type="number">0</initresult>
+				<initresult type="number">16</initresult>
 				<innatespells>
 					<public />
 				</innatespells>
@@ -13752,16 +15485,19 @@
 				<spells>
 					<public />
 				</spells>
-				<status type="string">Wounded</status>
+				<status type="string">Heavy</status>
+				<targets>
+					<public />
+				</targets>
 				<token type="token">portrait_id-00007_token</token>
 				<tokenrefid type="string">53</tokenrefid>
 				<tokenrefnode type="string">image.id-00016.image</tokenrefnode>
 				<tokenscale type="number">1</tokenscale>
-				<tokenvis type="number">0</tokenvis>
+				<tokenvis type="number">1</tokenvis>
 				<traits>
 					<public />
 				</traits>
-				<wounds type="number">6</wounds>
+				<wounds type="number">20</wounds>
 			</id-00042>
 			<id-00043>
 				<public />
@@ -13804,9 +15540,9 @@
 				</effects>
 				<friendfoe type="string">friend</friendfoe>
 				<hptemp type="number">0</hptemp>
-				<hptotal type="number">27</hptotal>
+				<hptotal type="number">33</hptotal>
 				<init type="number">5</init>
-				<initresult type="number">0</initresult>
+				<initresult type="number">21</initresult>
 				<innatespells>
 					<public />
 				</innatespells>
@@ -13832,66 +15568,153 @@
 					<public />
 				</spells>
 				<status type="string">Healthy</status>
+				<targets>
+					<public />
+					<id-00010>
+						<public />
+						<noderef type="string">combattracker.list.id-00069</noderef>
+					</id-00010>
+				</targets>
 				<token type="token">portrait_id-00002_token</token>
 				<tokenrefid type="string">52</tokenrefid>
 				<tokenrefnode type="string">image.id-00016.image</tokenrefnode>
 				<tokenscale type="number">1</tokenscale>
-				<tokenvis type="number">0</tokenvis>
+				<tokenvis type="number">1</tokenvis>
 				<traits>
 					<public />
 				</traits>
 				<wounds type="number">0</wounds>
 			</id-00043>
-			<id-00044>
+			<id-00062>
 				<public />
 				<abilities>
 					<public />
 					<charisma>
 						<public />
-						<bonus type="number">-4</bonus>
-						<score type="number">2</score>
+						<score type="number">15</score>
 					</charisma>
 					<constitution>
 						<public />
-						<bonus type="number">3</bonus>
-						<score type="number">16</score>
+						<score type="number">14</score>
 					</constitution>
 					<dexterity>
 						<public />
-						<bonus type="number">-2</bonus>
-						<score type="number">6</score>
+						<score type="number">10</score>
 					</dexterity>
 					<intelligence>
 						<public />
-						<bonus type="number">-5</bonus>
-						<score type="number">1</score>
+						<score type="number">8</score>
 					</intelligence>
 					<strength>
 						<public />
-						<bonus type="number">1</bonus>
-						<score type="number">12</score>
+						<score type="number">15</score>
 					</strength>
 					<wisdom>
 						<public />
-						<bonus type="number">-2</bonus>
-						<score type="number">6</score>
+						<score type="number">13</score>
 					</wisdom>
 				</abilities>
-				<ac type="number">8</ac>
+				<ac type="number">18</ac>
+				<actions>
+					<public />
+				</actions>
+				<active type="number">0</active>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<effects>
+					<public />
+				</effects>
+				<friendfoe type="string">friend</friendfoe>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">28</hptotal>
+				<init type="number">0</init>
+				<initresult type="number">5</initresult>
+				<innatespells>
+					<public />
+				</innatespells>
+				<lairactions>
+					<public />
+				</lairactions>
+				<legendaryactions>
+					<public />
+				</legendaryactions>
+				<link type="windowreference">
+					<class>charsheet</class>
+					<recordname>charsheet.id-00008</recordname>
+				</link>
+				<name type="string">Yelvan</name>
+				<reach type="number">5</reach>
+				<reaction type="number">0</reaction>
+				<reactions>
+					<public />
+				</reactions>
+				<space type="number">5</space>
+				<speed type="string">30</speed>
+				<spells>
+					<public />
+				</spells>
+				<status type="string">Healthy</status>
+				<token type="token">portrait_id-00008_token</token>
+				<tokenrefid type="string">86</tokenrefid>
+				<tokenrefnode type="string">image.id-00016.image</tokenrefnode>
+				<tokenscale type="number">1</tokenscale>
+				<tokenvis type="number">1</tokenvis>
+				<traits>
+					<public />
+				</traits>
+				<wounds type="number">0</wounds>
+			</id-00062>
+			<id-00063>
+				<public />
+				<abilities>
+					<public />
+					<charisma>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">11</score>
+					</charisma>
+					<constitution>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">11</score>
+					</constitution>
+					<dexterity>
+						<public />
+						<bonus type="number">2</bonus>
+						<score type="number">14</score>
+					</dexterity>
+					<intelligence>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">10</score>
+					</intelligence>
+					<strength>
+						<public />
+						<bonus type="number">-5</bonus>
+						<score type="number">1</score>
+					</strength>
+					<wisdom>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">10</score>
+					</wisdom>
+				</abilities>
+				<ac type="number">12</ac>
 				<actions>
 					<public />
 					<id-00001>
 						<public />
-						<desc type="string">Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage + 7 (2d6) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.</desc>
-						<name type="string">Pseudopod</name>
-						<value type="string">Pseudopod [M] [ATK: +3] [DMG: 1d6+1 bludgeoning + 2d6 acid]</value>
+						<desc type="string">Melee Spell Attack: +4 to hit, reach 5 ft., one creature. Hit: 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</desc>
+						<name type="string">Life Drain</name>
+						<value type="string">Life drain [M] [ATK: +4] [DMG: 3d6 necrotic] [SAVEVS: constitution 10]</value>
 					</id-00001>
 				</actions>
-				<active type="number">0</active>
-				<alignment type="string">unaligned</alignment>
-				<conditionimmunities type="string">blinded, charmed, deafened, exhaustion, frightened, prone</conditionimmunities>
-				<cr type="string">1/2</cr>
-				<damageresistances type="string">acid, cold, fire</damageresistances>
+				<active type="number">1</active>
+				<alignment type="string">chaotic evil</alignment>
+				<conditionimmunities type="string">charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious</conditionimmunities>
+				<cr type="string">1</cr>
+				<damageimmunities type="string">necrotic, poison</damageimmunities>
+				<damageresistances type="string">acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks</damageresistances>
 				<deathsavefail type="number">0</deathsavefail>
 				<deathsavesuccess type="number">0</deathsavesuccess>
 				<effects>
@@ -13902,16 +15725,748 @@
 						<init type="number">0</init>
 						<isactive type="number">1</isactive>
 						<isgmonly type="number">1</isgmonly>
-						<label type="string">RESIST: acid, cold, fire; IMMUNE: blinded, charmed, deafened, frightened, prone</label>
+						<label type="string">RESIST: acid, cold, fire, lightning, thunder; RESIST: bludgeoning, piercing, slashing, !magic; IMMUNE: necrotic, poison; IMMUNE: charmed, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious</label>
 					</id-00001>
 				</effects>
 				<friendfoe type="string">foe</friendfoe>
-				<hd type="string">(3d8 + 9)</hd>
+				<hd type="string">(5d8)</hd>
 				<hp type="number">22</hp>
 				<hptemp type="number">0</hptemp>
-				<hptotal type="number">16</hptotal>
-				<init type="number">-2</init>
-				<initresult type="number">0</initresult>
+				<hptotal type="number">13</hptotal>
+				<init type="number">2</init>
+				<initresult type="number">22</initresult>
+				<innatespells>
+					<public />
+				</innatespells>
+				<lairactions>
+					<public />
+				</lairactions>
+				<languages type="string">understands all languages it knew in life but can't speak</languages>
+				<legendaryactions>
+					<public />
+				</legendaryactions>
+				<link type="windowreference">
+					<class>npc</class>
+					<recordname></recordname>
+				</link>
+				<locked type="number">1</locked>
+				<name type="string">Specter 16</name>
+				<reach type="number">5</reach>
+				<reaction type="number">0</reaction>
+				<reactions>
+					<public />
+				</reactions>
+				<senses type="string">darkvision 60 ft., passive Perception 10</senses>
+				<size type="string">Medium</size>
+				<space type="number">5</space>
+				<speed type="string">0 ft., fly 50 ft. (hover)</speed>
+				<spells>
+					<public />
+				</spells>
+				<status type="string">Healthy</status>
+				<text type="formattedtext">
+					<p></p>
+				</text>
+				<token type="token">tokens/specter.png@DD5E SRD Bestiary</token>
+				<tokenrefid type="string">87</tokenrefid>
+				<tokenrefnode type="string">image.id-00016.image</tokenrefnode>
+				<tokenscale type="number">0.78125</tokenscale>
+				<tokenvis type="number">1</tokenvis>
+				<traits>
+					<public />
+					<id-00001>
+						<public />
+						<desc type="string">The specter can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.</desc>
+						<name type="string">Incorporeal Movement</name>
+						<value type="string">Incorporeal movement [DMG: 1d10 force]</value>
+					</id-00001>
+					<id-00002>
+						<public />
+						<desc type="string">While in sunlight, the specter has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</desc>
+						<name type="string">Sunlight Sensitivity</name>
+						<value type="string">Sunlight sensitivity</value>
+					</id-00002>
+				</traits>
+				<type type="string">undead</type>
+				<wounds type="number">0</wounds>
+				<xp type="number">200</xp>
+			</id-00063>
+			<id-00064>
+				<public />
+				<abilities>
+					<public />
+					<charisma>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">11</score>
+					</charisma>
+					<constitution>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">11</score>
+					</constitution>
+					<dexterity>
+						<public />
+						<bonus type="number">2</bonus>
+						<score type="number">14</score>
+					</dexterity>
+					<intelligence>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">10</score>
+					</intelligence>
+					<strength>
+						<public />
+						<bonus type="number">-5</bonus>
+						<score type="number">1</score>
+					</strength>
+					<wisdom>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">10</score>
+					</wisdom>
+				</abilities>
+				<ac type="number">12</ac>
+				<actions>
+					<public />
+					<id-00001>
+						<public />
+						<desc type="string">Melee Spell Attack: +4 to hit, reach 5 ft., one creature. Hit: 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.</desc>
+						<name type="string">Life Drain</name>
+						<value type="string">Life drain [M] [ATK: +4] [DMG: 3d6 necrotic] [SAVEVS: constitution 10]</value>
+					</id-00001>
+				</actions>
+				<active type="number">0</active>
+				<alignment type="string">chaotic evil</alignment>
+				<conditionimmunities type="string">charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious</conditionimmunities>
+				<cr type="string">1</cr>
+				<damageimmunities type="string">necrotic, poison</damageimmunities>
+				<damageresistances type="string">acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks</damageresistances>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<effects>
+					<public />
+					<id-00001>
+						<public />
+						<duration type="number">0</duration>
+						<init type="number">0</init>
+						<isactive type="number">1</isactive>
+						<isgmonly type="number">1</isgmonly>
+						<label type="string">RESIST: acid, cold, fire, lightning, thunder; RESIST: bludgeoning, piercing, slashing, !magic; IMMUNE: necrotic, poison; IMMUNE: charmed, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious</label>
+					</id-00001>
+				</effects>
+				<friendfoe type="string">foe</friendfoe>
+				<hd type="string">(5d8)</hd>
+				<hp type="number">22</hp>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">21</hptotal>
+				<init type="number">2</init>
+				<initresult type="number">22</initresult>
+				<innatespells>
+					<public />
+				</innatespells>
+				<lairactions>
+					<public />
+				</lairactions>
+				<languages type="string">understands all languages it knew in life but can't speak</languages>
+				<legendaryactions>
+					<public />
+				</legendaryactions>
+				<link type="windowreference">
+					<class>npc</class>
+					<recordname></recordname>
+				</link>
+				<locked type="number">1</locked>
+				<name type="string">Specter 9</name>
+				<reach type="number">5</reach>
+				<reaction type="number">0</reaction>
+				<reactions>
+					<public />
+				</reactions>
+				<senses type="string">darkvision 60 ft., passive Perception 10</senses>
+				<size type="string">Medium</size>
+				<space type="number">5</space>
+				<speed type="string">0 ft., fly 50 ft. (hover)</speed>
+				<spells>
+					<public />
+				</spells>
+				<status type="string">Healthy</status>
+				<text type="formattedtext">
+					<p></p>
+				</text>
+				<token type="token">tokens/specter.png@DD5E SRD Bestiary</token>
+				<tokenrefid type="string">88</tokenrefid>
+				<tokenrefnode type="string">image.id-00016.image</tokenrefnode>
+				<tokenscale type="number">0.78125</tokenscale>
+				<tokenvis type="number">1</tokenvis>
+				<traits>
+					<public />
+					<id-00001>
+						<public />
+						<desc type="string">The specter can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.</desc>
+						<name type="string">Incorporeal Movement</name>
+						<value type="string">Incorporeal movement [DMG: 1d10 force]</value>
+					</id-00001>
+					<id-00002>
+						<public />
+						<desc type="string">While in sunlight, the specter has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.</desc>
+						<name type="string">Sunlight Sensitivity</name>
+						<value type="string">Sunlight sensitivity</value>
+					</id-00002>
+				</traits>
+				<type type="string">undead</type>
+				<wounds type="number">0</wounds>
+				<xp type="number">200</xp>
+			</id-00064>
+			<id-00065>
+				<public />
+				<abilities>
+					<public />
+					<charisma>
+						<public />
+						<bonus type="number">-2</bonus>
+						<score type="number">6</score>
+					</charisma>
+					<constitution>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">10</score>
+					</constitution>
+					<dexterity>
+						<public />
+						<bonus type="number">2</bonus>
+						<score type="number">15</score>
+					</dexterity>
+					<intelligence>
+						<public />
+						<bonus type="number">-2</bonus>
+						<score type="number">7</score>
+					</intelligence>
+					<strength>
+						<public />
+						<bonus type="number">1</bonus>
+						<score type="number">13</score>
+					</strength>
+					<wisdom>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">10</score>
+					</wisdom>
+				</abilities>
+				<ac type="number">12</ac>
+				<actions>
+					<public />
+					<id-00001>
+						<public />
+						<desc type="string">Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 9 (2d6 + 2) piercing damage.</desc>
+						<name type="string">Bite</name>
+						<value type="string">Bite [M] [ATK: +2] [DMG: 2d6+2 piercing]</value>
+					</id-00001>
+					<id-00002>
+						<public />
+						<desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</desc>
+						<name type="string">Claws</name>
+						<value type="string">Claws [M] [ATK: +4] [DMG: 2d4+2 slashing] [SAVEVS: constitution 10] [EFF: Paralyzed (D:1 MIN)]</value>
+					</id-00002>
+				</actions>
+				<active type="number">0</active>
+				<alignment type="string">chaotic evil</alignment>
+				<conditionimmunities type="string">charmed, exhaustion, poisoned</conditionimmunities>
+				<cr type="string">1</cr>
+				<damageimmunities type="string">poison</damageimmunities>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<effects>
+					<public />
+					<id-00001>
+						<public />
+						<duration type="number">0</duration>
+						<init type="number">0</init>
+						<isactive type="number">1</isactive>
+						<isgmonly type="number">1</isgmonly>
+						<label type="string">IMMUNE: poison; IMMUNE: charmed, poisoned</label>
+					</id-00001>
+				</effects>
+				<friendfoe type="string">foe</friendfoe>
+				<hd type="string">(5d8)</hd>
+				<hp type="number">22</hp>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">31</hptotal>
+				<init type="number">2</init>
+				<initresult type="number">6</initresult>
+				<innatespells>
+					<public />
+				</innatespells>
+				<lairactions>
+					<public />
+				</lairactions>
+				<languages type="string">Common</languages>
+				<legendaryactions>
+					<public />
+				</legendaryactions>
+				<link type="windowreference">
+					<class>npc</class>
+					<recordname></recordname>
+				</link>
+				<locked type="number">1</locked>
+				<name type="string">Ghoul</name>
+				<reach type="number">5</reach>
+				<reaction type="number">0</reaction>
+				<reactions>
+					<public />
+				</reactions>
+				<senses type="string">darkvision 60 ft., passive Perception 10</senses>
+				<size type="string">Medium</size>
+				<space type="number">5</space>
+				<speed type="string">30 ft.</speed>
+				<spells>
+					<public />
+				</spells>
+				<status type="string">Healthy</status>
+				<text type="formattedtext">
+				</text>
+				<token type="token">tokens/ghoul.png@DD5E SRD Bestiary</token>
+				<tokenrefid type="string">89</tokenrefid>
+				<tokenrefnode type="string">image.id-00016.image</tokenrefnode>
+				<tokenscale type="number">0.78125</tokenscale>
+				<tokenvis type="number">1</tokenvis>
+				<traits>
+					<public />
+				</traits>
+				<type type="string">undead</type>
+				<wounds type="number">0</wounds>
+				<xp type="number">200</xp>
+			</id-00065>
+			<id-00066>
+				<public />
+				<abilities>
+					<public />
+					<charisma>
+						<public />
+						<bonus type="number">2</bonus>
+						<score type="number">15</score>
+					</charisma>
+					<constitution>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">10</score>
+					</constitution>
+					<dexterity>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">10</score>
+					</dexterity>
+					<intelligence>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">10</score>
+					</intelligence>
+					<strength>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">11</score>
+					</strength>
+					<wisdom>
+						<public />
+						<bonus type="number">1</bonus>
+						<score type="number">13</score>
+					</wisdom>
+				</abilities>
+				<ac type="number">13</ac>
+				<actions>
+					<public />
+					<id-00001>
+						<public />
+						<desc type="string">Melee Weapon Attack: +3 to hit. On Hit: 9 (2d8) cold-forged iron damage and 4 (1d6) fire damage</desc>
+						<name type="string">Longsword of Vinoa</name>
+						<value type="string">Longsword of vinoa [M] [ATK: +3] [DMG: 2d8 cold-forged iron + 1d6 fire]</value>
+					</id-00001>
+				</actions>
+				<active type="number">0</active>
+				<alignment type="string">Lawful Evil</alignment>
+				<cr type="string">3</cr>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<effects>
+					<public />
+				</effects>
+				<friendfoe type="string">foe</friendfoe>
+				<hd type="string">(6d8 + 36)</hd>
+				<hp type="number">63</hp>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">65</hptotal>
+				<init type="number">0</init>
+				<initresult type="number">16</initresult>
+				<innatespells>
+					<public />
+				</innatespells>
+				<lairactions>
+					<public />
+				</lairactions>
+				<languages type="string">common, infernal</languages>
+				<legendaryactions>
+					<public />
+					<id-00001>
+						<public />
+						<desc type="string">The Knight of the Order of Vinoa is trained in agility to the point that he can make a bonus move of 30 ft. once per round.</desc>
+						<name type="string">Swift of Foot</name>
+						<value type="string">Swift of foot</value>
+					</id-00001>
+				</legendaryactions>
+				<link type="windowreference">
+					<class>npc</class>
+					<recordname></recordname>
+				</link>
+				<locked type="number">1</locked>
+				<name type="string">Knight of the Order of Vinoa</name>
+				<reach type="number">5</reach>
+				<reaction type="number">0</reaction>
+				<reactions>
+					<public />
+				</reactions>
+				<senses type="string">darkvision 60ft., passive Perception 13</senses>
+				<size type="string">Medium</size>
+				<space type="number">5</space>
+				<speed type="string">30 ft.</speed>
+				<spells>
+					<public />
+				</spells>
+				<status type="string">Healthy</status>
+				<text type="formattedtext">
+					<p>Knights of the Order of Vinoa beleive and serve the demi-human Vinoa. She gives each of them a magic totem that allows her to perceive what is going on around them. When they loose control of that item she recalls it to her presence.</p>
+				</text>
+				<token type="token">tokens/Medium/v.png@Letter Tokens</token>
+				<tokenrefid type="string">90</tokenrefid>
+				<tokenrefnode type="string">image.id-00016.image</tokenrefnode>
+				<tokenscale type="number">1.42857</tokenscale>
+				<tokenvis type="number">1</tokenvis>
+				<traits>
+					<public />
+					<id-00001>
+						<public />
+						<desc type="string">A Knight of the Order of Vinoa may take one legendary action per round at the end of any character's turn.</desc>
+						<name type="string">Legendary Actions</name>
+						<value type="string">Legendary actions</value>
+					</id-00001>
+				</traits>
+				<type type="string">Humanoid (Any)</type>
+				<wounds type="number">0</wounds>
+				<xp type="number">700</xp>
+			</id-00066>
+			<id-00067>
+				<public />
+				<abilities>
+					<public />
+					<charisma>
+						<public />
+						<bonus type="number">-1</bonus>
+						<score type="number">9</score>
+					</charisma>
+					<constitution>
+						<public />
+						<bonus type="number">1</bonus>
+						<score type="number">13</score>
+					</constitution>
+					<dexterity>
+						<public />
+						<bonus type="number">2</bonus>
+						<score type="number">14</score>
+					</dexterity>
+					<intelligence>
+						<public />
+						<bonus type="number">-1</bonus>
+						<score type="number">8</score>
+					</intelligence>
+					<strength>
+						<public />
+						<bonus type="number">2</bonus>
+						<score type="number">15</score>
+					</strength>
+					<wisdom>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">11</score>
+					</wisdom>
+				</abilities>
+				<ac type="number">16</ac>
+				<actext type="string">(hide armor, shield)</actext>
+				<actions>
+					<public />
+					<id-00001>
+						<public />
+						<desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) piercing damage.</desc>
+						<name type="string">Morningstar</name>
+						<value type="string">Morningstar [M] [ATK: +4] [DMG: 2d8+2 piercing]</value>
+					</id-00001>
+					<id-00002>
+						<public />
+						<desc type="string">Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at range.</desc>
+						<name type="string">Javelin</name>
+						<value type="string">Javelin [R] [ATK: +4] [DMG: 2d6+2 piercing] [DMG: 1d6+2 piercing]</value>
+					</id-00002>
+				</actions>
+				<active type="number">0</active>
+				<alignment type="string">chaotic evil</alignment>
+				<cr type="string">1</cr>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<effects>
+					<public />
+				</effects>
+				<friendfoe type="string">foe</friendfoe>
+				<hd type="string">(5d8 + 5)</hd>
+				<hp type="number">27</hp>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">25</hptotal>
+				<init type="number">2</init>
+				<initresult type="number">9</initresult>
+				<innatespells>
+					<public />
+				</innatespells>
+				<lairactions>
+					<public />
+				</lairactions>
+				<languages type="string">Common, Goblin</languages>
+				<legendaryactions>
+					<public />
+				</legendaryactions>
+				<link type="windowreference">
+					<class>npc</class>
+					<recordname></recordname>
+				</link>
+				<locked type="number">1</locked>
+				<name type="string">Bugbear 12</name>
+				<reach type="number">5</reach>
+				<reaction type="number">0</reaction>
+				<reactions>
+					<public />
+				</reactions>
+				<senses type="string">darkvision 60 ft., passive Perception 10</senses>
+				<size type="string">Medium</size>
+				<skills type="string">Stealth +6, Survival +2</skills>
+				<space type="number">5</space>
+				<speed type="string">30 ft.</speed>
+				<spells>
+					<public />
+				</spells>
+				<status type="string">Healthy</status>
+				<text type="formattedtext">
+					<p></p>
+				</text>
+				<token type="token">tokens/B.png@DD5E SRD Bestiary</token>
+				<tokenrefid type="string">91</tokenrefid>
+				<tokenrefnode type="string">image.id-00016.image</tokenrefnode>
+				<tokenscale type="number">1</tokenscale>
+				<tokenvis type="number">1</tokenvis>
+				<traits>
+					<public />
+					<id-00001>
+						<public />
+						<desc type="string">A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack).</desc>
+						<name type="string">Brute</name>
+						<value type="string">Brute</value>
+					</id-00001>
+					<id-00002>
+						<public />
+						<desc type="string">If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.</desc>
+						<name type="string">Surprise Attack</name>
+						<value type="string">Surprise attack [EFF: DMG: 2d6 (T:SELF) (A:ROLL)]</value>
+					</id-00002>
+				</traits>
+				<type type="string">humanoid (goblinoid)</type>
+				<wounds type="number">0</wounds>
+				<xp type="number">200</xp>
+			</id-00067>
+			<id-00068>
+				<public />
+				<abilities>
+					<public />
+					<charisma>
+						<public />
+						<bonus type="number">-1</bonus>
+						<score type="number">9</score>
+					</charisma>
+					<constitution>
+						<public />
+						<bonus type="number">1</bonus>
+						<score type="number">13</score>
+					</constitution>
+					<dexterity>
+						<public />
+						<bonus type="number">2</bonus>
+						<score type="number">14</score>
+					</dexterity>
+					<intelligence>
+						<public />
+						<bonus type="number">-1</bonus>
+						<score type="number">8</score>
+					</intelligence>
+					<strength>
+						<public />
+						<bonus type="number">2</bonus>
+						<score type="number">15</score>
+					</strength>
+					<wisdom>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">11</score>
+					</wisdom>
+				</abilities>
+				<ac type="number">16</ac>
+				<actext type="string">(hide armor, shield)</actext>
+				<actions>
+					<public />
+					<id-00001>
+						<public />
+						<desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) piercing damage.</desc>
+						<name type="string">Morningstar</name>
+						<value type="string">Morningstar [M] [ATK: +4] [DMG: 2d8+2 piercing]</value>
+					</id-00001>
+					<id-00002>
+						<public />
+						<desc type="string">Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at range.</desc>
+						<name type="string">Javelin</name>
+						<value type="string">Javelin [R] [ATK: +4] [DMG: 2d6+2 piercing] [DMG: 1d6+2 piercing]</value>
+					</id-00002>
+				</actions>
+				<active type="number">0</active>
+				<alignment type="string">chaotic evil</alignment>
+				<cr type="string">1</cr>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<effects>
+					<public />
+				</effects>
+				<friendfoe type="string">foe</friendfoe>
+				<hd type="string">(5d8 + 5)</hd>
+				<hp type="number">27</hp>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">28</hptotal>
+				<init type="number">2</init>
+				<initresult type="number">9</initresult>
+				<innatespells>
+					<public />
+				</innatespells>
+				<lairactions>
+					<public />
+				</lairactions>
+				<languages type="string">Common, Goblin</languages>
+				<legendaryactions>
+					<public />
+				</legendaryactions>
+				<link type="windowreference">
+					<class>npc</class>
+					<recordname></recordname>
+				</link>
+				<locked type="number">1</locked>
+				<name type="string">Bugbear 10</name>
+				<reach type="number">5</reach>
+				<reaction type="number">0</reaction>
+				<reactions>
+					<public />
+				</reactions>
+				<senses type="string">darkvision 60 ft., passive Perception 10</senses>
+				<size type="string">Medium</size>
+				<skills type="string">Stealth +6, Survival +2</skills>
+				<space type="number">5</space>
+				<speed type="string">30 ft.</speed>
+				<spells>
+					<public />
+				</spells>
+				<status type="string">Healthy</status>
+				<text type="formattedtext">
+					<p></p>
+				</text>
+				<token type="token">tokens/B.png@DD5E SRD Bestiary</token>
+				<tokenrefid type="string">92</tokenrefid>
+				<tokenrefnode type="string">image.id-00016.image</tokenrefnode>
+				<tokenscale type="number">1</tokenscale>
+				<tokenvis type="number">1</tokenvis>
+				<traits>
+					<public />
+					<id-00001>
+						<public />
+						<desc type="string">A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack).</desc>
+						<name type="string">Brute</name>
+						<value type="string">Brute</value>
+					</id-00001>
+					<id-00002>
+						<public />
+						<desc type="string">If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.</desc>
+						<name type="string">Surprise Attack</name>
+						<value type="string">Surprise attack [EFF: DMG: 2d6 (T:SELF) (A:ROLL)]</value>
+					</id-00002>
+				</traits>
+				<type type="string">humanoid (goblinoid)</type>
+				<wounds type="number">0</wounds>
+				<xp type="number">200</xp>
+			</id-00068>
+			<id-00069>
+				<public />
+				<abilities>
+					<public />
+					<charisma>
+						<public />
+						<bonus type="number">-4</bonus>
+						<score type="number">3</score>
+					</charisma>
+					<constitution>
+						<public />
+						<bonus type="number">1</bonus>
+						<score type="number">13</score>
+					</constitution>
+					<dexterity>
+						<public />
+						<bonus type="number">1</bonus>
+						<score type="number">13</score>
+					</dexterity>
+					<intelligence>
+						<public />
+						<bonus type="number">-4</bonus>
+						<score type="number">2</score>
+					</intelligence>
+					<strength>
+						<public />
+						<bonus type="number">2</bonus>
+						<score type="number">15</score>
+					</strength>
+					<wisdom>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">10</score>
+					</wisdom>
+				</abilities>
+				<ac type="number">11</ac>
+				<actions>
+					<public />
+					<id-00001>
+						<public />
+						<desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage + 5 (1d10) poison damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the toad can't bite another target.</desc>
+						<name type="string">Bite</name>
+						<value type="string">Bite [M] [ATK: +4] [DMG: 1d10+2 piercing + 1d10 poison] [EFF: Grappled] [EFF: Restrained]</value>
+					</id-00001>
+					<id-00002>
+						<public />
+						<desc type="string">The toad makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the toad, and it takes 10 (3d6) acid damage at the start of each of the toad's turns. The toad can have only one target swallowed at a time.\nIf the toad dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.</desc>
+						<name type="string">Swallow</name>
+						<value type="string">Swallow [EFF: Blinded; Restrained] [EFF: DMGO: 3d6 acid]</value>
+					</id-00002>
+				</actions>
+				<active type="number">0</active>
+				<alignment type="string">unaligned</alignment>
+				<cr type="string">1</cr>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<effects>
+					<public />
+				</effects>
+				<friendfoe type="string">foe</friendfoe>
+				<hd type="string">(6d10 + 6)</hd>
+				<hp type="number">39</hp>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">31</hptotal>
+				<init type="number">1</init>
+				<initresult type="number">20</initresult>
 				<innatespells>
 					<public />
 				</innatespells>
@@ -13927,164 +16482,48 @@
 					<recordname></recordname>
 				</link>
 				<locked type="number">1</locked>
-				<name type="string">Gray Ooze</name>
+				<name type="string">Giant Toad</name>
 				<reach type="number">5</reach>
 				<reaction type="number">0</reaction>
 				<reactions>
 					<public />
 				</reactions>
-				<senses type="string">blindsight 60 ft. (blind beyond this radius), passive Perception 8</senses>
-				<size type="string">Medium</size>
-				<skills type="string">Stealth +2</skills>
-				<space type="number">5</space>
-				<speed type="string">10 ft., climb 10 ft.</speed>
-				<spells>
-					<public />
-				</spells>
-				<status type="string">Healthy</status>
-				<text type="formattedtext">
-				</text>
-				<token type="token">tokens/grayooze.png@DD5E SRD Bestiary</token>
-				<tokenrefid type="string">57</tokenrefid>
-				<tokenrefnode type="string">image.id-00016.image</tokenrefnode>
-				<tokenscale type="number">0.78125</tokenscale>
-				<tokenvis type="number">1</tokenvis>
-				<traits>
-					<public />
-					<id-00001>
-						<public />
-						<desc type="string">The ooze can move through a space as narrow as 1 inch wide without squeezing.</desc>
-						<name type="string">Amorphous</name>
-						<value type="string">Amorphous</value>
-					</id-00001>
-					<id-00002>
-						<public />
-						<desc type="string">Any nonmagical weapon made of metal that hits the ooze corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the ooze is destroyed after dealing damage.\nThe ooze can eat through 2-inch-thick, nonmagical metal in 1 round.</desc>
-						<name type="string">Corrode Metal</name>
-						<value type="string">Corrode metal</value>
-					</id-00002>
-					<id-00003>
-						<public />
-						<desc type="string">While the ooze remains motionless, it is indistinguishable from an oily pool or wet rock.</desc>
-						<name type="string">False Appearance</name>
-						<value type="string">False appearance</value>
-					</id-00003>
-				</traits>
-				<type type="string">ooze</type>
-				<wounds type="number">0</wounds>
-				<xp type="number">100</xp>
-			</id-00044>
-			<id-00045>
-				<public />
-				<abilities>
-					<public />
-					<charisma>
-						<public />
-						<bonus type="number">-2</bonus>
-						<score type="number">7</score>
-					</charisma>
-					<constitution>
-						<public />
-						<bonus type="number">3</bonus>
-						<score type="number">16</score>
-					</constitution>
-					<dexterity>
-						<public />
-						<bonus type="number">-1</bonus>
-						<score type="number">8</score>
-					</dexterity>
-					<intelligence>
-						<public />
-						<bonus type="number">-3</bonus>
-						<score type="number">5</score>
-					</intelligence>
-					<strength>
-						<public />
-						<bonus type="number">4</bonus>
-						<score type="number">19</score>
-					</strength>
-					<wisdom>
-						<public />
-						<bonus type="number">-2</bonus>
-						<score type="number">7</score>
-					</wisdom>
-				</abilities>
-				<ac type="number">11</ac>
-				<actext type="string">(hide armor)</actext>
-				<actions>
-					<public />
-					<id-00001>
-						<public />
-						<desc type="string">Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.</desc>
-						<name type="string">Greatclub</name>
-						<value type="string">Greatclub [M] [ATK: +6] [DMG: 2d8+4 bludgeoning]</value>
-					</id-00001>
-					<id-00002>
-						<public />
-						<desc type="string">Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 11 (2d6 + 4) piercing damage.</desc>
-						<name type="string">Javelin</name>
-						<value type="string">Javelin [R] [ATK: +6] [DMG: 2d6+4 piercing]</value>
-					</id-00002>
-				</actions>
-				<active type="number">0</active>
-				<alignment type="string">chaotic evil</alignment>
-				<cr type="string">2</cr>
-				<deathsavefail type="number">0</deathsavefail>
-				<deathsavesuccess type="number">0</deathsavesuccess>
-				<effects>
-					<public />
-				</effects>
-				<friendfoe type="string">foe</friendfoe>
-				<hd type="string">(7d10 + 21)</hd>
-				<hp type="number">59</hp>
-				<hptemp type="number">0</hptemp>
-				<hptotal type="number">61</hptotal>
-				<init type="number">-1</init>
-				<initresult type="number">14</initresult>
-				<innatespells>
-					<public />
-				</innatespells>
-				<lairactions>
-					<public />
-				</lairactions>
-				<languages type="string">Common, Giant</languages>
-				<legendaryactions>
-					<public />
-				</legendaryactions>
-				<link type="windowreference">
-					<class>npc</class>
-					<recordname></recordname>
-				</link>
-				<locked type="number">1</locked>
-				<name type="string">Ogre</name>
-				<reach type="number">5</reach>
-				<reaction type="number">0</reaction>
-				<reactions>
-					<public />
-				</reactions>
-				<senses type="string">darkvision 60 ft., passive Perception 8</senses>
+				<senses type="string">darkvision 30 ft., passive Perception 10</senses>
 				<size type="string">Large</size>
 				<space type="number">10</space>
-				<speed type="string">40 ft.</speed>
+				<speed type="string">20 ft., swim 40 ft.</speed>
 				<spells>
 					<public />
 				</spells>
 				<status type="string">Healthy</status>
 				<text type="formattedtext">
+					<p></p>
 				</text>
-				<token type="token">tokens/ogre.png@DD5E SRD Bestiary</token>
-				<tokenrefid type="string">54</tokenrefid>
+				<token type="token">tokens/G.png@DD5E SRD Bestiary</token>
+				<tokenrefid type="string">93</tokenrefid>
 				<tokenrefnode type="string">image.id-00016.image</tokenrefnode>
-				<tokenscale type="number">1.5625</tokenscale>
+				<tokenscale type="number">2</tokenscale>
 				<tokenvis type="number">1</tokenvis>
 				<traits>
 					<public />
+					<id-00001>
+						<public />
+						<desc type="string">The toad can breathe air and water.</desc>
+						<name type="string">Amphibious</name>
+						<value type="string">Amphibious</value>
+					</id-00001>
+					<id-00002>
+						<public />
+						<desc type="string">The toad's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.</desc>
+						<name type="string">Standing Leap</name>
+						<value type="string">Standing leap</value>
+					</id-00002>
 				</traits>
-				<type type="string">giant</type>
+				<type type="string">beast</type>
 				<wounds type="number">0</wounds>
-				<xp type="number">450</xp>
-			</id-00045>
-			<id-00046>
+				<xp type="number">200</xp>
+			</id-00069>
+			<id-00070>
 				<public />
 				<abilities>
 					<public />
@@ -14148,9 +16587,9 @@
 				<hd type="string">(2d8 + 2)</hd>
 				<hp type="number">11</hp>
 				<hptemp type="number">0</hptemp>
-				<hptotal type="number">7</hptotal>
+				<hptotal type="number">8</hptotal>
 				<init type="number">1</init>
-				<initresult type="number">2</initresult>
+				<initresult type="number">8</initresult>
 				<innatespells>
 					<public />
 				</innatespells>
@@ -14184,7 +16623,7 @@
 					<p></p>
 				</text>
 				<token type="token">tokens/H.png@DD5E SRD Bestiary</token>
-				<tokenrefid type="string">56</tokenrefid>
+				<tokenrefid type="string">94</tokenrefid>
 				<tokenrefnode type="string">image.id-00016.image</tokenrefnode>
 				<tokenscale type="number">1</tokenscale>
 				<tokenvis type="number">1</tokenvis>
@@ -14200,136 +16639,9 @@
 				<type type="string">humanoid (goblinoid)</type>
 				<wounds type="number">0</wounds>
 				<xp type="number">100</xp>
-			</id-00046>
-			<id-00047>
-				<public />
-				<abilities>
-					<public />
-					<charisma>
-						<public />
-						<bonus type="number">-3</bonus>
-						<score type="number">5</score>
-					</charisma>
-					<constitution>
-						<public />
-						<bonus type="number">2</bonus>
-						<score type="number">15</score>
-					</constitution>
-					<dexterity>
-						<public />
-						<bonus type="number">0</bonus>
-						<score type="number">11</score>
-					</dexterity>
-					<intelligence>
-						<public />
-						<bonus type="number">-2</bonus>
-						<score type="number">6</score>
-					</intelligence>
-					<strength>
-						<public />
-						<bonus type="number">4</bonus>
-						<score type="number">18</score>
-					</strength>
-					<wisdom>
-						<public />
-						<bonus type="number">-1</bonus>
-						<score type="number">8</score>
-					</wisdom>
-				</abilities>
-				<ac type="number">12</ac>
-				<actext type="string">(natural armor)</actext>
-				<actions>
-					<public />
-					<id-00001>
-						<public />
-						<desc type="string">Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 17 (2d12 + 4) slashing damage.</desc>
-						<name type="string">Greataxe</name>
-						<value type="string">Greataxe [M] [ATK: +6] [DMG: 2d12+4 slashing]</value>
-					</id-00001>
-					<id-00002>
-						<public />
-						<desc type="string">Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.</desc>
-						<name type="string">Gore</name>
-						<value type="string">Gore [M] [ATK: +6] [DMG: 2d8+4 piercing]</value>
-					</id-00002>
-				</actions>
-				<active type="number">0</active>
-				<alignment type="string">lawful evil</alignment>
-				<conditionimmunities type="string">exhaustion, poisoned</conditionimmunities>
-				<cr type="string">2</cr>
-				<damageimmunities type="string">poison</damageimmunities>
-				<damagevulnerabilities type="string">bludgeoning</damagevulnerabilities>
-				<deathsavefail type="number">0</deathsavefail>
-				<deathsavesuccess type="number">0</deathsavesuccess>
-				<effects>
-					<public />
-					<id-00001>
-						<public />
-						<duration type="number">0</duration>
-						<init type="number">0</init>
-						<isactive type="number">1</isactive>
-						<isgmonly type="number">1</isgmonly>
-						<label type="string">VULN: bludgeoning; IMMUNE: poison; IMMUNE: poisoned</label>
-					</id-00001>
-				</effects>
-				<friendfoe type="string">foe</friendfoe>
-				<hd type="string">(9d10 + 18)</hd>
-				<hp type="number">67</hp>
-				<hptemp type="number">0</hptemp>
-				<hptotal type="number">71</hptotal>
-				<init type="number">0</init>
-				<initresult type="number">4</initresult>
-				<innatespells>
-					<public />
-				</innatespells>
-				<lairactions>
-					<public />
-				</lairactions>
-				<languages type="string">understands Abyssal but can't speak</languages>
-				<legendaryactions>
-					<public />
-				</legendaryactions>
-				<link type="windowreference">
-					<class>npc</class>
-					<recordname></recordname>
-				</link>
-				<locked type="number">1</locked>
-				<name type="string">Minotaur Skeleton</name>
-				<reach type="number">5</reach>
-				<reaction type="number">0</reaction>
-				<reactions>
-					<public />
-				</reactions>
-				<senses type="string">darkvision 60 ft., passive Perception 9</senses>
-				<size type="string">Large</size>
-				<space type="number">10</space>
-				<speed type="string">40 ft.</speed>
-				<spells>
-					<public />
-				</spells>
-				<status type="string">Healthy</status>
-				<text type="formattedtext">
-				</text>
-				<token type="token">tokens/M.png@DD5E SRD Bestiary</token>
-				<tokenrefid type="string">55</tokenrefid>
-				<tokenrefnode type="string">image.id-00016.image</tokenrefnode>
-				<tokenscale type="number">2</tokenscale>
-				<tokenvis type="number">1</tokenvis>
-				<traits>
-					<public />
-					<id-00001>
-						<public />
-						<desc type="string">If the skeleton moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.</desc>
-						<name type="string">Charge</name>
-						<value type="string">Charge [EFF: DMG: 2d8 piercing (T:SELF) (A:ROLL)] [SAVEVS: strength 14] [EFF: Prone]</value>
-					</id-00001>
-				</traits>
-				<type type="string">undead</type>
-				<wounds type="number">0</wounds>
-				<xp type="number">450</xp>
-			</id-00047>
+			</id-00070>
 		</list>
-		<round type="number">3</round>
+		<round type="number">6</round>
 	</combattracker>
 	<effects>
 		<public />
@@ -16305,6 +18617,164 @@
 					</linklist>
 				</text>
 			</id-00057>
+			<id-00058>
+				<name type="string">Ishilb Ruin Hallway</name>
+				<text type="formattedtext">
+					<h>Description</h>
+					<frame>The hallway is 20 ft. wide and 10 ft. tall. It goes forward forward 29 ft. before reaching a branch leaving to the left. The area is filled with glow worms giving off dim light. The walls are made of smooth sandstone. The air is slowly falling tingling your nose with a stale smell. As you listen carefully you hear an earie silence.</frame>
+					<h>Possible Next Elements</h>
+					<linklist>
+						<link class="storytemplate" recordname="storytemplate.id-00181@ProNobis-WorldCreation">Ishilb Ruin Hallway</link>
+						<link class="storytemplate" recordname="storytemplate.id-00143@ProNobis-WorldCreation">Ishilb Ruin Chamber</link>
+						<link class="storytemplate" recordname="storytemplate.id-00128@ProNobis-WorldCreation">Ishilb Ruin Entrance</link>
+						<link class="storytemplate" recordname="storytemplate.id-00141@ProNobis-WorldCreation">Ishilb Ruin Boss Chamber</link>
+						<link class="storytemplate" recordname="storytemplate.id-00144@ProNobis-WorldCreation">Ishilb Ruin Treasure Chamber</link>
+						<link class="table" recordname="tables.id-01710@ProNobis-WorldCreation">Random - Dungeon - Ishilb Ruin - Element</link>
+					</linklist>
+				</text>
+			</id-00058>
+			<id-00059>
+				<name type="string">Ishilb Ruin Hallway</name>
+				<text type="formattedtext">
+					<h>Description</h>
+					<frame>The hallway is 10 ft. wide and 7 ft. tall. It goes forward forward 36 ft. before reaching a corner turning right. The area is filled with candle stands giving off dim light; . The walls are made of spikey limestone. The air is swirling in tight columns tingling your nose with a damp smell. As you listen carefully you hear creaking from beneath the floor.</frame>
+					<h>Possible Next Elements</h>
+					<linklist>
+						<link class="storytemplate" recordname="storytemplate.id-00181@ProNobis-WorldCreation">Ishilb Ruin Hallway</link>
+						<link class="storytemplate" recordname="storytemplate.id-00143@ProNobis-WorldCreation">Ishilb Ruin Chamber</link>
+						<link class="storytemplate" recordname="storytemplate.id-00128@ProNobis-WorldCreation">Ishilb Ruin Entrance</link>
+						<link class="storytemplate" recordname="storytemplate.id-00141@ProNobis-WorldCreation">Ishilb Ruin Boss Chamber</link>
+						<link class="storytemplate" recordname="storytemplate.id-00144@ProNobis-WorldCreation">Ishilb Ruin Treasure Chamber</link>
+						<link class="table" recordname="tables.id-01710@ProNobis-WorldCreation">Random - Dungeon - Ishilb Ruin - Element</link>
+					</linklist>
+				</text>
+			</id-00059>
+			<id-00060>
+				<name type="string">Ishilb Ruin Boss Chamber</name>
+				<text type="formattedtext">
+					<h>Description</h>
+					<p>You walk into a large chamber that is 102 ft. by 93 ft. with a high arching ceiling 26 ft. high. The area is filled with glowing moss giving off dim light. The walls are made of pitted brick. The air is still tingling your nose with a damp smell. As you listen carefully you hear the crackling of a fire in front of you.</p>
+					<h>Boss:</h>
+					<h>Useful Items</h>
+					<linklist>
+						<link class="item" recordname="item.id-00198@ProNobis-WorldCreation">Ring Mail</link>
+						<link class="item" recordname="item.id-00162@ProNobis-WorldCreation">Whetstone</link>
+						<link class="item" recordname="item.id-00110@ProNobis-WorldCreation">Lantern, Bullseye</link>
+						<link class="item" recordname="item.id-00682@ProNobis-WorldCreation">Scroll of Prayer of Healing</link>
+					</linklist>
+				</text>
+			</id-00060>
+			<id-00061>
+				<name type="string">Ishilb Ruin Hallway</name>
+				<text type="formattedtext">
+					<h>Description</h>
+					<frame>The hallway is 13 ft. wide and 9 ft. tall. It goes forward forward 37 ft. before reaching branches leaving to the left and right. The area is filled with natural darkness; . The walls are made of compacted dirt. The air is slowly drifting past you tingling your nose with a rank smell. As you listen carefully you hear breathing from behind you.</frame>
+					<h>Possible Next Elements</h>
+					<linklist>
+						<link class="storytemplate" recordname="storytemplate.id-00181@ProNobis-WorldCreation">Ishilb Ruin Hallway</link>
+						<link class="storytemplate" recordname="storytemplate.id-00143@ProNobis-WorldCreation">Ishilb Ruin Chamber</link>
+						<link class="storytemplate" recordname="storytemplate.id-00128@ProNobis-WorldCreation">Ishilb Ruin Entrance</link>
+						<link class="storytemplate" recordname="storytemplate.id-00141@ProNobis-WorldCreation">Ishilb Ruin Boss Chamber</link>
+						<link class="storytemplate" recordname="storytemplate.id-00144@ProNobis-WorldCreation">Ishilb Ruin Treasure Chamber</link>
+						<link class="table" recordname="tables.id-01710@ProNobis-WorldCreation">Random - Dungeon - Ishilb Ruin - Element</link>
+					</linklist>
+				</text>
+			</id-00061>
+			<id-00062>
+				<name type="string">Ishilb Ruin Chamber</name>
+				<text type="formattedtext">
+					<h>Description</h>
+					<p>You walk into a large chamber that is 32 ft. by 26 ft. with a high arching ceiling 8 ft. high. The area is filled with glow worms giving off dim light. The walls are made of compacted dirt. The air is slowly rising tingling your nose with a earthy smell. As you listen carefully you hear an earie silence.</p>
+					<h>Difficulty</h>
+					<p>Trap: The trap in this room is triggered by a turning of the doornob causing fire ball which has the following characteristics:</p>
+					<p>Setback; Save: 11; Attack: +5; 1d10 (1-4), 2d10 (5-10), 4d10 (11-16), 10d10 (17-20)</p>
+					<p>Possible Encoutner:</p>
+					<linklist>
+						<link class="battle" recordname="battle.C1700017@ProNobis - Random Encounter">C17-16 Encounter</link>
+					</linklist>
+					<h>Useful Items</h>
+					<linklist>
+						<link class="item" recordname="item.id-00272@ProNobis-WorldCreation">Lute</link>
+						<link class="item" recordname="item.id-00007@ProNobis-WorldCreation">Crossbow Bolts (20)</link>
+						<link class="item" recordname="item.id-00230@ProNobis-WorldCreation">Javelin</link>
+						<link class="item" recordname="item.id-00275@ProNobis-WorldCreation">Shawm</link>
+					</linklist>
+				</text>
+			</id-00062>
+			<id-00063>
+				<name type="string">Ishilb Ruin Chamber</name>
+				<text type="formattedtext">
+					<h>Description</h>
+					<p>You walk into a large chamber that is 43 ft. by 42 ft. with a high arching ceiling 15 ft. high. The area is filled with glow worms giving off dim light. The walls are made of jagged sandstone. The air is slowly rising tingling your nose with a damp smell. As you listen carefully you hear the crackling of a fire from behind you.</p>
+					<h>Difficulty</h>
+					<p>Trap: The trap in this room is triggered by a magical glyph causing a pit in the floor opens over a spiked pit which has the following characteristics:</p>
+					<p>Dangerous; Save: 12; Attack: +6; 2d10 (1-4), 4d10 (5-10), 10d10 (11-16), 18d10 (17-20)</p>
+					<p>Possible Encoutner:</p>
+					<linklist>
+						<link class="battle" recordname="battle.D1700002@ProNobis - Random Encounter">D17-01 Encounter</link>
+					</linklist>
+					<h>Useful Items</h>
+					<linklist>
+						<link class="item" recordname="item.id-00267@ProNobis-WorldCreation">Bagpipes</link>
+						<link class="item" recordname="item.id-00008@ProNobis-WorldCreation">Sling Bullet (5)</link>
+						<link class="item" recordname="item.id-00276@ProNobis-WorldCreation">Viol</link>
+						<link class="item" recordname="item.id-00423@ProNobis-WorldCreation">Ring of Force Resistance</link>
+					</linklist>
+				</text>
+			</id-00063>
+			<id-00064>
+				<name type="string">Ishilb Ruin Hallway</name>
+				<text type="formattedtext">
+					<h>Description</h>
+					<frame>The hallway is 10 ft. wide and 9 ft. tall. It goes forward forward 30 ft. before reaching a crossing path with no path going forward. The area is filled with torches giving off bright light; . The walls are made of smooth limestone. The air is slowly drifting past you tingling your nose with a damp smell. As you listen carefully you hear an earie silence.</frame>
+					<h>Possible Next Elements</h>
+					<linklist>
+						<link class="storytemplate" recordname="storytemplate.id-00181@ProNobis-WorldCreation">Ishilb Ruin Hallway</link>
+						<link class="storytemplate" recordname="storytemplate.id-00143@ProNobis-WorldCreation">Ishilb Ruin Chamber</link>
+						<link class="storytemplate" recordname="storytemplate.id-00128@ProNobis-WorldCreation">Ishilb Ruin Entrance</link>
+						<link class="storytemplate" recordname="storytemplate.id-00141@ProNobis-WorldCreation">Ishilb Ruin Boss Chamber</link>
+						<link class="storytemplate" recordname="storytemplate.id-00144@ProNobis-WorldCreation">Ishilb Ruin Treasure Chamber</link>
+						<link class="table" recordname="tables.id-01710@ProNobis-WorldCreation">Random - Dungeon - Ishilb Ruin - Element</link>
+					</linklist>
+				</text>
+			</id-00064>
+			<id-00065>
+				<name type="string">Ishilb Ruin Chamber</name>
+				<text type="formattedtext">
+					<h>Description</h>
+					<p>You walk into a large chamber that is 28 ft. by 24 ft. with a high arching ceiling 14 ft. high. The area is filled with torches giving off bright light; . The walls are made of compacted dirt. The air is slowly rising tingling your nose with a earthy smell. As you listen carefully you hear cruel laughter from behind you.</p>
+					<h>Difficulty</h>
+					<p>Trap: The trap in this room is triggered by a pressureplate causing doors lock and room starts to flood which has the following characteristics:</p>
+					<p>Setback; Save: 11; Attack: +5; 1d10 (1-4), 2d10 (5-10), 4d10 (11-16), 10d10 (17-20)</p>
+					<p>Possible Encoutner:</p>
+					<linklist>
+						<link class="battle" recordname="battle.A2800010@ProNobis - Random Encounter">A28-09 Encounter</link>
+					</linklist>
+					<h>Useful Items</h>
+					<linklist>
+						<link class="item" recordname="item.id-00250@ProNobis-WorldCreation">Mason's Tools</link>
+						<link class="item" recordname="item.id-00266@ProNobis-WorldCreation">Three-dragon Ante Set</link>
+						<link class="item" recordname="item.id-00236@ProNobis-WorldCreation">Crossbow, Light</link>
+						<link class="item" recordname="item.id-00007@ProNobis-WorldCreation">Crossbow Bolts (20)</link>
+					</linklist>
+				</text>
+			</id-00065>
+			<id-00066>
+				<name type="string">Ishilb Ruin Hallway</name>
+				<text type="formattedtext">
+					<h>Description</h>
+					<frame>The hallway is 10 ft. wide and 12 ft. tall. It goes forward forward 26 ft. before reaching a branch leaving to the left. The area is filled with natural darkness; . The walls are made of jagged slate. The air is slowly drifting past you tingling your nose with a crisp and clean smell. As you listen carefully you hear the crackling of a fire from behind you.</frame>
+					<h>Possible Next Elements</h>
+					<linklist>
+						<link class="storytemplate" recordname="storytemplate.id-00181@ProNobis-WorldCreation">Ishilb Ruin Hallway</link>
+						<link class="storytemplate" recordname="storytemplate.id-00143@ProNobis-WorldCreation">Ishilb Ruin Chamber</link>
+						<link class="storytemplate" recordname="storytemplate.id-00128@ProNobis-WorldCreation">Ishilb Ruin Entrance</link>
+						<link class="storytemplate" recordname="storytemplate.id-00141@ProNobis-WorldCreation">Ishilb Ruin Boss Chamber</link>
+						<link class="storytemplate" recordname="storytemplate.id-00144@ProNobis-WorldCreation">Ishilb Ruin Treasure Chamber</link>
+						<link class="table" recordname="tables.id-01710@ProNobis-WorldCreation">Random - Dungeon - Ishilb Ruin - Element</link>
+					</linklist>
+				</text>
+			</id-00066>
 		</category>
 		<category name="WestMarches - 0,1" baseicon="0" decalicon="0">
 			<id-00015>
@@ -16913,137 +19383,236 @@
 						<class>imagewindow</class>
 						<recordname>image.id-00039</recordname>
 					</shortcut>
+					<shortcut>
+						<x>1409</x>
+						<y>960</y>
+						<class>encounter</class>
+						<recordname>encounter.id-00058</recordname>
+					</shortcut>
+					<shortcut>
+						<x>1196</x>
+						<y>1007</y>
+						<class>encounter</class>
+						<recordname>encounter.id-00059</recordname>
+					</shortcut>
+					<shortcut>
+						<x>1231</x>
+						<y>1253</y>
+						<class>battle</class>
+						<recordname>battle.id-00041</recordname>
+					</shortcut>
+					<shortcut>
+						<x>1315</x>
+						<y>1165</y>
+						<class>encounter</class>
+						<recordname>encounter.id-00060</recordname>
+					</shortcut>
+					<shortcut>
+						<x>1250</x>
+						<y>1361</y>
+						<class>encounter</class>
+						<recordname>encounter.id-00061</recordname>
+					</shortcut>
+					<shortcut>
+						<x>1084</x>
+						<y>1439</y>
+						<class>encounter</class>
+						<recordname>encounter.id-00062</recordname>
+					</shortcut>
+					<shortcut>
+						<x>895</x>
+						<y>1439</y>
+						<class>encounter</class>
+						<recordname>encounter.id-00063</recordname>
+					</shortcut>
+					<shortcut>
+						<x>866</x>
+						<y>1331</y>
+						<class>encounter</class>
+						<recordname>encounter.id-00064</recordname>
+					</shortcut>
+					<shortcut>
+						<x>891</x>
+						<y>1186</y>
+						<class>encounter</class>
+						<recordname>encounter.id-00065</recordname>
+					</shortcut>
+					<shortcut>
+						<x>841</x>
+						<y>936</y>
+						<class>storytemplate</class>
+						<recordname>storytemplate.id-00141@ProNobis-WorldCreation</recordname>
+					</shortcut>
+					<shortcut>
+						<x>709</x>
+						<y>1469</y>
+						<class>encounter</class>
+						<recordname>encounter.id-00066</recordname>
+					</shortcut>
 				</shortcuts>
 				<tokens>
-					<idcounter>57</idcounter>
+					<idcounter>94</idcounter>
 					<scalelock>7.8125</scalelock>
-					<token>
-						<prototype>portrait_id-00005_token</prototype>
-						<id>40</id>
-						<x>940</x>
-						<y>172</y>
-						<name>Aravor</name>
-						<visibilitylocked>on</visibilitylocked>
-					</token>
-					<token>
-						<prototype>portrait_id-00007_token</prototype>
-						<id>53</id>
-						<x>884</x>
-						<y>116</y>
-						<name>Ugh AxFace</name>
-						<visibilitylocked>on</visibilitylocked>
-					</token>
-					<token>
-						<prototype>portrait_id-00003_token</prototype>
-						<id>38</id>
-						<x>1532</x>
-						<y>532</y>
-						<name>Mathris Harrick</name>
-						<visibilitylocked>on</visibilitylocked>
-					</token>
-					<token>
-						<prototype>portrait_id-00002_token</prototype>
-						<id>52</id>
-						<x>1532</x>
-						<y>476</y>
-						<name>Umma Kynes</name>
-						<visibilitylocked>on</visibilitylocked>
-					</token>
-					<token>
-						<prototype>tokens/ogre.png@DD5E SRD Bestiary</prototype>
-						<id>54</id>
-						<x>1476</x>
-						<y>660</y>
-						<scale>1.5625</scale>
-						<orientation>7</orientation>
-						<name>Ogre</name>
-						<unmodifiable />
-					</token>
-					<token>
-						<prototype>tokens/grayooze.png@DD5E SRD Bestiary</prototype>
-						<id>57</id>
-						<x>1532</x>
-						<y>700</y>
-						<scale>0.78125</scale>
-						<name>Gray Ooze</name>
-						<unmodifiable />
-					</token>
 					<token>
 						<prototype>tokens/owl.png@DD5E SRD Bestiary</prototype>
 						<id>41</id>
-						<x>1548</x>
-						<y>524</y>
+						<x>1300</x>
+						<y>788</y>
 						<scale>0.78125</scale>
 						<orientation>6</orientation>
 						<name>Owl</name>
 						<visibilitylocked>on</visibilitylocked>
 					</token>
 					<token>
-						<prototype>tokens/H.png@DD5E SRD Bestiary</prototype>
-						<id>56</id>
-						<x>1516</x>
-						<y>628</y>
-						<name>Hobgoblin</name>
-						<unmodifiable />
-					</token>
-					<token>
-						<prototype>portrait_id-00001_token</prototype>
-						<id>39</id>
-						<x>1580</x>
-						<y>540</y>
-						<name>Varric Adahlin</name>
-						<visibilitylocked>on</visibilitylocked>
-					</token>
-					<token>
-						<prototype>tokens/M.png@DD5E SRD Bestiary</prototype>
-						<id>55</id>
-						<x>1476</x>
-						<y>700</y>
-						<scale>2</scale>
-						<orientation>1</orientation>
-						<name>Minotaur Skeleton</name>
-						<unmodifiable />
-					</token>
-					<token>
-						<prototype>portrait_id-00006_token</prototype>
-						<id>48</id>
-						<x>1556</x>
-						<y>580</y>
-						<orientation>2</orientation>
-						<name>Debria</name>
-						<visibilitylocked>on</visibilitylocked>
-					</token>
-					<token>
 						<prototype>tokens/raven.png@DD5E SRD Bestiary</prototype>
 						<id>49</id>
-						<x>1564</x>
-						<y>572</y>
+						<x>1140</x>
+						<y>1028</y>
 						<scale>0.78125</scale>
 						<orientation>7</orientation>
 						<name>Raven</name>
 						<visibilitylocked>on</visibilitylocked>
 					</token>
+					<token>
+						<prototype>portrait_id-00001_token</prototype>
+						<id>39</id>
+						<x>1332</x>
+						<y>980</y>
+						<name>Varric Adahlin</name>
+						<visibilitylocked>on</visibilitylocked>
+					</token>
+					<token>
+						<prototype>portrait_id-00002_token</prototype>
+						<id>52</id>
+						<x>1436</x>
+						<y>1036</y>
+						<name>Umma Kynes</name>
+						<visibilitylocked>on</visibilitylocked>
+						<targets>93</targets>
+					</token>
+					<token>
+						<prototype>portrait_id-00007_token</prototype>
+						<id>53</id>
+						<x>1340</x>
+						<y>1004</y>
+						<name>Ugh AxFace</name>
+						<visibilitylocked>on</visibilitylocked>
+					</token>
+					<token>
+						<prototype>portrait_id-00008_token</prototype>
+						<id>86</id>
+						<x>1116</x>
+						<y>1052</y>
+						<name>Yelvan</name>
+						<visibilitylocked>on</visibilitylocked>
+					</token>
+					<token>
+						<prototype>portrait_id-00006_token</prototype>
+						<id>48</id>
+						<x>1204</x>
+						<y>1004</y>
+						<name>Debria</name>
+						<visibilitylocked>on</visibilitylocked>
+					</token>
+					<token>
+						<prototype>portrait_id-00003_token</prototype>
+						<id>38</id>
+						<x>1076</x>
+						<y>1108</y>
+						<name>Mathris Harrick</name>
+						<visibilitylocked>on</visibilitylocked>
+					</token>
+					<token>
+						<prototype>tokens/specter.png@DD5E SRD Bestiary</prototype>
+						<id>88</id>
+						<x>1132</x>
+						<y>1108</y>
+						<scale>0.78125</scale>
+						<name>Specter 9</name>
+						<unmodifiable />
+					</token>
+					<token>
+						<prototype>tokens/G.png@DD5E SRD Bestiary</prototype>
+						<id>93</id>
+						<x>1268</x>
+						<y>1124</y>
+						<scale>2</scale>
+						<name>Giant Toad</name>
+						<unmodifiable />
+					</token>
+					<token>
+						<prototype>tokens/H.png@DD5E SRD Bestiary</prototype>
+						<id>94</id>
+						<x>1180</x>
+						<y>1132</y>
+						<orientation>1</orientation>
+						<name>Hobgoblin</name>
+						<unmodifiable />
+					</token>
+					<token>
+						<prototype>tokens/ghoul.png@DD5E SRD Bestiary</prototype>
+						<id>89</id>
+						<x>1180</x>
+						<y>1148</y>
+						<scale>0.78125</scale>
+						<name>Ghoul</name>
+						<unmodifiable />
+					</token>
+					<token>
+						<prototype>tokens/B.png@DD5E SRD Bestiary</prototype>
+						<id>92</id>
+						<x>1164</x>
+						<y>1156</y>
+						<name>Bugbear 10</name>
+						<unmodifiable />
+					</token>
+					<token>
+						<prototype>tokens/specter.png@DD5E SRD Bestiary</prototype>
+						<id>87</id>
+						<x>1148</x>
+						<y>1164</y>
+						<scale>0.78125</scale>
+						<name>Specter 16</name>
+						<unmodifiable />
+					</token>
+					<token>
+						<prototype>tokens/Medium/v.png@Letter Tokens</prototype>
+						<id>90</id>
+						<x>1148</x>
+						<y>1140</y>
+						<scale>1.42857</scale>
+						<name>Knight of the Order of Vinoa</name>
+						<unmodifiable />
+					</token>
+					<token>
+						<prototype>tokens/B.png@DD5E SRD Bestiary</prototype>
+						<id>91</id>
+						<x>1172</x>
+						<y>1116</y>
+						<name>Bugbear 12</name>
+						<unmodifiable />
+					</token>
 				</tokens>
 				<pointers>
 					<pointer>
-						<id>0</id>
+						<id>12</id>
 						<type>1</type>
-						<startx>1516</startx>
-						<starty>44</starty>
-						<endx>1572</endx>
-						<endy>36</endy>
-						<owner>id-00003</owner>
-						<color>ff3c3c3c</color>
-					</pointer>
-					<pointer>
-						<id>6</id>
-						<type>4</type>
-						<startx>1180</startx>
-						<starty>60</starty>
-						<endx>1236</endx>
-						<endy>60</endy>
+						<startx>1172</startx>
+						<starty>1148</starty>
+						<endx>1220</endx>
+						<endy>1228</endy>
 						<owner></owner>
 						<color>ffffff</color>
+					</pointer>
+					<pointer>
+						<id>0</id>
+						<type>1</type>
+						<startx>1116</startx>
+						<starty>1084</starty>
+						<endx>1228</endx>
+						<endy>1228</endy>
+						<owner>id-00003</owner>
+						<color>ff3c3c3c</color>
 					</pointer>
 				</pointers>
 			</image>
@@ -17796,30 +20365,30 @@
 		<checkselected type="string">Strength</checkselected>
 		<coinlist>
 			<public />
-			<id-00019>
+			<id-00022>
 				<public />
-				<amount type="number">115</amount>
-				<carriedby type="string">Aravor [29], Debria [14], Mathris Harrick [29], Varric Adahlin [43]</carriedby>
+				<amount type="number">117</amount>
+				<carriedby type="string">Ugh AxFace [2], Varric Adahlin [45], Umma Kynes [21], Debria [16], Yelvan [2], Mathris Harrick [31]</carriedby>
 				<name type="string">CP</name>
-			</id-00019>
-			<id-00020>
+			</id-00022>
+			<id-00023>
 				<public />
-				<amount type="number">174</amount>
-				<carriedby type="string">Aravor [43], Debria [32], Mathris Harrick [43], Varric Adahlin [56]</carriedby>
+				<amount type="number">155</amount>
+				<carriedby type="string">Ugh AxFace [2], Varric Adahlin [58], Umma Kynes [14], Debria [34], Yelvan [2], Mathris Harrick [45]</carriedby>
 				<name type="string">SP</name>
-			</id-00020>
-			<id-00021>
+			</id-00023>
+			<id-00024>
 				<public />
-				<amount type="number">168</amount>
-				<carriedby type="string">Aravor [50], Debria [24], Mathris Harrick [40], Varric Adahlin [54]</carriedby>
+				<amount type="number">158</amount>
+				<carriedby type="string">Ugh AxFace [3], Varric Adahlin [57], Umma Kynes [20], Debria [27], Yelvan [8], Mathris Harrick [43]</carriedby>
 				<name type="string">GP</name>
-			</id-00021>
+			</id-00024>
 		</coinlist>
 		<encounters>
 			<public />
 			<id-00001>
 				<public />
-				<exp type="number">40</exp>
+				<exp type="number">60</exp>
 				<name type="string">Combat 1</name>
 				<xpawarded type="number">1</xpawarded>
 			</id-00001>
@@ -17845,8 +20414,8 @@
 				<constitution type="number">15</constitution>
 				<dexbonus type="number">1</dexbonus>
 				<dexterity type="number">12</dexterity>
-				<exp type="number">497</exp>
-				<expneeded type="number">500</expneeded>
+				<exp type="number">557</exp>
+				<expneeded type="number">600</expneeded>
 				<hd type="number">4</hd>
 				<hdused type="number">1</hdused>
 				<hptemp type="number">0</hptemp>
@@ -17880,7 +20449,7 @@
 				<constitution type="number">14</constitution>
 				<dexbonus type="number">3</dexbonus>
 				<dexterity type="number">16</dexterity>
-				<exp type="number">447</exp>
+				<exp type="number">507</exp>
 				<expneeded type="number">500</expneeded>
 				<hd type="number">4</hd>
 				<hdused type="number">0</hdused>
@@ -17915,7 +20484,7 @@
 				<constitution type="number">12</constitution>
 				<dexbonus type="number">1</dexbonus>
 				<dexterity type="number">12</dexterity>
-				<exp type="number">330</exp>
+				<exp type="number">390</exp>
 				<expneeded type="number">400</expneeded>
 				<hd type="number">3</hd>
 				<hdused type="number">1</hdused>
@@ -17950,7 +20519,7 @@
 				<constitution type="number">15</constitution>
 				<dexbonus type="number">1</dexbonus>
 				<dexterity type="number">13</dexterity>
-				<exp type="number">315</exp>
+				<exp type="number">375</exp>
 				<expneeded type="number">400</expneeded>
 				<hd type="number">3</hd>
 				<hdused type="number">1</hdused>
@@ -17973,24 +20542,24 @@
 				<watchid type="number">0</watchid>
 				<wisbonus type="number">0</wisbonus>
 				<wisdom type="number">10</wisdom>
-				<wounds type="number">6</wounds>
+				<wounds type="number">20</wounds>
 			</id-00007>
 			<id-00008>
 				<public />
 				<ac type="number">15</ac>
 				<chabonus type="number">2</chabonus>
 				<charisma type="number">14</charisma>
-				<classlevel type="string">Rogue 4</classlevel>
+				<classlevel type="string">Rogue 5</classlevel>
 				<conbonus type="number">1</conbonus>
 				<constitution type="number">12</constitution>
 				<dexbonus type="number">5</dexbonus>
 				<dexterity type="number">20</dexterity>
-				<exp type="number">442</exp>
+				<exp type="number">502</exp>
 				<expneeded type="number">500</expneeded>
-				<hd type="number">4</hd>
+				<hd type="number">5</hd>
 				<hdused type="number">2</hdused>
 				<hptemp type="number">0</hptemp>
-				<hptotal type="number">27</hptotal>
+				<hptotal type="number">33</hptotal>
 				<intbonus type="number">1</intbonus>
 				<intelligence type="number">13</intelligence>
 				<link type="windowreference">
@@ -17998,7 +20567,7 @@
 					<recordname>charsheet.id-00002</recordname>
 				</link>
 				<name type="string">Umma Kynes</name>
-				<perception type="number">15</perception>
+				<perception type="number">16</perception>
 				<race type="string">Halfling (Lightfoot)</race>
 				<strbonus type="number">0</strbonus>
 				<strength type="number">10</strength>
@@ -18009,6 +20578,41 @@
 				<wisdom type="number">16</wisdom>
 				<wounds type="number">0</wounds>
 			</id-00008>
+			<id-00009>
+				<public />
+				<ac type="number">18</ac>
+				<chabonus type="number">2</chabonus>
+				<charisma type="number">15</charisma>
+				<classlevel type="string">Paladin 3</classlevel>
+				<conbonus type="number">2</conbonus>
+				<constitution type="number">14</constitution>
+				<dexbonus type="number">0</dexbonus>
+				<dexterity type="number">10</dexterity>
+				<exp type="number">321</exp>
+				<expneeded type="number">400</expneeded>
+				<hd type="number">3</hd>
+				<hdused type="number">0</hdused>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">28</hptotal>
+				<intbonus type="number">-1</intbonus>
+				<intelligence type="number">8</intelligence>
+				<link type="windowreference">
+					<class>charsheet</class>
+					<recordname>charsheet.id-00008</recordname>
+				</link>
+				<name type="string">Yelvan</name>
+				<perception type="number">13</perception>
+				<race type="string">Protector Aasimar</race>
+				<senses type="string">Darkvision 60</senses>
+				<strbonus type="number">2</strbonus>
+				<strength type="number">15</strength>
+				<token type="token">portrait_id-00008_token</token>
+				<tokenscale type="number">1</tokenscale>
+				<watchid type="number">0</watchid>
+				<wisbonus type="number">1</wisbonus>
+				<wisdom type="number">13</wisdom>
+				<wounds type="number">0</wounds>
+			</id-00009>
 		</partyinformation>
 		<quests>
 			<public />
@@ -18029,7 +20633,7 @@
 			</id-00001>
 			<id-00002>
 				<public />
-				<amount type="number">0</amount>
+				<amount type="number">1</amount>
 				<description type="string">GP</description>
 			</id-00002>
 			<id-00003>
@@ -18039,7 +20643,7 @@
 			</id-00003>
 			<id-00004>
 				<public />
-				<amount type="number">3</amount>
+				<amount type="number">0</amount>
 				<description type="string">SP</description>
 			</id-00004>
 			<id-00005>
@@ -18346,5 +20950,67 @@
 			</itemlist>
 			<name type="string">[RESULT] CR 04 Treasure</name>
 		</id-00009>
+		<id-00010>
+			<public />
+			<coinlist>
+				<public />
+				<id-00001>
+					<public />
+					<amount type="number">127</amount>
+					<description type="string">PP</description>
+				</id-00001>
+				<id-00002>
+					<public />
+					<amount type="number">11</amount>
+					<description type="string">GP</description>
+				</id-00002>
+				<id-00003>
+					<public />
+					<amount type="number">0</amount>
+					<description type="string">EP</description>
+				</id-00003>
+				<id-00004>
+					<public />
+					<amount type="number">13</amount>
+					<description type="string">SP</description>
+				</id-00004>
+				<id-00005>
+					<public />
+					<amount type="number">14</amount>
+					<description type="string">CP</description>
+				</id-00005>
+			</coinlist>
+			<itemlist>
+				<public />
+			</itemlist>
+			<name type="string">[RESULT] CR 30 Treasure</name>
+		</id-00010>
+		<id-00011>
+			<coinlist>
+				<id-00001>
+					<amount type="number">0</amount>
+					<description type="string">PP</description>
+				</id-00001>
+				<id-00002>
+					<amount type="number">19</amount>
+					<description type="string">GP</description>
+				</id-00002>
+				<id-00003>
+					<amount type="number">0</amount>
+					<description type="string">EP</description>
+				</id-00003>
+				<id-00004>
+					<amount type="number">9</amount>
+					<description type="string">SP</description>
+				</id-00004>
+				<id-00005>
+					<amount type="number">12</amount>
+					<description type="string">CP</description>
+				</id-00005>
+			</coinlist>
+			<itemlist>
+			</itemlist>
+			<name type="string">[RESULT] CR 05 Treasure</name>
+		</id-00011>
 	</treasureparcels>
 </root>
