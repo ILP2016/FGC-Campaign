@@ -703,6 +703,7 @@
 		<perception type="number">12</perception>
 		<perceptionmodifier type="number">0</perceptionmodifier>
 		<personalitytraits type="string">I see omens in every event and action. The gods try to speak to us, we just need to listen.</personalitytraits>
+		<powerdisplaymode type="string">action</powerdisplaymode>
 		<powergroup>
 			<id-00001>
 				<atkmod type="number">0</atkmod>
@@ -715,6 +716,15 @@
 				<stat type="string">charisma</stat>
 				<uses type="number">0</uses>
 			</id-00001>
+			<id-00002>
+				<atkmod type="number">0</atkmod>
+				<atkprof type="number">1</atkprof>
+				<name type="string">Eldritch Invocations</name>
+				<prepared type="number">0</prepared>
+				<savemod type="number">0</savemod>
+				<saveprof type="number">1</saveprof>
+				<uses type="number">0</uses>
+			</id-00002>
 			<id-00003>
 				<atkmod type="number">0</atkmod>
 				<atkprof type="number">1</atkprof>
@@ -911,7 +921,19 @@
 			</id-00003>
 			<id-00004>
 				<actions>
-					<id-00001>
+					<id-00002>
+						<atkmod type="number">0</atkmod>
+						<atkprof type="number">1</atkprof>
+						<atktype type="string">melee</atktype>
+						<onmissdamage type="string">half</onmissdamage>
+						<order type="number">2</order>
+						<savedcmod type="number">0</savedcmod>
+						<savedcprof type="number">1</savedcprof>
+						<savemagic type="number">0</savemagic>
+						<savetype type="string">constitution</savetype>
+						<type type="string">cast</type>
+					</id-00002>
+					<id-00003>
 						<damagelist>
 							<id-00001>
 								<bonus type="number">0</bonus>
@@ -919,9 +941,9 @@
 								<type type="string">Piercing, Poison</type>
 							</id-00001>
 						</damagelist>
-						<order type="number">1</order>
+						<order type="number">3</order>
 						<type type="string">damage</type>
-					</id-00001>
+					</id-00003>
 				</actions>
 				<cast type="number">0</cast>
 				<description type="formattedtext">
@@ -1062,11 +1084,37 @@
 				<school type="string">Abjuration</school>
 				<source type="string">Warlock</source>
 			</id-00007>
+			<id-00008>
+				<actions>
+				</actions>
+				<cast type="number">0</cast>
+				<castingtime type="string">1 action</castingtime>
+				<components type="string">V, S</components>
+				<description type="formattedtext">
+					<p>You make yourself-including your clothing, armor, weapons, and other belongings on your person-look different until the spell ends or until you use your action to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can't change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.</p>
+					<p>The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.</p>
+					<p>To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence (Investigation) check against your spell save DC.</p>
+				</description>
+				<duration type="string">1 hour</duration>
+				<group type="string">Eldritch Invocations</group>
+				<level type="number">1</level>
+				<locked type="number">1</locked>
+				<name type="string">Disguise Self</name>
+				<prepared type="number">0</prepared>
+				<range type="string">Self</range>
+				<school type="string">Illusion</school>
+				<source type="string">Bard, Cleric Trickery Domain, Eldritch Knight, Eldritch Invocations, Sorcerer, Wizard, Arcane Trickster</source>
+			</id-00008>
 			<id-00009>
 				<actions>
 					<id-00001>
+						<atkmod type="number">0</atkmod>
+						<atkprof type="number">1</atkprof>
 						<atktype type="string">ranged</atktype>
 						<order type="number">1</order>
+						<savedcmod type="number">0</savedcmod>
+						<savedcprof type="number">1</savedcprof>
+						<savemagic type="number">0</savemagic>
 						<type type="string">cast</type>
 					</id-00001>
 					<id-00002>
@@ -1110,7 +1158,7 @@
 						<savedcbase type="string">ability</savedcbase>
 						<savedcmod type="number">0</savedcmod>
 						<savedcprof type="number">1</savedcprof>
-						<savedcstat type="string">intelligence</savedcstat>
+						<savedcstat type="string">constitution</savedcstat>
 						<savemagic type="number">0</savemagic>
 						<savetype type="string">dexterity</savetype>
 						<type type="string">cast</type>
@@ -1144,6 +1192,15 @@
 				<type type="string">racial</type>
 				<usesperiod type="string">enc</usesperiod>
 			</id-00010>
+			<id-00011>
+				<actions>
+				</actions>
+				<cast type="number">0</cast>
+				<group type="string">Eldritch Invocations</group>
+				<level type="number">0</level>
+				<name type="string">Devil's Sight</name>
+				<prepared type="number">0</prepared>
+			</id-00011>
 		</powers>
 		<profbonus type="number">2</profbonus>
 		<proficiencylist>
@@ -1311,7 +1368,7 @@
 		</speed>
 		<temp>
 		</temp>
-		<token type="token">portrait_id-00014_token</token>
+		<token type="token">portrait_id-00003_token</token>
 		<traitlist>
 			<id-00001>
 				<locked type="number">1</locked>
