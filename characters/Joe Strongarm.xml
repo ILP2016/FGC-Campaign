@@ -31,11 +31,11 @@
 				<score type="number">9</score>
 			</intelligence>
 			<strength>
-				<bonus type="number">3</bonus>
-				<save type="number">5</save>
+				<bonus type="number">4</bonus>
+				<save type="number">6</save>
 				<savemodifier type="number">0</savemodifier>
 				<saveprof type="number">1</saveprof>
-				<score type="number">16</score>
+				<score type="number">18</score>
 			</strength>
 			<wisdom>
 				<bonus type="number">0</bonus>
@@ -65,8 +65,8 @@
 				<casterlevelinvmult type="number">0</casterlevelinvmult>
 				<casterpactmagic type="number">0</casterpactmagic>
 				<hddie type="dice">d12</hddie>
-				<hdused type="number">0</hdused>
-				<level type="number">3</level>
+				<hdused type="number">1</hdused>
+				<level type="number">4</level>
 				<name type="string">Barbarian</name>
 				<shortcut type="windowreference">
 					<class>reference_class</class>
@@ -76,14 +76,16 @@
 		</classes>
 		<coins>
 			<slot1>
-				<amount type="number">5</amount>
-				<name type="string">gp</name>
+				<amount type="number">1240</amount>
+				<name type="string">GP</name>
 			</slot1>
 			<slot2>
-				<amount type="number">0</amount>
+				<amount type="number">66</amount>
+				<name type="string">SP</name>
 			</slot2>
 			<slot3>
-				<amount type="number">0</amount>
+				<amount type="number">24</amount>
+				<name type="string">CP</name>
 			</slot3>
 			<slot4>
 				<amount type="number">0</amount>
@@ -97,26 +99,25 @@
 		</coins>
 		<defenses>
 			<ac>
-				<armor type="number">4</armor>
-				<dexbonus type="string">max2</dexbonus>
-				<disstealth type="number">1</disstealth>
+				<armor type="number">0</armor>
+				<disstealth type="number">0</disstealth>
 				<misc type="number">0</misc>
 				<prof type="number">1</prof>
 				<shield type="number">0</shield>
 				<stat2 type="string">constitution</stat2>
 				<temporary type="number">0</temporary>
-				<total type="number">18</total>
+				<total type="number">14</total>
 			</ac>
 		</defenses>
 		<encumbrance>
-			<encumbered type="number">80</encumbered>
-			<encumberedheavy type="number">160</encumberedheavy>
-			<liftpushdrag type="number">480</liftpushdrag>
-			<load type="number">110</load>
-			<max type="number">240</max>
+			<encumbered type="number">90</encumbered>
+			<encumberedheavy type="number">180</encumberedheavy>
+			<liftpushdrag type="number">540</liftpushdrag>
+			<load type="number">68</load>
+			<max type="number">270</max>
 		</encumbrance>
-		<exp type="number">300</exp>
-		<expneeded type="number">400</expneeded>
+		<exp type="number">470</exp>
+		<expneeded type="number">500</expneeded>
 		<featlist>
 		</featlist>
 		<featurelist>
@@ -146,15 +147,6 @@
 					<p>While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.</p>
 				</text>
 			</id-00002>
-			<id-00003>
-				<level type="number">4</level>
-				<locked type="number">1</locked>
-				<name type="string">Ability Score Improvement</name>
-				<source type="string">Barbarian</source>
-				<text type="formattedtext">
-					<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
-				</text>
-			</id-00003>
 			<id-00004>
 				<level type="number">5</level>
 				<locked type="number">1</locked>
@@ -232,9 +224,11 @@
 		<gender type="string">Male</gender>
 		<height type="string">76</height>
 		<hp>
+			<deathsavefail type="number">0</deathsavefail>
+			<deathsavesuccess type="number">0</deathsavesuccess>
 			<hdmod type="number">0</hdmod>
 			<temporary type="number">0</temporary>
-			<total type="number">50</total>
+			<total type="number">41</total>
 			<wounds type="number">0</wounds>
 		</hp>
 		<ideals type="string">Independence. When people follow orders blindly, they embrace a kind of tyranny. (Chaotic)</ideals>
@@ -245,6 +239,13 @@
 		</initiative>
 		<inspiration type="number">0</inspiration>
 		<inventorylist>
+			<id-00001>
+				<carried type="number">1</carried>
+				<count type="number">1</count>
+				<isidentified type="number">1</isidentified>
+				<name type="string">Cup of Ale</name>
+				<weight type="number">0</weight>
+			</id-00001>
 			<id-00002>
 				<carried type="number">1</carried>
 				<cost type="string">1 gp</cost>
@@ -373,6 +374,25 @@
 				<type type="string">Weapon</type>
 				<weight type="number">6</weight>
 			</id-00010>
+			<id-00011>
+				<ac type="number">0</ac>
+				<bonus type="number">0</bonus>
+				<carried type="number">1</carried>
+				<cost type="string">50 - 100 gp</cost>
+				<count type="number">1</count>
+				<description type="formattedtext">
+					<h>Description</h>
+					<p>You regain 2d4 + 2 hit points when you drink this potion. The potion's red liquid glimmers when agitated.</p>
+				</description>
+				<isidentified type="number">1</isidentified>
+				<locked type="number">1</locked>
+				<name type="string">Potion of Healing</name>
+				<nonid_name type="string">Potion</nonid_name>
+				<nonidentified type="string">A vial of red liquid that shimmers when agitated.</nonidentified>
+				<rarity type="string">Common</rarity>
+				<type type="string">Potion</type>
+				<weight type="number">0</weight>
+			</id-00011>
 			<id-00012>
 				<ac type="number">0</ac>
 				<bonus type="number">0</bonus>
@@ -391,6 +411,22 @@
 				<type type="string">Weapon</type>
 				<weight type="number">2</weight>
 			</id-00012>
+			<id-00013>
+				<ac type="number">0</ac>
+				<bonus type="number">0</bonus>
+				<carried type="number">1</carried>
+				<cost type="string">1 gp</cost>
+				<count type="number">2</count>
+				<description type="formattedtext">
+					<p></p>
+				</description>
+				<isidentified type="number">1</isidentified>
+				<locked type="number">1</locked>
+				<name type="string">Crossbow Bolts (20)</name>
+				<subtype type="string">Ammunition</subtype>
+				<type type="string">Adventuring Gear</type>
+				<weight type="number">1.5</weight>
+			</id-00013>
 			<id-00016>
 				<carried type="number">1</carried>
 				<cost type="string">2 gp</cost>
@@ -406,25 +442,6 @@
 				<type type="string">Adventuring Gear</type>
 				<weight type="number">4</weight>
 			</id-00016>
-			<id-00017>
-				<ac type="number">14</ac>
-				<carried type="number">2</carried>
-				<cost type="string">50 gp</cost>
-				<count type="number">1</count>
-				<description type="formattedtext">
-					<p>Medium armor offers more protection than light armor, but it also impairs movement more. If you wear medium armor, you add your Dexterity modifier, to a maximum of +2, to the base number from your armor type to determine your Armor Class.</p>
-					<p>This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets.</p>
-				</description>
-				<dexbonus type="string">Yes (max 2)</dexbonus>
-				<isidentified type="number">1</isidentified>
-				<locked type="number">1</locked>
-				<name type="string">Scale Mail</name>
-				<stealth type="string">Disadvantage</stealth>
-				<strength type="string">-</strength>
-				<subtype type="string">Medium Armor</subtype>
-				<type type="string">Armor</type>
-				<weight type="number">45</weight>
-			</id-00017>
 		</inventorylist>
 		<languagelist>
 			<id-00001>
@@ -437,7 +454,7 @@
 				<name type="string">Dwarvish</name>
 			</id-00003>
 		</languagelist>
-		<level type="number">3</level>
+		<level type="number">4</level>
 		<name type="string">Joe Strongarm</name>
 		<perception type="number">10</perception>
 		<perceptionmodifier type="number">0</perceptionmodifier>
@@ -455,59 +472,78 @@
 		<powermeta>
 			<pactmagicslots1>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots1>
 			<pactmagicslots2>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots2>
 			<pactmagicslots3>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots3>
 			<pactmagicslots4>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots4>
 			<pactmagicslots5>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots5>
 			<pactmagicslots6>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots6>
 			<pactmagicslots7>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots7>
 			<pactmagicslots8>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots8>
 			<pactmagicslots9>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots9>
 			<spellslots1>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots1>
 			<spellslots2>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots2>
 			<spellslots3>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots3>
 			<spellslots4>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots4>
 			<spellslots5>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots5>
 			<spellslots6>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots6>
 			<spellslots7>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots7>
 			<spellslots8>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots8>
 			<spellslots9>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots9>
 		</powermeta>
+		<powermode type="string">combat</powermode>
 		<powers>
 			<id-00002>
 				<actions>
@@ -676,7 +712,7 @@
 				<name type="string">Athletics</name>
 				<prof type="number">1</prof>
 				<stat type="string">strength</stat>
-				<total type="number">5</total>
+				<total type="number">6</total>
 			</id-00002>
 			<id-00003>
 				<misc type="number">0</misc>
@@ -795,7 +831,7 @@
 				<name type="string">Armor</name>
 				<prof type="number">1</prof>
 				<stat type="string">strength</stat>
-				<total type="number">5</total>
+				<total type="number">6</total>
 			</id-00019>
 		</skilllist>
 		<speed>
@@ -807,12 +843,12 @@
 		</speed>
 		<temp>
 		</temp>
-		<token type="token">portrait_id-00013_token</token>
+		<token type="token">portrait_id-00021_token</token>
 		<traitlist>
 		</traitlist>
 		<weaponlist>
 			<id-00003>
-				<ammo type="number">0</ammo>
+				<ammo type="number">3</ammo>
 				<attackbonus type="number">0</attackbonus>
 				<carried type="number">2</carried>
 				<damagelist>

@@ -47,16 +47,15 @@
 		</abilities>
 		<adventurelist>
 		</adventurelist>
+		<age type="string">42</age>
 		<alignment type="string">Neutral</alignment>
-<<<<<<< HEAD:characters/Mathris.xml
-=======
 		<appearance type="string">Mathris Harrick is a rather scrawny looking half elf. His clothes, though once opulent are threadbare, worn at the elbows. He wears the robe of a courtier over studded leather armour of serviceable design. In his hand he holds an unusual looking staff. Its head is carved in the form of an squid like creature with a number of tentacles. The number is different every time you count them, if you can be bothered to. Its eyes glint - brighter when they have nothing to reflect, strangelyr. His familiar owl, Cthoot, is also odd looking. Its eyes have unworldly shaped pupils that seem to writhe. Also, and this may just be a trick of the light, its tongue seems to have a tentacle like appearance when glimpsed from the corner of your eye.</appearance>
->>>>>>> 1e0810a34cf9726151fda600c3cb97b5bfbe20a7:characters/Mathris Harrick.xml
 		<background type="string">Courtier</background>
 		<backgroundlink type="windowreference">
 			<class>reference_background</class>
 			<recordname>reference.backgrounddata.courtier@D&#38;D Sword Coast Adventurer's Guide - Player's Guide</recordname>
 		</backgroundlink>
+		<bonds type="string">There&#146;s madness in me, I can feel it. It must never be set free.</bonds>
 		<classes>
 			<id-00001>
 				<casterlevelinvmult type="number">1</casterlevelinvmult>
@@ -73,17 +72,6 @@
 		</classes>
 		<coins>
 			<slot1>
-<<<<<<< HEAD:characters/Mathris.xml
-				<amount type="number">43</amount>
-				<name type="string">GP</name>
-			</slot1>
-			<slot2>
-				<amount type="number">45</amount>
-				<name type="string">SP</name>
-			</slot2>
-			<slot3>
-				<amount type="number">31</amount>
-=======
 				<amount type="number">77</amount>
 				<name type="string">GP</name>
 			</slot1>
@@ -93,7 +81,6 @@
 			</slot2>
 			<slot3>
 				<amount type="number">51</amount>
->>>>>>> 1e0810a34cf9726151fda600c3cb97b5bfbe20a7:characters/Mathris Harrick.xml
 				<name type="string">CP</name>
 			</slot3>
 			<slot4>
@@ -106,6 +93,7 @@
 				<amount type="number">0</amount>
 			</slot6>
 		</coins>
+		<dci type="string">4115959025</dci>
 		<defenses>
 			<ac>
 				<armor type="number">2</armor>
@@ -125,14 +113,9 @@
 			<load type="number">30.59</load>
 			<max type="number">120</max>
 		</encumbrance>
-<<<<<<< HEAD:characters/Mathris.xml
-		<exp type="number">527</exp>
-		<expneeded type="number">500</expneeded>
-=======
 		<exp type="number">624</exp>
 		<expneeded type="number">700</expneeded>
 		<faction type="string">Zhentarim</faction>
->>>>>>> 1e0810a34cf9726151fda600c3cb97b5bfbe20a7:characters/Mathris Harrick.xml
 		<featlist>
 		</featlist>
 		<featurelist>
@@ -541,6 +524,9 @@
 				</text>
 			</id-00009>
 		</featurelist>
+		<flaws type="string">I am a purveyor of doom and gloom who lives in a world without hope.</flaws>
+		<gender type="string">M</gender>
+		<height type="string">5'9</height>
 		<hp>
 			<deathsavefail type="number">0</deathsavefail>
 			<deathsavesuccess type="number">0</deathsavesuccess>
@@ -597,14 +583,9 @@
 				<description type="formattedtext">
 					<h>Spells</h>
 					<p>1x invisibility</p>
-<<<<<<< HEAD:characters/Mathris.xml
-					<p>1x shatter</p>
-					<p>1x Hex</p>
-=======
 					<p>1x hex</p>
 					<p>1x Misty Step</p>
 					<p></p>
->>>>>>> 1e0810a34cf9726151fda600c3cb97b5bfbe20a7:characters/Mathris Harrick.xml
 					<h>Description</h>
 					<p>This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 5 levels worth of spells at a time. When found, it contains 1d6 - 1 levels of stored spells chosen by the GM.</p>
 					<p>Any creature can cast a spell of 1st through 5th level into the ring by touching the ring as the spell is cast. The spell has no effect, other than to be stored in the ring. If the ring can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses.</p>
@@ -781,10 +762,7 @@
 		</languagelist>
 		<level type="number">6</level>
 		<name type="string">Mathris Harrick</name>
-<<<<<<< HEAD:characters/Mathris.xml
-=======
 		<notes type="string">\n</notes>
->>>>>>> 1e0810a34cf9726151fda600c3cb97b5bfbe20a7:characters/Mathris Harrick.xml
 		<perception type="number">13</perception>
 		<perceptionmodifier type="number">0</perceptionmodifier>
 		<personalitytraits type="string">I always want to know how things work and what makes people tick.</personalitytraits>
@@ -1198,8 +1176,6 @@
 				<school type="string">Illusion</school>
 				<source type="string">Bard, Druid Grassland Circle, Eldritch Knight, Sorcerer, Warlock, Wizard, Arcane Trickster</source>
 			</id-00013>
-<<<<<<< HEAD:characters/Mathris.xml
-=======
 			<id-00014>
 				<actions>
 				</actions>
@@ -1221,7 +1197,6 @@
 				<school type="string">Divination</school>
 				<source type="string">Bard, Cleric Knowledge Domain, Eldritch Knight, Wizard, Arcane Trickster</source>
 			</id-00014>
->>>>>>> 1e0810a34cf9726151fda600c3cb97b5bfbe20a7:characters/Mathris Harrick.xml
 			<id-00015>
 				<actions>
 					<id-00001>
@@ -1292,6 +1267,7 @@
 						<damagelist>
 							<id-00001>
 								<dice type="dice">d10</dice>
+								<stat type="string">charisma</stat>
 								<type type="string">force</type>
 							</id-00001>
 						</damagelist>
@@ -1507,7 +1483,7 @@
 		</speed>
 		<temp>
 		</temp>
-		<token type="token">portrait_id-00002_token</token>
+		<token type="token">portrait_id-00009_token</token>
 		<traitlist>
 			<id-00001>
 				<locked type="number">1</locked>
@@ -1595,5 +1571,6 @@
 				<type type="number">2</type>
 			</id-00003>
 		</weaponlist>
+		<weight type="string">135 pounds</weight>
 	</character>
 </root>

@@ -49,7 +49,7 @@
 		</adventurelist>
 		<age type="string">23</age>
 		<alignment type="string">Lawful Evil</alignment>
-		<appearance type="string">Race-Dragonborn. Scales-Black as onyx. Eyes-Green as a lush garden. Nails-1 inch long and sharp as a knife. Teeth-Jagged and sharp.</appearance>
+		<appearance type="string">Race-Dragonborn. Scales-Black as onyx. Eyes-Green as a lush garden. Nails-1 inch long and sharp as a knife. Teeth-Jagged and sharp. Tail-3 feet long.</appearance>
 		<background type="string">Acolyte</background>
 		<backgroundlink type="windowreference">
 			<class>reference_background</class>
@@ -107,10 +107,10 @@
 			<encumbered type="number">50</encumbered>
 			<encumberedheavy type="number">100</encumberedheavy>
 			<liftpushdrag type="number">300</liftpushdrag>
-			<load type="number">33.9</load>
+			<load type="number">33.4</load>
 			<max type="number">150</max>
 		</encumbrance>
-		<exp type="number">300</exp>
+		<exp type="number">330</exp>
 		<expneeded type="number">400</expneeded>
 		<featlist>
 		</featlist>
@@ -503,9 +503,11 @@
 		<gender type="string">Male</gender>
 		<height type="string">6'0&#34;</height>
 		<hp>
+			<deathsavefail type="number">0</deathsavefail>
+			<deathsavesuccess type="number">0</deathsavesuccess>
 			<temporary type="number">0</temporary>
 			<total type="number">18</total>
-			<wounds type="number">0</wounds>
+			<wounds type="number">4</wounds>
 		</hp>
 		<ideals type="string">Tradition. The ancient traditions of worship and sacrifice must be preserved and upheld. (Lawful)</ideals>
 		<initiative>
@@ -669,9 +671,11 @@
 				<weight type="number">13</weight>
 			</id-00020>
 			<id-00026>
+				<ac type="number">0</ac>
+				<bonus type="number">0</bonus>
 				<carried type="number">1</carried>
 				<cost type="string">50 gp</cost>
-				<count type="number">2</count>
+				<count type="number">1</count>
 				<description type="formattedtext">
 					<p>A character who drinks the magical red fluid in this vial regains 2d4 + 2 hit points. Drinking or administering a potion takes an action.</p>
 				</description>
@@ -741,7 +745,7 @@
 			</pactmagicslots1>
 			<pactmagicslots2>
 				<max type="number">2</max>
-				<used type="number">0</used>
+				<used type="number">1</used>
 			</pactmagicslots2>
 			<pactmagicslots3>
 				<max type="number">0</max>
@@ -792,7 +796,7 @@
 				<max type="number">0</max>
 			</spellslots9>
 		</powermeta>
-		<powermode type="string">standard</powermode>
+		<powermode type="string">combat</powermode>
 		<powers>
 			<id-00001>
 				<actions>
@@ -919,42 +923,6 @@
 				<source type="string">Dragonborn</source>
 				<type type="string">racial</type>
 			</id-00003>
-			<id-00004>
-				<actions>
-					<id-00002>
-						<atkmod type="number">0</atkmod>
-						<atkprof type="number">1</atkprof>
-						<atktype type="string">melee</atktype>
-						<onmissdamage type="string">half</onmissdamage>
-						<order type="number">2</order>
-						<savedcmod type="number">0</savedcmod>
-						<savedcprof type="number">1</savedcprof>
-						<savemagic type="number">0</savemagic>
-						<savetype type="string">constitution</savetype>
-						<type type="string">cast</type>
-					</id-00002>
-					<id-00003>
-						<damagelist>
-							<id-00001>
-								<bonus type="number">0</bonus>
-								<dice type="dice">d6,d6</dice>
-								<type type="string">Piercing, Poison</type>
-							</id-00001>
-						</damagelist>
-						<order type="number">3</order>
-						<type type="string">damage</type>
-					</id-00003>
-				</actions>
-				<cast type="number">0</cast>
-				<description type="formattedtext">
-					<p></p>
-				</description>
-				<group type="string">Racial</group>
-				<level type="number">0</level>
-				<name type="string">Dragonborn: Bite</name>
-				<prepared type="number">0</prepared>
-				<ritual type="number">0</ritual>
-			</id-00004>
 			<id-00005>
 				<actions>
 					<id-00001>
@@ -1036,7 +1004,7 @@
 					<id-00001>
 						<heallist>
 							<id-00001>
-								<bonus type="number">5</bonus>
+								<bonus type="number">10</bonus>
 								<dice type="dice"></dice>
 							</id-00001>
 						</heallist>
@@ -1048,7 +1016,7 @@
 					<id-00002>
 						<damagelist>
 							<id-00001>
-								<bonus type="number">5</bonus>
+								<bonus type="number">10</bonus>
 								<dice type="dice"></dice>
 								<type type="string">cold</type>
 							</id-00001>
@@ -1196,10 +1164,16 @@
 				<actions>
 				</actions>
 				<cast type="number">0</cast>
+				<description type="formattedtext">
+					<p>You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.</p>
+				</description>
 				<group type="string">Eldritch Invocations</group>
 				<level type="number">0</level>
+				<locked type="number">1</locked>
 				<name type="string">Devil's Sight</name>
 				<prepared type="number">0</prepared>
+				<ritual type="number">0</ritual>
+				<source type="string">Eldritch Invocations</source>
 			</id-00011>
 		</powers>
 		<profbonus type="number">2</profbonus>
@@ -1368,11 +1342,11 @@
 		</speed>
 		<temp>
 		</temp>
-		<token type="token">portrait_id-00003_token</token>
+		<token type="token">portrait_id-00010_token</token>
 		<traitlist>
 			<id-00001>
 				<locked type="number">1</locked>
-				<name type="string">Draconic Ancestry</name>
+				<name type="string">Draconic Ancestry - Black</name>
 				<source type="string">Dragonborn</source>
 				<text type="formattedtext">
 					<p>You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.</p>

@@ -100,16 +100,16 @@
 				<disstealth type="number">1</disstealth>
 				<misc type="number">0</misc>
 				<prof type="number">1</prof>
-				<shield type="number">0</shield>
+				<shield type="number">2</shield>
 				<temporary type="number">0</temporary>
-				<total type="number">16</total>
+				<total type="number">18</total>
 			</ac>
 		</defenses>
 		<encumbrance>
 			<encumbered type="number">75</encumbered>
 			<encumberedheavy type="number">150</encumberedheavy>
 			<liftpushdrag type="number">450</liftpushdrag>
-			<load type="number">127.1</load>
+			<load type="number">133.1</load>
 			<max type="number">225</max>
 		</encumbrance>
 		<exp type="number">361</exp>
@@ -280,7 +280,7 @@
 			<deathsavesuccess type="number">0</deathsavesuccess>
 			<temporary type="number">0</temporary>
 			<total type="number">28</total>
-			<wounds type="number">23</wounds>
+			<wounds type="number">0</wounds>
 		</hp>
 		<ideals type="string">Suspicious. I must be careful, for I have no way of telling friend from foe here.</ideals>
 		<initiative>
@@ -326,6 +326,7 @@
 					<p>Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus, as described in Part 3: The Rules of Magic, Casting a Spell. Each type of musical instrument requires a separate proficiency.</p>
 				</description>
 				<isidentified type="number">1</isidentified>
+				<location type="string">Backpack</location>
 				<locked type="number">1</locked>
 				<name type="string">Lute</name>
 				<subtype type="string">Musical Instrument</subtype>
@@ -355,6 +356,7 @@
 					<p>Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.</p>
 				</description>
 				<isidentified type="number">1</isidentified>
+				<location type="string">Backpack</location>
 				<locked type="number">1</locked>
 				<name type="string">Rations (1 Day)</name>
 				<subtype type="string">Standard</subtype>
@@ -366,6 +368,7 @@
 				<cost type="string">1 gp</cost>
 				<count type="number">1</count>
 				<isidentified type="number">1</isidentified>
+				<location type="string">Backpack</location>
 				<locked type="number">1</locked>
 				<name type="string">Rope, Hempen (50 Feet)</name>
 				<subtype type="string">Standard</subtype>
@@ -377,6 +380,7 @@
 				<cost type="string">2 sp</cost>
 				<count type="number">1</count>
 				<isidentified type="number">1</isidentified>
+				<location type="string">Backpack</location>
 				<locked type="number">1</locked>
 				<name type="string">Waterskin</name>
 				<subtype type="string">Standard</subtype>
@@ -452,7 +456,7 @@
 			<id-00012>
 				<ac type="number">2</ac>
 				<bonus type="number">0</bonus>
-				<carried type="number">0</carried>
+				<carried type="number">2</carried>
 				<cost type="string">10 gp</cost>
 				<count type="number">1</count>
 				<description type="formattedtext">
@@ -530,12 +534,38 @@
 					<p>This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch-or anything else with abundant, exposed fuel-takes an action. Lighting any other fire takes 1 minute.</p>
 				</description>
 				<isidentified type="number">1</isidentified>
+				<location type="string">Backpack</location>
 				<locked type="number">1</locked>
 				<name type="string">Tinderbox</name>
 				<subtype type="string">Standard</subtype>
 				<type type="string">Adventuring Gear</type>
 				<weight type="number">1</weight>
 			</id-00017>
+			<id-00018>
+				<carried type="number">1</carried>
+				<count type="number">1</count>
+				<isidentified type="number">1</isidentified>
+			</id-00018>
+			<id-00019>
+				<carried type="number">1</carried>
+				<count type="number">1</count>
+				<isidentified type="number">1</isidentified>
+			</id-00019>
+			<id-00020>
+				<carried type="number">1</carried>
+				<count type="number">1</count>
+				<isidentified type="number">1</isidentified>
+			</id-00020>
+			<id-00021>
+				<carried type="number">1</carried>
+				<count type="number">1</count>
+				<isidentified type="number">1</isidentified>
+			</id-00021>
+			<id-00022>
+				<carried type="number">1</carried>
+				<count type="number">1</count>
+				<isidentified type="number">1</isidentified>
+			</id-00022>
 		</inventorylist>
 		<languagelist>
 			<id-00001>
@@ -915,7 +945,7 @@
 				<castingtime type="string">1 action</castingtime>
 				<components type="string">V, S, M (a sprinkling of holy water)</components>
 				<description type="formattedtext">
-					<p>You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw.</p>
+					<p>You bless up to 3 creatures of your choice within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw.</p>
 					<p>At Higher Levels.</p>
 					<p>When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.</p>
 				</description>
@@ -1241,10 +1271,14 @@
 				<total type="number">1</total>
 			</id-00018>
 			<id-00019>
+				<locked type="number">1</locked>
 				<misc type="number">0</misc>
 				<name type="string">Lute</name>
 				<prof type="number">1</prof>
 				<stat type="string">charisma</stat>
+				<text type="formattedtext">
+					<p>Play a little dittle</p>
+				</text>
 				<total type="number">4</total>
 			</id-00019>
 		</skilllist>

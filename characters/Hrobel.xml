@@ -3,11 +3,11 @@
 	<character>
 		<abilities>
 			<charisma>
-				<bonus type="number">2</bonus>
-				<save type="number">4</save>
+				<bonus type="number">3</bonus>
+				<save type="number">5</save>
 				<savemodifier type="number">0</savemodifier>
 				<saveprof type="number">1</saveprof>
-				<score type="number">14</score>
+				<score type="number">16</score>
 			</charisma>
 			<constitution>
 				<bonus type="number">2</bonus>
@@ -57,8 +57,8 @@
 				<casterlevelinvmult type="number">1</casterlevelinvmult>
 				<casterpactmagic type="number">0</casterpactmagic>
 				<hddie type="dice">d6</hddie>
-				<hdused type="number">0</hdused>
-				<level type="number">3</level>
+				<hdused type="number">3</hdused>
+				<level type="number">4</level>
 				<name type="string">Sorcerer</name>
 				<shortcut type="windowreference">
 					<class>reference_class</class>
@@ -68,15 +68,15 @@
 		</classes>
 		<coins>
 			<slot1>
-				<amount type="number">11</amount>
+				<amount type="number">43</amount>
 				<name type="string">GP</name>
 			</slot1>
 			<slot2>
-				<amount type="number">1</amount>
+				<amount type="number">58</amount>
 				<name type="string">SP</name>
 			</slot2>
 			<slot3>
-				<amount type="number">2</amount>
+				<amount type="number">20</amount>
 				<name type="string">CP</name>
 			</slot3>
 			<slot4>
@@ -105,11 +105,11 @@
 			<encumbered type="number">80</encumbered>
 			<encumberedheavy type="number">160</encumberedheavy>
 			<liftpushdrag type="number">480</liftpushdrag>
-			<load type="number">116</load>
+			<load type="number">124</load>
 			<max type="number">240</max>
 		</encumbrance>
-		<exp type="number">322</exp>
-		<expneeded type="number">400</expneeded>
+		<exp type="number">427</exp>
+		<expneeded type="number">500</expneeded>
 		<featlist>
 		</featlist>
 		<featurelist>
@@ -313,19 +313,29 @@
 					<p>When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip). To be eligible for Twinned Spell, a spell must be incapable of targeting more than one creature at the spell's current level.</p>
 				</text>
 			</id-00008>
+			<id-00009>
+				<level type="number">4</level>
+				<locked type="number">1</locked>
+				<name type="string">Ability Score Improvement</name>
+				<source type="string">Sorcerer</source>
+				<text type="formattedtext">
+					<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+				</text>
+			</id-00009>
 		</featurelist>
 		<hp>
 			<deathsavefail type="number">0</deathsavefail>
 			<deathsavesuccess type="number">0</deathsavesuccess>
 			<temporary type="number">0</temporary>
-			<total type="number">23</total>
-			<wounds type="number">12</wounds>
+			<total type="number">29</total>
+			<wounds type="number">11</wounds>
 		</hp>
 		<initiative>
 			<misc type="number">0</misc>
 			<temporary type="number">0</temporary>
 			<total type="number">2</total>
 		</initiative>
+		<inspiration type="number">0</inspiration>
 		<inventorylist>
 			<id-00001>
 				<carried type="number">2</carried>
@@ -490,6 +500,42 @@
 				<type type="string">Adventuring Gear</type>
 				<weight type="number">5</weight>
 			</id-00012>
+			<id-00013>
+				<ac type="number">0</ac>
+				<bonus type="number">0</bonus>
+				<carried type="number">1</carried>
+				<cost type="string">50 - 100 gp</cost>
+				<count type="number">1</count>
+				<description type="formattedtext">
+					<h>Description</h>
+					<p>You regain 2d4 + 2 hit points when you drink this potion. The potion's red liquid glimmers when agitated.</p>
+				</description>
+				<isidentified type="number">1</isidentified>
+				<locked type="number">1</locked>
+				<name type="string">Potion of Healing</name>
+				<nonid_name type="string">Potion</nonid_name>
+				<nonidentified type="string">A vial of red liquid that shimmers when agitated.</nonidentified>
+				<rarity type="string">Common</rarity>
+				<type type="string">Potion</type>
+				<weight type="number">0</weight>
+			</id-00013>
+			<id-00014>
+				<ac type="number">0</ac>
+				<bonus type="number">0</bonus>
+				<carried type="number">1</carried>
+				<cost type="string">20 gp</cost>
+				<count type="number">1</count>
+				<description type="formattedtext">
+					<p>These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>
+				</description>
+				<isidentified type="number">1</isidentified>
+				<istemplate type="number">0</istemplate>
+				<locked type="number">1</locked>
+				<name type="string">Smith's Tools</name>
+				<subtype type="string">Artisan's Tools</subtype>
+				<type type="string">Tools</type>
+				<weight type="number">8</weight>
+			</id-00014>
 		</inventorylist>
 		<languagelist>
 			<id-00001>
@@ -502,88 +548,120 @@
 				<name type="string">Dwarvish</name>
 			</id-00003>
 		</languagelist>
-		<level type="number">3</level>
+		<level type="number">4</level>
 		<name type="string">Hrobel</name>
 		<notes type="string">Arrived in strange portal land\n</notes>
 		<perception type="number">9</perception>
 		<perceptionmodifier type="number">0</perceptionmodifier>
 		<powergroup>
 			<id-00001>
+				<atkmod type="number">0</atkmod>
+				<atkprof type="number">1</atkprof>
 				<castertype type="string">memorization</castertype>
 				<name type="string">Spells</name>
+				<prepared type="number">0</prepared>
+				<savemod type="number">0</savemod>
+				<saveprof type="number">1</saveprof>
+				<savestat type="string">charisma</savestat>
+				<uses type="number">0</uses>
 			</id-00001>
 			<id-00002>
+				<atkmod type="number">0</atkmod>
 				<atkprof type="number">1</atkprof>
 				<castertype type="string">memorization</castertype>
 				<name type="string">Spells (Sorcerer)</name>
+				<prepared type="number">0</prepared>
+				<savemod type="number">0</savemod>
 				<saveprof type="number">1</saveprof>
+				<savestat type="string">charisma</savestat>
 				<stat type="string">charisma</stat>
+				<uses type="number">0</uses>
 			</id-00002>
 		</powergroup>
 		<powermeta>
 			<pactmagicslots1>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots1>
 			<pactmagicslots2>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots2>
 			<pactmagicslots3>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots3>
 			<pactmagicslots4>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots4>
 			<pactmagicslots5>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots5>
 			<pactmagicslots6>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots6>
 			<pactmagicslots7>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots7>
 			<pactmagicslots8>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots8>
 			<pactmagicslots9>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</pactmagicslots9>
 			<spellslots1>
 				<max type="number">4</max>
 				<used type="number">1</used>
 			</spellslots1>
 			<spellslots2>
-				<max type="number">2</max>
+				<max type="number">3</max>
+				<used type="number">2</used>
 			</spellslots2>
 			<spellslots3>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots3>
 			<spellslots4>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots4>
 			<spellslots5>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots5>
 			<spellslots6>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots6>
 			<spellslots7>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots7>
 			<spellslots8>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots8>
 			<spellslots9>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots9>
 		</powermeta>
+		<powermode type="string">standard</powermode>
 		<powers>
 			<id-00001>
 				<actions>
 					<id-00001>
+						<atkprof type="number">1</atkprof>
 						<onmissdamage type="string">half</onmissdamage>
 						<order type="number">1</order>
-						<savetype type="string">strength</savetype>
+						<savedcprof type="number">1</savedcprof>
+						<savetype type="string">charisma</savetype>
 						<type type="string">cast</type>
 					</id-00001>
 					<id-00002>
@@ -827,6 +905,41 @@
 				<school type="string">Evocation</school>
 				<source type="string">Paladin</source>
 			</id-00007>
+			<id-00008>
+				<actions>
+					<id-00001>
+						<atktype type="string">ranged</atktype>
+						<order type="number">1</order>
+						<type type="string">cast</type>
+					</id-00001>
+					<id-00002>
+						<damagelist>
+							<id-00001>
+								<dice type="dice">d10</dice>
+								<type type="string">fire</type>
+							</id-00001>
+						</damagelist>
+						<order type="number">2</order>
+						<type type="string">damage</type>
+					</id-00002>
+				</actions>
+				<cast type="number">0</cast>
+				<castingtime type="string">1 action</castingtime>
+				<components type="string">V, S</components>
+				<description type="formattedtext">
+					<p>You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.</p>
+					<p>This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).</p>
+				</description>
+				<duration type="string">Instantaneous</duration>
+				<group type="string">Spells (Sorcerer)</group>
+				<level type="number">0</level>
+				<locked type="number">1</locked>
+				<name type="string">Fire Bolt</name>
+				<prepared type="number">0</prepared>
+				<range type="string">120 feet</range>
+				<school type="string">Evocation</school>
+				<source type="string">Eldritch Knight, Sorcerer, Wizard, Arcane Trickster</source>
+			</id-00008>
 			<id-00010>
 				<actions>
 				</actions>
@@ -916,6 +1029,30 @@
 				<school type="string">Transmutation</school>
 				<source type="string">Bard, Cleric, Druid, Eldritch Knight, Sorcerer, Wizard, Arcane Trickster</source>
 			</id-00013>
+			<id-00014>
+				<actions>
+				</actions>
+				<cast type="number">0</cast>
+				<castingtime type="string">1 action</castingtime>
+				<components type="string">V, S</components>
+				<description type="formattedtext">
+					<p>Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real. You can use your action to dismiss the illusory duplicates.</p>
+					<p>Each time a creature targets you with an attack during the spell's duration, roll a d20 to determine whether the attack instead targets one of your duplicates.</p>
+					<p>If you have three duplicates, you must roll a6 or higher to change the attack's target to a duplicate. With two duplicates, you must roll an 8 or higher. With one duplicate, you must roll an 11 or higher.</p>
+					<p>A duplicate's AC equals 10 + your Dexterity modifier. If an attack hits a duplicate, the duplicate is destroyed. A duplicate can be destroyed only by an attack that hits it.</p>
+					<p>It ignores all other damage and effects. The spell ends when all three duplicates are destroyed.</p>
+					<p>A creature is unaffected by this spell if it can't see, if it relies on senses other than sight, such as blindsight, or if it can perceive illusions as false, as with truesight.</p>
+				</description>
+				<duration type="string">1 minute</duration>
+				<group type="string">Spells</group>
+				<level type="number">2</level>
+				<locked type="number">1</locked>
+				<name type="string">Mirror Image</name>
+				<prepared type="number">0</prepared>
+				<range type="string">Self</range>
+				<school type="string">Illusion</school>
+				<source type="string">Cleric Trickery Domain, Druid Coast Circle, Eldritch Knight, Sorcerer, Warlock, Wizard, Arcane Trickster</source>
+			</id-00014>
 		</powers>
 		<profbonus type="number">2</profbonus>
 		<proficiencylist>
@@ -953,7 +1090,7 @@
 				<name type="string">Persuasion</name>
 				<prof type="number">0</prof>
 				<stat type="string">charisma</stat>
-				<total type="number">2</total>
+				<total type="number">3</total>
 			</id-00003>
 			<id-00004>
 				<misc type="number">0</misc>
@@ -981,7 +1118,7 @@
 				<name type="string">Performance</name>
 				<prof type="number">0</prof>
 				<stat type="string">charisma</stat>
-				<total type="number">2</total>
+				<total type="number">3</total>
 			</id-00007>
 			<id-00008>
 				<misc type="number">0</misc>
@@ -1023,14 +1160,14 @@
 				<name type="string">Intimidation</name>
 				<prof type="number">0</prof>
 				<stat type="string">charisma</stat>
-				<total type="number">2</total>
+				<total type="number">3</total>
 			</id-00013>
 			<id-00014>
 				<misc type="number">0</misc>
 				<name type="string">Deception</name>
 				<prof type="number">0</prof>
 				<stat type="string">charisma</stat>
-				<total type="number">2</total>
+				<total type="number">3</total>
 			</id-00014>
 			<id-00015>
 				<misc type="number">0</misc>

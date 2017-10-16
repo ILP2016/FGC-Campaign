@@ -110,13 +110,8 @@
 			<load type="number">73.5</load>
 			<max type="number">180</max>
 		</encumbrance>
-<<<<<<< HEAD
-		<exp type="number">300</exp>
-		<expneeded type="number">400</expneeded>
-=======
 		<exp type="number">417</exp>
 		<expneeded type="number">500</expneeded>
->>>>>>> 1e0810a34cf9726151fda600c3cb97b5bfbe20a7
 		<featlist>
 		</featlist>
 		<featurelist>
@@ -325,6 +320,8 @@
 		<gender type="string">Male</gender>
 		<height type="string">6'1''</height>
 		<hp>
+			<deathsavefail type="number">0</deathsavefail>
+			<deathsavesuccess type="number">0</deathsavesuccess>
 			<temporary type="number">0</temporary>
 			<total type="number">30</total>
 			<wounds type="number">0</wounds>
@@ -1368,7 +1365,7 @@
 		</speed>
 		<temp>
 		</temp>
-		<token type="token">portrait_id-00001_token</token>
+		<token type="token">portrait_id-00005_token</token>
 		<traitlist>
 			<id-00001>
 				<locked type="number">1</locked>

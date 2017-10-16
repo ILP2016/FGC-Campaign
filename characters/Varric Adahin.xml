@@ -11,7 +11,7 @@
 			</charisma>
 			<constitution>
 				<bonus type="number">2</bonus>
-				<save type="number">4</save>
+				<save type="number">5</save>
 				<savemodifier type="number">0</savemodifier>
 				<saveprof type="number">1</saveprof>
 				<score type="number">15</score>
@@ -31,13 +31,8 @@
 				<score type="number">14</score>
 			</intelligence>
 			<strength>
-<<<<<<< HEAD
-				<bonus type="number">2</bonus>
-				<save type="number">4</save>
-=======
 				<bonus type="number">3</bonus>
 				<save type="number">6</save>
->>>>>>> 1e0810a34cf9726151fda600c3cb97b5bfbe20a7
 				<savemodifier type="number">0</savemodifier>
 				<saveprof type="number">1</saveprof>
 				<score type="number">16</score>
@@ -51,6 +46,22 @@
 			</wisdom>
 		</abilities>
 		<adventurelist>
+			<id-00001>
+				<date type="string">10/14/2017</date>
+				<earndt type="string">0</earndt>
+				<earngold type="string">63</earngold>
+				<earnxp type="string">257</earnxp>
+				<name type="string">Day 1</name>
+				<startdt type="string">0</startdt>
+				<startgold type="string">0</startgold>
+				<startxp type="string">300</startxp>
+				<text type="formattedtext">
+					<p></p>
+				</text>
+				<totaldt type="string">0</totaldt>
+				<totalgold type="string">63</totalgold>
+				<totalxp type="string">557</totalxp>
+			</id-00001>
 		</adventurelist>
 		<age type="string">200</age>
 		<alignment type="string">Lawful Neutral</alignment>
@@ -66,13 +77,8 @@
 				<casterlevelinvmult type="number">3</casterlevelinvmult>
 				<casterpactmagic type="number">0</casterpactmagic>
 				<hddie type="dice">d10</hddie>
-<<<<<<< HEAD
-				<hdused type="number">1</hdused>
-				<level type="number">4</level>
-=======
 				<hdused type="number">0</hdused>
 				<level type="number">6</level>
->>>>>>> 1e0810a34cf9726151fda600c3cb97b5bfbe20a7
 				<name type="string">Fighter</name>
 				<shortcut type="windowreference">
 					<class>reference_class</class>
@@ -82,17 +88,6 @@
 		</classes>
 		<coins>
 			<slot1>
-<<<<<<< HEAD
-				<amount type="number">57</amount>
-				<name type="string">GP</name>
-			</slot1>
-			<slot2>
-				<amount type="number">58</amount>
-				<name type="string">SP</name>
-			</slot2>
-			<slot3>
-				<amount type="number">45</amount>
-=======
 				<amount type="number">91</amount>
 				<name type="string">GP</name>
 			</slot1>
@@ -101,8 +96,7 @@
 				<name type="string">SP</name>
 			</slot2>
 			<slot3>
-				<amount type="number">60</amount>
->>>>>>> 1e0810a34cf9726151fda600c3cb97b5bfbe20a7
+				<amount type="number">58</amount>
 				<name type="string">CP</name>
 			</slot3>
 			<slot4>
@@ -126,17 +120,8 @@
 				<total type="number">12</total>
 			</ac>
 		</defenses>
+		<deity type="string">Will of Man</deity>
 		<encumbrance>
-<<<<<<< HEAD
-			<encumbered type="number">70</encumbered>
-			<encumberedheavy type="number">140</encumberedheavy>
-			<liftpushdrag type="number">420</liftpushdrag>
-			<load type="number">132.025</load>
-			<max type="number">210</max>
-		</encumbrance>
-		<exp type="number">557</exp>
-		<expneeded type="number">600</expneeded>
-=======
 			<encumbered type="number">80</encumbered>
 			<encumberedheavy type="number">160</encumberedheavy>
 			<liftpushdrag type="number">480</liftpushdrag>
@@ -145,7 +130,6 @@
 		</encumbrance>
 		<exp type="number">679</exp>
 		<expneeded type="number">700</expneeded>
->>>>>>> 1e0810a34cf9726151fda600c3cb97b5bfbe20a7
 		<featlist>
 		</featlist>
 		<featurelist>
@@ -433,6 +417,15 @@
 					<p>When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
 				</text>
 			</id-00008>
+			<id-00009>
+				<level type="number">5</level>
+				<locked type="number">1</locked>
+				<name type="string">Extra Attack</name>
+				<source type="string">Fighter</source>
+				<text type="formattedtext">
+					<p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn. The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.</p>
+				</text>
+			</id-00009>
 		</featurelist>
 		<flaws type="string">Don't expect me to save those who can't save themselves. It is nature's way that the strong thrive and the weak perish.</flaws>
 		<gender type="string">Male</gender>
@@ -441,13 +434,8 @@
 			<deathsavefail type="number">0</deathsavefail>
 			<deathsavesuccess type="number">0</deathsavesuccess>
 			<temporary type="number">0</temporary>
-<<<<<<< HEAD
-			<total type="number">36</total>
-			<wounds type="number">12</wounds>
-=======
 			<total type="number">52</total>
 			<wounds type="number">25</wounds>
->>>>>>> 1e0810a34cf9726151fda600c3cb97b5bfbe20a7
 		</hp>
 		<ideals type="string">Honor. If I dishonor myself, I dishonor my whole clan. (Lawful)</ideals>
 		<initiative>
@@ -788,6 +776,22 @@
 				<type type="string">Tools</type>
 				<weight type="number">0</weight>
 			</id-00025>
+			<id-00026>
+				<ac type="number">0</ac>
+				<bonus type="number">0</bonus>
+				<carried type="number">1</carried>
+				<cost type="string">100 gp</cost>
+				<count type="number">1</count>
+				<description type="formattedtext">
+					<p>You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.</p>
+				</description>
+				<isidentified type="number">1</isidentified>
+				<locked type="number">1</locked>
+				<name type="string">Poison, Basic (Vial)</name>
+				<subtype type="string">Standard</subtype>
+				<type type="string">Adventuring Gear</type>
+				<weight type="number">0.02</weight>
+			</id-00026>
 			<id-00027>
 				<carried type="number">1</carried>
 				<count type="number">1</count>
@@ -925,14 +929,10 @@
 				<name type="string">Draconic</name>
 			</id-00004>
 		</languagelist>
-<<<<<<< HEAD
-		<level type="number">4</level>
-=======
 		<level type="number">6</level>
->>>>>>> 1e0810a34cf9726151fda600c3cb97b5bfbe20a7
 		<name type="string">Varric Adahlin</name>
 		<notes type="string">Code: Action Surge, Second Wind</notes>
-		<perception type="number">13</perception>
+		<perception type="number">14</perception>
 		<perceptionmodifier type="number">0</perceptionmodifier>
 		<personalitytraits type="string">I'm always picking things up, absently fiddling with them, and sometimes accidentally breaking them.</personalitytraits>
 		<powerdisplaymode type="string">action</powerdisplaymode>
@@ -984,7 +984,7 @@
 			</pactmagicslots9>
 			<spellslots1>
 				<max type="number">3</max>
-				<used type="number">1</used>
+				<used type="number">0</used>
 			</spellslots1>
 			<spellslots2>
 				<max type="number">0</max>
@@ -1064,7 +1064,7 @@
 						<damagelist>
 							<id-00001>
 								<bonus type="number">0</bonus>
-								<dice type="dice">d10</dice>
+								<dice type="dice">d10,d10</dice>
 								<type type="string">fire</type>
 							</id-00001>
 						</damagelist>
@@ -1151,7 +1151,6 @@
 					<id-00002>
 						<damagelist>
 							<id-00001>
-								<bonus type="number">0</bonus>
 								<dice type="dice">d8,d8,d8</dice>
 								<type type="string">acid</type>
 							</id-00001>
@@ -1162,7 +1161,6 @@
 					<id-00003>
 						<damagelist>
 							<id-00001>
-								<bonus type="number">0</bonus>
 								<dice type="dice">d8,d8,d8</dice>
 								<type type="string">cold</type>
 							</id-00001>
@@ -1173,7 +1171,6 @@
 					<id-00004>
 						<damagelist>
 							<id-00001>
-								<bonus type="number">0</bonus>
 								<dice type="dice">d8,d8,d8</dice>
 								<type type="string">fire</type>
 							</id-00001>
@@ -1184,7 +1181,6 @@
 					<id-00005>
 						<damagelist>
 							<id-00001>
-								<bonus type="number">0</bonus>
 								<dice type="dice">d8,d8,d8</dice>
 								<type type="string">lightning</type>
 							</id-00001>
@@ -1195,7 +1191,6 @@
 					<id-00006>
 						<damagelist>
 							<id-00001>
-								<bonus type="number">0</bonus>
 								<dice type="dice">d8,d8,d8</dice>
 								<type type="string">poison</type>
 							</id-00001>
@@ -1206,7 +1201,6 @@
 					<id-00007>
 						<damagelist>
 							<id-00001>
-								<bonus type="number">0</bonus>
 								<dice type="dice">d8,d8,d8</dice>
 								<type type="string">thunder</type>
 							</id-00001>
@@ -1260,8 +1254,6 @@
 				<school type="string">Abjuration</school>
 				<source type="string">Eldritch Knight, Sorcerer, Wizard, Arcane Trickster</source>
 			</id-00006>
-<<<<<<< HEAD
-=======
 			<id-00007>
 				<actions>
 					<id-00001>
@@ -1372,9 +1364,8 @@
 				<name type="string">Ring of Radiance</name>
 				<prepared type="number">0</prepared>
 			</id-00010>
->>>>>>> 1e0810a34cf9726151fda600c3cb97b5bfbe20a7
 		</powers>
-		<profbonus type="number">2</profbonus>
+		<profbonus type="number">3</profbonus>
 		<proficiencylist>
 			<id-00001>
 				<name type="string">Tool: Musical Instrument - Panflute</name>
@@ -1399,25 +1390,21 @@
 				<name type="string">Perception</name>
 				<prof type="number">1</prof>
 				<stat type="string">wisdom</stat>
-				<total type="number">3</total>
+				<total type="number">4</total>
 			</id-00001>
 			<id-00002>
 				<misc type="number">0</misc>
 				<name type="string">Athletics</name>
 				<prof type="number">1</prof>
 				<stat type="string">strength</stat>
-<<<<<<< HEAD
-				<total type="number">4</total>
-=======
 				<total type="number">6</total>
->>>>>>> 1e0810a34cf9726151fda600c3cb97b5bfbe20a7
 			</id-00002>
 			<id-00003>
 				<misc type="number">0</misc>
 				<name type="string">Survival</name>
 				<prof type="number">1</prof>
 				<stat type="string">wisdom</stat>
-				<total type="number">3</total>
+				<total type="number">4</total>
 			</id-00003>
 			<id-00004>
 				<misc type="number">0</misc>
@@ -1480,7 +1467,7 @@
 				<name type="string">Insight</name>
 				<prof type="number">1</prof>
 				<stat type="string">wisdom</stat>
-				<total type="number">3</total>
+				<total type="number">4</total>
 			</id-00012>
 			<id-00013>
 				<misc type="number">0</misc>
@@ -1522,7 +1509,7 @@
 				<name type="string">Animal Handling</name>
 				<prof type="number">1</prof>
 				<stat type="string">wisdom</stat>
-				<total type="number">3</total>
+				<total type="number">4</total>
 			</id-00018>
 		</skilllist>
 		<speed>
@@ -1584,7 +1571,7 @@
 		</traitlist>
 		<weaponlist>
 			<id-00001>
-				<ammo type="number">3</ammo>
+				<ammo type="number">1</ammo>
 				<attackbonus type="number">0</attackbonus>
 				<carried type="number">2</carried>
 				<damagelist>

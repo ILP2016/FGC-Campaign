@@ -60,7 +60,7 @@
 				<casterlevelinvmult type="number">0</casterlevelinvmult>
 				<casterpactmagic type="number">0</casterpactmagic>
 				<hddie type="dice">d8</hddie>
-				<hdused type="number">2</hdused>
+				<hdused type="number">0</hdused>
 				<level type="number">5</level>
 				<name type="string">Rogue</name>
 				<shortcut type="windowreference">
@@ -71,15 +71,15 @@
 		</classes>
 		<coins>
 			<slot1>
-				<amount type="number">20</amount>
+				<amount type="number">24</amount>
 				<name type="string">GP</name>
 			</slot1>
 			<slot2>
-				<amount type="number">14</amount>
+				<amount type="number">17</amount>
 				<name type="string">SP</name>
 			</slot2>
 			<slot3>
-				<amount type="number">21</amount>
+				<amount type="number">24</amount>
 				<name type="string">CP</name>
 			</slot3>
 			<slot4>
@@ -111,8 +111,8 @@
 			<load type="number">68.61</load>
 			<max type="number">150</max>
 		</encumbrance>
-		<exp type="number">502</exp>
-		<expneeded type="number">500</expneeded>
+		<exp type="number">537</exp>
+		<expneeded type="number">600</expneeded>
 		<featlist>
 		</featlist>
 		<featurelist>
@@ -221,7 +221,7 @@
 			</id-00010>
 		</featurelist>
 		<flaws type="string">An innocent person is in prison for a crime that I committed. I'm okay with that.</flaws>
-		<gender type="string">Female</gender>
+		<gender type="string">Male</gender>
 		<height type="string">3' 11&#34;</height>
 		<hp>
 			<deathsavefail type="number">0</deathsavefail>
@@ -763,7 +763,7 @@
 				<prepared type="number">0</prepared>
 				<source type="string">Rogue</source>
 			</id-00002>
-			<id-00004>
+			<id-00003>
 				<actions>
 					<id-00001>
 						<apply type="string">roll</apply>
@@ -785,9 +785,8 @@
 				<locked type="number">1</locked>
 				<name type="string">Sneak Attack</name>
 				<prepared type="number">0</prepared>
-				<ritual type="number">0</ritual>
 				<source type="string">Rogue</source>
-			</id-00004>
+			</id-00003>
 		</powers>
 		<profbonus type="number">3</profbonus>
 		<proficiencylist>
@@ -977,7 +976,7 @@
 		</speed>
 		<temp>
 		</temp>
-		<token type="token">portrait_id-00002_token</token>
+		<token type="token">portrait_id-00001_token</token>
 		<traitlist>
 			<id-00001>
 				<locked type="number">1</locked>
@@ -1062,7 +1061,7 @@
 				<type type="number">2</type>
 			</id-00002>
 			<id-00003>
-				<ammo type="number">2</ammo>
+				<ammo type="number">3</ammo>
 				<attackbonus type="number">0</attackbonus>
 				<carried type="number">2</carried>
 				<damagelist>

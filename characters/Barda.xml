@@ -74,7 +74,7 @@
 				<name type="string">pp</name>
 			</slot1>
 			<slot2>
-				<amount type="number">11</amount>
+				<amount type="number">4</amount>
 				<name type="string">GP</name>
 			</slot2>
 			<slot3>
@@ -82,11 +82,11 @@
 				<name type="string">ep</name>
 			</slot3>
 			<slot4>
-				<amount type="number">11</amount>
+				<amount type="number">14</amount>
 				<name type="string">SP</name>
 			</slot4>
 			<slot5>
-				<amount type="number">9</amount>
+				<amount type="number">12</amount>
 				<name type="string">CP</name>
 			</slot5>
 			<slot6>
@@ -109,11 +109,11 @@
 			<encumbered type="number">50</encumbered>
 			<encumberedheavy type="number">100</encumberedheavy>
 			<liftpushdrag type="number">300</liftpushdrag>
-			<load type="number">107</load>
+			<load type="number">115</load>
 			<max type="number">150</max>
 		</encumbrance>
-		<exp type="number">420</exp>
-		<expneeded type="number">400</expneeded>
+		<exp type="number">470</exp>
+		<expneeded type="number">500</expneeded>
 		<featlist>
 			<id-00001>
 				<locked type="number">1</locked>
@@ -365,16 +365,21 @@
 				<weight type="number">1</weight>
 			</id-00009>
 			<id-00010>
+				<ac type="number">0</ac>
+				<bonus type="number">0</bonus>
 				<carried type="number">1</carried>
-				<cost type="string">1 cp</cost>
-				<count type="number">2</count>
+				<cost type="string">10 gp</cost>
+				<count type="number">1</count>
+				<description type="formattedtext">
+					<p>These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>
+				</description>
 				<isidentified type="number">1</isidentified>
-				<location type="string">5. Backpack</location>
+				<istemplate type="number">0</istemplate>
 				<locked type="number">1</locked>
-				<name type="string">Sack</name>
-				<subtype type="string">Standard</subtype>
-				<type type="string">Adventuring Gear</type>
-				<weight type="number">0.5</weight>
+				<name type="string">Calligrapher's Supplies</name>
+				<subtype type="string">Artisan's Tools</subtype>
+				<type type="string">Tools</type>
+				<weight type="number">5</weight>
 			</id-00010>
 			<id-00011>
 				<carried type="number">1</carried>
@@ -474,6 +479,22 @@
 				<type type="string">Adventuring Gear</type>
 				<weight type="number">6</weight>
 			</id-00017>
+			<id-00018>
+				<ac type="number">0</ac>
+				<bonus type="number">0</bonus>
+				<carried type="number">1</carried>
+				<cost type="string">1 gp</cost>
+				<count type="number">2</count>
+				<description type="formattedtext">
+					<p>As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn't need to make this save.&#34;</p>
+				</description>
+				<isidentified type="number">1</isidentified>
+				<locked type="number">1</locked>
+				<name type="string">Ball Bearings (1,000)</name>
+				<subtype type="string">Standard</subtype>
+				<type type="string">Adventuring Gear</type>
+				<weight type="number">2</weight>
+			</id-00018>
 		</inventorylist>
 		<languagelist>
 			<id-00003>
@@ -488,7 +509,6 @@
 		<perception type="number">14</perception>
 		<perceptionmodifier type="number">0</perceptionmodifier>
 		<personalitytraits type="string">My eloquent flattery makes everyone I talk to feel like the most wonderful and important person in the world.\nDespite my noble birth, I do not place myself above other folk. We all have the same blood.</personalitytraits>
-		<powerdisplaymode type="string">action</powerdisplaymode>
 		<powergroup>
 			<id-00007>
 				<name type="string">Resourse</name>
@@ -672,6 +692,13 @@
 			</id-00005>
 			<id-00006>
 				<actions>
+					<id-00001>
+						<durmod type="number">2</durmod>
+						<label type="string">Fighting Spirit; ADVATK:; RESIST: bludgeoning, piercing, slashing</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</id-00001>
 				</actions>
 				<cast type="number">0</cast>
 				<description type="formattedtext">
@@ -683,11 +710,17 @@
 				<locked type="number">1</locked>
 				<name type="string">Fighting Spirit</name>
 				<prepared type="number">3</prepared>
+				<ritual type="number">0</ritual>
 				<source type="string">Fighter</source>
 				<specialization type="string">Samurai</specialization>
 				<specializationchoice type="number">0</specializationchoice>
 				<usesperiod type="string">enc</usesperiod>
 			</id-00006>
+			<id-00008>
+				<actions>
+				</actions>
+				<cast type="number">0</cast>
+			</id-00008>
 		</powers>
 		<profbonus type="number">2</profbonus>
 		<proficiencylist>
@@ -859,7 +892,7 @@
 		</speed>
 		<temp>
 		</temp>
-		<token type="token">portrait_id-00009_token</token>
+		<token type="token">portrait_id-00017_token</token>
 		<traitlist>
 			<id-00007>
 				<locked type="number">1</locked>
@@ -891,7 +924,7 @@
 		</traitlist>
 		<weaponlist>
 			<id-00001>
-				<ammo type="number">0</ammo>
+				<ammo type="number">2</ammo>
 				<attackbonus type="number">0</attackbonus>
 				<carried type="number">2</carried>
 				<damagelist>
@@ -913,7 +946,7 @@
 				<type type="number">1</type>
 			</id-00001>
 			<id-00002>
-				<attackbonus type="number">2</attackbonus>
+				<attackbonus type="number">0</attackbonus>
 				<attackstat type="string">dexterity</attackstat>
 				<carried type="number">2</carried>
 				<damagelist>
