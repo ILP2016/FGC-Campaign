@@ -24909,7 +24909,7 @@
 				<class>reference_background</class>
 				<recordname>reference.backgrounddata.sage@DD PHB Deluxe</recordname>
 			</backgroundlink>
-			<bonds type="string">I sold my soul for knowledge. </bonds>
+			<bonds type="string">I sold my soul for knowledge.</bonds>
 			<classes>
 				<holder name="Happywhisp" owner="true" />
 				<id-00001>
@@ -25106,7 +25106,7 @@
 				<total type="number">26</total>
 				<wounds type="number">0</wounds>
 			</hp>
-			<ideals type="string">Self-Improvement. </ideals>
+			<ideals type="string">Self-Improvement.</ideals>
 			<initiative>
 				<holder name="Happywhisp" owner="true" />
 				<misc type="number">0</misc>
