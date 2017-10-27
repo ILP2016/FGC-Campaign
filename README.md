@@ -1,4 +1,4 @@
-# FGC-West-Marches
+# FGC-Explorers-Guild
 ## An explination of what git is and why it matters.
 https://www.youtube.com/watch?v=fJtyf62yAb8
 ## How to set up install this repo to FG
@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=fJtyf62yAb8
 6. click open in desktop
 7. you may need to allow or do some sort of confirmation action
 8. set the clone path to /Fantasy Grounds/campaigns
-9. click Cloan. It will add FGC-West-Marches as a campaign.
+9. click Cloan. It will add FGC-Explorers-Guild as a campaign.
 10. open the folder.
 11. copy and paste "renameMe-campaign.xml" to duplicate it.
 12. rename the copy to "campaign.xml"
