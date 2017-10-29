@@ -11,7 +11,7 @@
 			</charisma>
 			<constitution>
 				<bonus type="number">2</bonus>
-				<save type="number">4</save>
+				<save type="number">5</save>
 				<savemodifier type="number">0</savemodifier>
 				<saveprof type="number">1</saveprof>
 				<score type="number">14</score>
@@ -32,7 +32,7 @@
 			</intelligence>
 			<strength>
 				<bonus type="number">0</bonus>
-				<save type="number">2</save>
+				<save type="number">3</save>
 				<savemodifier type="number">0</savemodifier>
 				<saveprof type="number">1</saveprof>
 				<score type="number">10</score>
@@ -47,7 +47,7 @@
 		</abilities>
 		<adventurelist>
 		</adventurelist>
-		<alignment type="string">Ne</alignment>
+		<alignment type="string">Chaotic Neutral</alignment>
 		<background type="string">Noble</background>
 		<backgroundlink type="windowreference">
 			<class>reference_background</class>
@@ -60,7 +60,7 @@
 				<casterpactmagic type="number">0</casterpactmagic>
 				<hddie type="dice">d10</hddie>
 				<hdused type="number">0</hdused>
-				<level type="number">4</level>
+				<level type="number">5</level>
 				<name type="string">Fighter</name>
 				<shortcut type="windowreference">
 					<class>reference_class</class>
@@ -74,7 +74,7 @@
 				<name type="string">pp</name>
 			</slot1>
 			<slot2>
-				<amount type="number">4</amount>
+				<amount type="number">27</amount>
 				<name type="string">GP</name>
 			</slot2>
 			<slot3>
@@ -82,11 +82,11 @@
 				<name type="string">ep</name>
 			</slot3>
 			<slot4>
-				<amount type="number">14</amount>
+				<amount type="number">17</amount>
 				<name type="string">SP</name>
 			</slot4>
 			<slot5>
-				<amount type="number">12</amount>
+				<amount type="number">15</amount>
 				<name type="string">CP</name>
 			</slot5>
 			<slot6>
@@ -105,15 +105,16 @@
 				<total type="number">18</total>
 			</ac>
 		</defenses>
+		<deity type="string">A higher power... than myself?</deity>
 		<encumbrance>
 			<encumbered type="number">50</encumbered>
 			<encumberedheavy type="number">100</encumberedheavy>
 			<liftpushdrag type="number">300</liftpushdrag>
-			<load type="number">115</load>
+			<load type="number">132</load>
 			<max type="number">150</max>
 		</encumbrance>
-		<exp type="number">470</exp>
-		<expneeded type="number">500</expneeded>
+		<exp type="number">500</exp>
+		<expneeded type="number">600</expneeded>
 		<featlist>
 			<id-00001>
 				<locked type="number">1</locked>
@@ -217,13 +218,25 @@
 					<p>When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
 				</text>
 			</id-00007>
+			<id-00008>
+				<level type="number">5</level>
+				<locked type="number">1</locked>
+				<name type="string">Extra Attack</name>
+				<source type="string">Fighter</source>
+				<specializationchoice type="number">0</specializationchoice>
+				<text type="formattedtext">
+					<p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</p>
+					<p>The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.</p>
+				</text>
+			</id-00008>
 		</featurelist>
 		<flaws type="string">In fact, the world does revolve around me.</flaws>
+		<gender type="string">Male</gender>
 		<hp>
 			<deathsavefail type="number">0</deathsavefail>
 			<deathsavesuccess type="number">0</deathsavesuccess>
 			<temporary type="number">0</temporary>
-			<total type="number">36</total>
+			<total type="number">44</total>
 			<wounds type="number">0</wounds>
 		</hp>
 		<ideals type="string">Respect. Respect is due to me because of my position, but all people regardless of station deserve to be treated with dignity. (Good)</ideals>
@@ -253,12 +266,12 @@
 				<weight type="number">20</weight>
 			</id-00001>
 			<id-00002>
-				<carried type="number">2</carried>
+				<carried type="number">1</carried>
 				<cost type="string">50 gp</cost>
 				<count type="number">1</count>
 				<damage type="string">1d8 piercing</damage>
 				<isidentified type="number">1</isidentified>
-				<location type="string">1. Breastplate</location>
+				<location type="string">2. Quiver</location>
 				<locked type="number">1</locked>
 				<name type="string">Longbow</name>
 				<properties type="string">Ammunition (range 150/600), heavy, two-handed</properties>
@@ -269,7 +282,7 @@
 			<id-00003>
 				<carried type="number">2</carried>
 				<cost type="string">25 gp</cost>
-				<count type="number">1</count>
+				<count type="number">2</count>
 				<damage type="string">1d8 piercing</damage>
 				<isidentified type="number">1</isidentified>
 				<location type="string">1. Breastplate</location>
@@ -364,23 +377,6 @@
 				<type type="string">Adventuring Gear</type>
 				<weight type="number">1</weight>
 			</id-00009>
-			<id-00010>
-				<ac type="number">0</ac>
-				<bonus type="number">0</bonus>
-				<carried type="number">1</carried>
-				<cost type="string">10 gp</cost>
-				<count type="number">1</count>
-				<description type="formattedtext">
-					<p>These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>
-				</description>
-				<isidentified type="number">1</isidentified>
-				<istemplate type="number">0</istemplate>
-				<locked type="number">1</locked>
-				<name type="string">Calligrapher's Supplies</name>
-				<subtype type="string">Artisan's Tools</subtype>
-				<type type="string">Tools</type>
-				<weight type="number">5</weight>
-			</id-00010>
 			<id-00011>
 				<carried type="number">1</carried>
 				<cost type="string">25 gp</cost>
@@ -443,7 +439,7 @@
 				<cost type="string">15 gp</cost>
 				<count type="number">1</count>
 				<isidentified type="number">1</isidentified>
-				<location type="string">1. Breastplate</location>
+				<location type="string">5. Backpack</location>
 				<locked type="number">1</locked>
 				<name type="string">Clothes, Fine</name>
 				<subtype type="string">Standard</subtype>
@@ -451,9 +447,9 @@
 				<weight type="number">6</weight>
 			</id-00015>
 			<id-00016>
-				<carried type="number">2</carried>
+				<carried type="number">1</carried>
 				<cost type="string">2 gp</cost>
-				<count type="number">2</count>
+				<count type="number">4</count>
 				<damage type="string">1d4 piercing</damage>
 				<isidentified type="number">1</isidentified>
 				<location type="string">1. Breastplate</location>
@@ -489,12 +485,61 @@
 					<p>As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn't need to make this save.&#34;</p>
 				</description>
 				<isidentified type="number">1</isidentified>
+				<location type="string">3. Pouch</location>
 				<locked type="number">1</locked>
 				<name type="string">Ball Bearings (1,000)</name>
 				<subtype type="string">Standard</subtype>
 				<type type="string">Adventuring Gear</type>
 				<weight type="number">2</weight>
 			</id-00018>
+			<id-00019>
+				<carried type="number">1</carried>
+				<cost type="string">2 gp</cost>
+				<count type="number">2</count>
+				<damage type="string">1d4 slashing</damage>
+				<isidentified type="number">1</isidentified>
+				<location type="string">1. Breastplate</location>
+				<locked type="number">1</locked>
+				<name type="string">Whip</name>
+				<properties type="string">Finesse, reach</properties>
+				<subtype type="string">Martial Weapons</subtype>
+				<type type="string">Weapon</type>
+				<weight type="number">3</weight>
+			</id-00019>
+			<id-00020>
+				<carried type="number">1</carried>
+				<cost type="string">25 gp</cost>
+				<count type="number">2</count>
+				<damage type="string">1d6 slashing</damage>
+				<isidentified type="number">1</isidentified>
+				<location type="string">1. Breastplate</location>
+				<locked type="number">1</locked>
+				<name type="string">Scimitar</name>
+				<properties type="string">Finesse, light</properties>
+				<subtype type="string">Martial Weapons</subtype>
+				<type type="string">Weapon</type>
+				<weight type="number">3</weight>
+			</id-00020>
+			<id-00021>
+				<ac type="number">0</ac>
+				<bonus type="number">0</bonus>
+				<carried type="number">1</carried>
+				<cost type="string">1 gp</cost>
+				<count type="number">2</count>
+				<damage type="string">-</damage>
+				<description type="formattedtext">
+					<p>A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.</p>
+				</description>
+				<isidentified type="number">1</isidentified>
+				<istemplate type="number">0</istemplate>
+				<location type="string">1. Breastplate</location>
+				<locked type="number">1</locked>
+				<name type="string">Net</name>
+				<properties type="string">Special, thrown (range 5/15)</properties>
+				<subtype type="string">Martial Ranged Weapons</subtype>
+				<type type="string">Weapon</type>
+				<weight type="number">3</weight>
+			</id-00021>
 		</inventorylist>
 		<languagelist>
 			<id-00003>
@@ -504,11 +549,12 @@
 				<name type="string">Elvish</name>
 			</id-00004>
 		</languagelist>
-		<level type="number">4</level>
+		<level type="number">5</level>
 		<name type="string">Barda</name>
-		<perception type="number">14</perception>
+		<perception type="number">15</perception>
 		<perceptionmodifier type="number">0</perceptionmodifier>
 		<personalitytraits type="string">My eloquent flattery makes everyone I talk to feel like the most wonderful and important person in the world.\nDespite my noble birth, I do not place myself above other folk. We all have the same blood.</personalitytraits>
+		<powerdisplaymode type="string">action</powerdisplaymode>
 		<powergroup>
 			<id-00007>
 				<name type="string">Resourse</name>
@@ -591,7 +637,6 @@
 				<used type="number">0</used>
 			</spellslots9>
 		</powermeta>
-		<powermode type="string">standard</powermode>
 		<powers>
 			<id-00001>
 				<actions>
@@ -716,13 +761,8 @@
 				<specializationchoice type="number">0</specializationchoice>
 				<usesperiod type="string">enc</usesperiod>
 			</id-00006>
-			<id-00008>
-				<actions>
-				</actions>
-				<cast type="number">0</cast>
-			</id-00008>
 		</powers>
-		<profbonus type="number">2</profbonus>
+		<profbonus type="number">3</profbonus>
 		<proficiencylist>
 			<id-00001>
 				<name type="string">Weapon: Simple weapons, martial weapons</name>
@@ -747,7 +787,7 @@
 				<name type="string">Perception</name>
 				<prof type="number">1</prof>
 				<stat type="string">wisdom</stat>
-				<total type="number">4</total>
+				<total type="number">5</total>
 			</id-00001>
 			<id-00002>
 				<misc type="number">0</misc>
@@ -761,7 +801,7 @@
 				<name type="string">Persuasion</name>
 				<prof type="number">1</prof>
 				<stat type="string">charisma</stat>
-				<total type="number">3</total>
+				<total type="number">4</total>
 			</id-00003>
 			<id-00004>
 				<misc type="number">0</misc>
@@ -796,7 +836,7 @@
 				<name type="string">Acrobatics</name>
 				<prof type="number">1</prof>
 				<stat type="string">dexterity</stat>
-				<total type="number">5</total>
+				<total type="number">6</total>
 			</id-00008>
 			<id-00009>
 				<misc type="number">0</misc>
@@ -824,7 +864,7 @@
 				<name type="string">Insight</name>
 				<prof type="number">1</prof>
 				<stat type="string">wisdom</stat>
-				<total type="number">4</total>
+				<total type="number">5</total>
 			</id-00012>
 			<id-00013>
 				<misc type="number">0</misc>
@@ -852,7 +892,7 @@
 				<name type="string">Stealth</name>
 				<prof type="number">1</prof>
 				<stat type="string">dexterity</stat>
-				<total type="number">5</total>
+				<total type="number">6</total>
 			</id-00016>
 			<id-00017>
 				<misc type="number">0</misc>
@@ -873,14 +913,14 @@
 				<name type="string">Jeweler's Tools</name>
 				<prof type="number">1</prof>
 				<stat type="string">dexterity</stat>
-				<total type="number">5</total>
+				<total type="number">6</total>
 			</id-00019>
 			<id-00020>
 				<misc type="number">0</misc>
 				<name type="string">Dice Set</name>
 				<prof type="number">1</prof>
 				<stat type="string">dexterity</stat>
-				<total type="number">5</total>
+				<total type="number">6</total>
 			</id-00020>
 		</skilllist>
 		<speed>
@@ -924,9 +964,9 @@
 		</traitlist>
 		<weaponlist>
 			<id-00001>
-				<ammo type="number">2</ammo>
+				<ammo type="number">0</ammo>
 				<attackbonus type="number">0</attackbonus>
-				<carried type="number">2</carried>
+				<carried type="number">1</carried>
 				<damagelist>
 					<id-00001>
 						<bonus type="number">0</bonus>
@@ -970,7 +1010,7 @@
 			<id-00003>
 				<attackbonus type="number">0</attackbonus>
 				<attackstat type="string">dexterity</attackstat>
-				<carried type="number">2</carried>
+				<carried type="number">1</carried>
 				<damagelist>
 					<id-00001>
 						<bonus type="number">0</bonus>
@@ -992,7 +1032,7 @@
 			<id-00004>
 				<attackbonus type="number">0</attackbonus>
 				<attackstat type="string">dexterity</attackstat>
-				<carried type="number">2</carried>
+				<carried type="number">1</carried>
 				<damagelist>
 					<id-00001>
 						<bonus type="number">0</bonus>
@@ -1002,7 +1042,7 @@
 					</id-00001>
 				</damagelist>
 				<isidentified type="number">1</isidentified>
-				<maxammo type="number">2</maxammo>
+				<maxammo type="number">4</maxammo>
 				<name type="string">Dagger</name>
 				<prof type="number">1</prof>
 				<shortcut type="windowreference">
@@ -1011,6 +1051,70 @@
 				</shortcut>
 				<type type="number">2</type>
 			</id-00004>
+			<id-00005>
+				<attackbonus type="number">0</attackbonus>
+				<attackstat type="string">dexterity</attackstat>
+				<carried type="number">1</carried>
+				<damagelist>
+					<id-00001>
+						<bonus type="number">0</bonus>
+						<dice type="dice">d4</dice>
+						<stat type="string">dexterity</stat>
+						<type type="string">slashing</type>
+					</id-00001>
+				</damagelist>
+				<isidentified type="number">1</isidentified>
+				<maxammo type="number">0</maxammo>
+				<name type="string">Whip</name>
+				<prof type="number">1</prof>
+				<shortcut type="windowreference">
+					<class>item</class>
+					<recordname>....inventorylist.id-00019</recordname>
+				</shortcut>
+				<type type="number">0</type>
+			</id-00005>
+			<id-00006>
+				<attackbonus type="number">0</attackbonus>
+				<attackstat type="string">dexterity</attackstat>
+				<carried type="number">1</carried>
+				<damagelist>
+					<id-00001>
+						<bonus type="number">0</bonus>
+						<dice type="dice">d6</dice>
+						<stat type="string">dexterity</stat>
+						<type type="string">slashing</type>
+					</id-00001>
+				</damagelist>
+				<isidentified type="number">1</isidentified>
+				<maxammo type="number">0</maxammo>
+				<name type="string">Scimitar</name>
+				<prof type="number">1</prof>
+				<shortcut type="windowreference">
+					<class>item</class>
+					<recordname>....inventorylist.id-00020</recordname>
+				</shortcut>
+				<type type="number">0</type>
+			</id-00006>
+			<id-00007>
+				<attackbonus type="number">0</attackbonus>
+				<carried type="number">1</carried>
+				<damagelist>
+					<id-00001>
+						<bonus type="number">0</bonus>
+						<dice type="dice"></dice>
+						<stat type="string">base</stat>
+					</id-00001>
+				</damagelist>
+				<isidentified type="number">1</isidentified>
+				<maxammo type="number">0</maxammo>
+				<name type="string">Net</name>
+				<prof type="number">1</prof>
+				<shortcut type="windowreference">
+					<class>item</class>
+					<recordname>....inventorylist.id-00021</recordname>
+				</shortcut>
+				<type type="number">2</type>
+			</id-00007>
 		</weaponlist>
 	</character>
 </root>
