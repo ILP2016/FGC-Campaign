@@ -882,6 +882,13 @@
 				</id-00002>
 			</npclist>
 		</id-00006>
+		<id-00007>
+			<exp type="number">0</exp>
+			<locked type="number">1</locked>
+			<name type="string">A01-06 Random Encounter</name>
+			<npclist>
+			</npclist>
+		</id-00007>
 		<id-00053>
 			<cr type="string">3</cr>
 			<exp type="number">700</exp>
@@ -19551,7 +19558,7 @@
 				<constitution>
 					<holder name="Thomas" owner="true" />
 					<bonus type="number">2</bonus>
-					<save type="number">4</save>
+					<save type="number">5</save>
 					<savemodifier type="number">0</savemodifier>
 					<saveprof type="number">1</saveprof>
 					<score type="number">14</score>
@@ -19575,7 +19582,7 @@
 				<strength>
 					<holder name="Thomas" owner="true" />
 					<bonus type="number">0</bonus>
-					<save type="number">2</save>
+					<save type="number">3</save>
 					<savemodifier type="number">0</savemodifier>
 					<saveprof type="number">1</saveprof>
 					<score type="number">10</score>
@@ -19592,7 +19599,7 @@
 			<adventurelist>
 				<holder name="Thomas" owner="true" />
 			</adventurelist>
-			<alignment type="string">Ne</alignment>
+			<alignment type="string">Chaotic Neutral</alignment>
 			<background type="string">Noble</background>
 			<backgroundlink type="windowreference">
 				<class>reference_background</class>
@@ -19607,7 +19614,7 @@
 					<casterpactmagic type="number">0</casterpactmagic>
 					<hddie type="dice">d10</hddie>
 					<hdused type="number">0</hdused>
-					<level type="number">4</level>
+					<level type="number">5</level>
 					<name type="string">Fighter</name>
 					<shortcut type="windowreference">
 						<class>reference_class</class>
@@ -19624,7 +19631,7 @@
 				</slot1>
 				<slot2>
 					<holder name="Thomas" owner="true" />
-					<amount type="number">7</amount>
+					<amount type="number">27</amount>
 					<name type="string">GP</name>
 				</slot2>
 				<slot3>
@@ -19661,16 +19668,17 @@
 					<total type="number">18</total>
 				</ac>
 			</defenses>
+			<deity type="string">A higher power... than myself?</deity>
 			<encumbrance>
 				<holder name="Thomas" owner="true" />
 				<encumbered type="number">50</encumbered>
 				<encumberedheavy type="number">100</encumberedheavy>
 				<liftpushdrag type="number">300</liftpushdrag>
-				<load type="number">115</load>
+				<load type="number">132</load>
 				<max type="number">150</max>
 			</encumbrance>
-			<exp type="number">20</exp>
-			<expneeded type="number">500</expneeded>
+			<exp type="number">500</exp>
+			<expneeded type="number">600</expneeded>
 			<featlist>
 				<holder name="Thomas" owner="true" />
 				<id-00001>
@@ -19785,15 +19793,28 @@
 						<p>When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
 					</text>
 				</id-00007>
+				<id-00008>
+					<holder name="Thomas" owner="true" />
+					<level type="number">5</level>
+					<locked type="number">1</locked>
+					<name type="string">Extra Attack</name>
+					<source type="string">Fighter</source>
+					<specializationchoice type="number">0</specializationchoice>
+					<text type="formattedtext">
+						<p>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</p>
+						<p>The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.</p>
+					</text>
+				</id-00008>
 			</featurelist>
 			<flaws type="string">In fact, the world does revolve around me.</flaws>
+			<gender type="string">Male</gender>
 			<hp>
 				<holder name="Thomas" owner="true" />
 				<deathsavefail type="number">0</deathsavefail>
 				<deathsavesuccess type="number">0</deathsavesuccess>
 				<temporary type="number">0</temporary>
-				<total type="number">36</total>
-				<wounds type="number">9</wounds>
+				<total type="number">44</total>
+				<wounds type="number">0</wounds>
 			</hp>
 			<ideals type="string">Respect. Respect is due to me because of my position, but all people regardless of station deserve to be treated with dignity. (Good)</ideals>
 			<initiative>
@@ -19826,12 +19847,12 @@
 				</id-00001>
 				<id-00002>
 					<holder name="Thomas" owner="true" />
-					<carried type="number">2</carried>
+					<carried type="number">1</carried>
 					<cost type="string">50 gp</cost>
 					<count type="number">1</count>
 					<damage type="string">1d8 piercing</damage>
 					<isidentified type="number">1</isidentified>
-					<location type="string">1. Breastplate</location>
+					<location type="string">2. Quiver</location>
 					<locked type="number">1</locked>
 					<name type="string">Longbow</name>
 					<properties type="string">Ammunition (range 150/600), heavy, two-handed</properties>
@@ -19843,7 +19864,7 @@
 					<holder name="Thomas" owner="true" />
 					<carried type="number">2</carried>
 					<cost type="string">25 gp</cost>
-					<count type="number">1</count>
+					<count type="number">2</count>
 					<damage type="string">1d8 piercing</damage>
 					<isidentified type="number">1</isidentified>
 					<location type="string">1. Breastplate</location>
@@ -19944,24 +19965,6 @@
 					<type type="string">Adventuring Gear</type>
 					<weight type="number">1</weight>
 				</id-00009>
-				<id-00010>
-					<holder name="Thomas" owner="true" />
-					<ac type="number">0</ac>
-					<bonus type="number">0</bonus>
-					<carried type="number">1</carried>
-					<cost type="string">10 gp</cost>
-					<count type="number">1</count>
-					<description type="formattedtext">
-						<p>These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.</p>
-					</description>
-					<isidentified type="number">1</isidentified>
-					<istemplate type="number">0</istemplate>
-					<locked type="number">1</locked>
-					<name type="string">Calligrapher's Supplies</name>
-					<subtype type="string">Artisan's Tools</subtype>
-					<type type="string">Tools</type>
-					<weight type="number">5</weight>
-				</id-00010>
 				<id-00011>
 					<holder name="Thomas" owner="true" />
 					<carried type="number">1</carried>
@@ -20029,7 +20032,7 @@
 					<cost type="string">15 gp</cost>
 					<count type="number">1</count>
 					<isidentified type="number">1</isidentified>
-					<location type="string">1. Breastplate</location>
+					<location type="string">5. Backpack</location>
 					<locked type="number">1</locked>
 					<name type="string">Clothes, Fine</name>
 					<subtype type="string">Standard</subtype>
@@ -20038,9 +20041,9 @@
 				</id-00015>
 				<id-00016>
 					<holder name="Thomas" owner="true" />
-					<carried type="number">2</carried>
+					<carried type="number">1</carried>
 					<cost type="string">2 gp</cost>
-					<count type="number">2</count>
+					<count type="number">4</count>
 					<damage type="string">1d4 piercing</damage>
 					<isidentified type="number">1</isidentified>
 					<location type="string">1. Breastplate</location>
@@ -20078,12 +20081,64 @@
 						<p>As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn't need to make this save.&#34;</p>
 					</description>
 					<isidentified type="number">1</isidentified>
+					<location type="string">3. Pouch</location>
 					<locked type="number">1</locked>
 					<name type="string">Ball Bearings (1,000)</name>
 					<subtype type="string">Standard</subtype>
 					<type type="string">Adventuring Gear</type>
 					<weight type="number">2</weight>
 				</id-00018>
+				<id-00019>
+					<holder name="Thomas" owner="true" />
+					<carried type="number">1</carried>
+					<cost type="string">2 gp</cost>
+					<count type="number">2</count>
+					<damage type="string">1d4 slashing</damage>
+					<isidentified type="number">1</isidentified>
+					<location type="string">1. Breastplate</location>
+					<locked type="number">1</locked>
+					<name type="string">Whip</name>
+					<properties type="string">Finesse, reach</properties>
+					<subtype type="string">Martial Weapons</subtype>
+					<type type="string">Weapon</type>
+					<weight type="number">3</weight>
+				</id-00019>
+				<id-00020>
+					<holder name="Thomas" owner="true" />
+					<carried type="number">1</carried>
+					<cost type="string">25 gp</cost>
+					<count type="number">2</count>
+					<damage type="string">1d6 slashing</damage>
+					<isidentified type="number">1</isidentified>
+					<location type="string">1. Breastplate</location>
+					<locked type="number">1</locked>
+					<name type="string">Scimitar</name>
+					<properties type="string">Finesse, light</properties>
+					<subtype type="string">Martial Weapons</subtype>
+					<type type="string">Weapon</type>
+					<weight type="number">3</weight>
+				</id-00020>
+				<id-00021>
+					<holder name="Thomas" owner="true" />
+					<ac type="number">0</ac>
+					<bonus type="number">0</bonus>
+					<carried type="number">1</carried>
+					<cost type="string">1 gp</cost>
+					<count type="number">2</count>
+					<damage type="string">-</damage>
+					<description type="formattedtext">
+						<p>A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net. When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.</p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<istemplate type="number">0</istemplate>
+					<location type="string">1. Breastplate</location>
+					<locked type="number">1</locked>
+					<name type="string">Net</name>
+					<properties type="string">Special, thrown (range 5/15)</properties>
+					<subtype type="string">Martial Ranged Weapons</subtype>
+					<type type="string">Weapon</type>
+					<weight type="number">3</weight>
+				</id-00021>
 			</inventorylist>
 			<languagelist>
 				<holder name="Thomas" owner="true" />
@@ -20096,11 +20151,12 @@
 					<name type="string">Elvish</name>
 				</id-00004>
 			</languagelist>
-			<level type="number">4</level>
+			<level type="number">5</level>
 			<name type="string">Barda</name>
-			<perception type="number">14</perception>
+			<perception type="number">15</perception>
 			<perceptionmodifier type="number">0</perceptionmodifier>
 			<personalitytraits type="string">My eloquent flattery makes everyone I talk to feel like the most wonderful and important person in the world.\nDespite my noble birth, I do not place myself above other folk. We all have the same blood.</personalitytraits>
+			<powerdisplaymode type="string">action</powerdisplaymode>
 			<powergroup>
 				<holder name="Thomas" owner="true" />
 				<id-00007>
@@ -20205,7 +20261,6 @@
 					<used type="number">0</used>
 				</spellslots9>
 			</powermeta>
-			<powermode type="string">standard</powermode>
 			<powers>
 				<holder name="Thomas" owner="true" />
 				<id-00001>
@@ -20267,7 +20322,7 @@
 					<actions>
 						<holder name="Thomas" owner="true" />
 					</actions>
-					<cast type="number">1</cast>
+					<cast type="number">0</cast>
 					<description type="formattedtext">
 						<p>Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action and a possible bonus action.</p>
 						<p>Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.</p>
@@ -20302,7 +20357,7 @@
 							<type type="string">heal</type>
 						</id-00001>
 					</actions>
-					<cast type="number">1</cast>
+					<cast type="number">0</cast>
 					<castingtime type="string">Bonus action</castingtime>
 					<description type="formattedtext">
 						<p>You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.</p>
@@ -20334,7 +20389,7 @@
 							<type type="string">effect</type>
 						</id-00001>
 					</actions>
-					<cast type="number">3</cast>
+					<cast type="number">0</cast>
 					<description type="formattedtext">
 						<p>Starting at 3rd level, the might of your willpower can shield you and help you strike true. As a bonus action on your turn, you can give yourself two benefits: advantage on all attack rolls and resistance to bludgeoning, piercing, and slashing damage. These benefits last until the end of your next turn.</p>
 						<p>You can use this feature three times. You regain all expended uses of it when you finish a short or long rest.</p>
@@ -20351,7 +20406,7 @@
 					<usesperiod type="string">enc</usesperiod>
 				</id-00006>
 			</powers>
-			<profbonus type="number">2</profbonus>
+			<profbonus type="number">3</profbonus>
 			<proficiencylist>
 				<holder name="Thomas" owner="true" />
 				<id-00001>
@@ -20382,7 +20437,7 @@
 					<name type="string">Perception</name>
 					<prof type="number">1</prof>
 					<stat type="string">wisdom</stat>
-					<total type="number">4</total>
+					<total type="number">5</total>
 				</id-00001>
 				<id-00002>
 					<holder name="Thomas" owner="true" />
@@ -20398,7 +20453,7 @@
 					<name type="string">Persuasion</name>
 					<prof type="number">1</prof>
 					<stat type="string">charisma</stat>
-					<total type="number">3</total>
+					<total type="number">4</total>
 				</id-00003>
 				<id-00004>
 					<holder name="Thomas" owner="true" />
@@ -20438,7 +20493,7 @@
 					<name type="string">Acrobatics</name>
 					<prof type="number">1</prof>
 					<stat type="string">dexterity</stat>
-					<total type="number">5</total>
+					<total type="number">6</total>
 				</id-00008>
 				<id-00009>
 					<holder name="Thomas" owner="true" />
@@ -20470,7 +20525,7 @@
 					<name type="string">Insight</name>
 					<prof type="number">1</prof>
 					<stat type="string">wisdom</stat>
-					<total type="number">4</total>
+					<total type="number">5</total>
 				</id-00012>
 				<id-00013>
 					<holder name="Thomas" owner="true" />
@@ -20502,7 +20557,7 @@
 					<name type="string">Stealth</name>
 					<prof type="number">1</prof>
 					<stat type="string">dexterity</stat>
-					<total type="number">5</total>
+					<total type="number">6</total>
 				</id-00016>
 				<id-00017>
 					<holder name="Thomas" owner="true" />
@@ -20526,7 +20581,7 @@
 					<name type="string">Jeweler's Tools</name>
 					<prof type="number">1</prof>
 					<stat type="string">dexterity</stat>
-					<total type="number">5</total>
+					<total type="number">6</total>
 				</id-00019>
 				<id-00020>
 					<holder name="Thomas" owner="true" />
@@ -20534,7 +20589,7 @@
 					<name type="string">Dice Set</name>
 					<prof type="number">1</prof>
 					<stat type="string">dexterity</stat>
-					<total type="number">5</total>
+					<total type="number">6</total>
 				</id-00020>
 			</skilllist>
 			<speed>
@@ -20586,9 +20641,9 @@
 				<holder name="Thomas" owner="true" />
 				<id-00001>
 					<holder name="Thomas" owner="true" />
-					<ammo type="number">3</ammo>
+					<ammo type="number">0</ammo>
 					<attackbonus type="number">0</attackbonus>
-					<carried type="number">2</carried>
+					<carried type="number">1</carried>
 					<damagelist>
 						<holder name="Thomas" owner="true" />
 						<id-00001>
@@ -20638,7 +20693,7 @@
 					<holder name="Thomas" owner="true" />
 					<attackbonus type="number">0</attackbonus>
 					<attackstat type="string">dexterity</attackstat>
-					<carried type="number">2</carried>
+					<carried type="number">1</carried>
 					<damagelist>
 						<holder name="Thomas" owner="true" />
 						<id-00001>
@@ -20663,7 +20718,7 @@
 					<holder name="Thomas" owner="true" />
 					<attackbonus type="number">0</attackbonus>
 					<attackstat type="string">dexterity</attackstat>
-					<carried type="number">2</carried>
+					<carried type="number">1</carried>
 					<damagelist>
 						<holder name="Thomas" owner="true" />
 						<id-00001>
@@ -20675,7 +20730,7 @@
 						</id-00001>
 					</damagelist>
 					<isidentified type="number">1</isidentified>
-					<maxammo type="number">2</maxammo>
+					<maxammo type="number">4</maxammo>
 					<name type="string">Dagger</name>
 					<prof type="number">1</prof>
 					<shortcut type="windowreference">
@@ -20684,6 +20739,79 @@
 					</shortcut>
 					<type type="number">2</type>
 				</id-00004>
+				<id-00005>
+					<holder name="Thomas" owner="true" />
+					<attackbonus type="number">0</attackbonus>
+					<attackstat type="string">dexterity</attackstat>
+					<carried type="number">1</carried>
+					<damagelist>
+						<holder name="Thomas" owner="true" />
+						<id-00001>
+							<holder name="Thomas" owner="true" />
+							<bonus type="number">0</bonus>
+							<dice type="dice">d4</dice>
+							<stat type="string">dexterity</stat>
+							<type type="string">slashing</type>
+						</id-00001>
+					</damagelist>
+					<isidentified type="number">1</isidentified>
+					<maxammo type="number">0</maxammo>
+					<name type="string">Whip</name>
+					<prof type="number">1</prof>
+					<shortcut type="windowreference">
+						<class>item</class>
+						<recordname>....inventorylist.id-00019</recordname>
+					</shortcut>
+					<type type="number">0</type>
+				</id-00005>
+				<id-00006>
+					<holder name="Thomas" owner="true" />
+					<attackbonus type="number">0</attackbonus>
+					<attackstat type="string">dexterity</attackstat>
+					<carried type="number">1</carried>
+					<damagelist>
+						<holder name="Thomas" owner="true" />
+						<id-00001>
+							<holder name="Thomas" owner="true" />
+							<bonus type="number">0</bonus>
+							<dice type="dice">d6</dice>
+							<stat type="string">dexterity</stat>
+							<type type="string">slashing</type>
+						</id-00001>
+					</damagelist>
+					<isidentified type="number">1</isidentified>
+					<maxammo type="number">0</maxammo>
+					<name type="string">Scimitar</name>
+					<prof type="number">1</prof>
+					<shortcut type="windowreference">
+						<class>item</class>
+						<recordname>....inventorylist.id-00020</recordname>
+					</shortcut>
+					<type type="number">0</type>
+				</id-00006>
+				<id-00007>
+					<holder name="Thomas" owner="true" />
+					<attackbonus type="number">0</attackbonus>
+					<carried type="number">1</carried>
+					<damagelist>
+						<holder name="Thomas" owner="true" />
+						<id-00001>
+							<holder name="Thomas" owner="true" />
+							<bonus type="number">0</bonus>
+							<dice type="dice"></dice>
+							<stat type="string">base</stat>
+						</id-00001>
+					</damagelist>
+					<isidentified type="number">1</isidentified>
+					<maxammo type="number">0</maxammo>
+					<name type="string">Net</name>
+					<prof type="number">1</prof>
+					<shortcut type="windowreference">
+						<class>item</class>
+						<recordname>....inventorylist.id-00021</recordname>
+					</shortcut>
+					<type type="number">2</type>
+				</id-00007>
 			</weaponlist>
 		</id-00017>
 		<id-00018>
@@ -30953,7 +31081,7 @@
 				<holder name="Waldbaer" owner="true" />
 				<id-00001>
 					<holder name="Waldbaer" owner="true" />
-					<name type="string">Common </name>
+					<name type="string">Common</name>
 				</id-00001>
 				<id-00002>
 					<holder name="Waldbaer" owner="true" />
@@ -35555,23 +35683,23 @@
 					<public />
 					<charisma>
 						<public />
-						<score type="number">14</score>
+						<score type="number">12</score>
 					</charisma>
 					<constitution>
 						<public />
-						<score type="number">12</score>
+						<score type="number">14</score>
 					</constitution>
 					<dexterity>
 						<public />
-						<score type="number">10</score>
+						<score type="number">17</score>
 					</dexterity>
 					<intelligence>
 						<public />
-						<score type="number">10</score>
+						<score type="number">8</score>
 					</intelligence>
 					<strength>
 						<public />
-						<score type="number">16</score>
+						<score type="number">10</score>
 					</strength>
 					<wisdom>
 						<public />
@@ -35590,169 +35718,9 @@
 				</effects>
 				<friendfoe type="string">friend</friendfoe>
 				<hptemp type="number">0</hptemp>
-				<hptotal type="number">20</hptotal>
-				<init type="number">0</init>
-				<initresult type="number">9</initresult>
-				<innatespells>
-					<public />
-				</innatespells>
-				<lairactions>
-					<public />
-				</lairactions>
-				<legendaryactions>
-					<public />
-				</legendaryactions>
-				<link type="windowreference">
-					<class>charsheet</class>
-					<recordname>charsheet.id-00006</recordname>
-				</link>
-				<name type="string">Charr John</name>
-				<reach type="number">5</reach>
-				<reaction type="number">0</reaction>
-				<reactions>
-					<public />
-				</reactions>
-				<space type="number">5</space>
-				<speed type="string">25</speed>
-				<spells>
-					<public />
-				</spells>
-				<status type="string">Healthy</status>
-				<targets>
-					<public />
-				</targets>
-				<token type="token">portrait_id-00006_token</token>
-				<tokenscale type="number">1</tokenscale>
-				<tokenvis type="number">1</tokenvis>
-				<traits>
-					<public />
-				</traits>
-				<wounds type="number">0</wounds>
-			</id-00001>
-			<id-00002>
-				<public />
-				<abilities>
-					<public />
-					<charisma>
-						<public />
-						<score type="number">17</score>
-					</charisma>
-					<constitution>
-						<public />
-						<score type="number">14</score>
-					</constitution>
-					<dexterity>
-						<public />
-						<score type="number">11</score>
-					</dexterity>
-					<intelligence>
-						<public />
-						<score type="number">9</score>
-					</intelligence>
-					<strength>
-						<public />
-						<score type="number">17</score>
-					</strength>
-					<wisdom>
-						<public />
-						<score type="number">11</score>
-					</wisdom>
-				</abilities>
-				<ac type="number">16</ac>
-				<actions>
-					<public />
-				</actions>
-				<active type="number">0</active>
-				<deathsavefail type="number">0</deathsavefail>
-				<deathsavesuccess type="number">0</deathsavesuccess>
-				<effects>
-					<public />
-				</effects>
-				<friendfoe type="string">friend</friendfoe>
-				<hptemp type="number">0</hptemp>
-				<hptotal type="number">28</hptotal>
-				<init type="number">0</init>
-				<initresult type="number">13</initresult>
-				<innatespells>
-					<public />
-				</innatespells>
-				<lairactions>
-					<public />
-				</lairactions>
-				<legendaryactions>
-					<public />
-				</legendaryactions>
-				<link type="windowreference">
-					<class>charsheet</class>
-					<recordname>charsheet.id-00025</recordname>
-				</link>
-				<name type="string">Ander Goodbarrel</name>
-				<reach type="number">5</reach>
-				<reaction type="number">0</reaction>
-				<reactions>
-					<public />
-				</reactions>
-				<space type="number">5</space>
-				<speed type="string">30</speed>
-				<spells>
-					<public />
-				</spells>
-				<status type="string">Wounded</status>
-				<targets>
-					<public />
-				</targets>
-				<token type="token">portrait_id-00025_token</token>
-				<tokenscale type="number">1</tokenscale>
-				<tokenvis type="number">1</tokenvis>
-				<traits>
-					<public />
-				</traits>
-				<wounds type="number">11</wounds>
-			</id-00002>
-			<id-00006>
-				<public />
-				<abilities>
-					<public />
-					<charisma>
-						<public />
-						<score type="number">10</score>
-					</charisma>
-					<constitution>
-						<public />
-						<score type="number">14</score>
-					</constitution>
-					<dexterity>
-						<public />
-						<score type="number">17</score>
-					</dexterity>
-					<intelligence>
-						<public />
-						<score type="number">13</score>
-					</intelligence>
-					<strength>
-						<public />
-						<score type="number">8</score>
-					</strength>
-					<wisdom>
-						<public />
-						<score type="number">13</score>
-					</wisdom>
-				</abilities>
-				<ac type="number">15</ac>
-				<actions>
-					<public />
-				</actions>
-				<active type="number">0</active>
-				<deathsavefail type="number">0</deathsavefail>
-				<deathsavesuccess type="number">0</deathsavesuccess>
-				<effects>
-					<public />
-				</effects>
-				<friendfoe type="string">friend</friendfoe>
-				<hptemp type="number">0</hptemp>
-				<hptotal type="number">24</hptotal>
+				<hptotal type="number">44</hptotal>
 				<init type="number">3</init>
-				<initresult type="number">22</initresult>
+				<initresult type="number">0</initresult>
 				<innatespells>
 					<public />
 				</innatespells>
@@ -35764,9 +35732,9 @@
 				</legendaryactions>
 				<link type="windowreference">
 					<class>charsheet</class>
-					<recordname>charsheet.id-00027</recordname>
+					<recordname>charsheet.id-00017</recordname>
 				</link>
-				<name type="string">Dragon</name>
+				<name type="string">Barda</name>
 				<reach type="number">5</reach>
 				<reaction type="number">0</reaction>
 				<reactions>
@@ -35778,108 +35746,16 @@
 					<public />
 				</spells>
 				<status type="string">Healthy</status>
-				<targets>
-					<public />
-				</targets>
-				<token type="token">portrait_id-00027_token</token>
+				<token type="token">portrait_id-00017_token</token>
 				<tokenscale type="number">1</tokenscale>
-				<tokenvis type="number">1</tokenvis>
+				<tokenvis type="number">0</tokenvis>
 				<traits>
 					<public />
 				</traits>
 				<wounds type="number">0</wounds>
-			</id-00006>
-			<id-00020>
-				<public />
-				<abilities>
-					<public />
-					<charisma>
-						<public />
-						<score type="number">13</score>
-					</charisma>
-					<constitution>
-						<public />
-						<score type="number">15</score>
-					</constitution>
-					<dexterity>
-						<public />
-						<score type="number">14</score>
-					</dexterity>
-					<intelligence>
-						<public />
-						<score type="number">9</score>
-					</intelligence>
-					<strength>
-						<public />
-						<score type="number">18</score>
-					</strength>
-					<wisdom>
-						<public />
-						<score type="number">11</score>
-					</wisdom>
-				</abilities>
-				<ac type="number">14</ac>
-				<actions>
-					<public />
-				</actions>
-				<active type="number">1</active>
-				<deathsavefail type="number">0</deathsavefail>
-				<deathsavesuccess type="number">0</deathsavesuccess>
-				<effects>
-					<public />
-					<id-00005>
-						<public />
-						<holder name="EatAtJoesProNobis" owner="true" />
-						<duration type="number">2</duration>
-						<init type="number">9</init>
-						<isactive type="number">1</isactive>
-						<isgmonly type="number">0</isgmonly>
-						<label type="string">Rage; ADVCHK: strength; ADVSAV: strength; DMG: 2 melee; RESIST: bludgeoning,piercing,slashing</label>
-					</id-00005>
-				</effects>
-				<friendfoe type="string">friend</friendfoe>
-				<hptemp type="number">0</hptemp>
-				<hptotal type="number">41</hptotal>
-				<init type="number">2</init>
-				<initresult type="number">5</initresult>
-				<innatespells>
-					<public />
-				</innatespells>
-				<lairactions>
-					<public />
-				</lairactions>
-				<legendaryactions>
-					<public />
-				</legendaryactions>
-				<link type="windowreference">
-					<class>charsheet</class>
-					<recordname>charsheet.id-00021</recordname>
-				</link>
-				<name type="string">Thorhex Skullsplitter</name>
-				<reach type="number">5</reach>
-				<reaction type="number">0</reaction>
-				<reactions>
-					<public />
-				</reactions>
-				<space type="number">5</space>
-				<speed type="string">30</speed>
-				<spells>
-					<public />
-				</spells>
-				<status type="string">Wounded</status>
-				<targets>
-					<public />
-				</targets>
-				<token type="token">portrait_id-00021_token</token>
-				<tokenscale type="number">1</tokenscale>
-				<tokenvis type="number">1</tokenvis>
-				<traits>
-					<public />
-				</traits>
-				<wounds type="number">8</wounds>
-			</id-00020>
+			</id-00001>
 		</list>
-		<round type="number">12</round>
+		<round type="number">1</round>
 	</combattracker>
 	<effects>
 		<public />
@@ -35931,6 +35807,18 @@
 				</linklist>
 			</text>
 		</id-00070>
+		<id-00071>
+			<name type="string">[RESULT] Random - Encounter</name>
+			<text type="formattedtext">
+				<h>RESULT</h>
+				<linklist>
+					<link class="npc" recordname="npc.id-00261@ProNobis - Random Encounter">Hippogriff</link>
+					<link class="npc" recordname="npc.id-00293@ProNobis - Random Encounter">Swarm of Insects</link>
+					<link class="npc" recordname="npc.id-00230@ProNobis - Random Encounter">Hobgoblin</link>
+					<link class="npc" recordname="npc.id-00070@ProNobis - Random Encounter">Panther</link>
+				</linklist>
+			</text>
+		</id-00071>
 		<category name="06,05" baseicon="0" decalicon="0">
 			<id-00027>
 				<name type="string">06,05 Forest Lair Treasure Chamber 2</name>
@@ -40927,7 +40815,7 @@
 						<endx>910</endx>
 						<endy>306</endy>
 						<owner></owner>
-						<color>ff</color>
+						<color>2a0070</color>
 					</pointer>
 					<pointer>
 						<id>2</id>
@@ -40937,7 +40825,7 @@
 						<endx>982</endx>
 						<endy>314</endy>
 						<owner></owner>
-						<color>ff</color>
+						<color>2a0070</color>
 					</pointer>
 					<pointer>
 						<id>3</id>
@@ -40947,7 +40835,7 @@
 						<endx>958</endx>
 						<endy>274</endy>
 						<owner></owner>
-						<color>ff</color>
+						<color>2a0070</color>
 					</pointer>
 					<pointer>
 						<id>0</id>
@@ -43076,17 +42964,17 @@
 				<ac type="number">18</ac>
 				<chabonus type="number">1</chabonus>
 				<charisma type="number">12</charisma>
-				<classlevel type="string">Fighter 4</classlevel>
+				<classlevel type="string">Fighter 5</classlevel>
 				<conbonus type="number">2</conbonus>
 				<constitution type="number">14</constitution>
 				<dexbonus type="number">3</dexbonus>
 				<dexterity type="number">17</dexterity>
-				<exp type="number">20</exp>
-				<expneeded type="number">500</expneeded>
-				<hd type="number">4</hd>
+				<exp type="number">500</exp>
+				<expneeded type="number">600</expneeded>
+				<hd type="number">5</hd>
 				<hdused type="number">0</hdused>
 				<hptemp type="number">0</hptemp>
-				<hptotal type="number">36</hptotal>
+				<hptotal type="number">44</hptotal>
 				<intbonus type="number">-1</intbonus>
 				<intelligence type="number">8</intelligence>
 				<link type="windowreference">
@@ -43094,7 +42982,7 @@
 					<recordname>charsheet.id-00017</recordname>
 				</link>
 				<name type="string">Barda</name>
-				<perception type="number">14</perception>
+				<perception type="number">15</perception>
 				<race type="string">Wood Elf</race>
 				<senses type="string">Darkvision 60</senses>
 				<strbonus type="number">0</strbonus>
@@ -43104,7 +42992,7 @@
 				<watchid type="number">0</watchid>
 				<wisbonus type="number">2</wisbonus>
 				<wisdom type="number">14</wisdom>
-				<wounds type="number">9</wounds>
+				<wounds type="number">0</wounds>
 			</id-00006>
 		</partyinformation>
 		<quests>
