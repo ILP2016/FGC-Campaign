@@ -10597,7 +10597,7 @@
 					<holder name="Madman" owner="true" />
 					<level type="number">2</level>
 					<locked type="number">0</locked>
-					<name type="string">Eldritch Invocations [Armor of Shadows, Agonizing Blast] </name>
+					<name type="string">Eldritch Invocations [Armor of Shadows, Agonizing Blast]</name>
 					<source type="string">Warlock</source>
 					<specializationchoice type="number">0</specializationchoice>
 					<text type="formattedtext">
@@ -11567,7 +11567,7 @@
 				<id-00001>
 					<holder name="Madman" owner="true" />
 					<locked type="number">0</locked>
-					<name type="string">Draconic Ancestry - [Gold] </name>
+					<name type="string">Draconic Ancestry - [Gold]</name>
 					<source type="string">Dragonborn</source>
 					<text type="formattedtext">
 						<p>You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.</p>
@@ -40483,7 +40483,7 @@
 			</inventorylist>
 			<languagelist>
 				<id-00001>
-					<name type="string">Common </name>
+					<name type="string">Common</name>
 				</id-00001>
 				<id-00002>
 					<name type="string">Primordial</name>
@@ -42963,7 +42963,7 @@
 				</linklist>
 				<frame>; Lots of spiderwebs.; Orc bones.; A spiderweb big enough to hold an child with finger thick web strands.; A mumified orc caught in a spiderweb.</frame>
 				<linklist>
-					<link class="storytemplate" recordname="storytemplate.id-00150@ProNobis-WorldCreation">Spifier </link>
+					<link class="storytemplate" recordname="storytemplate.id-00150@ProNobis-WorldCreation">Spifier</link>
 				</linklist>
 				<frame>Forshadowing - Spifier; ;</frame>
 				<h>Possible Next Elements</h>
@@ -47988,7 +47988,7 @@
 						<endx>910</endx>
 						<endy>306</endy>
 						<owner></owner>
-						<color>2a0070</color>
+						<color>ff</color>
 					</pointer>
 					<pointer>
 						<id>2</id>
@@ -47998,7 +47998,7 @@
 						<endx>982</endx>
 						<endy>314</endy>
 						<owner></owner>
-						<color>2a0070</color>
+						<color>ff</color>
 					</pointer>
 					<pointer>
 						<id>3</id>
@@ -48008,7 +48008,7 @@
 						<endx>958</endx>
 						<endy>274</endy>
 						<owner></owner>
-						<color>2a0070</color>
+						<color>ff</color>
 					</pointer>
 					<pointer>
 						<id>0</id>
