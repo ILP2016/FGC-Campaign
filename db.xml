@@ -271,13 +271,6 @@
 	<background>
 	</background>
 	<battle>
-		<id-00007>
-			<exp type="number">0</exp>
-			<locked type="number">1</locked>
-			<name type="string">A01-06 Random Encounter</name>
-			<npclist>
-			</npclist>
-		</id-00007>
 		<id-00053>
 			<cr type="string">3</cr>
 			<exp type="number">700</exp>
@@ -305,6 +298,727 @@
 			</npclist>
 		</id-00053>
 		<category name="06,05" baseicon="0" decalicon="0">
+			<id-00002>
+				<cr type="string">2</cr>
+				<exp type="number">400</exp>
+				<name type="string">Pumpkin Patch</name>
+				<npclist>
+					<id-00001>
+						<count type="number">4</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00007</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>image.id-00126.image@Incarnate-Penolia</recordname>
+								</imageref>
+								<imagex type="number">1014</imagex>
+								<imagey type="number">1150</imagey>
+							</id-00001>
+							<id-00002>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>image.id-00126.image@Incarnate-Penolia</recordname>
+								</imageref>
+								<imagex type="number">985</imagex>
+								<imagey type="number">1188</imagey>
+							</id-00002>
+							<id-00003>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>image.id-00126.image@Incarnate-Penolia</recordname>
+								</imageref>
+								<imagex type="number">900</imagex>
+								<imagey type="number">1154</imagey>
+							</id-00003>
+							<id-00004>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>image.id-00126.image@Incarnate-Penolia</recordname>
+								</imageref>
+								<imagex type="number">950</imagex>
+								<imagey type="number">1166</imagey>
+							</id-00004>
+						</maplink>
+						<name type="string">Mr. Pumpkin</name>
+						<token type="token">tokens/Medium/p.png@Letter Tokens</token>
+					</id-00001>
+				</npclist>
+			</id-00002>
+			<id-00003>
+				<cr type="string">2</cr>
+				<exp type="number">230</exp>
+				<name type="string">Pumpkin Patch 2</name>
+				<npclist>
+					<id-00001>
+						<count type="number">3</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00286@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>image.id-00126.image@Incarnate-Penolia</recordname>
+								</imageref>
+								<imagex type="number">1105</imagex>
+								<imagey type="number">1369</imagey>
+							</id-00001>
+							<id-00002>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>image.id-00126.image@Incarnate-Penolia</recordname>
+								</imageref>
+								<imagex type="number">1133</imagex>
+								<imagey type="number">1410</imagey>
+							</id-00002>
+							<id-00003>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>image.id-00126.image@Incarnate-Penolia</recordname>
+								</imageref>
+								<imagex type="number">1144</imagex>
+								<imagey type="number">1356</imagey>
+							</id-00003>
+						</maplink>
+						<name type="string">Awakened Shrub</name>
+						<token type="token">tokens/A.png@DD5E SRD Bestiary</token>
+					</id-00001>
+					<id-00002>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00007</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>image.id-00126.image@Incarnate-Penolia</recordname>
+								</imageref>
+								<imagex type="number">1067</imagex>
+								<imagey type="number">1406</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Mr. Pumpkin</name>
+						<token type="token">tokens/Medium/p.png@Letter Tokens</token>
+					</id-00002>
+				</npclist>
+			</id-00003>
+			<id-00004>
+				<cr type="string">1</cr>
+				<exp type="number">200</exp>
+				<name type="string">[RESULT] Cavern - True Random Encounter</name>
+				<npclist>
+					<id-00001>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00289@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Shrieker</name>
+						<token type="token">tokens/S.png@DD5E SRD Bestiary</token>
+					</id-00001>
+					<id-00002>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00039@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Giant Fire Beetle</name>
+						<token type="token">tokens/G.png@DD5E SRD Bestiary</token>
+					</id-00002>
+					<id-00003>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00289@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Shrieker</name>
+						<token type="token">tokens/S.png@DD5E SRD Bestiary</token>
+					</id-00003>
+					<id-00004>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00039@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Giant Fire Beetle</name>
+						<token type="token">tokens/G.png@DD5E SRD Bestiary</token>
+					</id-00004>
+					<id-00005>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00039@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Giant Fire Beetle</name>
+						<token type="token">tokens/G.png@DD5E SRD Bestiary</token>
+					</id-00005>
+					<id-00006>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00064@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Lizard</name>
+						<token type="token">tokens/L.png@DD5E SRD Bestiary</token>
+					</id-00006>
+					<id-00007>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00039@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Giant Fire Beetle</name>
+						<token type="token">tokens/G.png@DD5E SRD Bestiary</token>
+					</id-00007>
+					<id-00008>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00010@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Bat</name>
+						<token type="token">tokens/B.png@DD5E SRD Bestiary</token>
+					</id-00008>
+					<id-00009>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00289@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Shrieker</name>
+						<token type="token">tokens/S.png@DD5E SRD Bestiary</token>
+					</id-00009>
+					<id-00010>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00064@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Lizard</name>
+						<token type="token">tokens/L.png@DD5E SRD Bestiary</token>
+					</id-00010>
+					<id-00011>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00010@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Bat</name>
+						<token type="token">tokens/B.png@DD5E SRD Bestiary</token>
+					</id-00011>
+					<id-00012>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00039@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Giant Fire Beetle</name>
+						<token type="token">tokens/G.png@DD5E SRD Bestiary</token>
+					</id-00012>
+					<id-00013>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00289@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Shrieker</name>
+						<token type="token">tokens/S.png@DD5E SRD Bestiary</token>
+					</id-00013>
+					<id-00014>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00289@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Shrieker</name>
+						<token type="token">tokens/S.png@DD5E SRD Bestiary</token>
+					</id-00014>
+					<id-00015>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00289@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Shrieker</name>
+						<token type="token">tokens/S.png@DD5E SRD Bestiary</token>
+					</id-00015>
+					<id-00016>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00064@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Lizard</name>
+						<token type="token">tokens/L.png@DD5E SRD Bestiary</token>
+					</id-00016>
+					<id-00017>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00039@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Giant Fire Beetle</name>
+						<token type="token">tokens/G.png@DD5E SRD Bestiary</token>
+					</id-00017>
+					<id-00018>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00039@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Giant Fire Beetle</name>
+						<token type="token">tokens/G.png@DD5E SRD Bestiary</token>
+					</id-00018>
+					<id-00019>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00039@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Giant Fire Beetle</name>
+						<token type="token">tokens/G.png@DD5E SRD Bestiary</token>
+					</id-00019>
+					<id-00020>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00064@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Lizard</name>
+						<token type="token">tokens/L.png@DD5E SRD Bestiary</token>
+					</id-00020>
+				</npclist>
+			</id-00004>
+			<id-00005>
+				<cr type="string">1</cr>
+				<exp type="number">200</exp>
+				<name type="string">Crystal Elf - Dungeon - Random - Encounter - True Random</name>
+				<npclist>
+					<id-00001>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00251@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Darkmantle</name>
+						<token type="token">tokens/D.png@DD5E SRD Bestiary</token>
+					</id-00001>
+					<id-00002>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00230@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Hobgoblin</name>
+						<token type="token">tokens/H.png@DD5E SRD Bestiary</token>
+					</id-00002>
+				</npclist>
+			</id-00005>
+			<id-00006>
+				<cr type="string">2</cr>
+				<exp type="number">225</exp>
+				<name type="string">Dwarven Ruin - Cavern - True Random Encounter</name>
+				<npclist>
+					<id-00001>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00085@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Stirge</name>
+						<token type="token">tokens/S.png@DD5E SRD Bestiary</token>
+					</id-00001>
+					<id-00002>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00238@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>image.id-00134.image@Incarnate-Penolia</recordname>
+								</imageref>
+								<imagex type="number">781</imagex>
+								<imagey type="number">991</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Kobold</name>
+						<token type="token">tokens/kobold.png@DD5E SRD Bestiary</token>
+					</id-00002>
+					<id-00003>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00222@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Tribal Warrior</name>
+						<token type="token">tokens/tribalwarrior.png@DD5E SRD Bestiary</token>
+					</id-00003>
+					<id-00004>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00085@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Stirge</name>
+						<token type="token">tokens/S.png@DD5E SRD Bestiary</token>
+					</id-00004>
+					<id-00005>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00222@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Tribal Warrior</name>
+						<token type="token">tokens/tribalwarrior.png@DD5E SRD Bestiary</token>
+					</id-00005>
+					<id-00006>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00085@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Stirge</name>
+						<token type="token">tokens/S.png@DD5E SRD Bestiary</token>
+					</id-00006>
+					<id-00007>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00238@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class>imagewindow</class>
+									<recordname>image.id-00134.image@Incarnate-Penolia</recordname>
+								</imageref>
+								<imagex type="number">811</imagex>
+								<imagey type="number">991</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Kobold</name>
+						<token type="token">tokens/kobold.png@DD5E SRD Bestiary</token>
+					</id-00007>
+					<id-00008>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00085@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Stirge</name>
+						<token type="token">tokens/S.png@DD5E SRD Bestiary</token>
+					</id-00008>
+					<id-00009>
+						<count type="number">1</count>
+						<link type="windowreference">
+							<class>npc</class>
+							<recordname>npc.id-00085@ProNobis - Random Encounter</recordname>
+						</link>
+						<maplink>
+							<id-00001>
+								<imageref type="windowreference">
+									<class></class>
+									<recordname></recordname>
+								</imageref>
+								<imagex type="number">0</imagex>
+								<imagey type="number">0</imagey>
+							</id-00001>
+						</maplink>
+						<name type="string">Stirge</name>
+						<token type="token">tokens/S.png@DD5E SRD Bestiary</token>
+					</id-00009>
+				</npclist>
+			</id-00006>
 			<id-00052>
 				<cr type="string">5</cr>
 				<exp type="number">1400</exp>
@@ -5038,7 +5752,7 @@
 				<id-00008>
 					<holder name="jtron" owner="true" />
 					<attackbonus type="number">0</attackbonus>
-					<carried type="number">2</carried>
+					<carried type="number">1</carried>
 					<damagelist>
 						<holder name="jtron" owner="true" />
 						<id-00001>
@@ -5062,7 +5776,7 @@
 				<id-00009>
 					<holder name="jtron" owner="true" />
 					<attackbonus type="number">0</attackbonus>
-					<carried type="number">2</carried>
+					<carried type="number">1</carried>
 					<damagelist>
 						<holder name="jtron" owner="true" />
 						<id-00001>
@@ -27374,7 +28088,7 @@
 				<constitution>
 					<holder name="EatAtJoesProNobis" owner="true" />
 					<bonus type="number">2</bonus>
-					<save type="number">4</save>
+					<save type="number">5</save>
 					<savemodifier type="number">0</savemodifier>
 					<saveprof type="number">1</saveprof>
 					<score type="number">15</score>
@@ -27398,7 +28112,7 @@
 				<strength>
 					<holder name="EatAtJoesProNobis" owner="true" />
 					<bonus type="number">4</bonus>
-					<save type="number">6</save>
+					<save type="number">7</save>
 					<savemodifier type="number">0</savemodifier>
 					<saveprof type="number">1</saveprof>
 					<score type="number">18</score>
@@ -27437,7 +28151,7 @@
 					<casterpactmagic type="number">0</casterpactmagic>
 					<hddie type="dice">d12</hddie>
 					<hdused type="number">1</hdused>
-					<level type="number">4</level>
+					<level type="number">5</level>
 					<name type="string">Barbarian</name>
 					<shortcut type="windowreference">
 						<class>reference_class</class>
@@ -27498,7 +28212,7 @@
 				<max type="number">270</max>
 			</encumbrance>
 			<exp type="number">525</exp>
-			<expneeded type="number">500</expneeded>
+			<expneeded type="number">600</expneeded>
 			<featlist>
 				<holder name="EatAtJoesProNobis" owner="true" />
 			</featlist>
@@ -27532,6 +28246,26 @@
 						<p>While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.</p>
 					</text>
 				</id-00002>
+				<id-00003>
+					<holder name="EatAtJoesProNobis" owner="true" />
+					<level type="number">5</level>
+					<locked type="number">1</locked>
+					<name type="string">Extra Attack</name>
+					<source type="string">Barbarian</source>
+					<text type="formattedtext">
+						<p>Beginning at 5th level, you can attack one extra time whenever you take the Attack action on your turn.</p>
+					</text>
+				</id-00003>
+				<id-00004>
+					<holder name="EatAtJoesProNobis" owner="true" />
+					<level type="number">5</level>
+					<locked type="number">1</locked>
+					<name type="string">Fast Movement</name>
+					<source type="string">Barbarian</source>
+					<text type="formattedtext">
+						<p>Starting at 5th level, your speed increases by 10 feet while you aren't wearing heavy armor.</p>
+					</text>
+				</id-00004>
 				<id-00006>
 					<holder name="EatAtJoesProNobis" owner="true" />
 					<level type="number">2</level>
@@ -27601,7 +28335,7 @@
 				<deathsavesuccess type="number">0</deathsavesuccess>
 				<hdmod type="number">0</hdmod>
 				<temporary type="number">0</temporary>
-				<total type="number">41</total>
+				<total type="number">50</total>
 				<wounds type="number">8</wounds>
 			</hp>
 			<ideals type="string">Independence. When people follow orders blindly, they embrace a kind of tyranny. (Chaotic)</ideals>
@@ -27885,7 +28619,7 @@
 					<name type="string">Dwarvish</name>
 				</id-00003>
 			</languagelist>
-			<level type="number">4</level>
+			<level type="number">5</level>
 			<name type="string">Thorhex Skullsplitter</name>
 			<perception type="number">10</perception>
 			<perceptionmodifier type="number">0</perceptionmodifier>
@@ -28149,7 +28883,7 @@
 					<source type="string">Barbarian</source>
 				</id-00012>
 			</powers>
-			<profbonus type="number">2</profbonus>
+			<profbonus type="number">3</profbonus>
 			<proficiencylist>
 				<holder name="EatAtJoesProNobis" owner="true" />
 				<id-00001>
@@ -38199,6 +38933,1402 @@
 			</weaponlist>
 			<weight type="string">155 lbs.</weight>
 		</id-00028>
+		<id-00029>
+			<holder name="Heavy" owner="true" />
+			<abilities>
+				<holder name="Heavy" owner="true" />
+				<charisma>
+					<holder name="Heavy" owner="true" />
+					<bonus type="number">-1</bonus>
+					<save type="number">1</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">1</saveprof>
+					<score type="number">8</score>
+				</charisma>
+				<constitution>
+					<holder name="Heavy" owner="true" />
+					<bonus type="number">2</bonus>
+					<save type="number">2</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">15</score>
+				</constitution>
+				<dexterity>
+					<holder name="Heavy" owner="true" />
+					<bonus type="number">3</bonus>
+					<save type="number">3</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">16</score>
+				</dexterity>
+				<intelligence>
+					<holder name="Heavy" owner="true" />
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</intelligence>
+				<strength>
+					<holder name="Heavy" owner="true" />
+					<bonus type="number">-1</bonus>
+					<save type="number">-1</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">8</score>
+				</strength>
+				<wisdom>
+					<holder name="Heavy" owner="true" />
+					<bonus type="number">3</bonus>
+					<save type="number">5</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">1</saveprof>
+					<score type="number">16</score>
+				</wisdom>
+			</abilities>
+			<adventurelist>
+				<holder name="Heavy" owner="true" />
+				<id-00001>
+					<holder name="Heavy" owner="true" />
+					<name type="string">Doris my gnome adventuring partner and myslef wandered through a burned area to the North, while trying to aviod more dangerous areas the townsfolk had warned us of.  We ran into a pumpkin garden thats water fed from a foul magic well, animating the vines to violence.  So we looked for other options when a second pumpkin patch appeared before us.  A painting cursed Doris with greater size inside the well hidden opening we wander through.  We found a talking mouse in very small but spacious temple, thinking the mouse possessed by evil we attacked.  We settled matters peacefully, but Doris was left ina tiny state.  In the second mound we entered we quickly stold a magic axe from a trapped chest from under a kobold gos's statue.  Doris attuned to the axe to discover its power.  It was unfortunately a cursed berzerker's axe...</name>
+				</id-00001>
+			</adventurelist>
+			<age type="string">29</age>
+			<alignment type="string">Neutral Good</alignment>
+			<background type="string">Acolyte</background>
+			<backgroundlink type="windowreference">
+				<class>reference_background</class>
+				<recordname>reference.backgrounddata.acolyte@DD5E SRD Data</recordname>
+			</backgroundlink>
+			<bonds type="string">Everything I do is for the common people.</bonds>
+			<classes>
+				<holder name="Heavy" owner="true" />
+				<id-00001>
+					<holder name="Heavy" owner="true" />
+					<casterlevelinvmult type="number">1</casterlevelinvmult>
+					<casterpactmagic type="number">0</casterpactmagic>
+					<hddie type="dice">d8</hddie>
+					<hdused type="number">0</hdused>
+					<level type="number">3</level>
+					<name type="string">Cleric</name>
+					<shortcut type="windowreference">
+						<class>reference_class</class>
+						<recordname>reference.classdata.cleric@DD5E SRD Data</recordname>
+					</shortcut>
+				</id-00001>
+			</classes>
+			<coins>
+				<holder name="Heavy" owner="true" />
+				<slot1>
+					<holder name="Heavy" owner="true" />
+					<amount type="number">31</amount>
+					<name type="string">GP</name>
+				</slot1>
+				<slot2>
+					<holder name="Heavy" owner="true" />
+					<amount type="number">0</amount>
+				</slot2>
+				<slot3>
+					<holder name="Heavy" owner="true" />
+					<amount type="number">38</amount>
+					<name type="string">SP</name>
+				</slot3>
+				<slot4>
+					<holder name="Heavy" owner="true" />
+					<amount type="number">0</amount>
+				</slot4>
+				<slot5>
+					<holder name="Heavy" owner="true" />
+					<amount type="number">20</amount>
+					<name type="string">CP</name>
+				</slot5>
+				<slot6>
+					<holder name="Heavy" owner="true" />
+					<amount type="number">0</amount>
+				</slot6>
+			</coins>
+			<defenses>
+				<holder name="Heavy" owner="true" />
+				<ac>
+					<holder name="Heavy" owner="true" />
+					<armor type="number">4</armor>
+					<dexbonus type="string">max2</dexbonus>
+					<disstealth type="number">1</disstealth>
+					<misc type="number">0</misc>
+					<prof type="number">1</prof>
+					<shield type="number">2</shield>
+					<temporary type="number">0</temporary>
+					<total type="number">18</total>
+				</ac>
+			</defenses>
+			<deity type="string">Yondalla</deity>
+			<encumbrance>
+				<holder name="Heavy" owner="true" />
+				<encumbered type="number">40</encumbered>
+				<encumberedheavy type="number">80</encumberedheavy>
+				<liftpushdrag type="number">240</liftpushdrag>
+				<load type="number">115.5</load>
+				<max type="number">120</max>
+			</encumbrance>
+			<exp type="number">360</exp>
+			<expneeded type="number">400</expneeded>
+			<featlist>
+				<holder name="Heavy" owner="true" />
+			</featlist>
+			<featurelist>
+				<holder name="Heavy" owner="true" />
+				<id-00001>
+					<holder name="Heavy" owner="true" />
+					<locked type="number">1</locked>
+					<name type="string">Shelter of the Faithful</name>
+					<source type="string">Acolyte</source>
+					<text type="formattedtext">
+						<p>As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. You and your adventuring companions can expect to receive free healing and care at a temple, shrine, or other established presence of your faith, though you must provide any material components needed for spells. Those who share your religion will support you (but only you) at a modest lifestyle.</p>
+						<p>You might also have ties to a specific temple dedicated to your chosen deity or pantheon, and you have a residence there. This could be the temple where you used to serve, if you remain on good terms with it, or a temple where you have found a new home. While near your temple, you can call upon the priests for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple.</p>
+					</text>
+				</id-00001>
+				<id-00002>
+					<holder name="Heavy" owner="true" />
+					<level type="number">1</level>
+					<locked type="number">1</locked>
+					<name type="string">Life Domain</name>
+					<source type="string">Cleric</source>
+					<text type="formattedtext">
+						<p>The Life domain focuses on the vibrant positive energy-one of the fundamental forces of the universe-that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, Arawai, and Demeter), sun gods (such as Lathander, Pelor, and Re-Horakhty), gods of healing or endurance (such as Ilmater, Mishakal, Apollo, and Diancecht), and gods of home and community (such as Hestia, Hathor, and Boldrei).</p>
+						<h>Life Domain Spells</h>
+						<p><b>Cleric Level - Spell</b></p>
+						<linklist>
+							<link class="reference_spell" recordname="reference.spelldata.bless@DD5E SRD Data"><b>Spell: </b></link>1st - Bless</linklist>
+							<link class="reference_spell" recordname="reference.spelldata.curewounds@DD5E SRD Data"><b>Spell: </b></link>1st - Cure Wounds
+							<link class="reference_spell" recordname="reference.spelldata.lesserrestoration@DD5E SRD Data"><b>Spell: </b></link>3rd - Lesser Restoration
+							<link class="reference_spell" recordname="reference.spelldata.spiritualweapon@DD5E SRD Data"><b>Spell: </b></link>3rd - Spiritual Weapon
+							<link class="reference_spell" recordname="reference.spelldata.beaconofhope@DD5E SRD Data"><b>Spell: </b></link>5th - Beacon of Hope
+							<link class="reference_spell" recordname="reference.spelldata.revivify@DD5E SRD Data"><b>Spell: </b></link>5th - Revivify
+							<link class="reference_spell" recordname="reference.spelldata.deathward@DD5E SRD Data"><b>Spell: </b></link>7th - Death Ward
+							<link class="reference_spell" recordname="reference.spelldata.guardianoffaith@DD5E SRD Data"><b>Spell: </b></link>7th - Guardian of Faith
+							<link class="reference_spell" recordname="reference.spelldata.masscurewounds@DD5E SRD Data"><b>Spell: </b></link>9th - Mass Cure Wounds
+							<link class="reference_spell" recordname="reference.spelldata.raisedead@DD5E SRD Data"><b>Spell: </b></link>9th - Raise Dead
+						<h>Features</h>
+						<linklist>
+							<link class="reference_classfeature" recordname="reference.classdata.cleric.features.bonusproficiency_life_1@DD5E SRD Data">Bonus Proficiency (Life)</link>
+							<link class="reference_classfeature" recordname="reference.classdata.cleric.features.discipleoflife1@DD5E SRD Data">Disciple of Life</link>
+							<link class="reference_classfeature" recordname="reference.classdata.cleric.features.channeldivinity_preservelife2@DD5E SRD Data"><b>Channel Divinity: </b></link>Preserve Life</linklist>
+							<link class="reference_classfeature" recordname="reference.classdata.cleric.features.blessedhealer6@DD5E SRD Data">Blessed Healer</link>
+							<link class="reference_classfeature" recordname="reference.classdata.cleric.features.divinestrike8@DD5E SRD Data">Divine Strike</link>
+							<link class="reference_classfeature" recordname="reference.classdata.cleric.features.supremehealing17@DD5E SRD Data">Supreme Healing</link>
+					</text>
+				</id-00002>
+				<id-00003>
+					<holder name="Heavy" owner="true" />
+					<level type="number">1</level>
+					<locked type="number">1</locked>
+					<name type="string">Bonus Proficiency (Life)</name>
+					<source type="string">Cleric</source>
+					<specialization type="string">Life Domain</specialization>
+					<text type="formattedtext">
+						<p>When you choose this domain at 1st level, you gain proficiency with heavy armor.</p>
+					</text>
+				</id-00003>
+				<id-00004>
+					<holder name="Heavy" owner="true" />
+					<level type="number">1</level>
+					<locked type="number">1</locked>
+					<name type="string">Disciple of Life</name>
+					<source type="string">Cleric</source>
+					<specialization type="string">Life Domain</specialization>
+					<text type="formattedtext">
+						<p>Also starting at 1st level, your healing spells are more effective. Whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell's level.</p>
+					</text>
+				</id-00004>
+				<id-00005>
+					<holder name="Heavy" owner="true" />
+					<level type="number">1</level>
+					<locked type="number">1</locked>
+					<name type="string">Spellcasting</name>
+					<source type="string">Cleric</source>
+					<text type="formattedtext">
+						<p>As a conduit for divine power, you can cast cleric spells.</p>
+						<linklist>
+							<link class="reference_colindex" recordname="reference.spelllists.cleric@DD5E SRD Data">Cleric Spells</link>
+						</linklist>
+						<p><b>Cantrips</b></p>
+						<p>At 1st level, you know three cantrips of your choice from the cleric spell list. You learn additional cleric cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Cleric table.</p>
+						<p><b>Preparing and Casting Spells</b></p>
+						<p>The Cleric table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.</p>
+						<p>You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots.</p>
+						<p>For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells</p>
+						<p>of 1st or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.</p>
+						<p>You can change your list of prepared spells when you finish a long rest. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.</p>
+						<p><b>Spellcasting Ability</b></p>
+						<p>Wisdom is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your Wisdom whenever a cleric spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.</p>
+						<p><b>Spell save DC </b>= 8 + your proficiency bonus + your Wisdom modifier</p>
+						<p><b>Spell attack modifier </b>= your proficiency bonus + your Wisdom modifier</p>
+						<p><b>Ritual Casting</b></p>
+						<p>You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared.</p>
+						<p><b>Spellcasting Focus</b></p>
+						<p>You can use a holy symbol as a spellcasting focus for your cleric spells.</p>
+					</text>
+				</id-00005>
+				<id-00006>
+					<holder name="Heavy" owner="true" />
+					<level type="number">2</level>
+					<locked type="number">1</locked>
+					<name type="string">Channel Divinity: Preserve Life</name>
+					<source type="string">Cleric</source>
+					<specialization type="string">Life Domain</specialization>
+					<text type="formattedtext">
+						<p>Starting at 2nd level, you can use your Channel Divinity to heal the badly injured.</p>
+						<p>As an action, you present your holy symbol and evoke healing energy that can restore a number of hit points equal to five times your cleric level. Choose any creatures within 30 feet of you, and divide those hit points among them. This feature can restore a creature to no more than half of its hit point maximum. You can't use this feature on an undead or a construct.</p>
+					</text>
+				</id-00006>
+				<id-00007>
+					<holder name="Heavy" owner="true" />
+					<level type="number">2</level>
+					<locked type="number">1</locked>
+					<name type="string">Channel Divinity</name>
+					<source type="string">Cleric</source>
+					<text type="formattedtext">
+						<p>At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects - Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.</p>
+						<p>When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.</p>
+						<p>Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your cleric spell save DC.</p>
+						<p>Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.</p>
+						<p><b>Channel Divinity: </b>Turn Undead</p>
+						<p>As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.</p>
+						<p>A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.</p>
+					</text>
+				</id-00007>
+			</featurelist>
+			<flaws type="string">I am inflexible in my thinking.</flaws>
+			<gender type="string">Male</gender>
+			<height type="string">3'</height>
+			<hp>
+				<holder name="Heavy" owner="true" />
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<temporary type="number">0</temporary>
+				<total type="number">24</total>
+				<wounds type="number">0</wounds>
+			</hp>
+			<ideals type="string">Charity. I always try to help those in need, no matter what the personal cost. (Good)</ideals>
+			<initiative>
+				<holder name="Heavy" owner="true" />
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">3</total>
+			</initiative>
+			<inventorylist>
+				<holder name="Heavy" owner="true" />
+				<id-00001>
+					<holder name="Heavy" owner="true" />
+					<carried type="number">2</carried>
+					<cost type="string">5 gp</cost>
+					<count type="number">1</count>
+					<damage type="string">1d6 bludgeoning</damage>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Mace</name>
+					<properties type="string">-</properties>
+					<subtype type="string">Simple Melee Weapons</subtype>
+					<type type="string">Weapon</type>
+					<weight type="number">4</weight>
+				</id-00001>
+				<id-00002>
+					<holder name="Heavy" owner="true" />
+					<ac type="number">14</ac>
+					<carried type="number">2</carried>
+					<cost type="string">50 gp</cost>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<p>Medium armor offers more protection than light armor, but it also impairs movement more. If you wear medium armor, you add your Dexterity modifier, to a maximum of +2, to the base number from your armor type to determine your Armor Class.</p>
+						<p>This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets.</p>
+					</description>
+					<dexbonus type="string">Yes (max 2)</dexbonus>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Scale Mail</name>
+					<stealth type="string">Disadvantage</stealth>
+					<strength type="string">-</strength>
+					<subtype type="string">Medium Armor</subtype>
+					<type type="string">Armor</type>
+					<weight type="number">45</weight>
+				</id-00002>
+				<id-00003>
+					<holder name="Heavy" owner="true" />
+					<carried type="number">2</carried>
+					<cost type="string">25 gp</cost>
+					<count type="number">1</count>
+					<damage type="string">1d8 piercing</damage>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Crossbow, Light</name>
+					<properties type="string">Ammunition (range 80/320), loading, two-handed</properties>
+					<subtype type="string">Simple Ranged Weapons</subtype>
+					<type type="string">Weapon</type>
+					<weight type="number">5</weight>
+				</id-00003>
+				<id-00004>
+					<holder name="Heavy" owner="true" />
+					<ac type="number">0</ac>
+					<bonus type="number">0</bonus>
+					<carried type="number">1</carried>
+					<cost type="string">1 gp</cost>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<p></p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Crossbow Bolts (20)</name>
+					<subtype type="string">Ammunition</subtype>
+					<type type="string">Adventuring Gear</type>
+					<weight type="number">1.5</weight>
+				</id-00004>
+				<id-00005>
+					<holder name="Heavy" owner="true" />
+					<carried type="number">1</carried>
+					<count type="number">1</count>
+					<isidentified type="number">1</isidentified>
+					<name type="string">Party Sheet</name>
+					<weight type="number">0</weight>
+				</id-00005>
+				<id-00006>
+					<holder name="Heavy" owner="true" />
+					<carried type="number">1</carried>
+					<cost type="string">5 sp</cost>
+					<count type="number">6</count>
+					<description type="formattedtext">
+						<p>Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.</p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Rations (1 Day)</name>
+					<subtype type="string">Standard</subtype>
+					<type type="string">Adventuring Gear</type>
+					<weight type="number">2</weight>
+				</id-00006>
+				<id-00007>
+					<holder name="Heavy" owner="true" />
+					<carried type="number">1</carried>
+					<cost type="string">1 cp</cost>
+					<count type="number">2</count>
+					<description type="formattedtext">
+						<p>A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.</p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Torch</name>
+					<subtype type="string">Standard</subtype>
+					<type type="string">Adventuring Gear</type>
+					<weight type="number">1</weight>
+				</id-00007>
+				<id-00008>
+					<holder name="Heavy" owner="true" />
+					<carried type="number">1</carried>
+					<cost type="string">5 sp</cost>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<p>This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch-or anything else with abundant, exposed fuel-takes an action. Lighting any other fire takes 1 minute.</p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Tinderbox</name>
+					<subtype type="string">Standard</subtype>
+					<type type="string">Adventuring Gear</type>
+					<weight type="number">1</weight>
+				</id-00008>
+				<id-00009>
+					<holder name="Heavy" owner="true" />
+					<carried type="number">1</carried>
+					<cost type="string">2 sp</cost>
+					<count type="number">1</count>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Waterskin</name>
+					<subtype type="string">Standard</subtype>
+					<type type="string">Adventuring Gear</type>
+					<weight type="number">5</weight>
+				</id-00009>
+				<id-00010>
+					<holder name="Heavy" owner="true" />
+					<carried type="number">1</carried>
+					<cost type="string">2 sp</cost>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<p>This tin box contains a cup and simple cutlery. The box clamps together, and one side can be used as a cooking pan and the other as a plate or shallow bowl.</p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Mess Kit</name>
+					<subtype type="string">Equipment Kits</subtype>
+					<type type="string">Adventuring Gear</type>
+					<weight type="number">1</weight>
+				</id-00010>
+				<id-00011>
+					<holder name="Heavy" owner="true" />
+					<carried type="number">1</carried>
+					<cost type="string">1 gp</cost>
+					<count type="number">1</count>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Rope, Hempen (50 Feet)</name>
+					<subtype type="string">Standard</subtype>
+					<type type="string">Adventuring Gear</type>
+					<weight type="number">10</weight>
+				</id-00011>
+				<id-00012>
+					<holder name="Heavy" owner="true" />
+					<carried type="number">1</carried>
+					<cost type="string">2 gp</cost>
+					<count type="number">1</count>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Backpack (Empty)</name>
+					<subtype type="string">Standard</subtype>
+					<type type="string">Adventuring Gear</type>
+					<weight type="number">5</weight>
+				</id-00012>
+				<id-00013>
+					<holder name="Heavy" owner="true" />
+					<ac type="number">2</ac>
+					<carried type="number">2</carried>
+					<cost type="string">10 gp</cost>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<p>A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.</p>
+					</description>
+					<dexbonus type="string">-</dexbonus>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Shield</name>
+					<stealth type="string">-</stealth>
+					<strength type="string">-</strength>
+					<subtype type="string">Shield</subtype>
+					<type type="string">Armor</type>
+					<weight type="number">6</weight>
+				</id-00013>
+				<id-00014>
+					<holder name="Heavy" owner="true" />
+					<carried type="number">1</carried>
+					<cost type="string">15 gp</cost>
+					<count type="number">1</count>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Clothes, Vestments</name>
+					<subtype type="string">Standard</subtype>
+					<type type="string">Adventuring Gear</type>
+					<weight type="number">6</weight>
+				</id-00014>
+				<id-00015>
+					<holder name="Heavy" owner="true" />
+					<carried type="number">1</carried>
+					<cost type="string">5 sp</cost>
+					<count type="number">1</count>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Clothes, Common</name>
+					<subtype type="string">Standard</subtype>
+					<type type="string">Adventuring Gear</type>
+					<weight type="number">3</weight>
+				</id-00015>
+				<id-00016>
+					<holder name="Heavy" owner="true" />
+					<carried type="number">1</carried>
+					<cost type="string">5 sp</cost>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<p>A cloth or leather pouch can hold up to 20 sling bullets or 50 blowgun needles, among other things. A compartmentalized pouch for holding spell components is called a component pouch (described earlier in this section).</p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Pouch</name>
+					<subtype type="string">Standard</subtype>
+					<type type="string">Adventuring Gear</type>
+					<weight type="number">1</weight>
+				</id-00016>
+				<id-00017>
+					<holder name="Heavy" owner="true" />
+					<carried type="number">1</carried>
+					<cost type="string">5 sp</cost>
+					<count type="number">1</count>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Blanket</name>
+					<subtype type="string">Standard</subtype>
+					<type type="string">Adventuring Gear</type>
+					<weight type="number">3</weight>
+				</id-00017>
+				<id-00018>
+					<holder name="Heavy" owner="true" />
+					<carried type="number">2</carried>
+					<cost type="string">2 gp</cost>
+					<count type="number">2</count>
+					<damage type="string">1d4 piercing</damage>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Dagger</name>
+					<properties type="string">Finesse, light, thrown (range 20/60)</properties>
+					<subtype type="string">Simple Melee Weapons</subtype>
+					<type type="string">Weapon</type>
+					<weight type="number">1</weight>
+				</id-00018>
+				<id-00019>
+					<holder name="Heavy" owner="true" />
+					<carried type="number">2</carried>
+					<cost type="string">25 gp</cost>
+					<count type="number">1</count>
+					<damage type="string">1d6 slashing</damage>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Scimitar</name>
+					<properties type="string">Finesse, light</properties>
+					<subtype type="string">Martial Weapons</subtype>
+					<type type="string">Weapon</type>
+					<weight type="number">3</weight>
+				</id-00019>
+			</inventorylist>
+			<languagelist>
+				<holder name="Heavy" owner="true" />
+				<id-00001>
+					<holder name="Heavy" owner="true" />
+					<name type="string">Draconic</name>
+				</id-00001>
+				<id-00002>
+					<holder name="Heavy" owner="true" />
+					<name type="string">Common </name>
+				</id-00002>
+				<id-00003>
+					<holder name="Heavy" owner="true" />
+					<name type="string">Halfling</name>
+				</id-00003>
+				<id-00004>
+					<holder name="Heavy" owner="true" />
+					<name type="string">Giant</name>
+				</id-00004>
+			</languagelist>
+			<level type="number">3</level>
+			<name type="string">Ronn</name>
+			<notes type="string">8 torches, 4 rations, bedroll let at home or on the cart</notes>
+			<perception type="number">13</perception>
+			<perceptionmodifier type="number">0</perceptionmodifier>
+			<personalitytraits type="string">I see omens in every event and action. The gods try to speak to us, we just need to listen.\n\nNothing can shake my optimistic attitude.</personalitytraits>
+			<powergroup>
+				<holder name="Heavy" owner="true" />
+				<id-00001>
+					<holder name="Heavy" owner="true" />
+					<castertype type="string">memorization</castertype>
+					<name type="string">Spells</name>
+					<prepared type="number">3</prepared>
+					<stat type="string">wisdom</stat>
+				</id-00001>
+				<id-00002>
+					<holder name="Heavy" owner="true" />
+					<name type="string">Effect</name>
+				</id-00002>
+			</powergroup>
+			<powermeta>
+				<holder name="Heavy" owner="true" />
+				<pactmagicslots1>
+					<holder name="Heavy" owner="true" />
+					<max type="number">0</max>
+					<used type="number">0</used>
+				</pactmagicslots1>
+				<pactmagicslots2>
+					<holder name="Heavy" owner="true" />
+					<max type="number">0</max>
+					<used type="number">0</used>
+				</pactmagicslots2>
+				<pactmagicslots3>
+					<holder name="Heavy" owner="true" />
+					<max type="number">0</max>
+					<used type="number">0</used>
+				</pactmagicslots3>
+				<pactmagicslots4>
+					<holder name="Heavy" owner="true" />
+					<max type="number">0</max>
+					<used type="number">0</used>
+				</pactmagicslots4>
+				<pactmagicslots5>
+					<holder name="Heavy" owner="true" />
+					<max type="number">0</max>
+					<used type="number">0</used>
+				</pactmagicslots5>
+				<pactmagicslots6>
+					<holder name="Heavy" owner="true" />
+					<max type="number">0</max>
+					<used type="number">0</used>
+				</pactmagicslots6>
+				<pactmagicslots7>
+					<holder name="Heavy" owner="true" />
+					<max type="number">0</max>
+					<used type="number">0</used>
+				</pactmagicslots7>
+				<pactmagicslots8>
+					<holder name="Heavy" owner="true" />
+					<max type="number">0</max>
+					<used type="number">0</used>
+				</pactmagicslots8>
+				<pactmagicslots9>
+					<holder name="Heavy" owner="true" />
+					<max type="number">0</max>
+					<used type="number">0</used>
+				</pactmagicslots9>
+				<spellslots1>
+					<holder name="Heavy" owner="true" />
+					<max type="number">4</max>
+					<used type="number">0</used>
+				</spellslots1>
+				<spellslots2>
+					<holder name="Heavy" owner="true" />
+					<max type="number">2</max>
+					<used type="number">0</used>
+				</spellslots2>
+				<spellslots3>
+					<holder name="Heavy" owner="true" />
+					<max type="number">0</max>
+					<used type="number">0</used>
+				</spellslots3>
+				<spellslots4>
+					<holder name="Heavy" owner="true" />
+					<max type="number">0</max>
+					<used type="number">0</used>
+				</spellslots4>
+				<spellslots5>
+					<holder name="Heavy" owner="true" />
+					<max type="number">0</max>
+					<used type="number">0</used>
+				</spellslots5>
+				<spellslots6>
+					<holder name="Heavy" owner="true" />
+					<max type="number">0</max>
+					<used type="number">0</used>
+				</spellslots6>
+				<spellslots7>
+					<holder name="Heavy" owner="true" />
+					<max type="number">0</max>
+					<used type="number">0</used>
+				</spellslots7>
+				<spellslots8>
+					<holder name="Heavy" owner="true" />
+					<max type="number">0</max>
+					<used type="number">0</used>
+				</spellslots8>
+				<spellslots9>
+					<holder name="Heavy" owner="true" />
+					<max type="number">0</max>
+					<used type="number">0</used>
+				</spellslots9>
+			</powermeta>
+			<powermode type="string">standard</powermode>
+			<powers>
+				<holder name="Heavy" owner="true" />
+				<id-00001>
+					<holder name="Heavy" owner="true" />
+					<actions>
+						<holder name="Heavy" owner="true" />
+						<id-00001>
+							<holder name="Heavy" owner="true" />
+							<durmod type="number">1</durmod>
+							<durunit type="string">minute</durunit>
+							<label type="string">ATK: 1d4; SAVE: 1d4; (C)</label>
+							<order type="number">1</order>
+							<type type="string">effect</type>
+						</id-00001>
+					</actions>
+					<cast type="number">0</cast>
+					<castingtime type="string">1 action</castingtime>
+					<components type="string">V, S, M (a sprinkling of holy water)</components>
+					<description type="formattedtext">
+						<p>You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw.</p>
+						<p><b><i>At Higher Levels. </i></b>When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.</p>
+					</description>
+					<duration type="string">Concentration, up to 1 minute</duration>
+					<group type="string">Spells</group>
+					<level type="number">1</level>
+					<locked type="number">1</locked>
+					<name type="string">Bless</name>
+					<prepared type="number">0</prepared>
+					<range type="string">30 feet</range>
+					<school type="string">Enchantment</school>
+					<source type="string">Cleric, Cleric Life Domain, Paladin</source>
+				</id-00001>
+				<id-00002>
+					<holder name="Heavy" owner="true" />
+					<actions>
+						<holder name="Heavy" owner="true" />
+						<id-00001>
+							<holder name="Heavy" owner="true" />
+							<heallist>
+								<holder name="Heavy" owner="true" />
+								<id-00001>
+									<holder name="Heavy" owner="true" />
+									<dice type="dice">d4</dice>
+									<stat type="string">base</stat>
+								</id-00001>
+							</heallist>
+							<order type="number">1</order>
+							<type type="string">heal</type>
+						</id-00001>
+					</actions>
+					<cast type="number">0</cast>
+					<castingtime type="string">1 bonus action</castingtime>
+					<components type="string">V</components>
+					<description type="formattedtext">
+						<p>A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.</p>
+						<p><b><i>At Higher Levels. </i></b>When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.</p>
+					</description>
+					<duration type="string">Instantaneous</duration>
+					<group type="string">Spells</group>
+					<level type="number">1</level>
+					<locked type="number">1</locked>
+					<name type="string">Healing Word</name>
+					<prepared type="number">0</prepared>
+					<range type="string">60 feet</range>
+					<school type="string">Evocation</school>
+					<source type="string">Bard, Cleric, Druid</source>
+				</id-00002>
+				<id-00003>
+					<holder name="Heavy" owner="true" />
+					<actions>
+						<holder name="Heavy" owner="true" />
+						<id-00001>
+							<holder name="Heavy" owner="true" />
+							<durmod type="number">10</durmod>
+							<durunit type="string">minute</durunit>
+							<label type="string">AC: 2; (C)</label>
+							<order type="number">1</order>
+							<type type="string">effect</type>
+						</id-00001>
+					</actions>
+					<cast type="number">0</cast>
+					<castingtime type="string">1 bonus action</castingtime>
+					<components type="string">V, S, M (a small parchment with a bit of holy text written on it)</components>
+					<description type="formattedtext">
+						<p>A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.</p>
+					</description>
+					<duration type="string">Concentration, up to 10 minutes</duration>
+					<group type="string">Spells</group>
+					<level type="number">1</level>
+					<locked type="number">1</locked>
+					<name type="string">Shield of Faith</name>
+					<prepared type="number">0</prepared>
+					<range type="string">60 feet</range>
+					<school type="string">Abjuration</school>
+					<source type="string">Cleric, Paladin</source>
+				</id-00003>
+				<id-00004>
+					<holder name="Heavy" owner="true" />
+					<actions>
+						<holder name="Heavy" owner="true" />
+						<id-00001>
+							<holder name="Heavy" owner="true" />
+							<atktype type="string">melee</atktype>
+							<order type="number">1</order>
+							<type type="string">cast</type>
+						</id-00001>
+						<id-00002>
+							<holder name="Heavy" owner="true" />
+							<damagelist>
+								<holder name="Heavy" owner="true" />
+								<id-00001>
+									<holder name="Heavy" owner="true" />
+									<dice type="dice">d8</dice>
+									<stat type="string">base</stat>
+									<type type="string">force</type>
+								</id-00001>
+							</damagelist>
+							<order type="number">2</order>
+							<type type="string">damage</type>
+						</id-00002>
+					</actions>
+					<cast type="number">0</cast>
+					<castingtime type="string">1 bonus action</castingtime>
+					<components type="string">V, S</components>
+					<description type="formattedtext">
+						<p>You create a floating, spectral weapon within range that lasts for the duration or until you cast this spell again. When you cast the spell, you can make a melee spell attack against a creature within 5 feet of the weapon. On a hit, the target takes force damage equal to 1d8 + your spellcasting ability modifier.</p>
+						<p>As a bonus action on your turn, you can move the weapon up to 20 feet and repeat the attack against a creature within 5 feet of it.</p>
+						<p>The weapon can take whatever form you choose. Clerics of deities who are associated with a particular weapon (as St. Cuthbert is known for his mace and Thor for his hammer) make this spell's effect resemble that weapon.</p>
+						<p><b><i>At Higher Levels. </i></b>When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for every two slot levels above the 2nd.</p>
+					</description>
+					<duration type="string">1 minute</duration>
+					<group type="string">Spells</group>
+					<level type="number">2</level>
+					<locked type="number">1</locked>
+					<name type="string">Spiritual Weapon</name>
+					<prepared type="number">0</prepared>
+					<range type="string">60 feet</range>
+					<ritual type="number">0</ritual>
+					<school type="string">Evocation</school>
+					<source type="string">Cleric, Cleric Life Domain</source>
+				</id-00004>
+				<id-00005>
+					<holder name="Heavy" owner="true" />
+					<actions>
+						<holder name="Heavy" owner="true" />
+						<id-00001>
+							<holder name="Heavy" owner="true" />
+							<order type="number">1</order>
+							<savemagic type="number">1</savemagic>
+							<savetype type="string">wisdom</savetype>
+							<type type="string">cast</type>
+						</id-00001>
+						<id-00002>
+							<holder name="Heavy" owner="true" />
+							<durmod type="number">1</durmod>
+							<durunit type="string">minute</durunit>
+							<label type="string">Paralyzed; (C)</label>
+							<order type="number">2</order>
+							<type type="string">effect</type>
+						</id-00002>
+					</actions>
+					<cast type="number">0</cast>
+					<castingtime type="string">1 action</castingtime>
+					<components type="string">V, S, M (a small, straight piece of iron)</components>
+					<description type="formattedtext">
+						<p>Choose a humanoid that you can see within range.</p>
+						<p>The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.</p>
+						<p><b><i>At Higher Levels. </i></b>When you cast this spell using a spell slot of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them.</p>
+					</description>
+					<duration type="string">Concentration, up to 1 minute</duration>
+					<group type="string">Spells</group>
+					<level type="number">2</level>
+					<locked type="number">1</locked>
+					<name type="string">Hold Person</name>
+					<prepared type="number">0</prepared>
+					<range type="string">60 feet</range>
+					<school type="string">Enchantment</school>
+					<source type="string">Bard, Cleric, Druid, Sorcerer, Warlock, Wizard</source>
+				</id-00005>
+				<id-00006>
+					<holder name="Heavy" owner="true" />
+					<actions>
+						<holder name="Heavy" owner="true" />
+						<id-00001>
+							<holder name="Heavy" owner="true" />
+							<atktype type="string">ranged</atktype>
+							<order type="number">1</order>
+							<type type="string">cast</type>
+						</id-00001>
+						<id-00002>
+							<holder name="Heavy" owner="true" />
+							<damagelist>
+								<holder name="Heavy" owner="true" />
+								<id-00001>
+									<holder name="Heavy" owner="true" />
+									<dice type="dice">d6,d6,d6,d6</dice>
+									<type type="string">radiant</type>
+								</id-00001>
+							</damagelist>
+							<order type="number">2</order>
+							<type type="string">damage</type>
+						</id-00002>
+						<id-00003>
+							<holder name="Heavy" owner="true" />
+							<apply type="string">roll</apply>
+							<durmod type="number">1</durmod>
+							<label type="string">GRANTADVATK</label>
+							<order type="number">3</order>
+							<type type="string">effect</type>
+						</id-00003>
+					</actions>
+					<cast type="number">0</cast>
+					<castingtime type="string">1 action</castingtime>
+					<components type="string">V, S</components>
+					<description type="formattedtext">
+						<p>A flash of light streaks toward a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target takes 4d6 radiant damage, and the next attack roll made against this target before the end of your next turn has advantage, thanks to the mystical dim light glittering on the target until then.</p>
+						<p><b><i>At Higher Levels. </i></b>When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.</p>
+					</description>
+					<duration type="string">1 round</duration>
+					<group type="string">Spells</group>
+					<level type="number">1</level>
+					<locked type="number">1</locked>
+					<name type="string">Guiding Bolt</name>
+					<prepared type="number">0</prepared>
+					<range type="string">120 feet</range>
+					<school type="string">Evocation</school>
+					<source type="string">Cleric</source>
+				</id-00006>
+				<id-00007>
+					<holder name="Heavy" owner="true" />
+					<actions>
+						<holder name="Heavy" owner="true" />
+					</actions>
+					<cast type="number">0</cast>
+					<castingtime type="string">1 action</castingtime>
+					<components type="string">V, S</components>
+					<description type="formattedtext">
+						<p>You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.</p>
+					</description>
+					<duration type="string">Concentration, up to 1 minute</duration>
+					<group type="string">Spells</group>
+					<level type="number">0</level>
+					<locked type="number">1</locked>
+					<name type="string">Guidance</name>
+					<prepared type="number">0</prepared>
+					<range type="string">Touch</range>
+					<school type="string">Divination</school>
+					<source type="string">Cleric, Druid</source>
+				</id-00007>
+				<id-00008>
+					<holder name="Heavy" owner="true" />
+					<actions>
+						<holder name="Heavy" owner="true" />
+						<id-00001>
+							<holder name="Heavy" owner="true" />
+							<order type="number">1</order>
+							<savemagic type="number">1</savemagic>
+							<savetype type="string">dexterity</savetype>
+							<type type="string">cast</type>
+						</id-00001>
+					</actions>
+					<cast type="number">0</cast>
+					<castingtime type="string">1 action</castingtime>
+					<components type="string">V, M (a firefly or phosphorescent moss)</components>
+					<description type="formattedtext">
+						<p>You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action.</p>
+						<p>If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell.</p>
+					</description>
+					<duration type="string">1 hour</duration>
+					<group type="string">Spells</group>
+					<level type="number">0</level>
+					<locked type="number">1</locked>
+					<name type="string">Light</name>
+					<prepared type="number">0</prepared>
+					<range type="string">Touch</range>
+					<school type="string">Evocation</school>
+					<source type="string">Bard, Cleric, Sorcerer, Wizard</source>
+				</id-00008>
+				<id-00009>
+					<holder name="Heavy" owner="true" />
+					<actions>
+						<holder name="Heavy" owner="true" />
+						<id-00001>
+							<holder name="Heavy" owner="true" />
+							<order type="number">1</order>
+							<savemagic type="number">1</savemagic>
+							<savetype type="string">dexterity</savetype>
+							<type type="string">cast</type>
+						</id-00001>
+						<id-00002>
+							<holder name="Heavy" owner="true" />
+							<damagelist>
+								<holder name="Heavy" owner="true" />
+								<id-00001>
+									<holder name="Heavy" owner="true" />
+									<dice type="dice">d8</dice>
+									<type type="string">radiant</type>
+								</id-00001>
+							</damagelist>
+							<order type="number">2</order>
+							<type type="string">damage</type>
+						</id-00002>
+					</actions>
+					<cast type="number">0</cast>
+					<castingtime type="string">1 action</castingtime>
+					<components type="string">V, S</components>
+					<description type="formattedtext">
+						<p>Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 radiant damage. The target gains no benefit from cover for this saving throw.</p>
+						<p>The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).</p>
+					</description>
+					<duration type="string">Instantaneous</duration>
+					<group type="string">Spells</group>
+					<level type="number">0</level>
+					<locked type="number">1</locked>
+					<name type="string">Sacred Flame</name>
+					<prepared type="number">0</prepared>
+					<range type="string">60 feet</range>
+					<ritual type="number">0</ritual>
+					<school type="string">Evocation</school>
+					<source type="string">Cleric</source>
+				</id-00009>
+				<id-00010>
+					<holder name="Heavy" owner="true" />
+					<actions>
+						<holder name="Heavy" owner="true" />
+						<id-00001>
+							<holder name="Heavy" owner="true" />
+							<heallist>
+								<holder name="Heavy" owner="true" />
+								<id-00001>
+									<holder name="Heavy" owner="true" />
+									<bonus type="number">1</bonus>
+									<dice type="dice"></dice>
+								</id-00001>
+							</heallist>
+							<order type="number">1</order>
+							<type type="string">heal</type>
+						</id-00001>
+						<id-00002>
+							<holder name="Heavy" owner="true" />
+							<heallist>
+								<holder name="Heavy" owner="true" />
+								<id-00001>
+									<holder name="Heavy" owner="true" />
+									<bonus type="number">5</bonus>
+									<dice type="dice"></dice>
+								</id-00001>
+							</heallist>
+							<order type="number">2</order>
+							<type type="string">heal</type>
+						</id-00002>
+					</actions>
+					<cast type="number">0</cast>
+					<group type="string">Effect</group>
+					<level type="number">0</level>
+					<name type="string">Channel Divinity</name>
+					<prepared type="number">15</prepared>
+				</id-00010>
+				<id-00011>
+					<holder name="Heavy" owner="true" />
+					<actions>
+						<holder name="Heavy" owner="true" />
+						<id-00001>
+							<holder name="Heavy" owner="true" />
+							<apply type="string">action</apply>
+							<durmod type="number">0</durmod>
+							<label type="string">Guidance; CHECK: 1d4</label>
+							<order type="number">1</order>
+							<type type="string">effect</type>
+						</id-00001>
+					</actions>
+					<cast type="number">0</cast>
+					<group type="string">Effect</group>
+					<level type="number">0</level>
+					<name type="string">Guidance</name>
+					<prepared type="number">0</prepared>
+				</id-00011>
+			</powers>
+			<profbonus type="number">2</profbonus>
+			<proficiencylist>
+				<holder name="Heavy" owner="true" />
+				<id-00001>
+					<holder name="Heavy" owner="true" />
+					<name type="string">Weapon: All simple weapons</name>
+				</id-00001>
+				<id-00002>
+					<holder name="Heavy" owner="true" />
+					<name type="string">Armor: Light armor, medium armor, shields</name>
+				</id-00002>
+			</proficiencylist>
+			<race type="string">Halfling (Ghostwise)</race>
+			<racelink type="windowreference">
+				<class>reference_race</class>
+				<recordname>reference.racedata.halfling@DD5E SRD Data</recordname>
+			</racelink>
+			<size type="string">Small</size>
+			<skilllist>
+				<holder name="Heavy" owner="true" />
+				<id-00001>
+					<holder name="Heavy" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Perception</name>
+					<prof type="number">0</prof>
+					<stat type="string">wisdom</stat>
+					<total type="number">3</total>
+				</id-00001>
+				<id-00002>
+					<holder name="Heavy" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Insight</name>
+					<prof type="number">1</prof>
+					<stat type="string">wisdom</stat>
+					<total type="number">5</total>
+				</id-00002>
+				<id-00003>
+					<holder name="Heavy" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Religion</name>
+					<prof type="number">1</prof>
+					<stat type="string">intelligence</stat>
+					<total type="number">2</total>
+				</id-00003>
+				<id-00004>
+					<holder name="Heavy" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Arcana</name>
+					<prof type="number">0</prof>
+					<stat type="string">intelligence</stat>
+					<total type="number">0</total>
+				</id-00004>
+				<id-00005>
+					<holder name="Heavy" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Persuasion</name>
+					<prof type="number">1</prof>
+					<stat type="string">charisma</stat>
+					<total type="number">1</total>
+				</id-00005>
+				<id-00006>
+					<holder name="Heavy" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Nature</name>
+					<prof type="number">0</prof>
+					<stat type="string">intelligence</stat>
+					<total type="number">0</total>
+				</id-00006>
+				<id-00007>
+					<holder name="Heavy" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Medicine</name>
+					<prof type="number">0</prof>
+					<stat type="string">wisdom</stat>
+					<total type="number">3</total>
+				</id-00007>
+				<id-00008>
+					<holder name="Heavy" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Survival</name>
+					<prof type="number">0</prof>
+					<stat type="string">wisdom</stat>
+					<total type="number">3</total>
+				</id-00008>
+				<id-00009>
+					<holder name="Heavy" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Performance</name>
+					<prof type="number">0</prof>
+					<stat type="string">charisma</stat>
+					<total type="number">-1</total>
+				</id-00009>
+				<id-00010>
+					<holder name="Heavy" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Acrobatics</name>
+					<prof type="number">0</prof>
+					<stat type="string">dexterity</stat>
+					<total type="number">3</total>
+				</id-00010>
+				<id-00011>
+					<holder name="Heavy" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Athletics</name>
+					<prof type="number">0</prof>
+					<stat type="string">strength</stat>
+					<total type="number">-1</total>
+				</id-00011>
+				<id-00012>
+					<holder name="Heavy" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Sleight of Hand</name>
+					<prof type="number">0</prof>
+					<stat type="string">dexterity</stat>
+					<total type="number">3</total>
+				</id-00012>
+				<id-00013>
+					<holder name="Heavy" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Intimidation</name>
+					<prof type="number">0</prof>
+					<stat type="string">charisma</stat>
+					<total type="number">-1</total>
+				</id-00013>
+				<id-00014>
+					<holder name="Heavy" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Deception</name>
+					<prof type="number">0</prof>
+					<stat type="string">charisma</stat>
+					<total type="number">-1</total>
+				</id-00014>
+				<id-00015>
+					<holder name="Heavy" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Investigation</name>
+					<prof type="number">0</prof>
+					<stat type="string">intelligence</stat>
+					<total type="number">0</total>
+				</id-00015>
+				<id-00016>
+					<holder name="Heavy" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Stealth</name>
+					<prof type="number">1</prof>
+					<stat type="string">dexterity</stat>
+					<total type="number">5</total>
+				</id-00016>
+				<id-00017>
+					<holder name="Heavy" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">History</name>
+					<prof type="number">0</prof>
+					<stat type="string">intelligence</stat>
+					<total type="number">0</total>
+				</id-00017>
+				<id-00018>
+					<holder name="Heavy" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">Animal Handling</name>
+					<prof type="number">0</prof>
+					<stat type="string">wisdom</stat>
+					<total type="number">3</total>
+				</id-00018>
+			</skilllist>
+			<speed>
+				<holder name="Heavy" owner="true" />
+				<armor type="number">0</armor>
+				<base type="number">25</base>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">25</total>
+			</speed>
+			<temp>
+				<holder name="Heavy" owner="true" />
+			</temp>
+			<token type="token">portrait_id-00029_token</token>
+			<traitlist>
+				<holder name="Heavy" owner="true" />
+				<id-00001>
+					<holder name="Heavy" owner="true" />
+					<locked type="number">1</locked>
+					<name type="string">Lucky</name>
+					<source type="string">Halfling</source>
+					<text type="formattedtext">
+						<p>When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.</p>
+					</text>
+					<type type="string">racial</type>
+				</id-00001>
+				<id-00002>
+					<holder name="Heavy" owner="true" />
+					<locked type="number">1</locked>
+					<name type="string">Halfling Nimbleness</name>
+					<source type="string">Halfling</source>
+					<text type="formattedtext">
+						<p>You can move through the space of any creature that is of a size larger than yours.</p>
+					</text>
+					<type type="string">racial</type>
+				</id-00002>
+				<id-00003>
+					<holder name="Heavy" owner="true" />
+					<locked type="number">1</locked>
+					<name type="string">Brave</name>
+					<source type="string">Halfling</source>
+					<text type="formattedtext">
+						<p>You have advantage on saving throws against being frightened.</p>
+					</text>
+					<type type="string">racial</type>
+				</id-00003>
+				<id-00005>
+					<holder name="Heavy" owner="true" />
+					<name type="string">Silent Speech</name>
+				</id-00005>
+			</traitlist>
+			<weaponlist>
+				<holder name="Heavy" owner="true" />
+				<id-00001>
+					<holder name="Heavy" owner="true" />
+					<carried type="number">2</carried>
+					<damagelist>
+						<holder name="Heavy" owner="true" />
+						<id-00001>
+							<holder name="Heavy" owner="true" />
+							<dice type="dice">d6</dice>
+							<stat type="string">base</stat>
+							<type type="string">bludgeoning</type>
+						</id-00001>
+					</damagelist>
+					<isidentified type="number">1</isidentified>
+					<maxammo type="number">0</maxammo>
+					<name type="string">Mace</name>
+					<prof type="number">1</prof>
+					<shortcut type="windowreference">
+						<class>item</class>
+						<recordname>....inventorylist.id-00001</recordname>
+					</shortcut>
+					<type type="number">0</type>
+				</id-00001>
+				<id-00002>
+					<holder name="Heavy" owner="true" />
+					<carried type="number">2</carried>
+					<damagelist>
+						<holder name="Heavy" owner="true" />
+						<id-00001>
+							<holder name="Heavy" owner="true" />
+							<dice type="dice">d8</dice>
+							<stat type="string">base</stat>
+							<type type="string">piercing</type>
+						</id-00001>
+					</damagelist>
+					<isidentified type="number">1</isidentified>
+					<maxammo type="number">0</maxammo>
+					<name type="string">Crossbow, Light</name>
+					<prof type="number">1</prof>
+					<shortcut type="windowreference">
+						<class>item</class>
+						<recordname>....inventorylist.id-00003</recordname>
+					</shortcut>
+					<type type="number">1</type>
+				</id-00002>
+				<id-00003>
+					<holder name="Heavy" owner="true" />
+					<attackstat type="string">dexterity</attackstat>
+					<carried type="number">2</carried>
+					<damagelist>
+						<holder name="Heavy" owner="true" />
+						<id-00001>
+							<holder name="Heavy" owner="true" />
+							<dice type="dice">d4</dice>
+							<stat type="string">dexterity</stat>
+							<type type="string">piercing</type>
+						</id-00001>
+					</damagelist>
+					<isidentified type="number">1</isidentified>
+					<maxammo type="number">0</maxammo>
+					<name type="string">Dagger</name>
+					<prof type="number">1</prof>
+					<shortcut type="windowreference">
+						<class>item</class>
+						<recordname>....inventorylist.id-00018</recordname>
+					</shortcut>
+					<type type="number">0</type>
+				</id-00003>
+				<id-00004>
+					<holder name="Heavy" owner="true" />
+					<attackstat type="string">dexterity</attackstat>
+					<carried type="number">2</carried>
+					<damagelist>
+						<holder name="Heavy" owner="true" />
+						<id-00001>
+							<holder name="Heavy" owner="true" />
+							<dice type="dice">d4</dice>
+							<stat type="string">dexterity</stat>
+							<type type="string">piercing</type>
+						</id-00001>
+					</damagelist>
+					<isidentified type="number">1</isidentified>
+					<maxammo type="number">0</maxammo>
+					<name type="string">Dagger</name>
+					<prof type="number">1</prof>
+					<shortcut type="windowreference">
+						<class>item</class>
+						<recordname>....inventorylist.id-00018</recordname>
+					</shortcut>
+					<type type="number">2</type>
+				</id-00004>
+				<id-00005>
+					<holder name="Heavy" owner="true" />
+					<attackstat type="string">dexterity</attackstat>
+					<carried type="number">2</carried>
+					<damagelist>
+						<holder name="Heavy" owner="true" />
+						<id-00001>
+							<holder name="Heavy" owner="true" />
+							<dice type="dice">d6</dice>
+							<stat type="string">dexterity</stat>
+							<type type="string">slashing</type>
+						</id-00001>
+					</damagelist>
+					<isidentified type="number">1</isidentified>
+					<maxammo type="number">0</maxammo>
+					<name type="string">Scimitar</name>
+					<prof type="number">1</prof>
+					<shortcut type="windowreference">
+						<class>item</class>
+						<recordname>....inventorylist.id-00019</recordname>
+					</shortcut>
+					<type type="number">0</type>
+				</id-00005>
+			</weaponlist>
+			<weight type="string">40lbs</weight>
+		</id-00029>
 		<id-00030>
 			<holder name="Devious Nature" owner="true" />
 			<abilities>
@@ -40867,6 +42997,7 @@
 			</adventurelist>
 			<age type="string">30</age>
 			<alignment type="string">Chaotic Good</alignment>
+			<appearance type="string">He lookss quite dishevelled; Messy hair, singed clothes. The ends of his fingers are scarred from &#34;communion&#34; with his deity. He has a tendency to lose touch  with himself when he uses his fire magic or is distressed, turning to a darker character in the heat of battle.</appearance>
 			<background type="string">Hermit</background>
 			<backgroundlink type="windowreference">
 				<class>reference_background</class>
@@ -40880,7 +43011,7 @@
 					<casterlevelinvmult type="number">1</casterlevelinvmult>
 					<casterpactmagic type="number">1</casterpactmagic>
 					<hddie type="dice">d8</hddie>
-					<hdused type="number">1</hdused>
+					<hdused type="number">0</hdused>
 					<level type="number">3</level>
 					<name type="string">Warlock</name>
 					<shortcut type="windowreference">
@@ -40893,16 +43024,18 @@
 				<holder name="jtron" owner="true" />
 				<slot1>
 					<holder name="jtron" owner="true" />
-					<amount type="number">5</amount>
+					<amount type="number">26</amount>
 					<name type="string">GP</name>
 				</slot1>
 				<slot2>
 					<holder name="jtron" owner="true" />
-					<amount type="number">0</amount>
+					<amount type="number">35</amount>
+					<name type="string">SP</name>
 				</slot2>
 				<slot3>
 					<holder name="jtron" owner="true" />
-					<amount type="number">0</amount>
+					<amount type="number">20</amount>
+					<name type="string">CP</name>
 				</slot3>
 				<slot4>
 					<holder name="jtron" owner="true" />
@@ -40932,13 +43065,13 @@
 			</defenses>
 			<encumbrance>
 				<holder name="jtron" owner="true" />
-				<encumbered type="number">60</encumbered>
-				<encumberedheavy type="number">120</encumberedheavy>
-				<liftpushdrag type="number">360</liftpushdrag>
+				<encumbered type="number">30</encumbered>
+				<encumberedheavy type="number">60</encumberedheavy>
+				<liftpushdrag type="number">180</liftpushdrag>
 				<load type="number">42.58</load>
-				<max type="number">180</max>
+				<max type="number">90</max>
 			</encumbrance>
-			<exp type="number">315</exp>
+			<exp type="number">375</exp>
 			<expneeded type="number">400</expneeded>
 			<featlist>
 				<holder name="jtron" owner="true" />
@@ -41342,7 +43475,7 @@
 				<deathsavefail type="number">0</deathsavefail>
 				<deathsavesuccess type="number">0</deathsavesuccess>
 				<temporary type="number">0</temporary>
-				<total type="number">18</total>
+				<total type="number">21</total>
 				<wounds type="number">0</wounds>
 			</hp>
 			<ideals type="string">Self-Knowledge. If you know yourself, there's nothing left to know. (Any)</ideals>
@@ -41453,7 +43586,7 @@
 				</id-00006>
 				<id-00007>
 					<holder name="jtron" owner="true" />
-					<carried type="number">1</carried>
+					<carried type="number">2</carried>
 					<cost type="string">2 gp</cost>
 					<count type="number">3</count>
 					<damage type="string">1d4 piercing</damage>
@@ -41590,6 +43723,29 @@
 					<type type="string">Adventuring Gear</type>
 					<weight type="number">5</weight>
 				</id-00016>
+				<id-00017>
+					<holder name="jtron" owner="true" />
+					<ac type="number">0</ac>
+					<bonus type="number">0</bonus>
+					<carried type="number">1</carried>
+					<cost type="string">501 - 5,000 gp</cost>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<h>Description</h>
+						<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, while you are attuned to this weapon, your hit point maximum increases by 1 for each level you have attained.</p>
+						<p><b><i>Curse. </i></b>This axe is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the axe, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear.</p>
+						<p>Whenever a hostile creature damages you while the axe is in your possession, you must succeed on a DC 15 Wisdom saving throw or go berserk. While berserk, you must use your action each round to attack the creature nearest to you with the axe. If you can make extra attacks as part of the Attack action, you use those extra attacks, moving to attack the next nearest creature after you fell your current target. If you have multiple possible targets, you attack one at random. You are berserk until you start your turn with no creatures within 60 feet of you that you can see or hear.</p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Berserker Axe</name>
+					<nonid_name type="string">Axe</nonid_name>
+					<nonidentified type="string">This axe is clearly of Dwarven origin and bears all the hallmarks of the quality you would expect from that race. There are some strange runes along the shaft and on the blade.</nonidentified>
+					<rarity type="string">Rare (Requires Attunement)</rarity>
+					<subtype type="string">Any Axe</subtype>
+					<type type="string">Weapon</type>
+					<weight type="number">0</weight>
+				</id-00017>
 			</inventorylist>
 			<languagelist>
 				<holder name="jtron" owner="true" />
@@ -41608,6 +43764,7 @@
 			</languagelist>
 			<level type="number">3</level>
 			<name type="string">Doris</name>
+			<notes type="string">Doris is shrunk to tiny size for 8 days.</notes>
 			<perception type="number">11</perception>
 			<perceptionmodifier type="number">0</perceptionmodifier>
 			<personalitytraits type="string">I'm oblivious to etiquette and social expectations.</personalitytraits>
@@ -41621,11 +43778,15 @@
 				</id-00001>
 				<id-00002>
 					<holder name="jtron" owner="true" />
+					<atkprof type="number">1</atkprof>
 					<name type="string">Spells (Tome)</name>
+					<saveprof type="number">1</saveprof>
 				</id-00002>
 				<id-00003>
 					<holder name="jtron" owner="true" />
+					<atkprof type="number">1</atkprof>
 					<name type="string">Eldritch Invocations</name>
+					<saveprof type="number">1</saveprof>
 				</id-00003>
 			</powergroup>
 			<powermeta>
@@ -41678,41 +43839,50 @@
 				<spellslots1>
 					<holder name="jtron" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots1>
 				<spellslots2>
 					<holder name="jtron" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots2>
 				<spellslots3>
 					<holder name="jtron" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots3>
 				<spellslots4>
 					<holder name="jtron" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots4>
 				<spellslots5>
 					<holder name="jtron" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots5>
 				<spellslots6>
 					<holder name="jtron" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots6>
 				<spellslots7>
 					<holder name="jtron" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots7>
 				<spellslots8>
 					<holder name="jtron" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots8>
 				<spellslots9>
 					<holder name="jtron" owner="true" />
 					<max type="number">0</max>
+					<used type="number">0</used>
 				</spellslots9>
 			</powermeta>
-			<powermode type="string">standard</powermode>
+			<powermode type="string">combat</powermode>
 			<powers>
 				<holder name="jtron" owner="true" />
 				<id-00001>
@@ -41924,6 +44094,7 @@
 							<durmod type="number">1</durmod>
 							<label type="string">RESIST: bludgeoning,piercing,slashing</label>
 							<order type="number">1</order>
+							<targeting type="string">self</targeting>
 							<type type="string">effect</type>
 						</id-00001>
 					</actions>
@@ -41940,6 +44111,7 @@
 					<name type="string">Blade Ward</name>
 					<prepared type="number">0</prepared>
 					<range type="string">Self</range>
+					<ritual type="number">0</ritual>
 					<school type="string">Abjuration</school>
 					<source type="string">Bard, Eldritch Knight, Sorcerer, Warlock, Wizard, Arcane Trickster</source>
 				</id-00006>
@@ -42093,6 +44265,32 @@
 					<school type="string">Divination</school>
 					<source type="string">Bard, Cleric, Druid, Eldritch Knight, Eldritch Invocations, Paladin, Ranger, Sorcerer, Wizard, Arcane Trickster</source>
 				</id-00011>
+				<id-00012>
+					<holder name="jtron" owner="true" />
+					<actions>
+						<holder name="jtron" owner="true" />
+						<id-00001>
+							<holder name="jtron" owner="true" />
+							<heallist>
+								<holder name="jtron" owner="true" />
+								<id-00001>
+									<holder name="jtron" owner="true" />
+									<bonus type="number">3</bonus>
+									<stat type="string">charisma</stat>
+								</id-00001>
+							</heallist>
+							<healtargeting type="string">self</healtargeting>
+							<healtype type="string">temp</healtype>
+							<order type="number">1</order>
+							<type type="string">heal</type>
+						</id-00001>
+					</actions>
+					<cast type="number">0</cast>
+					<level type="number">0</level>
+					<name type="string">Dark One's Blessing</name>
+					<prepared type="number">0</prepared>
+					<shortdescription type="string">Reset every level</shortdescription>
+				</id-00012>
 				<id-00013>
 					<holder name="jtron" owner="true" />
 					<actions>
@@ -42126,7 +44324,7 @@
 				<recordname>reference.racedata.gnome@DD PHB Deluxe</recordname>
 			</racelink>
 			<senses type="string">Darkvision 60</senses>
-			<size type="string">Small</size>
+			<size type="string">tiny</size>
 			<skilllist>
 				<holder name="jtron" owner="true" />
 				<id-00001>
@@ -42273,6 +44471,14 @@
 					<stat type="string">wisdom</stat>
 					<total type="number">1</total>
 				</id-00018>
+				<id-00019>
+					<holder name="jtron" owner="true" />
+					<misc type="number">0</misc>
+					<name type="string">History (Artificer's Lore)</name>
+					<prof type="number">2</prof>
+					<stat type="string">intelligence</stat>
+					<total type="number">7</total>
+				</id-00019>
 			</skilllist>
 			<speed>
 				<holder name="jtron" owner="true" />
@@ -42376,7 +44582,7 @@
 				<id-00003>
 					<holder name="jtron" owner="true" />
 					<attackbonus type="number">0</attackbonus>
-					<carried type="number">1</carried>
+					<carried type="number">2</carried>
 					<damagelist>
 						<holder name="jtron" owner="true" />
 						<id-00001>
@@ -42400,7 +44606,7 @@
 				<id-00004>
 					<holder name="jtron" owner="true" />
 					<attackbonus type="number">0</attackbonus>
-					<carried type="number">1</carried>
+					<carried type="number">2</carried>
 					<damagelist>
 						<holder name="jtron" owner="true" />
 						<id-00001>
@@ -42421,6 +44627,23 @@
 					</shortcut>
 					<type type="number">2</type>
 				</id-00004>
+				<id-00005>
+					<holder name="jtron" owner="true" />
+					<attackbonus type="number">0</attackbonus>
+					<carried type="number">1</carried>
+					<damagelist>
+						<holder name="jtron" owner="true" />
+					</damagelist>
+					<isidentified type="number">1</isidentified>
+					<maxammo type="number">0</maxammo>
+					<name type="string">Berserker Axe</name>
+					<prof type="number">1</prof>
+					<shortcut type="windowreference">
+						<class>item</class>
+						<recordname>....inventorylist.id-00017</recordname>
+					</shortcut>
+					<type type="number">0</type>
+				</id-00005>
 			</weaponlist>
 			<weight type="string">40 lb</weight>
 		</id-00034>
@@ -42437,11 +44660,11 @@
 					<public />
 					<charisma>
 						<public />
-						<score type="number">13</score>
+						<score type="number">8</score>
 					</charisma>
 					<constitution>
 						<public />
-						<score type="number">12</score>
+						<score type="number">15</score>
 					</constitution>
 					<dexterity>
 						<public />
@@ -42449,7 +44672,7 @@
 					</dexterity>
 					<intelligence>
 						<public />
-						<score type="number">16</score>
+						<score type="number">10</score>
 					</intelligence>
 					<strength>
 						<public />
@@ -42457,10 +44680,10 @@
 					</strength>
 					<wisdom>
 						<public />
-						<score type="number">10</score>
+						<score type="number">16</score>
 					</wisdom>
 				</abilities>
-				<ac type="number">13</ac>
+				<ac type="number">18</ac>
 				<actions>
 					<public />
 				</actions>
@@ -42469,28 +44692,10 @@
 				<deathsavesuccess type="number">0</deathsavesuccess>
 				<effects>
 					<public />
-					<id-00001>
-						<public />
-						<holder name="Chronicler" owner="true" />
-						<duration type="number">0</duration>
-						<init type="number">0</init>
-						<isactive type="number">1</isactive>
-						<isgmonly type="number">0</isgmonly>
-						<label type="string">Fey Ancestry; Advantage on saving throws vs. charmed,no magic sleep</label>
-					</id-00001>
-					<id-00002>
-						<public />
-						<holder name="Chronicler" owner="true" />
-						<duration type="number">0</duration>
-						<init type="number">0</init>
-						<isactive type="number">1</isactive>
-						<isgmonly type="number">0</isgmonly>
-						<label type="string">Mage Armor; AC: 3</label>
-					</id-00002>
 				</effects>
 				<friendfoe type="string">friend</friendfoe>
 				<hptemp type="number">0</hptemp>
-				<hptotal type="number">19</hptotal>
+				<hptotal type="number">24</hptotal>
 				<init type="number">3</init>
 				<initresult type="number">0</initresult>
 				<innatespells>
@@ -42504,116 +44709,38 @@
 				</legendaryactions>
 				<link type="windowreference">
 					<class>charsheet</class>
-					<recordname>charsheet.id-00028</recordname>
+					<recordname>charsheet.id-00029</recordname>
 				</link>
-				<name type="string">Raskylathos</name>
+				<name type="string">Ronn</name>
 				<reach type="number">5</reach>
 				<reaction type="number">0</reaction>
 				<reactions>
 					<public />
 				</reactions>
 				<space type="number">5</space>
-				<speed type="string">30</speed>
+				<speed type="string">25</speed>
 				<spells>
 					<public />
 				</spells>
-				<status type="string">Wounded</status>
+				<status type="string">Healthy</status>
 				<targets>
 					<public />
+					<id-00063>
+						<public />
+						<noderef type="string">combattracker.list.id-00001</noderef>
+					</id-00063>
 				</targets>
-				<token type="token">portrait_id-00028_token</token>
-				<tokenrefid type="string">3</tokenrefid>
-				<tokenrefnode type="string">image.id-00139.image@ProNobis-Penolia</tokenrefnode>
+				<token type="token">portrait_id-00029_token</token>
+				<tokenrefid type="string">5</tokenrefid>
+				<tokenrefnode type="string">image.id-00127.image@Incarnate-Penolia</tokenrefnode>
 				<tokenscale type="number">1</tokenscale>
-				<tokenvis type="number">0</tokenvis>
+				<tokenvis type="number">1</tokenvis>
 				<traits>
 					<public />
 				</traits>
-				<wounds type="number">2</wounds>
+				<wounds type="number">0</wounds>
 			</id-00001>
 			<id-00002>
-				<public />
-				<abilities>
-					<public />
-					<charisma>
-						<public />
-						<score type="number">16</score>
-					</charisma>
-					<constitution>
-						<public />
-						<score type="number">14</score>
-					</constitution>
-					<dexterity>
-						<public />
-						<score type="number">14</score>
-					</dexterity>
-					<intelligence>
-						<public />
-						<score type="number">10</score>
-					</intelligence>
-					<strength>
-						<public />
-						<score type="number">10</score>
-					</strength>
-					<wisdom>
-						<public />
-						<score type="number">10</score>
-					</wisdom>
-				</abilities>
-				<ac type="number">12</ac>
-				<actions>
-					<public />
-				</actions>
-				<active type="number">0</active>
-				<deathsavefail type="number">0</deathsavefail>
-				<deathsavesuccess type="number">0</deathsavesuccess>
-				<effects>
-					<public />
-				</effects>
-				<friendfoe type="string">friend</friendfoe>
-				<hptemp type="number">6</hptemp>
-				<hptotal type="number">24</hptotal>
-				<init type="number">2</init>
-				<initresult type="number">0</initresult>
-				<innatespells>
-					<public />
-				</innatespells>
-				<lairactions>
-					<public />
-				</lairactions>
-				<legendaryactions>
-					<public />
-				</legendaryactions>
-				<link type="windowreference">
-					<class>charsheet</class>
-					<recordname>charsheet.id-00008</recordname>
-				</link>
-				<name type="string">Heir' mitt</name>
-				<reach type="number">5</reach>
-				<reaction type="number">0</reaction>
-				<reactions>
-					<public />
-				</reactions>
-				<space type="number">5</space>
-				<speed type="string">30</speed>
-				<spells>
-					<public />
-				</spells>
-				<status type="string">Wounded</status>
-				<targets>
-					<public />
-				</targets>
-				<token type="token">portrait_id-00008_token</token>
-				<tokenrefid type="string">2</tokenrefid>
-				<tokenrefnode type="string">image.id-00139.image@ProNobis-Penolia</tokenrefnode>
-				<tokenscale type="number">1</tokenscale>
-				<tokenvis type="number">0</tokenvis>
-				<traits>
-					<public />
-				</traits>
-				<wounds type="number">8</wounds>
-			</id-00002>
-			<id-00003>
 				<public />
 				<abilities>
 					<public />
@@ -42654,7 +44781,7 @@
 				</effects>
 				<friendfoe type="string">friend</friendfoe>
 				<hptemp type="number">0</hptemp>
-				<hptotal type="number">18</hptotal>
+				<hptotal type="number">21</hptotal>
 				<init type="number">0</init>
 				<initresult type="number">0</initresult>
 				<innatespells>
@@ -42686,179 +44813,15 @@
 					<public />
 				</targets>
 				<token type="token">portrait_id-00034_token</token>
-				<tokenrefid type="string">1</tokenrefid>
-				<tokenrefnode type="string">image.id-00139.image@ProNobis-Penolia</tokenrefnode>
-				<tokenscale type="number">1</tokenscale>
-				<tokenvis type="number">0</tokenvis>
+				<tokenrefid type="string">6</tokenrefid>
+				<tokenrefnode type="string">image.id-00127.image@Incarnate-Penolia</tokenrefnode>
+				<tokenscale type="number">0.3</tokenscale>
+				<tokenvis type="number">1</tokenvis>
 				<traits>
 					<public />
 				</traits>
 				<wounds type="number">0</wounds>
-			</id-00003>
-			<id-00004>
-				<public />
-				<abilities>
-					<public />
-					<charisma>
-						<public />
-						<score type="number">10</score>
-					</charisma>
-					<constitution>
-						<public />
-						<score type="number">12</score>
-					</constitution>
-					<dexterity>
-						<public />
-						<score type="number">16</score>
-					</dexterity>
-					<intelligence>
-						<public />
-						<score type="number">16</score>
-					</intelligence>
-					<strength>
-						<public />
-						<score type="number">9</score>
-					</strength>
-					<wisdom>
-						<public />
-						<score type="number">12</score>
-					</wisdom>
-				</abilities>
-				<ac type="number">15</ac>
-				<actions>
-					<public />
-				</actions>
-				<active type="number">0</active>
-				<deathsavefail type="number">0</deathsavefail>
-				<deathsavesuccess type="number">0</deathsavesuccess>
-				<effects>
-					<public />
-				</effects>
-				<friendfoe type="string">friend</friendfoe>
-				<hptemp type="number">0</hptemp>
-				<hptotal type="number">21</hptotal>
-				<init type="number">3</init>
-				<initresult type="number">0</initresult>
-				<innatespells>
-					<public />
-				</innatespells>
-				<lairactions>
-					<public />
-				</lairactions>
-				<legendaryactions>
-					<public />
-				</legendaryactions>
-				<link type="windowreference">
-					<class>charsheet</class>
-					<recordname>charsheet.id-00031</recordname>
-				</link>
-				<name type="string">Gadget</name>
-				<reach type="number">5</reach>
-				<reaction type="number">0</reaction>
-				<reactions>
-					<public />
-				</reactions>
-				<space type="number">5</space>
-				<speed type="string">25</speed>
-				<spells>
-					<public />
-				</spells>
-				<status type="string">Wounded</status>
-				<targets>
-					<public />
-				</targets>
-				<token type="token">portrait_id-00031_token</token>
-				<tokenrefid type="string">5</tokenrefid>
-				<tokenrefnode type="string">image.id-00139.image@ProNobis-Penolia</tokenrefnode>
-				<tokenscale type="number">1</tokenscale>
-				<tokenvis type="number">0</tokenvis>
-				<traits>
-					<public />
-				</traits>
-				<wounds type="number">1</wounds>
-			</id-00004>
-			<id-00005>
-				<public />
-				<abilities>
-					<public />
-					<charisma>
-						<public />
-						<score type="number">14</score>
-					</charisma>
-					<constitution>
-						<public />
-						<score type="number">10</score>
-					</constitution>
-					<dexterity>
-						<public />
-						<score type="number">16</score>
-					</dexterity>
-					<intelligence>
-						<public />
-						<score type="number">12</score>
-					</intelligence>
-					<strength>
-						<public />
-						<score type="number">10</score>
-					</strength>
-					<wisdom>
-						<public />
-						<score type="number">14</score>
-					</wisdom>
-				</abilities>
-				<ac type="number">14</ac>
-				<actions>
-					<public />
-				</actions>
-				<active type="number">0</active>
-				<deathsavefail type="number">0</deathsavefail>
-				<deathsavesuccess type="number">0</deathsavesuccess>
-				<effects>
-					<public />
-				</effects>
-				<friendfoe type="string">friend</friendfoe>
-				<hptemp type="number">0</hptemp>
-				<hptotal type="number">18</hptotal>
-				<init type="number">3</init>
-				<initresult type="number">0</initresult>
-				<innatespells>
-					<public />
-				</innatespells>
-				<lairactions>
-					<public />
-				</lairactions>
-				<legendaryactions>
-					<public />
-				</legendaryactions>
-				<link type="windowreference">
-					<class>charsheet</class>
-					<recordname>charsheet.id-00030</recordname>
-				</link>
-				<name type="string">Axon</name>
-				<reach type="number">5</reach>
-				<reaction type="number">0</reaction>
-				<reactions>
-					<public />
-				</reactions>
-				<space type="number">5</space>
-				<speed type="string">25</speed>
-				<spells>
-					<public />
-				</spells>
-				<status type="string">Wounded</status>
-				<targets>
-					<public />
-				</targets>
-				<token type="token">portrait_id-00030_token</token>
-				<tokenrefid type="string">6</tokenrefid>
-				<tokenrefnode type="string">image.id-00139.image@ProNobis-Penolia</tokenrefnode>
-				<tokenscale type="number">1</tokenscale>
-				<tokenvis type="number">0</tokenvis>
-				<traits>
-					<public />
-				</traits>
-				<wounds type="number">2</wounds>
-			</id-00005>
+			</id-00002>
 		</list>
 		<round type="number">1</round>
 	</combattracker>
@@ -42992,6 +44955,21 @@
 				</linklist>
 			</text>
 		</id-00082>
+		<id-00104>
+			<name type="string">CR - Medium Monster</name>
+			<text type="formattedtext">
+				<p>1/2with 32 (7d8) hit points; STR: 12 DEX: 9 CON: 12 INT: 11 WIS: 12 CHA: 9; Melee Weapon Attack: +3 to hit. On Hit: 4 (1d6) slashing damage; AC: 12; DC: 12; XP: 100</p>
+				<linklist>
+					<link class="table" recordname="tables.id-00333@ProNobis-WorldCreation">Random - CR - Medium Monster</link>
+				</linklist>
+			</text>
+		</id-00104>
+		<id-00132>
+			<name type="string">River crossing</name>
+			<text type="formattedtext">
+				<p>Narrow Precarious bridge</p>
+			</text>
+		</id-00132>
 		<category name="06,05" baseicon="0" decalicon="0">
 			<id-00027>
 				<name type="string">06,05 Forest Lair Treasure Chamber 2</name>
@@ -44004,6 +45982,300 @@
 					</linklist>
 				</text>
 			</id-00111>
+		</category>
+		<category name="06,05 Dwarven Ruin" baseicon="0" decalicon="0">
+			<id-00133>
+				<name type="string">Dwarven Ruin Entrance</name>
+				<text type="formattedtext">
+					<h>Description</h>
+					<frame>You notice a dip in the ground and as you come to the edge you see that there is a short cliff with a cave entrance at the bottom of it.;</frame>
+					<linklist>
+						<link class="item" recordname="item.id-00268@ProNobis-WorldCreation">Drum</link>
+					</linklist>
+					<frame>; An old orc body split in two.; An erie persistant silence.; Monsters cowering in the corners.; A conversation in the distance. One side sounds frantic while the other is unusually calm.</frame>
+					<linklist>
+						<link class="storytemplate" recordname="storytemplate.id-00192@ProNobis-WorldCreation">Little Reaper</link>
+					</linklist>
+					<frame>Forshadowing - Little Reaper</frame>
+					<h>Possible Next Elements</h>
+					<linklist>
+						<link class="storytemplate" recordname="storytemplate.id-00180@ProNobis-WorldCreation">Dwarven Ruin Hallway</link>
+						<link class="storytemplate" recordname="storytemplate.id-00136@ProNobis-WorldCreation">Dwarven Ruin Chamber</link>
+						<link class="storytemplate" recordname="storytemplate.id-00139@ProNobis-WorldCreation">Dwarven Ruin Boss Chamber</link>
+						<link class="storytemplate" recordname="storytemplate.id-00147@ProNobis-WorldCreation">Dwarven Ruin Treasure Chamber</link>
+						<link class="table" recordname="tables.id-01709@ProNobis-WorldCreation">Random - Dungeon - Dwarven Ruin - Element</link>
+					</linklist>
+				</text>
+			</id-00133>
+			<id-00134>
+				<name type="string">Dwarven Ruin Chamber</name>
+				<text type="formattedtext">
+					<h>Description</h>
+					<frame>You walk into a chamber that is 29 ft. by 22 ft. with a ceiling 11 ft. high. The area is filled with glow worms giving off dim light. The walls are made of smooth obsidian. The air is slowly rising tingling your nose with a earthy smell. As you listen carefully you hear meniachal laughter from behind you.</frame>
+					<h>Difficulty</h>
+					<p>Trap: The trap in this room is triggered by a tripwire causing doors lock and room starts to flood which has the following characteristics:</p>
+					<p>Setback; Save: 10; Attack: +3; 1d10 (1-4), 2d10 (5-10), 4d10 (11-16), 10d10 (17-20)</p>
+					<p>Possible Encoutner:</p>
+					<p>Random - Coastal - Encounter</p>
+					<h>Key Feature</h>
+					<p>a shiny doornob which imparts the blessing of spawning 3 SP and the curse of causing 1 SP to vanish. Takes an Arcana check of DC 11 to determine its attributes. - western door, limited to once per hour.</p>
+					<h>Useful Items</h>
+					<linklist>
+						<link class="item" recordname="item.id-00253@ProNobis-WorldCreation">Smith's Tools</link>
+						<link class="item" recordname="item.id-00394@ProNobis-WorldCreation">Potion of Healing</link>
+						<link class="item" recordname="item.id-00266@ProNobis-WorldCreation">Three-dragon Ante Set</link>
+						<link class="item" recordname="item.id-00100@ProNobis-WorldCreation">Hourglass</link>
+					</linklist>
+					<h>Possible Next Elements</h>
+					<linklist>
+						<link class="storytemplate" recordname="storytemplate.id-00180@ProNobis-WorldCreation">Dwarven Ruin Hallway</link>
+						<link class="storytemplate" recordname="..@ProNobis-WorldCreation">Dwarven Ruin Chamber</link>
+						<link class="storytemplate" recordname="storytemplate.id-00127@ProNobis-WorldCreation">Dwarven Ruin Entrance</link>
+						<link class="storytemplate" recordname="storytemplate.id-00139@ProNobis-WorldCreation">Dwarven Ruin Boss Chamber</link>
+						<link class="storytemplate" recordname="storytemplate.id-00147@ProNobis-WorldCreation">Dwarven Ruin Treasure Chamber</link>
+						<link class="table" recordname="tables.id-01709@ProNobis-WorldCreation">Random - Dungeon - Dwarven Ruin - Element</link>
+					</linklist>
+				</text>
+			</id-00134>
+			<id-00135>
+				<name type="string">Dwarven Ruin Chamber</name>
+				<text type="formattedtext">
+					<h>Lore</h>
+					<p>The Kobolds are performing last rights over a fallen comrad.</p>
+					<h>Description</h>
+					<frame>You walk into a chamber that is 28 ft. by 21 ft. with a ceiling 7 ft. high. The area is filled with glow worms giving off dim light. The walls are made of smooth sandstone. The air is swirling in tight columns tingling your nose with a damp smell. As you listen carefully you hear footsteps in front of you.</frame>
+					<h>Difficulty</h>
+					<p>Trap: The trap in this room is triggered by a pressureplate causing doors lock and room starts to flood which has the following characteristics:</p>
+					<p>Dangerous; Save: 15; Attack: +8; 2d10 (1-4), 4d10 (5-10), 10d10 (11-16), 18d10 (17-20)</p>
+					<p>Possible Encoutner:</p>
+					<linklist>
+						<link class="battle" recordname="battle.U0400004@ProNobis - Random Encounter">U04-03 Encounter</link>
+					</linklist>
+					<h>Key Feature</h>
+					<p>a statue which imparts the blessing of spawning 30 GP and the curse of causing 39 GP to vanish. Takes an Arcana check of DC 20 to determine its attributes.</p>
+					<h>Useful Items</h>
+					<linklist>
+						<link class="item" recordname="item.id-00230@ProNobis-WorldCreation">Javelin</link>
+						<link class="item" recordname="item.id-00205@ProNobis-WorldCreation">Glaive</link>
+						<link class="item" recordname="item.id-00003@ProNobis-WorldCreation">Arrows (20)</link>
+						<link class="item" recordname="item.id-00107@ProNobis-WorldCreation">Knife (Small)</link>
+					</linklist>
+					<h>Possible Next Elements</h>
+					<linklist>
+						<link class="storytemplate" recordname="storytemplate.id-00180@ProNobis-WorldCreation">Dwarven Ruin Hallway</link>
+						<link class="storytemplate" recordname="..@ProNobis-WorldCreation">Dwarven Ruin Chamber</link>
+						<link class="storytemplate" recordname="storytemplate.id-00127@ProNobis-WorldCreation">Dwarven Ruin Entrance</link>
+						<link class="storytemplate" recordname="storytemplate.id-00139@ProNobis-WorldCreation">Dwarven Ruin Boss Chamber</link>
+						<link class="storytemplate" recordname="storytemplate.id-00147@ProNobis-WorldCreation">Dwarven Ruin Treasure Chamber</link>
+						<link class="table" recordname="tables.id-01709@ProNobis-WorldCreation">Random - Dungeon - Dwarven Ruin - Element</link>
+					</linklist>
+				</text>
+			</id-00135>
+			<id-00136>
+				<name type="string">Dwarven Ruin Chamber</name>
+				<text type="formattedtext">
+					<h>Description</h>
+					<frame>You walk into a chamber that is 19 ft. by 32 ft. with a ceiling 7 ft. high. The area is filled with glowing moss giving off dim light. The walls are made of compacted dirt. The air is slowly rising tingling your nose with a crisp and clean smell. As you listen carefully you hear footsteps in front of you.</frame>
+					<h>Difficulty</h>
+					<p>Trap: The trap in this room is triggered by a tripwire causing poison arrow which has the following characteristics:</p>
+					<p>Setback; Save: 11; Attack: +5; 1d10 (1-4), 2d10 (5-10), 4d10 (11-16), 10d10 (17-20)</p>
+					<p>Possible Encoutner:</p>
+					<linklist>
+						<link class="battle" recordname="battle.U0800002@ProNobis - Random Encounter">U08-01 Encounter</link>
+					</linklist>
+					<h>Key Feature</h>
+					<p>a statue which imparts the blessing of boosting strength by 1 for 1 minutes and the curse of reducing constitution by 2 for 1 minutes. Takes an Arcana check of DC 7 to determine its attributes.</p>
+					<p></p>
+					<p>A statue of a giant kobold in an ornate garb. Has some religious significance.</p>
+					<h>Useful Items</h>
+					<linklist>
+						<link class="item" recordname="item.id-00008@ProNobis-WorldCreation">Sling Bullet (5)</link>
+						<link class="item" recordname="item.id-00252@ProNobis-WorldCreation">Potter's Tools</link>
+						<link class="item" recordname="item.id-00127@ProNobis-WorldCreation">Poison, Basic (Vial)</link>
+						<link class="item" recordname="item.id-00237@ProNobis-WorldCreation">Dart</link>
+					</linklist>
+					<h>Possible Next Elements</h>
+					<linklist>
+						<link class="storytemplate" recordname="storytemplate.id-00180@ProNobis-WorldCreation">Dwarven Ruin Hallway</link>
+						<link class="storytemplate" recordname="..@ProNobis-WorldCreation">Dwarven Ruin Chamber</link>
+						<link class="storytemplate" recordname="storytemplate.id-00127@ProNobis-WorldCreation">Dwarven Ruin Entrance</link>
+						<link class="storytemplate" recordname="storytemplate.id-00139@ProNobis-WorldCreation">Dwarven Ruin Boss Chamber</link>
+						<link class="storytemplate" recordname="storytemplate.id-00147@ProNobis-WorldCreation">Dwarven Ruin Treasure Chamber</link>
+						<link class="table" recordname="tables.id-01709@ProNobis-WorldCreation">Random - Dungeon - Dwarven Ruin - Element</link>
+					</linklist>
+				</text>
+			</id-00136>
+		</category>
+		<category name="06,05 Elven Dungeon 1" baseicon="0" decalicon="0">
+			<id-00112>
+				<name type="string">Crystal Elf Dungeon Chamber</name>
+				<text type="formattedtext">
+					<h>Lore</h>
+					<p>Room contains a pile of trash in NW corner, there is a magical banana peel in the trash pile that opens and closes the passage on the western side. Vines on the eastern wall. </p>
+					<h>Description</h>
+					<frame>You walk into a large chamber that is 49 ft. by 30 ft. with a high arching ceiling 7 ft. high. The area is filled with glowing moss giving off dim light. The walls are made of bumpy limestone. The air is unnaturally still tingling your nose with a crisp and clean smell. As you listen carefully you hear breathing in front of you.</frame>
+					<h>Difficulty</h>
+					<p>Trap: The trap in this room is triggered by a magical glyph causing dispenses sleeping gas which has the following characteristics:</p>
+					<p>Dangerous; Save: 15; Attack: +8; 2d10 (1-4), 4d10 (5-10), 10d10 (11-16), 18d10 (17-20)</p>
+					<p>Possible Encoutner:</p>
+					<linklist>
+						<link class="battle" recordname="battle.R2200016@ProNobis - Random Encounter">R22-15 Encounter</link>
+					</linklist>
+					<h>Key Feature</h>
+					<p>a large black caldron mysteriously boiling with no visible source of heat which imparts the blessing of boosting constitution by 4 for 11 minutes and the curse of causing 7 GP to vanish. Takes an Arcana check of DC 17 to determine its attributes.</p>
+					<h>Useful Items</h>
+					<linklist>
+						<link class="item" recordname="item.id-00066@ProNobis-WorldCreation">Carpet</link>
+						<link class="item" recordname="item.id-00099@ProNobis-WorldCreation">Holy Water (Flask)</link>
+						<link class="item" recordname="item.id-00094@ProNobis-WorldCreation">Hammer</link>
+						<link class="item" recordname="item.id-00190@ProNobis-WorldCreation">Leather</link>
+					</linklist>
+				</text>
+			</id-00112>
+			<id-00120>
+				<name type="string">Crystal Elf Dungeon Hallways</name>
+				<text type="formattedtext">
+					<h>Description</h>
+					<frame>The hallway is 9 ft. wide and 10 ft. tall. It goes forward forward 30 ft. before reaching a branch leaving to the right. The area is filled with torches giving off bright light; . The walls are made of compacted dirt. The air is unnaturally still tingling your nose with a musty smell. As you listen carefully you hear breathing in front of you.</frame>
+					<h>Possible Next Elements</h>
+					<linklist>
+						<link class="storytemplate" recordname="..@ProNobis-WorldCreation">Crystal Elf Dungeon Hallways</link>
+						<link class="storytemplate" recordname="storytemplate.id-00135@ProNobis-WorldCreation">Crystal Elf Dungeon Chamber</link>
+						<link class="storytemplate" recordname="storytemplate.id-00129@ProNobis-WorldCreation">Crystal Elf Dungeon Entrance</link>
+						<link class="storytemplate" recordname="storytemplate.id-00138@ProNobis-WorldCreation">Crystal Elf Dungeon Boss Chamber</link>
+						<link class="storytemplate" recordname="storytemplate.id-00146@ProNobis-WorldCreation">Crystal Elf Dungeon Treasure Chamber</link>
+						<link class="table" recordname="tables.id-01697@ProNobis-WorldCreation">Random - Dungeon - Crystal Elf Dungeon - Element</link>
+					</linklist>
+				</text>
+			</id-00120>
+			<id-00121>
+				<name type="string">Crystal Elf Dungeon Chamber</name>
+				<text type="formattedtext">
+					<h>Description</h>
+					<frame>You walk into a large chamber that is 30 ft. by 25 ft. with a high arching ceiling 15 ft. high. The area is filled with natural darkness; . The walls are made of polished slate. The air is slowly rising tingling your nose with a earthy smell. As you listen carefully you hear cruel laughter from behind you.</frame>
+					<h>Difficulty</h>
+					<p>Trap: The trap in this room is triggered by a tripwire causing dispenses sleeping gas which has the following characteristics:</p>
+					<p>Setback; Save: 10; Attack: +3; 1d10 (1-4), 2d10 (5-10), 4d10 (11-16), 10d10 (17-20)</p>
+					<p>Possible Encoutner:</p>
+					<linklist>
+						<link class="battle" recordname="battle.M0800021@ProNobis - Random Encounter">M08-20 Encounter</link>
+					</linklist>
+					<h>Key Feature</h>
+					<p>a large black caldron mysteriously boiling with no visible source of heat which imparts the blessing of restoring 1d4 hp and the curse of growing one size larger for 6 days then you decrease 2 sizess for 6 days before returning to normal size. Takes an Arcana check of DC 9 to determine its attributes.</p>
+					<h>Useful Items</h>
+					<linklist>
+						<link class="item" recordname="item.id-00196@ProNobis-WorldCreation">Scale Mail</link>
+						<link class="item" recordname="item.id-00105@ProNobis-WorldCreation">Jar Of Glue</link>
+						<link class="item" recordname="item.id-00255@ProNobis-WorldCreation">Weaver's Tools</link>
+						<link class="item" recordname="item.id-00249@ProNobis-WorldCreation">Leatherworker's Tools</link>
+					</linklist>
+				</text>
+			</id-00121>
+			<id-00122>
+				<name type="string">Crystal Elf Dungeon Chamber</name>
+				<text type="formattedtext">
+					<h>Description</h>
+					<frame>You walk into a large chamber that is 27 ft. by 28 ft. with a high arching ceiling 12 ft. high. The area is filled with candle stands giving off dim light; . The walls are made of compacted dirt. The air is swirling in tight columns tingling your nose with a earthy smell. As you listen carefully you hear moaning in front of you.</frame>
+					<h>Difficulty</h>
+					<p>Trap: The trap in this room is triggered by a pressureplate causing a pit in the floor opens over a spiked pit which has the following characteristics:</p>
+					<p>Dangerous; Save: 12; Attack: +6; 2d10 (1-4), 4d10 (5-10), 10d10 (11-16), 18d10 (17-20)</p>
+					<p>Possible Encoutner:</p>
+					<linklist>
+						<link class="battle" recordname="battle.G1200017@ProNobis - Random Encounter">G12-16 Encounter</link>
+					</linklist>
+					<h>Key Feature</h>
+					<p>a fountain which imparts the blessing of resortoring 2d6 hp and the curse of taking 1d20 damage. Takes an Arcana check of DC 22 to determine its attributes.</p>
+					<h>Useful Items</h>
+					<linklist>
+						<link class="item" recordname="item.id-00030@ProNobis-WorldCreation">Artifact- Ultra LEGENDARY Drop</link>
+						<link class="item" recordname="item.id-00215@ProNobis-WorldCreation">Scimitar - claimed</link>
+						<link class="item" recordname="item.id-00003@ProNobis-WorldCreation">Arrows (20)</link>
+						<link class="item" recordname="item.id-00008@ProNobis-WorldCreation">Sling Bullet (5)</link>
+					</linklist>
+				</text>
+			</id-00122>
+			<id-00123>
+				<name type="string">Crystal Elf Dungeon Chamber</name>
+				<text type="formattedtext">
+					<h>Description</h>
+					<frame>You walk into a large chamber that is 29 ft. by 19 ft. with a high arching ceiling 13 ft. high. The area is filled with torches giving off bright light; . The walls are made of polished slate. The air is slowly rising tingling your nose with a crisp and clean smell. As you listen carefully you hear the crackling of a fire from beneath the floor.</frame>
+					<h>Difficulty</h>
+					<p>Trap: The trap in this room is triggered by a tripwire causing dispenses sleeping gas which has the following characteristics:</p>
+					<p>Deadly; Save: 20; Attack: +12; 4d10 (1-4), 10d10 (5-10), 18d10 (11-16), 24d10 (17-20)</p>
+					<p>Possible Encoutner:</p>
+					<linklist>
+						<link class="battle" recordname="battle.G1600014@ProNobis - Random Encounter">G16-13 Encounter</link>
+					</linklist>
+					<h>Key Feature</h>
+					<p>a shiny doornob which imparts the blessing of restoring 1d6 hp and the curse of taking 1d8 damage. Takes an Arcana check of DC 15 to determine its attributes.</p>
+					<h>Useful Items</h>
+					<linklist>
+						<link class="item" recordname="item.id-00394@ProNobis-WorldCreation">Potion of Healing</link>
+						<link class="item" recordname="item.id-00009@ProNobis-WorldCreation">Sling Bullets (20)</link>
+						<link class="item" recordname="item.id-00388@ProNobis-WorldCreation">Potion of Flying</link>
+						<link class="item" recordname="item.id-00008@ProNobis-WorldCreation">Sling Bullet (5)</link>
+					</linklist>
+				</text>
+			</id-00123>
+			<id-00124>
+				<name type="string">Crystal Elf Dungeon Hallways</name>
+				<text type="formattedtext">
+					<h>Description</h>
+					<frame>The hallway is 14 ft. wide and 8 ft. tall. It goes forward forward 29 ft. before reaching a crossing path with no path going forward. The area is filled with torches giving off bright light; . The walls are made of bumpy sandstone. The air is swirling in tight columns tingling your nose with a stale smell. As you listen carefully you hear the crackling of a fire from behind you.</frame>
+					<h>Possible Next Elements</h>
+					<linklist>
+						<link class="storytemplate" recordname="..@ProNobis-WorldCreation">Crystal Elf Dungeon Hallways</link>
+						<link class="storytemplate" recordname="storytemplate.id-00135@ProNobis-WorldCreation">Crystal Elf Dungeon Chamber</link>
+						<link class="storytemplate" recordname="storytemplate.id-00129@ProNobis-WorldCreation">Crystal Elf Dungeon Entrance</link>
+						<link class="storytemplate" recordname="storytemplate.id-00138@ProNobis-WorldCreation">Crystal Elf Dungeon Boss Chamber</link>
+						<link class="storytemplate" recordname="storytemplate.id-00146@ProNobis-WorldCreation">Crystal Elf Dungeon Treasure Chamber</link>
+						<link class="table" recordname="tables.id-01697@ProNobis-WorldCreation">Random - Dungeon - Crystal Elf Dungeon - Element</link>
+					</linklist>
+				</text>
+			</id-00124>
+			<id-00125>
+				<name type="string">Crystal Elf Dungeon Chamber</name>
+				<text type="formattedtext">
+					<h>Lore</h>
+					<p>The door here has a heat sensitive magic doornob that magically reinforces the doors whenever touched.</p>
+					<p>Western - decayed and in bad shape</p>
+					<p>Northern is in extreme disrepair</p>
+					<p>Eastern - extreme disrepair with a shiny doornob.</p>
+					<h>Description</h>
+					<frame>You walk into a large chamber that is 31 ft. by 30 ft. with a high arching ceiling 6 ft. high. The area is filled with candle stands giving off dim light; . The walls are made of pitted slate. The air is slowly drifting past you tingling your nose with a crisp and clean smell. As you listen carefully you hear footsteps from beneath the floor.</frame>
+					<h>Difficulty</h>
+					<p>Trap: The trap in this room is triggered by a tripwire causing ice storm which has the following characteristics: - triggered</p>
+					<p>Dangerous; Save: 15; Attack: +8; 2d10 (1-4), 4d10 (5-10), 10d10 (11-16), 18d10 (17-20)</p>
+					<p>Possible Encoutner:</p>
+					<linklist>
+						<link class="battle" recordname="battle.A1700009@ProNobis - Random Encounter">A17-08 Encounter</link>
+					</linklist>
+					<h>Key Feature</h>
+					<p>a glowing painting which imparts the blessing of boosting intelligence by 2 for 2 minutes and the curse of growing one size larger for 9 days then you decrease 2 sizess for 10 days before returning to normal size. Takes an Arcana check of DC 11 to determine its attributes. - taken - returned... by force</p>
+					<h>Useful Items</h>
+					<linklist>
+						<link class="item" recordname="item.id-00067@ProNobis-WorldCreation">Case, Crossbow Bolt</link>
+						<link class="item" recordname="item.id-00196@ProNobis-WorldCreation">Scale Mail</link>
+						<link class="item" recordname="item.id-00044@ProNobis-WorldCreation">Bead</link>
+						<link class="item" recordname="item.id-00002@ProNobis-WorldCreation">Arrow</link>
+					</linklist>
+				</text>
+			</id-00125>
+			<id-00126>
+				<name type="string">Crystal Elf Dungeon Boss Chamber</name>
+				<text type="formattedtext">
+					<h>Description</h>
+					<frame>You walk into a large chamber that is 148 ft. by 77 ft. with a high arching ceiling 38 ft. high. The area is filled with glow worms giving off dim light. The walls are made of jagged slate. The air is swirling in tight columns tingling your nose with a damp smell. As you listen carefully you hear footsteps from above you.</frame>
+					<h>Boss:</h>
+					<h>Useful Items</h>
+					<linklist>
+						<link class="item" recordname="item.id-00394@ProNobis-WorldCreation">Potion of Healing</link>
+						<link class="item" recordname="item.id-00265@ProNobis-WorldCreation">Playing Card Set</link>
+						<link class="item" recordname="item.id-00263@ProNobis-WorldCreation">Dice Set</link>
+						<link class="item" recordname="item.id-00004@ProNobis-WorldCreation">Blowgun Needle</link>
+					</linklist>
+				</text>
+			</id-00126>
 		</category>
 		<category name="Eastern Plains" baseicon="0" decalicon="0">
 			<id-00033>
@@ -46229,7 +48501,11 @@
 				<locked type="number">0</locked>
 				<name type="string">Portal</name>
 				<text type="formattedtext">
-					<p></p>
+					<h>Pile of poor people</h>
+					<linklist>
+						<link class="item" recordname="partysheet.treasureparcelitemlist.id-00002">Scale Mail</link>
+						<link class="item" recordname="partysheet.treasureparcelitemlist.id-00001">Scimitar</link>
+					</linklist>
 				</text>
 			</id-00006>
 			<id-00007>
@@ -48919,6 +51195,42 @@
 		</id-00044>
 	</image>
 	<item>
+		<category name="ProNobis - Crystal Weapon" baseicon="0" decalicon="0">
+			<id-00001>
+				<ac type="number">0</ac>
+				<bonus type="number">0</bonus>
+				<cost type="string">5 GP</cost>
+				<damage type="string">1d6 piercing</damage>
+				<description type="formattedtext">
+					<p>Crystal Weapons are not made of metal and are not affected by things that affect metal. Legend says that crystal elfs know some secrets about these weapons.</p>
+				</description>
+				<isidentified type="number">1</isidentified>
+				<istemplate type="number">0</istemplate>
+				<locked type="number">0</locked>
+				<name type="string">Crystal Javelin</name>
+				<properties type="string">Thrown (range 30/120)</properties>
+				<subtype type="string">Simple Melee Weapons</subtype>
+				<type type="string">Weapon</type>
+				<weight type="number">2</weight>
+			</id-00001>
+			<id-00002>
+				<ac type="number">0</ac>
+				<bonus type="number">0</bonus>
+				<cost type="string">50 gp</cost>
+				<damage type="string">1d6 slashing</damage>
+				<description type="formattedtext">
+					<p>Crystal Weapons are not made of metal and are not affected by things that affect metal. Legend says that crystal elfs know some secrets about these weapons.</p>
+				</description>
+				<isidentified type="number">1</isidentified>
+				<istemplate type="number">0</istemplate>
+				<locked type="number">0</locked>
+				<name type="string">Crystal Handaxe</name>
+				<properties type="string">Light, thrown (range 20/60)</properties>
+				<subtype type="string">Simple Melee Weapons</subtype>
+				<type type="string">Weapon</type>
+				<weight type="number">2</weight>
+			</id-00002>
+		</category>
 	</item>
 	<languages>
 		<public />
@@ -49475,11 +51787,92 @@
 			</traits>
 			<xp type="number">0</xp>
 		</id-00006>
+		<id-00007>
+			<abilities>
+				<charisma>
+					<bonus type="number">-1</bonus>
+					<score type="number">9</score>
+				</charisma>
+				<constitution>
+					<bonus type="number">1</bonus>
+					<score type="number">12</score>
+				</constitution>
+				<dexterity>
+					<bonus type="number">-1</bonus>
+					<score type="number">9</score>
+				</dexterity>
+				<intelligence>
+					<bonus type="number">0</bonus>
+					<score type="number">11</score>
+				</intelligence>
+				<strength>
+					<bonus type="number">1</bonus>
+					<score type="number">12</score>
+				</strength>
+				<wisdom>
+					<bonus type="number">1</bonus>
+					<score type="number">12</score>
+				</wisdom>
+			</abilities>
+			<ac type="number">12</ac>
+			<actions>
+				<id-00001>
+					<desc type="string">Melee Weapon Attack: +3 to hit. On Hit: 4 (1d6) slashing damage</desc>
+					<name type="string">Vine Whip</name>
+				</id-00001>
+				<id-00002>
+					<desc type="string">Melee Weapon Attack: +3 to hit (30/90). On Hit: 4 (1d6) bludgeoning damage. A critical hit results in your head being stuck in the pumpkin taking a dc 12 strength check to remove it.</desc>
+					<name type="string">Pumpkin Bash</name>
+				</id-00002>
+			</actions>
+			<alignment type="string">Chaotic Neutral</alignment>
+			<cr type="string">1/2</cr>
+			<damageresistances type="string">Poison</damageresistances>
+			<damagevulnerabilities type="string">Fire</damagevulnerabilities>
+			<hd type="string">7d8</hd>
+			<hp type="number">32</hp>
+			<innatespells>
+			</innatespells>
+			<lairactions>
+			</lairactions>
+			<languages type="string">Common</languages>
+			<legendaryactions>
+			</legendaryactions>
+			<name type="string">Mr. Pumpkin</name>
+			<reactions>
+			</reactions>
+			<savingthrows type="string">Constitution</savingthrows>
+			<senses type="string">passive Perception 12</senses>
+			<size type="string">Medium</size>
+			<skills type="string">Perception, Survival, Nature </skills>
+			<speed type="string">40 ft.</speed>
+			<spells>
+			</spells>
+			<text type="formattedtext">
+				<p>Mr. Pumpkin is a medium jolly cynical sort of guy. He enjoys plucking scarecrows and crows alike.</p>
+				<h>Lore:</h>
+				<p>They collect heads and things to use as scarecrows to keep the birds away.</p>
+				<h>Starting Text</h>
+				<frame>Welcome to my patch. You see all of those pumpkins... they are not pumpkins!</frame>
+				<h>Battle Taunts</h>
+				<frame>All for one and one for all. Let the bashing begin</frame>
+				<frame>You call that a hit? It carved a beautiful new smile.</frame>
+				<frame>I got him guys! with eyes like mine he... wont possibly see a thing.</frame>
+				<h>Death Speech</h>
+				<frame>You fiend! How dare you comite herbacide. There will one day be justice. Our patch will rise again.</frame>
+			</text>
+			<token type="token">tokens/Medium/p.png@Letter Tokens</token>
+			<traits>
+			</traits>
+			<type type="string">Monstrosity</type>
+			<xp type="number">100</xp>
+		</id-00007>
 	</npc>
 	<options>
 		<public />
 		<HRDD type="string">variant</HRDD>
 		<HRNH type="string">random</HRNH>
+		<MIID type="string">on</MIID>
 		<NNPC type="string">random</NNPC>
 		<NPCD type="string">fixed</NPCD>
 		<REVL type="string">on</REVL>
@@ -49494,21 +51887,51 @@
 		<checkselected type="string">Strength</checkselected>
 		<coinlist>
 			<public />
-			<id-00001>
+			<id-00006>
 				<public />
-				<amount type="number">5</amount>
-				<carriedby type="string">Gadget [5]</carriedby>
+				<amount type="number">40</amount>
+				<carriedby type="string">Doris [20], Ronn [20]</carriedby>
+				<name type="string">CP</name>
+			</id-00006>
+			<id-00007>
+				<public />
+				<amount type="number">73</amount>
+				<carriedby type="string">Doris [35], Ronn [38]</carriedby>
 				<name type="string">SP</name>
-			</id-00001>
-			<id-00002>
+			</id-00007>
+			<id-00008>
 				<public />
-				<amount type="number">52</amount>
-				<carriedby type="string">Raskylathos [15], Doris 'Door' Beren [5], Gadget [32]</carriedby>
+				<amount type="number">57</amount>
+				<carriedby type="string">Doris [26], Ronn [31]</carriedby>
 				<name type="string">GP</name>
-			</id-00002>
+			</id-00008>
 		</coinlist>
 		<encounters>
 			<public />
+			<id-00001>
+				<public />
+				<exp type="number">40</exp>
+				<name type="string">Deadly 2 player</name>
+				<xpawarded type="number">1</xpawarded>
+			</id-00001>
+			<id-00002>
+				<public />
+				<exp type="number">30</exp>
+				<name type="string">Strong 2 Player</name>
+				<xpawarded type="number">1</xpawarded>
+			</id-00002>
+			<id-00003>
+				<public />
+				<exp type="number">20</exp>
+				<name type="string">Normal 2 Player</name>
+				<xpawarded type="number">1</xpawarded>
+			</id-00003>
+			<id-00004>
+				<public />
+				<exp type="number">10</exp>
+				<name type="string">Easy 2 Player</name>
+				<xpawarded type="number">1</xpawarded>
+			</id-00004>
 		</encounters>
 		<hiderollresults type="number">0</hiderollresults>
 		<image type="image">
@@ -49523,274 +51946,264 @@
 			<public />
 			<id-00001>
 				<public />
-				<carriedby type="string">Gadget [1]</carriedby>
+				<carriedby type="string">Ronn [1]</carriedby>
 				<count type="number">1</count>
-				<name type="string">Studded Leather</name>
+				<name type="string">Tinderbox</name>
 			</id-00001>
 			<id-00002>
 				<public />
-				<carriedby type="string">Gadget [1], Raskylathos [1]</carriedby>
-				<count type="number">2</count>
-				<name type="string">Tinderbox</name>
+				<carriedby type="string">Ronn [1]</carriedby>
+				<count type="number">1</count>
+				<name type="string">Mace</name>
 			</id-00002>
 			<id-00003>
 				<public />
-				<carriedby type="string">Gadget [1]</carriedby>
+				<carriedby type="string">Ronn [1]</carriedby>
 				<count type="number">1</count>
-				<name type="string">Smith's Tools</name>
+				<name type="string">Shield</name>
 			</id-00003>
 			<id-00004>
 				<public />
-				<carriedby type="string">Doris 'Door' Beren [1]</carriedby>
+				<carriedby type="string">Ronn [1]</carriedby>
 				<count type="number">1</count>
-				<name type="string">Knife (Small)</name>
+				<name type="string">Crossbow, Light</name>
 			</id-00004>
 			<id-00005>
 				<public />
-				<carriedby type="string">Doris 'Door' Beren [1]</carriedby>
+				<carriedby type="string">Doris [1]</carriedby>
 				<count type="number">1</count>
-				<name type="string">Blanket</name>
+				<name type="string">Component Pouch</name>
 			</id-00005>
 			<id-00006>
 				<public />
-				<carriedby type="string">Hier'mitt [1]</carriedby>
+				<carriedby type="string">Ronn [1]</carriedby>
 				<count type="number">1</count>
-				<name type="string">Quarterstaff</name>
+				<name type="string">Crossbow Bolts (20)</name>
 			</id-00006>
 			<id-00007>
 				<public />
-				<carriedby type="string">Doris 'Door' Beren [1]</carriedby>
+				<carriedby type="string">Doris [1]</carriedby>
 				<count type="number">1</count>
-				<name type="string">Case, Full of Notes</name>
+				<name type="string">Ink (1-ounce Bottle)</name>
 			</id-00007>
 			<id-00008>
 				<public />
-				<carriedby type="string">Raskylathos [1]</carriedby>
+				<carriedby type="string">Ronn [1]</carriedby>
 				<count type="number">1</count>
-				<name type="string">Mess Kit</name>
+				<name type="string">Scale Mail</name>
 			</id-00008>
 			<id-00009>
 				<public />
-				<carriedby type="string">Doris 'Door' Beren [1]</carriedby>
+				<carriedby type="string">Ronn [1]</carriedby>
 				<count type="number">1</count>
-				<name type="string">Bag (Sand)</name>
+				<name type="string">Clothes, Vestments</name>
 			</id-00009>
 			<id-00010>
 				<public />
-				<carriedby type="string">Gadget [1], Raskylathos [1]</carriedby>
-				<count type="number">2</count>
-				<name type="string">Rope, Hempen (50 Feet)</name>
+				<carriedby type="string">Doris [1]</carriedby>
+				<count type="number">1</count>
+				<name type="string">Knife (Small)</name>
 			</id-00010>
 			<id-00011>
 				<public />
-				<carriedby type="string">Doris 'Door' Beren [1]</carriedby>
+				<carriedby type="string">Doris [1]</carriedby>
 				<count type="number">1</count>
-				<name type="string">Ink Pen</name>
+				<name type="string">Herbalism Kit</name>
 			</id-00011>
 			<id-00012>
 				<public />
-				<carriedby type="string">Gadget [10], Raskylathos [10]</carriedby>
-				<count type="number">20</count>
-				<name type="string">Torch</name>
+				<carriedby type="string">Ronn [1]</carriedby>
+				<count type="number">1</count>
+				<name type="string">Pouch</name>
 			</id-00012>
 			<id-00013>
 				<public />
-				<carriedby type="string">Axon Nimblefingers [1], Raskylathos [1]</carriedby>
+				<carriedby type="string">Ronn [1], Doris [1]</carriedby>
 				<count type="number">2</count>
-				<name type="string">Disguise Kit</name>
+				<name type="string">Blanket</name>
 			</id-00013>
 			<id-00014>
 				<public />
-				<carriedby type="string">Doris 'Door' Beren [1]</carriedby>
+				<carriedby type="string">Doris [1]</carriedby>
 				<count type="number">1</count>
-				<name type="string">Book of Lore</name>
+				<name type="string">Backpack</name>
 			</id-00014>
 			<id-00015>
 				<public />
-				<carriedby type="string">Gadget [1]</carriedby>
+				<carriedby type="string">Ronn [1]</carriedby>
 				<count type="number">1</count>
-				<name type="string">Tinker's Tools</name>
+				<name type="string">Waterskin</name>
 			</id-00015>
 			<id-00016>
 				<public />
-				<carriedby type="string">Gadget [1]</carriedby>
+				<carriedby type="string">Doris [1]</carriedby>
 				<count type="number">1</count>
-				<name type="string">Thunder Cannon</name>
+				<name type="string">Book of Shadows (Tome of Flames)</name>
 			</id-00016>
 			<id-00017>
 				<public />
-				<carriedby type="string">Gadget [1], Raskylathos [1]</carriedby>
-				<count type="number">2</count>
-				<name type="string">Waterskin</name>
+				<carriedby type="string">Doris [10]</carriedby>
+				<count type="number">10</count>
+				<name type="string">Parchment (One Sheet)</name>
 			</id-00017>
 			<id-00018>
 				<public />
-				<carriedby type="string">Raskylathos [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Clothes, Fine</name>
+				<carriedby type="string">Ronn [6]</carriedby>
+				<count type="number">6</count>
+				<name type="string">Rations (1 Day)</name>
 			</id-00018>
 			<id-00019>
 				<public />
-				<carriedby type="string">Doris 'Door' Beren [1]</carriedby>
+				<carriedby type="string">Doris [1]</carriedby>
 				<count type="number">1</count>
-				<name type="string">Component Pouch</name>
+				<name type="string">Case, Full of Notes</name>
 			</id-00019>
 			<id-00020>
 				<public />
-				<carriedby type="string">Gadget [1]</carriedby>
+				<carriedby type="string">Ronn [1]</carriedby>
 				<count type="number">1</count>
-				<name type="string">Hammer</name>
+				<name type="string">Rope, Hempen (50 Feet)</name>
 			</id-00020>
 			<id-00021>
 				<public />
-				<carriedby type="string">Axon Nimblefingers [1]</carriedby>
+				<carriedby type="string">Ronn [1]</carriedby>
 				<count type="number">1</count>
-				<name type="string">Shortbow</name>
+				<name type="string">Mess Kit</name>
 			</id-00021>
 			<id-00022>
 				<public />
-				<carriedby type="string">Raskylathos [1]</carriedby>
+				<carriedby type="string">Doris [1]</carriedby>
 				<count type="number">1</count>
-				<name type="string">Belt Pouch</name>
+				<name type="string">Bag (Sand)</name>
 			</id-00022>
 			<id-00023>
 				<public />
-				<carriedby type="string">Axon Nimblefingers [1]</carriedby>
+				<carriedby type="string">Doris [1]</carriedby>
 				<count type="number">1</count>
-				<name type="string">Rapier</name>
+				<name type="string">Leather</name>
 			</id-00023>
 			<id-00024>
 				<public />
-				<carriedby type="string">Gadget [2], Axon Nimblefingers [2], Raskylathos [2], Hier'mitt [1], Doris 'Door' Beren [3]</carriedby>
-				<count type="number">10</count>
-				<name type="string">Dagger</name>
+				<carriedby type="string">Doris [1]</carriedby>
+				<count type="number">1</count>
+				<name type="string">Ink Pen</name>
 			</id-00024>
 			<id-00025>
 				<public />
-				<carriedby type="string">Raskylathos [2]</carriedby>
+				<carriedby type="string">Ronn [2]</carriedby>
 				<count type="number">2</count>
-				<name type="string">Shortsword</name>
+				<name type="string">Torch</name>
 			</id-00025>
 			<id-00026>
 				<public />
-				<carriedby type="string">Gadget [10]</carriedby>
-				<count type="number">10</count>
-				<name type="string">Piton</name>
+				<carriedby type="string">Ronn [1], Doris [1]</carriedby>
+				<count type="number">2</count>
+				<name type="string">Clothes, Common</name>
 			</id-00026>
 			<id-00027>
 				<public />
-				<carriedby type="string">Doris 'Door' Beren [1]</carriedby>
+				<carriedby type="string">Doris [1]</carriedby>
 				<count type="number">1</count>
-				<name type="string">Handaxe</name>
+				<name type="string">Book of Lore</name>
 			</id-00027>
 			<id-00028>
 				<public />
-				<carriedby type="string">Gadget [1], Doris 'Door' Beren [1], Raskylathos [1]</carriedby>
-				<count type="number">3</count>
-				<name type="string">Backpack</name>
+				<carriedby type="string">Ronn [1]</carriedby>
+				<count type="number">1</count>
+				<name type="string">Backpack (Empty)</name>
 			</id-00028>
 			<id-00029>
 				<public />
-				<carriedby type="string">Raskylathos [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Crystal</name>
+				<carriedby type="string">Ronn [2], Doris [3]</carriedby>
+				<count type="number">5</count>
+				<name type="string">Dagger</name>
 			</id-00029>
 			<id-00030>
 				<public />
-				<carriedby type="string">Doris 'Door' Beren [1]</carriedby>
+				<carriedby type="string">Doris [1]</carriedby>
 				<count type="number">1</count>
-				<name type="string">Book of Shadows (Tome of Flames)</name>
+				<name type="string">Handaxe</name>
 			</id-00030>
-			<id-00031>
-				<public />
-				<carriedby type="string">Raskylathos [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Signet Ring</name>
-			</id-00031>
-			<id-00032>
-				<public />
-				<carriedby type="string">Gadget [10], Raskylathos [10]</carriedby>
-				<count type="number">20</count>
-				<name type="string">Rations (1 Day)</name>
-			</id-00032>
-			<id-00033>
-				<public />
-				<carriedby type="string">Gadget [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Crowbar</name>
-			</id-00033>
-			<id-00034>
-				<public />
-				<carriedby type="string">Doris 'Door' Beren [10]</carriedby>
-				<count type="number">10</count>
-				<name type="string">Parchment (One Sheet)</name>
-			</id-00034>
-			<id-00035>
-				<public />
-				<carriedby type="string">Doris 'Door' Beren [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Ink (1-ounce Bottle)</name>
-			</id-00035>
-			<id-00036>
-				<public />
-				<carriedby type="string">Doris 'Door' Beren [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Herbalism Kit</name>
-			</id-00036>
-			<id-00037>
-				<public />
-				<carriedby type="string">Raskylathos [1], Hier'mitt [1]</carriedby>
-				<count type="number">2</count>
-				<name type="string">Bedroll</name>
-			</id-00037>
-			<id-00038>
-				<public />
-				<carriedby type="string">Doris 'Door' Beren [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Clothes, Common</name>
-			</id-00038>
-			<id-00039>
-				<public />
-				<carriedby type="string">Axon Nimblefingers [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Burglar's Pack</name>
-			</id-00039>
-			<id-00040>
-				<public />
-				<carriedby type="string">Gadget [1], Axon Nimblefingers [1], Raskylathos [1]</carriedby>
-				<count type="number">3</count>
-				<name type="string">Thieves' Tools</name>
-			</id-00040>
-			<id-00041>
-				<public />
-				<carriedby type="string">Axon Nimblefingers [1], Doris 'Door' Beren [1]</carriedby>
-				<count type="number">2</count>
-				<name type="string">Leather</name>
-			</id-00041>
-			<id-00042>
-				<public />
-				<carriedby type="string">Hier'mitt [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Backpack (Empty)</name>
-			</id-00042>
-			<id-00043>
-				<public />
-				<carriedby type="string">Axon Nimblefingers [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Forgery Kit</name>
-			</id-00043>
-			<id-00044>
-				<public />
-				<carriedby type="string">Axon Nimblefingers [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Poisoner's Kit</name>
-			</id-00044>
 		</inventorylist>
 		<partyinformation>
 			<public />
+			<id-00001>
+				<public />
+				<ac type="number">18</ac>
+				<chabonus type="number">-1</chabonus>
+				<charisma type="number">8</charisma>
+				<classlevel type="string">Cleric 3</classlevel>
+				<conbonus type="number">2</conbonus>
+				<constitution type="number">15</constitution>
+				<dexbonus type="number">3</dexbonus>
+				<dexterity type="number">16</dexterity>
+				<exp type="number">360</exp>
+				<expneeded type="number">400</expneeded>
+				<hd type="number">3</hd>
+				<hdused type="number">0</hdused>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">24</hptotal>
+				<intbonus type="number">0</intbonus>
+				<intelligence type="number">10</intelligence>
+				<link type="windowreference">
+					<class>charsheet</class>
+					<recordname>charsheet.id-00029</recordname>
+				</link>
+				<name type="string">Ronn</name>
+				<perception type="number">13</perception>
+				<race type="string">Halfling (Ghostwise)</race>
+				<strbonus type="number">-1</strbonus>
+				<strength type="number">8</strength>
+				<token type="token">portrait_id-00029_token</token>
+				<tokenscale type="number">1</tokenscale>
+				<watchid type="number">0</watchid>
+				<wisbonus type="number">3</wisbonus>
+				<wisdom type="number">16</wisdom>
+				<wounds type="number">0</wounds>
+			</id-00001>
+			<id-00002>
+				<public />
+				<ac type="number">11</ac>
+				<chabonus type="number">2</chabonus>
+				<charisma type="number">14</charisma>
+				<classlevel type="string">Warlock 3</classlevel>
+				<conbonus type="number">0</conbonus>
+				<constitution type="number">11</constitution>
+				<dexbonus type="number">0</dexbonus>
+				<dexterity type="number">10</dexterity>
+				<exp type="number">375</exp>
+				<expneeded type="number">400</expneeded>
+				<hd type="number">3</hd>
+				<hdused type="number">0</hdused>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">21</hptotal>
+				<intbonus type="number">3</intbonus>
+				<intelligence type="number">16</intelligence>
+				<link type="windowreference">
+					<class>charsheet</class>
+					<recordname>charsheet.id-00034</recordname>
+				</link>
+				<name type="string">Doris</name>
+				<perception type="number">11</perception>
+				<race type="string">Rock Gnome</race>
+				<senses type="string">Darkvision 60</senses>
+				<strbonus type="number">1</strbonus>
+				<strength type="number">12</strength>
+				<token type="token">portrait_id-00034_token</token>
+				<tokenscale type="number">1</tokenscale>
+				<watchid type="number">0</watchid>
+				<wisbonus type="number">1</wisbonus>
+				<wisdom type="number">13</wisdom>
+				<wounds type="number">0</wounds>
+			</id-00002>
 		</partyinformation>
 		<quests>
 			<public />
+			<id-00001>
+				<public />
+				<xp type="number">60</xp>
+				<xpawarded type="number">1</xpawarded>
+			</id-00001>
 		</quests>
 		<savedc type="number">0</savedc>
 		<saveselected type="string">Strength</saveselected>
@@ -49808,7 +52221,7 @@
 			</id-00001>
 			<id-00002>
 				<public />
-				<amount type="number">0</amount>
+				<amount type="number">1</amount>
 				<description type="string">GP</description>
 			</id-00002>
 			<id-00003>
@@ -49823,7 +52236,7 @@
 			</id-00004>
 			<id-00005>
 				<public />
-				<amount type="number">0</amount>
+				<amount type="number">1</amount>
 				<description type="string">CP</description>
 			</id-00005>
 		</treasureparcelcoinlist>
@@ -50685,5 +53098,82 @@
 			<temp>
 			</temp>
 		</id-00023>
+		<id-00024>
+			<coinlist>
+				<id-00001>
+					<amount type="number">0</amount>
+					<description type="string">PP</description>
+				</id-00001>
+				<id-00002>
+					<amount type="number">12</amount>
+					<description type="string">GP</description>
+				</id-00002>
+				<id-00003>
+					<amount type="number">0</amount>
+					<description type="string">EP</description>
+				</id-00003>
+				<id-00004>
+					<amount type="number">8</amount>
+					<description type="string">SP</description>
+				</id-00004>
+				<id-00005>
+					<amount type="number">10</amount>
+					<description type="string">CP</description>
+				</id-00005>
+			</coinlist>
+			<itemlist>
+			</itemlist>
+			<name type="string">[RESULT] CR 03 Treasure</name>
+		</id-00024>
+		<id-00025>
+			<coinlist>
+				<id-00001>
+					<amount type="number">0</amount>
+					<description type="string">PP</description>
+				</id-00001>
+				<id-00002>
+					<amount type="number">31</amount>
+					<description type="string">GP</description>
+				</id-00002>
+				<id-00003>
+					<amount type="number">0</amount>
+					<description type="string">EP</description>
+				</id-00003>
+				<id-00004>
+					<amount type="number">58</amount>
+					<description type="string">SP</description>
+				</id-00004>
+				<id-00005>
+					<amount type="number">31</amount>
+					<description type="string">CP</description>
+				</id-00005>
+			</coinlist>
+			<itemlist>
+				<id-00001>
+					<ac type="number">0</ac>
+					<bonus type="number">0</bonus>
+					<cost type="string">501 - 5,000 gp</cost>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<h>Description</h>
+						<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, while you are attuned to this weapon, your hit point maximum increases by 1 for each level you have attained.</p>
+						<p><b><i>Curse. </i></b>This axe is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the axe, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear.</p>
+						<p>Whenever a hostile creature damages you while the axe is in your possession, you must succeed on a DC 15 Wisdom saving throw or go berserk. While berserk, you must use your action each round to attack the creature nearest to you with the axe. If you can make extra attacks as part of the Attack action, you use those extra attacks, moving to attack the next nearest creature after you fell your current target. If you have multiple possible targets, you attack one at random. You are berserk until you start your turn with no creatures within 60 feet of you that you can see or hear.</p>
+					</description>
+					<isidentified type="number">0</isidentified>
+					<locked type="number">0</locked>
+					<name type="string">Berserker Axe</name>
+					<nonid_name type="string">Axe</nonid_name>
+					<nonidentified type="string">This axe is clearly of Dwarven origin and bears all the hallmarks of the quality you would expect from that race. There are some strange runes along the shaft and on the blade.</nonidentified>
+					<rarity type="string">Rare (Requires Attunement)</rarity>
+					<subtype type="string">Any Axe</subtype>
+					<type type="string">Weapon</type>
+					<weight type="number">0</weight>
+				</id-00001>
+			</itemlist>
+			<name type="string">[RESULT] CR 02 - Treasure Hoard</name>
+			<temp>
+			</temp>
+		</id-00025>
 	</treasureparcels>
 </root>
