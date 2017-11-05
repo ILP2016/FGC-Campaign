@@ -62,6 +62,7 @@
 		</adventurelist>
 		<age type="string">23</age>
 		<alignment type="string">Chaotic Good</alignment>
+		<appearance type="string">Standing at 5'8 with copper bronze skin and straight black hair. Sol'eran wears hide armour,  with a scimitar strapped to his side and a wooden shield within easy reach. Golden eyes, with a spark of mischief in them and a ready smile, forewarns of an easy going nature.  </appearance>
 		<background type="string">Outlander</background>
 		<backgroundlink type="windowreference">
 			<class>reference_background</class>
@@ -74,7 +75,7 @@
 				<casterpactmagic type="number">0</casterpactmagic>
 				<hddie type="dice">d8</hddie>
 				<hdused type="number">0</hdused>
-				<level type="number">3</level>
+				<level type="number">4</level>
 				<name type="string">Druid</name>
 				<shortcut type="windowreference">
 					<class>reference_class</class>
@@ -84,15 +85,15 @@
 		</classes>
 		<coins>
 			<slot1>
-				<amount type="number">27</amount>
+				<amount type="number">58</amount>
 				<name type="string">GP</name>
 			</slot1>
 			<slot2>
-				<amount type="number">14</amount>
+				<amount type="number">41</amount>
 				<name type="string">SP</name>
 			</slot2>
 			<slot3>
-				<amount type="number">15</amount>
+				<amount type="number">20</amount>
 				<name type="string">CP</name>
 			</slot3>
 			<slot4>
@@ -121,11 +122,11 @@
 			<encumbered type="number">50</encumbered>
 			<encumberedheavy type="number">100</encumberedheavy>
 			<liftpushdrag type="number">300</liftpushdrag>
-			<load type="number">86.1</load>
+			<load type="number">89.1</load>
 			<max type="number">150</max>
 		</encumbrance>
-		<exp type="number">393</exp>
-		<expneeded type="number">400</expneeded>
+		<exp type="number">433</exp>
+		<expneeded type="number">500</expneeded>
 		<featlist>
 		</featlist>
 		<featurelist>
@@ -260,6 +261,15 @@
 					<p>Additionally, while you are transformed by Wild Shape, you can use a bonus action to expend one spell slot to regain 1d8 hit points per level of the spell slot expended.</p>
 				</text>
 			</id-00007>
+			<id-00008>
+				<level type="number">4</level>
+				<locked type="number">1</locked>
+				<name type="string">Ability Score Improvement</name>
+				<source type="string">Druid</source>
+				<text type="formattedtext">
+					<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+				</text>
+			</id-00008>
 		</featurelist>
 		<flaws type="string">My hatred of my enemies is blind and unreasoning</flaws>
 		<gender type="string">Male</gender>
@@ -269,7 +279,7 @@
 			<deathsavesuccess type="number">0</deathsavesuccess>
 			<hdmod type="number">0</hdmod>
 			<temporary type="number">0</temporary>
-			<total type="number">24</total>
+			<total type="number">31</total>
 			<wounds type="number">0</wounds>
 		</hp>
 		<ideals type="string">Life is like the seasons, in constant change, and we must change with it</ideals>
@@ -387,11 +397,17 @@
 				<weight type="number">5</weight>
 			</id-00008>
 			<id-00009>
-				<carried type="number">0</carried>
+				<ac type="number">0</ac>
+				<bonus type="number">0</bonus>
+				<carried type="number">2</carried>
 				<cost type="string">25 gp</cost>
 				<count type="number">1</count>
 				<damage type="string">1d6 slashing</damage>
+				<description type="formattedtext">
+					<p></p>
+				</description>
 				<isidentified type="number">1</isidentified>
+				<istemplate type="number">0</istemplate>
 				<locked type="number">1</locked>
 				<name type="string">Scimitar</name>
 				<properties type="string">Finesse, light</properties>
@@ -566,7 +582,7 @@
 				<name type="string">Orc</name>
 			</id-00004>
 		</languagelist>
-		<level type="number">3</level>
+		<level type="number">4</level>
 		<name type="string">Sol'eran</name>
 		<notes type="string">Found myself teleported into a strange town covered by a field of invulnrability. A man stabbed himself in the leg to prove it. But was well unharmed his clothes was left damaged though.\n\nWe went to the tavern run by a half trolll half orc. You cannot even get drunk.\n\nOutside of the town you can get hurt.\n\nThere is dungeon to the east part explored. There are artifacts in the there. a large washing basin, a small bowl with 6 copper pieces and a picture of a maiden, wiith a knight. A statue of the maiden and a\n\nThe dungeon belongs to an order of knights who worship the maiden, who keeps them alive longer than normal.\n\nMathris Harrick one of our comrades has a strange grey owl with a tentacle for a tongue\n\nMathris Harrick is a rather scrawny looking half elf. His clothes, though once opulent are threadbare, worn at the elbows. He wears the robe of a courtier over studded leather armour of serviceable design. In his hand he holds an odd looking staff. Its head is carved in the form of an odd squid like creature with a number of tentacles. The number is different every time you count them, if you can be bothered too. Its eyes glint - brighter when they have nothing to reflect, oddly.\n\nThere is a big majestic door in the dungeon. Bands of monsters, mercenaries have been seen in the dungeon pertainning to someone to be the master who wants what is behind the door.\n\nThe complex is guarded by an order of knights called the knights of vinoa.\n\nI was teleported back to town with the half orc paladin Tragorsh, two new people joined us a half elven ranger Telvolas and a human fighter Godalf. We headed south into a forest and encountered a lizrdman he seemed friendly and warned us of a worg attack. We thought the worg and also an insect swarm. when we talked about heading south the lizardman attacked us\n\nwe decided not to go to the south and potentially the lizarmand village, instead we went south west and came to a small hill with a fissure before it at the bottom of a fissure there wa an entrance to the hill. Climbing down we were attacked by a grick and three insect swarms\n\nWe defeated them but triggered a trap causing the entrance to seal and the room to fill with water together we smashed through the wall. moving deeper into the complex. Manical laughter seemed to be coming from various passages in the complex\n \n\n\n</notes>
 		<perception type="number">15</perception>
@@ -644,7 +660,7 @@
 				<used type="number">0</used>
 			</spellslots1>
 			<spellslots2>
-				<max type="number">2</max>
+				<max type="number">3</max>
 				<used type="number">0</used>
 			</spellslots2>
 			<spellslots3>
@@ -2616,7 +2632,7 @@
 			<id-00001>
 				<attackbonus type="number">0</attackbonus>
 				<attackstat type="string">dexterity</attackstat>
-				<carried type="number">0</carried>
+				<carried type="number">2</carried>
 				<damagelist>
 					<id-00001>
 						<bonus type="number">0</bonus>
@@ -2678,27 +2694,6 @@
 				</shortcut>
 				<type type="number">0</type>
 			</id-00003>
-			<id-00004>
-				<attackbonus type="number">0</attackbonus>
-				<attackstat type="string">dexterity</attackstat>
-				<carried type="number">2</carried>
-				<damagelist>
-					<id-00001>
-						<bonus type="number">0</bonus>
-						<dice type="dice">d6</dice>
-						<stat type="string">dexterity</stat>
-						<type type="string">slashing</type>
-					</id-00001>
-				</damagelist>
-				<maxammo type="number">0</maxammo>
-				<name type="string">Scimitar</name>
-				<prof type="number">1</prof>
-				<shortcut type="windowreference">
-					<class></class>
-					<recordname></recordname>
-				</shortcut>
-				<type type="number">0</type>
-			</id-00004>
 		</weaponlist>
 		<weight type="string">114lb</weight>
 	</character>

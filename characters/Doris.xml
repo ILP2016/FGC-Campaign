@@ -3,11 +3,11 @@
 	<character>
 		<abilities>
 			<charisma>
-				<bonus type="number">2</bonus>
-				<save type="number">4</save>
+				<bonus type="number">3</bonus>
+				<save type="number">5</save>
 				<savemodifier type="number">0</savemodifier>
 				<saveprof type="number">1</saveprof>
-				<score type="number">14</score>
+				<score type="number">16</score>
 			</charisma>
 			<constitution>
 				<bonus type="number">0</bonus>
@@ -49,6 +49,7 @@
 		</adventurelist>
 		<age type="string">30</age>
 		<alignment type="string">Chaotic Good</alignment>
+		<appearance type="string">He lookss quite dishevelled; Messy hair, singed clothes. The ends of his fingers are scarred from &#34;communion&#34; with his deity. He has a tendency to lose touch with himself when he uses his fire magic or is distressed, turning to a darker character in the heat of battle.</appearance>
 		<background type="string">Hermit</background>
 		<backgroundlink type="windowreference">
 			<class>reference_background</class>
@@ -60,8 +61,8 @@
 				<casterlevelinvmult type="number">1</casterlevelinvmult>
 				<casterpactmagic type="number">1</casterpactmagic>
 				<hddie type="dice">d8</hddie>
-				<hdused type="number">1</hdused>
-				<level type="number">3</level>
+				<hdused type="number">0</hdused>
+				<level type="number">4</level>
 				<name type="string">Warlock</name>
 				<shortcut type="windowreference">
 					<class>reference_class</class>
@@ -71,14 +72,16 @@
 		</classes>
 		<coins>
 			<slot1>
-				<amount type="number">5</amount>
+				<amount type="number">57</amount>
 				<name type="string">GP</name>
 			</slot1>
 			<slot2>
-				<amount type="number">0</amount>
+				<amount type="number">59</amount>
+				<name type="string">SP</name>
 			</slot2>
 			<slot3>
-				<amount type="number">0</amount>
+				<amount type="number">25</amount>
+				<name type="string">CP</name>
 			</slot3>
 			<slot4>
 				<amount type="number">0</amount>
@@ -101,15 +104,16 @@
 				<total type="number">11</total>
 			</ac>
 		</defenses>
+		<deity type="string">Alzrius</deity>
 		<encumbrance>
-			<encumbered type="number">60</encumbered>
-			<encumberedheavy type="number">120</encumberedheavy>
-			<liftpushdrag type="number">360</liftpushdrag>
-			<load type="number">42.58</load>
-			<max type="number">180</max>
+			<encumbered type="number">30</encumbered>
+			<encumberedheavy type="number">60</encumberedheavy>
+			<liftpushdrag type="number">180</liftpushdrag>
+			<load type="number">46.58</load>
+			<max type="number">90</max>
 		</encumbrance>
-		<exp type="number">315</exp>
-		<expneeded type="number">400</expneeded>
+		<exp type="number">415</exp>
+		<expneeded type="number">500</expneeded>
 		<featlist>
 		</featlist>
 		<featurelist>
@@ -494,6 +498,15 @@
 					<p><b>Pact of the Tome. </b>Your Book of Shadows might be a fine, gilt-edged tome with spells of enchantment and illusion, gifted to you by the lordly Archfey. It could be a weighty tome bound in demon hide studded with iron, holding spells of conjuration and a wealth of forbidden lore about the sinister regions of the cosmos, a gift of the Fiend. Or it could be the tattered diary of a lunatic driven mad by contact with the Great Old One, holding scraps of spells that only your own burgeoning insanity allows you to understand and cast.</p>
 				</text>
 			</id-00007>
+			<id-00008>
+				<level type="number">4</level>
+				<locked type="number">1</locked>
+				<name type="string">Ability Score Improvement</name>
+				<source type="string">Warlock</source>
+				<text type="formattedtext">
+					<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability s cores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</p>
+				</text>
+			</id-00008>
 		</featurelist>
 		<flaws type="string">I harbor dark, bloodthirsty thoughts that my isolation and meditation failed to quell.</flaws>
 		<gender type="string">Male</gender>
@@ -502,7 +515,7 @@
 			<deathsavefail type="number">0</deathsavefail>
 			<deathsavesuccess type="number">0</deathsavesuccess>
 			<temporary type="number">0</temporary>
-			<total type="number">18</total>
+			<total type="number">26</total>
 			<wounds type="number">0</wounds>
 		</hp>
 		<ideals type="string">Self-Knowledge. If you know yourself, there's nothing left to know. (Any)</ideals>
@@ -604,7 +617,7 @@
 				<weight type="number">2</weight>
 			</id-00006>
 			<id-00007>
-				<carried type="number">1</carried>
+				<carried type="number">2</carried>
 				<cost type="string">2 gp</cost>
 				<count type="number">3</count>
 				<damage type="string">1d4 piercing</damage>
@@ -732,6 +745,48 @@
 				<type type="string">Adventuring Gear</type>
 				<weight type="number">5</weight>
 			</id-00016>
+			<id-00017>
+				<ac type="number">0</ac>
+				<bonus type="number">1</bonus>
+				<carried type="number">2</carried>
+				<cost type="string">501 - 5,000 gp</cost>
+				<count type="number">1</count>
+				<damage type="string">1d8 slashing</damage>
+				<description type="formattedtext">
+					<h>Description</h>
+					<linklist>
+						<link class="imagewindow" recordname="image.img_beserker_axe_jpg@*"><b>Image: </b></link>Berserker Axe</linklist>
+					<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, while you are attuned to this weapon, your hit point maximum increases by 1 for each level you have attained.</p>
+					<p><b><i>Curse. </i></b>This axe is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the axe, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear.</p>
+					<p>Whenever a hostile creature damages you while the axe is in your possession, you must succeed on a DC 15 Wisdom saving throw or go berserk. While berserk, you must use your action each round to attack the creature nearest to you with the axe. If you can make extra attacks as part of the Attack action, you use those extra attacks, moving to attack the next nearest creature after you fell your current target. If you have multiple possible targets, you attack one at random. You are berserk until you start your turn with no creatures within 60 feet of you that you can see or hear.</p>
+				</description>
+				<isidentified type="number">0</isidentified>
+				<locked type="number">1</locked>
+				<name type="string">Berserker Battleaxe</name>
+				<nonid_name type="string">Majestic Battleaxe</nonid_name>
+				<nonidentified type="string">This axe is clearly of Dwarven origin and bears all the hallmarks of the quality you would expect from that race. There are some strange runes along the shaft and on the blade.</nonidentified>
+				<properties type="string">Versatile (1d10), magic</properties>
+				<rarity type="string">Rare (Requires Attunement)</rarity>
+				<spells>
+					<id-00001>
+						<link type="windowreference">
+							<class></class>
+							<recordname></recordname>
+						</link>
+						<name type="string">Berserker Axe</name>
+					</id-00001>
+					<id-00002>
+						<link type="windowreference">
+							<class></class>
+							<recordname></recordname>
+						</link>
+						<name type="string">Battleaxe</name>
+					</id-00002>
+				</spells>
+				<subtype type="string">Battleaxe</subtype>
+				<type type="string">Weapon</type>
+				<weight type="number">4</weight>
+			</id-00017>
 		</inventorylist>
 		<languagelist>
 			<id-00001>
@@ -744,8 +799,9 @@
 				<name type="string">Abyssal</name>
 			</id-00003>
 		</languagelist>
-		<level type="number">3</level>
-		<name type="string">Doris 'Door' Beren</name>
+		<level type="number">4</level>
+		<name type="string">Doris</name>
+		<notes type="string">Doris is shrunk to tiny size for 7 days.</notes>
 		<perception type="number">11</perception>
 		<perceptionmodifier type="number">0</perceptionmodifier>
 		<personalitytraits type="string">I'm oblivious to etiquette and social expectations.</personalitytraits>
@@ -756,10 +812,14 @@
 				<name type="string">Spells</name>
 			</id-00001>
 			<id-00002>
+				<atkprof type="number">1</atkprof>
 				<name type="string">Spells (Tome)</name>
+				<saveprof type="number">1</saveprof>
 			</id-00002>
 			<id-00003>
+				<atkprof type="number">1</atkprof>
 				<name type="string">Eldritch Invocations</name>
+				<saveprof type="number">1</saveprof>
 			</id-00003>
 		</powergroup>
 		<powermeta>
@@ -801,30 +861,39 @@
 			</pactmagicslots9>
 			<spellslots1>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots1>
 			<spellslots2>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots2>
 			<spellslots3>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots3>
 			<spellslots4>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots4>
 			<spellslots5>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots5>
 			<spellslots6>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots6>
 			<spellslots7>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots7>
 			<spellslots8>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots8>
 			<spellslots9>
 				<max type="number">0</max>
+				<used type="number">0</used>
 			</spellslots9>
 		</powermeta>
 		<powermode type="string">standard</powermode>
@@ -986,6 +1055,14 @@
 			</id-00004>
 			<id-00005>
 				<actions>
+					<id-00001>
+						<durmod type="number">1</durmod>
+						<durunit type="string">minute</durunit>
+						<label type="string">Mage Hand 30ft</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</id-00001>
 				</actions>
 				<cast type="number">0</cast>
 				<castingtime type="string">1 action</castingtime>
@@ -1011,6 +1088,7 @@
 						<durmod type="number">1</durmod>
 						<label type="string">RESIST: bludgeoning,piercing,slashing</label>
 						<order type="number">1</order>
+						<targeting type="string">self</targeting>
 						<type type="string">effect</type>
 					</id-00001>
 				</actions>
@@ -1027,6 +1105,7 @@
 				<name type="string">Blade Ward</name>
 				<prepared type="number">0</prepared>
 				<range type="string">Self</range>
+				<ritual type="number">0</ritual>
 				<school type="string">Abjuration</school>
 				<source type="string">Bard, Eldritch Knight, Sorcerer, Warlock, Wizard, Arcane Trickster</source>
 			</id-00006>
@@ -1107,6 +1186,14 @@
 			</id-00008>
 			<id-00009>
 				<actions>
+					<id-00001>
+						<durmod type="number">1</durmod>
+						<durunit type="string">minute</durunit>
+						<label type="string">Dancing Lights 10ft; (C)</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</id-00001>
 				</actions>
 				<cast type="number">0</cast>
 				<castingtime type="string">1 action</castingtime>
@@ -1143,6 +1230,14 @@
 			</id-00010>
 			<id-00011>
 				<actions>
+					<id-00001>
+						<durmod type="number">10</durmod>
+						<durunit type="string">minute</durunit>
+						<label type="string">Detect Magic 30ft; (C)</label>
+						<order type="number">1</order>
+						<targeting type="string">self</targeting>
+						<type type="string">effect</type>
+					</id-00001>
 				</actions>
 				<cast type="number">0</cast>
 				<castingtime type="string">1 action</castingtime>
@@ -1162,6 +1257,30 @@
 				<school type="string">Divination</school>
 				<source type="string">Bard, Cleric, Druid, Eldritch Knight, Eldritch Invocations, Paladin, Ranger, Sorcerer, Wizard, Arcane Trickster</source>
 			</id-00011>
+			<id-00012>
+				<actions>
+					<id-00001>
+						<heallist>
+							<id-00001>
+								<bonus type="number">0</bonus>
+								<stat type="string">charisma</stat>
+							</id-00001>
+							<id-00002>
+								<stat type="string">warlock</stat>
+							</id-00002>
+						</heallist>
+						<healtargeting type="string">self</healtargeting>
+						<healtype type="string">temp</healtype>
+						<order type="number">1</order>
+						<type type="string">heal</type>
+					</id-00001>
+				</actions>
+				<cast type="number">0</cast>
+				<level type="number">0</level>
+				<name type="string">Dark One's Blessing</name>
+				<prepared type="number">0</prepared>
+				<shortdescription type="string">Reset every level</shortdescription>
+			</id-00012>
 			<id-00013>
 				<actions>
 				</actions>
@@ -1170,6 +1289,70 @@
 				<name type="string">Produce Flame of Whispers</name>
 				<prepared type="number">0</prepared>
 			</id-00013>
+			<id-00015>
+				<actions>
+				</actions>
+				<cast type="number">0</cast>
+				<castingtime type="string">1 action</castingtime>
+				<components type="string">V, S</components>
+				<description type="formattedtext">
+					<p>This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range:</p>
+					<list>
+						<li>You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.</li>
+						<li>You instantaneously light or snuff out a candle, a torch, or a small campfire.</li>
+						<li>You instantaneously clean or soil an object no larger than 1 cubic foot.</li>
+						<li>You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.</li>
+						<li>You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.</li>
+						<li>You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.</li>
+					</list>
+					<p>If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.</p>
+				</description>
+				<duration type="string">Up to 1 hour</duration>
+				<group type="string">Spells</group>
+				<level type="number">0</level>
+				<locked type="number">1</locked>
+				<name type="string">Prestidigitation</name>
+				<prepared type="number">0</prepared>
+				<range type="string">10 feet</range>
+				<ritual type="number">0</ritual>
+				<school type="string">Transmutation</school>
+				<source type="string">Bard, Eldritch Knight, Sorcerer, Warlock, Wizard, Arcane Trickster</source>
+			</id-00015>
+			<id-00016>
+				<actions>
+					<id-00001>
+						<order type="number">1</order>
+						<savemagic type="number">1</savemagic>
+						<savetype type="string">wisdom</savetype>
+						<type type="string">cast</type>
+					</id-00001>
+					<id-00002>
+						<durmod type="number">1</durmod>
+						<durunit type="string">minute</durunit>
+						<label type="string">Paralyzed; (C)</label>
+						<order type="number">2</order>
+						<type type="string">effect</type>
+					</id-00002>
+				</actions>
+				<cast type="number">0</cast>
+				<castingtime type="string">1 action</castingtime>
+				<components type="string">V, S, M (a small, straight piece of iron)</components>
+				<description type="formattedtext">
+					<p>Choose a humanoid that you can see within range.</p>
+					<p>The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target.</p>
+					<p><b>At Higher Levels. </b>When you cast this spell using a spell slot of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them.</p>
+				</description>
+				<duration type="string">Concentration, up to 1 minute</duration>
+				<group type="string">Spells</group>
+				<level type="number">2</level>
+				<locked type="number">1</locked>
+				<name type="string">Hold Person</name>
+				<prepared type="number">0</prepared>
+				<range type="string">60 feet</range>
+				<ritual type="number">0</ritual>
+				<school type="string">Enchantment</school>
+				<source type="string">Bard, Cleric, Druid, Druid Arctic Circle, Eldritch Knight, Monk, Sorcerer, Warlock, Wizard, Arcane Trickster</source>
+			</id-00016>
 		</powers>
 		<profbonus type="number">2</profbonus>
 		<proficiencylist>
@@ -1189,7 +1372,7 @@
 			<recordname>reference.racedata.gnome@DD PHB Deluxe</recordname>
 		</racelink>
 		<senses type="string">Darkvision 60</senses>
-		<size type="string">Small</size>
+		<size type="string">tiny</size>
 		<skilllist>
 			<id-00001>
 				<misc type="number">0</misc>
@@ -1224,7 +1407,7 @@
 				<name type="string">Persuasion</name>
 				<prof type="number">0</prof>
 				<stat type="string">charisma</stat>
-				<total type="number">2</total>
+				<total type="number">3</total>
 			</id-00005>
 			<id-00006>
 				<misc type="number">0</misc>
@@ -1245,7 +1428,7 @@
 				<name type="string">Performance</name>
 				<prof type="number">0</prof>
 				<stat type="string">charisma</stat>
-				<total type="number">2</total>
+				<total type="number">3</total>
 			</id-00008>
 			<id-00009>
 				<misc type="number">0</misc>
@@ -1280,14 +1463,14 @@
 				<name type="string">Intimidation</name>
 				<prof type="number">0</prof>
 				<stat type="string">charisma</stat>
-				<total type="number">2</total>
+				<total type="number">3</total>
 			</id-00013>
 			<id-00014>
 				<misc type="number">0</misc>
 				<name type="string">Deception</name>
 				<prof type="number">0</prof>
 				<stat type="string">charisma</stat>
-				<total type="number">2</total>
+				<total type="number">3</total>
 			</id-00014>
 			<id-00015>
 				<misc type="number">0</misc>
@@ -1317,6 +1500,19 @@
 				<stat type="string">wisdom</stat>
 				<total type="number">1</total>
 			</id-00018>
+			<id-00019>
+				<locked type="number">1</locked>
+				<misc type="number">0</misc>
+				<name type="string">History (Artificer's Lore)</name>
+				<prof type="number">2</prof>
+				<stat type="string">intelligence</stat>
+				<text type="formattedtext">
+					<linklist>
+						<link class="ref_ability" recordname="....traitlist.id-00002">Artificer's Lore</link>
+					</linklist>
+				</text>
+				<total type="number">7</total>
+			</id-00019>
 		</skilllist>
 		<speed>
 			<armor type="number">0</armor>
@@ -1406,7 +1602,7 @@
 			</id-00002>
 			<id-00003>
 				<attackbonus type="number">0</attackbonus>
-				<carried type="number">1</carried>
+				<carried type="number">2</carried>
 				<damagelist>
 					<id-00001>
 						<bonus type="number">0</bonus>
@@ -1427,7 +1623,7 @@
 			</id-00003>
 			<id-00004>
 				<attackbonus type="number">0</attackbonus>
-				<carried type="number">1</carried>
+				<carried type="number">2</carried>
 				<damagelist>
 					<id-00001>
 						<bonus type="number">0</bonus>
@@ -1446,6 +1642,27 @@
 				</shortcut>
 				<type type="number">2</type>
 			</id-00004>
+			<id-00005>
+				<attackbonus type="number">0</attackbonus>
+				<carried type="number">2</carried>
+				<damagelist>
+					<id-00001>
+						<bonus type="number">0</bonus>
+						<dice type="dice">d8</dice>
+						<stat type="string">base</stat>
+						<type type="string">slashing,magic</type>
+					</id-00001>
+				</damagelist>
+				<isidentified type="number">0</isidentified>
+				<maxammo type="number">0</maxammo>
+				<name type="string">** Majestic Battleaxe **</name>
+				<prof type="number">1</prof>
+				<shortcut type="windowreference">
+					<class>item</class>
+					<recordname>....inventorylist.id-00017</recordname>
+				</shortcut>
+				<type type="number">0</type>
+			</id-00005>
 		</weaponlist>
 		<weight type="string">40 lb</weight>
 	</character>

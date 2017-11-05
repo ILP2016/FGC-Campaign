@@ -133,8 +133,8 @@
 			<load type="number">83.4</load>
 			<max type="number">210</max>
 		</encumbrance>
-		<exp type="number">52</exp>
-		<expneeded type="number">300</expneeded>
+		<exp type="number">352</exp>
+		<expneeded type="number">400</expneeded>
 		<faction type="string">Emerald Alliance</faction>
 		<featlist>
 		</featlist>

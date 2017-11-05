@@ -637,6 +637,7 @@
 				<used type="number">0</used>
 			</spellslots9>
 		</powermeta>
+		<powermode type="string">combat</powermode>
 		<powers>
 			<id-00001>
 				<actions>

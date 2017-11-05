@@ -339,7 +339,7 @@
 			</id-00002>
 		</languagelist>
 		<level type="number">3</level>
-		<name type="string">Axon Nimblefingers</name>
+		<name type="string">Axon</name>
 		<perception type="number">14</perception>
 		<perceptionmodifier type="number">0</perceptionmodifier>
 		<powerdisplaymode type="string">action</powerdisplaymode>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3" release="8|CoreRPG:3">
+	<character>
+		<abilities>
+			<charisma>
+				<score type="number">10</score>
+			</charisma>
+			<constitution>
+				<score type="number">10</score>
+			</constitution>
+			<dexterity>
+				<score type="number">10</score>
+			</dexterity>
+			<intelligence>
+				<score type="number">10</score>
+			</intelligence>
+			<strength>
+				<score type="number">10</score>
+			</strength>
+			<wisdom>
+				<score type="number">10</score>
+			</wisdom>
+		</abilities>
+		<classes>
+		</classes>
+		<defenses>
+			<ac>
+				<prof type="number">1</prof>
+				<total type="number">10</total>
+			</ac>
+		</defenses>
+		<hp>
+		</hp>
+		<initiative>
+		</initiative>
+		<level type="number">0</level>
+		<name type="string">Shanatha Keldun</name>
+		<perception type="number">10</perception>
+		<profbonus type="number">2</profbonus>
+		<skilllist>
+			<id-00001>
+				<name type="string">Perception</name>
+				<stat type="string">wisdom</stat>
+			</id-00001>
+		</skilllist>
+		<speed>
+		</speed>
+	</character>
+</root>
