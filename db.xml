@@ -21985,7 +21985,7 @@
 			</adventurelist>
 			<age type="string">23</age>
 			<alignment type="string">Chaotic Good</alignment>
-			<appearance type="string">Standing at 5'8 with copper bronze skin and straight black hair. Sol'eran wears hide armour,  with a scimitar strapped to his side and a wooden shield within easy reach. Golden eyes, with a spark of mischief in them and a ready smile, forewarns of an easy going nature.  </appearance>
+			<appearance type="string">Standing at 5'8 with copper bronze skin and straight black hair. Sol'eran wears hide armour, with a scimitar strapped to his side and a wooden shield within easy reach. Golden eyes, with a spark of mischief in them and a ready smile, forewarns of an easy going nature.</appearance>
 			<background type="string">Outlander</background>
 			<backgroundlink type="windowreference">
 				<class>reference_background</class>
@@ -45971,7 +45971,7 @@
 			<name type="string">Beulah daughter of Tzefanyah - Student of Magic</name>
 			<text type="formattedtext">
 				<h>Lore</h>
-				<p>sparse decoration with a straw pallet a ladder and a trapdoor. There is a waterfall on the outside caused by magically pulling </p>
+				<p>sparse decoration with a straw pallet a ladder and a trapdoor. There is a waterfall on the outside caused by magically pulling</p>
 				<h>Background</h>
 				<p>Personality: I have no patience for ridiculous superstitions about magic.; Ideal: Greater Good - Magic should be used to protect and improve the lives of the common people. (Good); Bond: I had a romantic relationship with a fellow student, I still love them.; Flaw: A scandal prevents me from returning to my place of education, I&#146;m trying to stay ahead of the rumors.</p>
 				<linklist>
@@ -46014,7 +46014,6 @@
 					<link class="power" recordname="spell.id-00136@Incarnate-Engine">Glyph of Warding</link>
 					<link class="power" recordname="spell.id-00088@Incarnate-Engine">Dispel Magic</link>
 					<link class="power" recordname="spell.id-00028@Incarnate-Engine">Banishment</link>
-					<link class="" recordname=""></link>
 				</linklist>
 			</text>
 		</id-00113>
@@ -46146,7 +46145,6 @@
 				<p>Sings beautifully</p>
 				<h>CR</h>
 				<p>20</p>
-				<p></p>
 			</text>
 		</id-00128>
 		<id-00132>
@@ -48175,6 +48173,7 @@
 				</text>
 			</id-00064>
 			<id-00065>
+				<public />
 				<name type="string">Ishilb Ruin Chamber</name>
 				<text type="formattedtext">
 					<h>Description</h>
@@ -48812,84 +48811,8 @@
 					</linklist>
 				</text>
 			</id-00114>
-			<id-00115>
-				<public />
-				<name type="string">Smithy Shop</name>
-				<text type="formattedtext">
-					<h>Simple Weapon</h>
-					<p>4 spears for 4 GP a piece.</p>
-					<linklist>
-						<link class="item" recordname="item.id-00235@Incarnate-Engine">Spear</link>
-					</linklist>
-					<p>5 spears for 4 GP a piece.</p>
-					<linklist>
-						<link class="item" recordname="item.id-00235@Incarnate-Engine">Spear</link>
-					</linklist>
-					<p>A handaxe for 8 GP.</p>
-					<linklist>
-						<link class="item" recordname="item.id-00229@Incarnate-Engine">Handaxe</link>
-					</linklist>
-					<h>Martial Weapon</h>
-					<p>A warhammer for 17 GP.</p>
-					<linklist>
-						<link class="item" recordname="item.id-00218@Incarnate-Engine">Warhammer</link>
-					</linklist>
-					<p>A lance for 11 GP.</p>
-					<linklist>
-						<link class="item" recordname="item.id-00209@Incarnate-Engine">Lance</link>
-					</linklist>
-					<p>A greatsword for 54 GP.</p>
-					<linklist>
-						<link class="item" recordname="item.id-00207@Incarnate-Engine">Greatsword</link>
-					</linklist>
-					<p>A pike for 6 GP.</p>
-					<linklist>
-						<link class="item" recordname="item.id-00213@Incarnate-Engine">Pike</link>
-					</linklist>
-					<p>A morningstar for 16 GP.</p>
-					<linklist>
-						<link class="item" recordname="item.id-00212@Incarnate-Engine">Morningstar</link>
-					</linklist>
-					<h>Medium/Heavy Armor</h>
-					<p>Some chain mail for 82 GP.</p>
-					<linklist>
-						<link class="item" recordname="item.id-00199@Incarnate-Engine">Chain Mail</link>
-					</linklist>
-					<p>Some chain mail for 81 GP.</p>
-					<linklist>
-						<link class="item" recordname="item.id-00199@Incarnate-Engine">Chain Mail</link>
-					</linklist>
-					<p>A half-plate armor for 791 GP.</p>
-					<linklist>
-						<link class="item" recordname="item.id-00197@Incarnate-Engine">Half Plate</link>
-					</linklist>
-					<p>A scale mail for 53 GP.</p>
-					<linklist>
-						<link class="item" recordname="item.id-00196@Incarnate-Engine">Scale Mail</link>
-					</linklist>
-					<h>Saddles</h>
-					<p>A riding sadle for 12 GP.</p>
-					<linklist>
-						<link class="item" recordname="item.id-00292@Incarnate-Engine">Riding</link>
-					</linklist>
-					<p>A pack saddle for 7 GP.</p>
-					<linklist>
-						<link class="item" recordname="item.id-00291@Incarnate-Engine">Pack</link>
-					</linklist>
-					<p>A military saddle for 29 GP.</p>
-					<linklist>
-						<link class="item" recordname="item.id-00290@Incarnate-Engine">Military</link>
-					</linklist>
-					<p>An exotic saddle for 82 GP.</p>
-					<linklist>
-						<link class="item" recordname="item.id-00289@Incarnate-Engine">Exotic</link>
-					</linklist>
-					<h>Custom Work</h>
-					<p>Will craft a custom item for material costs plus a 25% commission.</p>
-				</text>
-			</id-00115>
 			<id-00116>
-				<name type="string">Battlesmith</name>
+				<name type="string">Elwine son of Godric - Battlesmith</name>
 				<text type="formattedtext">
 					<h>Background</h>
 					<p>Personality: I am always ready to fight.; Ideal: Authority - I do as I wish- who's going to stop me? (Chaotic); Bond: My patron has sent me on one final task before I retire. It must be done at all costs.; Flaw: I care more about my weapon, armor, or other possession, than I do about my friends.</p>
@@ -50491,7 +50414,6 @@
 					<p>Loud blasts and plumes of smoke have been seen in the forest to the south.</p>
 					<p>A rickety bridge has been found crossing the river to the south east of town.</p>
 					<p>An underground complex with a large ornate Kobold statue has been found to the south east.</p>
-					<p></p>
 				</text>
 			</id-00026>
 			<id-00028>
