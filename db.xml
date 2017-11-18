@@ -61911,7 +61911,6 @@
 						<link class="encounter" recordname="encounter.id-00142">Soybean - Farm</link>
 						<link class="encounter" recordname="encounter.id-00137">Umag - General Store</link>
 						<link class="" recordname=""></link>
-						<link class="" recordname=""></link>
 					</linklist>
 				</text>
 			</id-00115>
@@ -62805,7 +62804,7 @@
 					<h>NPC Talent</h>
 					<p>walk a tight rope</p>
 					<h>CR</h>
-					<p>4 with 72 (16d8) hit points; STR: 15 DEX: 14 CON: 10 INT: 15 WIS: 12 CHA: 12; Ranged Weapon Attack: +## to hit. (20/60)5 to hit. On Hit: 5 (1d8) slashing damage and 7 (2d6) force damage and 5 (1d8) radiant damage; AC: 14; DC: 14; XP: 1100</p>
+					<p>4 with 72 (16d8) hit points; STR: 15 DEX: 14 CON: 10 INT: 15 WIS: 12 CHA: 12; Ranged Weapon Attack: +5 to hit. (20/60) On Hit: 5 (1d8) slashing damage and 7 (2d6) force damage and 5 (1d8) radiant damage; AC: 14; DC: 14; XP: 1100</p>
 					<h>Class</h>
 					<p>Paladin: Level 5:</p>
 					<linklist>
@@ -66502,7 +66501,12 @@
 			<spells>
 			</spells>
 			<text type="formattedtext">
-				<p></p>
+				<p>Generally friendly and jolly but refuses to drink alcohol.</p>
+				<p>Wierd Beard clan, refered to as a &#34;Bench Sniffer&#34;</p>
+				<p>He takes deep breaths and sniffs the air as his vision is not very good anymore.</p>
+				<p>He has an affectionate smile</p>
+				<p>He loves to help others.</p>
+				<p>He is often accompanied by children and the elderly.</p>
 			</text>
 			<token type="token"></token>
 			<traits>
