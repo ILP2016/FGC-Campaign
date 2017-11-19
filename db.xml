@@ -57575,7 +57575,7 @@
 				<holder name="Walkin Dude" owner="true" />
 				<id-00001>
 					<holder name="Walkin Dude" owner="true" />
-					<name type="string">Common </name>
+					<name type="string">Common</name>
 				</id-00001>
 				<id-00002>
 					<holder name="Walkin Dude" owner="true" />
@@ -57947,7 +57947,7 @@
 			</adventurelist>
 			<age type="string">23</age>
 			<alignment type="string">Neutral Good</alignment>
-			<appearance type="string">Hailing from the boundless vista of the Elemental Plane of Air,  the Aarakocra, or &#34;bird folk&#34;, evoke fear and wonder.\n\nKreek, a notable young Sky Warden, was a prideful Aarakocra with brilliant white and grey covert plumage across his head, back and chest contrasting his flight feathers and thighs which were as black as onyx.  Having nothing but pity for those earthbound people forced to live and toil on the ground, deemed himself superior to those of the Material Plane.\nSuch as it was, until it was not...\nThe Aarakocras sworn foe, Ogr&#233;moch, Prince of Elemental Earth, sent hordes of Gargoyles to destroy the Aarakocra Kingdom. During the battles that raged across the Elemental Planes of Earth and Air, the Gargoyles managed to push into a settlement. Kreek, stationed there for the final duration of his admittance into the Sky Wardens, attempted to protect the inhabitants until a defence legion could reach them.\n\nIn battle, he proved a dynamic and acrobatic flier, moving with remarkable speed and grace. Then as quickly as it began, it ended. A Gargoyle slammed into Kreek, nearly knocking him unconscious from the blow. They grappled, each trying to overcome the other falling through the sky. Kreek landed a fatal hit with his talons but not before the Gargoyle mangled his wing.\n\nHe awoke in this world under the care of those he would look upon with pity. Although they managed to mend his wounds, his wing was crippled and it was he who was now looked upon with pity.\n\nConfinement terrifies the Aarakocra. To be grounded, trapped underground, or imprisoned by the cold, unyielding earth is a torment few Aarakocra can withstand.\n---------\nKreek left his pride with his kin in the Elemental Plane, although he normally stood 5'7, he rarely did. Hunched over with his wings tucked under his cloak, he could be easily mistaken for a Halfling. His hood, drawn nearly over his eyes, hid the featherless red face only exposing the yellow facial trim which highlighted his hooked bill. Noticeably once Obsidian, his beak now was weathered and worn to a dull blue-grey. It's been 20 years since his injury, during which time he spent as an outcast, using his martial skill to live as a freelance sword for hire.</appearance>
+			<appearance type="string">Hailing from the boundless vista of the Elemental Plane of Air, the Aarakocra, or &#34;bird folk&#34;, evoke fear and wonder.\n\nKreek, a notable young Sky Warden, was a prideful Aarakocra with brilliant white and grey covert plumage across his head, back and chest contrasting his flight feathers and thighs which were as black as onyx. Having nothing but pity for those earthbound people forced to live and toil on the ground, deemed himself superior to those of the Material Plane.\nSuch as it was, until it was not...\nThe Aarakocras sworn foe, Ogr&#233;moch, Prince of Elemental Earth, sent hordes of Gargoyles to destroy the Aarakocra Kingdom. During the battles that raged across the Elemental Planes of Earth and Air, the Gargoyles managed to push into a settlement. Kreek, stationed there for the final duration of his admittance into the Sky Wardens, attempted to protect the inhabitants until a defence legion could reach them.\n\nIn battle, he proved a dynamic and acrobatic flier, moving with remarkable speed and grace. Then as quickly as it began, it ended. A Gargoyle slammed into Kreek, nearly knocking him unconscious from the blow. They grappled, each trying to overcome the other falling through the sky. Kreek landed a fatal hit with his talons but not before the Gargoyle mangled his wing.\n\nHe awoke in this world under the care of those he would look upon with pity. Although they managed to mend his wounds, his wing was crippled and it was he who was now looked upon with pity.\n\nConfinement terrifies the Aarakocra. To be grounded, trapped underground, or imprisoned by the cold, unyielding earth is a torment few Aarakocra can withstand.\n---------\nKreek left his pride with his kin in the Elemental Plane, although he normally stood 5'7, he rarely did. Hunched over with his wings tucked under his cloak, he could be easily mistaken for a Halfling. His hood, drawn nearly over his eyes, hid the featherless red face only exposing the yellow facial trim which highlighted his hooked bill. Noticeably once Obsidian, his beak now was weathered and worn to a dull blue-grey. It's been 20 years since his injury, during which time he spent as an outcast, using his martial skill to live as a freelance sword for hire.</appearance>
 			<background type="string">Sword for Hire</background>
 			<backgroundlink type="windowreference">
 				<class></class>
@@ -59502,7 +59502,7 @@
 				<holder name="Walkin Dude" owner="true" />
 				<id-00001>
 					<holder name="Walkin Dude" owner="true" />
-					<name type="string">Common </name>
+					<name type="string">Common</name>
 				</id-00001>
 				<id-00002>
 					<holder name="Walkin Dude" owner="true" />
@@ -64884,17 +64884,40 @@
 						<link class="encounter" recordname="encounter.id-00025">Artin son of Yilon - Student of Magic</link>
 					</linklist>
 					<h>Items</h>
-					<p>Weapons (comming soon, requires metal ores)</p>
+					<p>Weapons (comming soon, requires metal ores, a forge, and an anvil)</p>
 					<h>Services</h>
 					<p>Custom (comming soon)</p>
 					<h>IRL Info</h>
-					<p>www.patreon.com/pronobis</p>
-					<h>Needs</h>
-					<p>Fuel - coal</p>
-					<p>Anvil - the better the metal the better the products</p>
-					<p>Stone - anything that resists heat will work well</p>
-					<h>Has</h>
-					<p>bronze bar, iron bar, two bags of aluminum ore</p>
+					<p><b><i>Primary Author of the Incarnate system</i></b></p>
+					<p>Hi, I'm ProNobis. I've spent hundreds of hours building the random generator's that this play style uses to allow for the GM to quickly respond to players doing the unexpected. I've also spent over a hundred hours creating most of the maps you see here.</p>
+					<p>This has been a lot of work, and it has paid off. We now have a system that allows you to use your creativity to explore a boundless world. This is something that I cannot do by myself. I need help paying the bills so I can keep adding content to these modules long term. Please join in at Patreon... and get increased access to me.</p>
+					<linklist>
+						<link class="url" recordname="www.patreon.com/pronobis">www.patreon.com/pronobis</link>
+					</linklist>
+					<p><b><i>Art and Artists</i></b></p>
+					<p>Any great roleplaying genre needs amazing art. I may have learned how to create maps... but I do not have the skill needed to create original portraits. As such I'm reqruiting artists who are willing to create art and release a computer quality to my Incarnate modules in exchange for a one time payment through GoFundMe. This will allow these artists to get increased exposure here and then sell posters, and other merchandise through their own webistes.</p>
+					<p><b>Holly Reynolds</b></p>
+					<p>Holly is a real life friend of mine who has been doing art for years. She has specialized in hand drawn portraits and landscapes especially using chalk. This gives her unique portraits a rich texture that I find intrguing.</p>
+					<linklist>
+						<link class="url" recordname="www.GoFundMe.com/pronobis1">GoFundMe</link>
+						<link class="url" recordname="http://brownxraven.wixsite.com/holly-reynolds">Her Portfolio</link>
+					</linklist>
+					<p><b>Future Artist2</b></p>
+					<linklist>
+						<link class="url" recordname="www.GoFundMe.com/pronobis2">www.GoFundMe.com/pronobis2</link>
+					</linklist>
+					<p><b>Future Artist 3</b></p>
+					<linklist>
+						<link class="url" recordname="www.GoFundMe.com/pronobis3">www.GoFundMe.com/pronobis3</link>
+					</linklist>
+					<p><b>Future Artist 4</b></p>
+					<linklist>
+						<link class="url" recordname="www.GoFundMe.com/pronobis4">www.GoFundMe.com/pronobis4</link>
+					</linklist>
+					<p><b>Future Artist 5</b></p>
+					<linklist>
+						<link class="url" recordname="www.GoFundMe.com/pronobis5">www.GoFundMe.com/pronobis5</link>
+					</linklist>
 				</text>
 			</id-00010>
 			<id-00011>
