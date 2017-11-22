@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3" release="8|CoreRPG:3" integrity="eabefdcee93dd5f63a6e44475ec52376eeeb0a55">
+	<tables>
+		<category name="ProNobis - Encounter - Arctic" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Cavern" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Coastal" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Desert" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Forest" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Grassland" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Hill" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Mountain" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Swamp" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Synthesis" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Underwater" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Urban" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Semi-Random Encounter - Arctic" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Semi-Random Encounter - Cavern" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Semi-Random Encounter - Coastal" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Semi-Random Encounter - Desert" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Semi-Random Encounter - Forest" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Semi-Random Encounter - Grassland" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Semi-Random Encounter - Hill" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Semi-Random Encounter - Mountain" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Semi-Random Encounter - Swamp" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Semi-Random Encounter - Underwater" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Semi-Random Encounter - Urban" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - True Random - Arctic" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - True Random - Cavern" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - True Random - Coastal" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - True Random - Desert" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - True Random - Forest" baseicon="0" decalicon="0">
+			<W00002>
+				<hiderollresults type="number">1</hiderollresults>
+				<category name="ProNobis - Random Encounter" baseicon="0" decalicon="0">
+				</category>
+			</W00002>
+		</category>
+		<category name="ProNobis - True Random - Grassland" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - True Random - Hill" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - True Random - Mountain" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - True Random - Swamp" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - True Random - Underwater" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - True Random - Urban" baseicon="0" decalicon="0">
+		</category>
+	</tables>
+</root>

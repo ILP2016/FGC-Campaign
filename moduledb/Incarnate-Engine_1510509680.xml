@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3" release="8|CoreRPG:3" integrity="cac8b31359a50742ca7267b6b55e2ae4e68c91f4">
+	<item>
+		<category name="SRD - Adventuring Gear - Ammunition" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - Arcane Focus" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - Druidic Focus" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - Equipment Kits" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - General" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - Holy Symbol" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - Poisons" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Armor - Heavy Armor" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Armor - Light Armor" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Armor - Medium Armor" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Armor - Shield" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Armor" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Potion" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Ring" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Rod" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Scroll" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Staff" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Wand" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Weapon" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Wondrous Item" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Tools - Artisan's" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Tools - Gaming Set" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Tools - Kits/Sets" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Tools - Musical Instrument" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Transportation - Drawn Vehicles" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Transportation - Mounts and Animals" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Transportation - Saddle" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Transportation - Tack and Harness" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Transportation - Waterborne Vehicles" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Weapon - Martial" baseicon="0" decalicon="0">
+			<id-00203>
+				<public />
+			</id-00203>
+			<id-00206>
+				<public />
+			</id-00206>
+		</category>
+		<category name="SRD - Weapon - Ranged Weapon" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Weapon - Simple Melee" baseicon="0" decalicon="0">
+			<id-00229>
+				<public />
+			</id-00229>
+		</category>
+		<category name="SRD - Weapon - Simple Ranged" baseicon="0" decalicon="0">
+		</category>
+	</item>
+	<spell>
+		<category name="ProNobis - Effects Coding" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Hombrew Spells" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Eldritch Invocations" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Spells" baseicon="0" decalicon="0">
+			<id-00028>
+				<public />
+			</id-00028>
+			<id-00088>
+				<public />
+			</id-00088>
+			<id-00136>
+				<public />
+			</id-00136>
+		</category>
+	</spell>
+	<tables>
+		<category name="DandDwiki - Backgrounds" baseicon="0" decalicon="0">
+		</category>
+		<category name="DandDwiki - Races" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Backgrounds" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Chases" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Cities" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Class Attribute Tables" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Dungeon - Bosses" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Item Tables" baseicon="0" decalicon="0">
+			<id-00334>
+				<hiderollresults type="number">1</hiderollresults>
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+				</category>
+			</id-00334>
+		</category>
+		<category name="ProNobis - Linguistic Name Generator" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - NameGenerator" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Organization" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Race" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Race Descriptions" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Random CR Stats" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Rooms" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Status Effects" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Synthesis" baseicon="0" decalicon="0">
+			<id-00487>
+				<hiderollresults type="number">1</hiderollresults>
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+				</category>
+			</id-00487>
+		</category>
+		<category name="ProNobis - Treasure" baseicon="0" decalicon="0">
+			<id-01195>
+				<hiderollresults type="number">1</hiderollresults>
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+				</category>
+			</id-01195>
+		</category>
+		<category name="Pronobis - Dungeon" baseicon="0" decalicon="0">
+			<id-01207>
+				<hiderollresults type="number">1</hiderollresults>
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+				</category>
+			</id-01207>
+		</category>
+		<category name="SRD - Magic Items" baseicon="0" decalicon="0">
+		</category>
+	</tables>
+</root>

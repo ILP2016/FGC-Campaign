@@ -3,5 +3,7 @@
 *.xml
 !db.xml
 !characters/*.xml
+!maskedimages/*.png
+!moduledb/*.xml
 CampaignRegistry.lua
 usersettings/*

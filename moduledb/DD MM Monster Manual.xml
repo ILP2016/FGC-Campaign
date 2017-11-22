@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3" release="8|CoreRPG:3" integrity="b6c4edb4250443e56f71d9568a7e1c6b26eeb8cc">
+	<reference>
+		<category name="DD MM Monster Manual" baseicon="0" decalicon="0">
+			<imagedata>
+				<category name="DD MM Monster Manual" baseicon="2" decalicon="1">
+				</category>
+				<category name="Monsters - DD MM Monster Manual" baseicon="2" decalicon="1">
+					<img_basilisk_jpg>
+						<public />
+					</img_basilisk_jpg>
+					<img_greenhag_jpg>
+						<public />
+					</img_greenhag_jpg>
+					<img_hellhound_jpg>
+						<public />
+					</img_hellhound_jpg>
+					<img_magmamephit_jpg>
+						<public />
+					</img_magmamephit_jpg>
+				</category>
+			</imagedata>
+		</category>
+	</reference>
+</root>

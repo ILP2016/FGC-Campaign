@@ -1,0 +1,1449 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3" release="8|CoreRPG:3" integrity="ab5bbdc7721533a32d82582b57bcf888cfda0e0a">
+	<item>
+		<category name="ProNobis" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - Ammunition" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - Arcane Focus" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - Druidic Focus" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - Equipment Kits" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - General" baseicon="0" decalicon="0">
+			<id-00075>
+				<public />
+			</id-00075>
+		</category>
+		<category name="SRD - Adventuring Gear - Holy Symbol" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - Poisons" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Armor - Heavy Armor" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Armor - Light Armor" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Armor - Medium Armor" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Armor - Shield" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Armor" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Potion" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Ring" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Rod" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Scroll" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Staff" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Wand" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Weapon" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Wondrous Item" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Tools - Artisan's" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Tools - Gaming Set" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Tools - Kits/Sets" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Tools - Musical Instrument" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Transportation - Drawn Vehicles" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Transportation - Mounts and Animals" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Transportation - Saddle" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Transportation - Tack and Harness" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Transportation - Waterborne Vehicles" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Weapon - Martial" baseicon="0" decalicon="0">
+			<id-00203>
+				<public />
+			</id-00203>
+			<id-00206>
+				<public />
+			</id-00206>
+		</category>
+		<category name="SRD - Weapon - Ranged Weapon" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Weapon - Simple Melee" baseicon="0" decalicon="0">
+			<id-00229>
+				<public />
+			</id-00229>
+		</category>
+		<category name="SRD - Weapon - Simple Ranged" baseicon="0" decalicon="0">
+		</category>
+	</item>
+	<npc>
+		<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Dungeon Bosses" baseicon="0" decalicon="0">
+			<id-00016>
+				<locked type="number">0</locked>
+				<text type="formattedtext">
+					<h>Description</h>
+					<p>A king in ancient times tripped over a porcupine discovered that thier spines can find and pierce the boundaries between plate bodies. He deicded that these humble creatures might be the salvation of his empire from the demon hoard. If their spines could get past his plate body then they could also get past the tough demon scales.</p>
+					<p>He ordered his magicians to make them larger and to find a way to reinforce thier spines with cold iron. And so a new monstrosity was born...</p>
+					<p>The Sprillon are giant porcupines taht have an insatiable hunber for two things. First they hunger for iron and will eat it anywhere they can find it. They have been known to slowly knaw through the swords and armor of their victims. This hunger is driven by the need for the iron to go up and reinforce their spikes. Their second great hunger is for demons. The wizards decided to give this hunger so that it drove them towards the empires greatest enemy.</p>
+					<p>Unfortunately the habit of eating demons has warped the Sprillons over time. On one hand thier have gained a telekenetic ability allowing them to throw their spines and enabling them to take down demons much easier. The downside is that it has corrupted them so that they are both chaotic and evil. They will still take out demons... but when those are not around they will take on pigs, cows, or even humans.</p>
+					<h>Forshadowing</h>
+					<list>
+						<li>A gnawed pile of bones.</li>
+						<li>A half eaten sword.</li>
+						<li>Two foot tunnels with a lot of scratch marks and some iron spikes in the walls.</li>
+						<li>A fresh body pincushioned by iron needles.</li>
+					</list>
+					<h>Starting Text</h>
+					<frame></frame>
+					<h>Battle Taunts</h>
+					<frame></frame>
+					<frame></frame>
+					<frame></frame>
+					<h>Death Speech</h>
+				</text>
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+				</category>
+			</id-00016>
+		</category>
+	</npc>
+	<spell>
+		<category name="ProNobis - Effects Coding" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Hombrew Spells" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Weapons" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Eldritch Invocations" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Spells" baseicon="0" decalicon="0">
+			<id-00028>
+				<public />
+			</id-00028>
+			<id-00088>
+				<public />
+			</id-00088>
+			<id-00136>
+				<public />
+			</id-00136>
+		</category>
+	</spell>
+	<tables>
+		<category name="DandDwiki - Backgrounds" baseicon="0" decalicon="0">
+		</category>
+		<category name="DandDwiki - Races" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Backgrounds" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Chases" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Cities" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Class Attribute Tables" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Dungeon - Bosses" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Item Tables" baseicon="0" decalicon="0">
+			<id-00334>
+				<hiderollresults type="number">1</hiderollresults>
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+				</category>
+			</id-00334>
+		</category>
+		<category name="ProNobis - Linguistic Name Generator" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - NameGenerator" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Organization" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Race" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Race Descriptions" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Random CR Stats" baseicon="0" decalicon="0">
+			<id-00333>
+				<public />
+				<dice type="dice">d2,d2</dice>
+				<mod type="number">4</mod>
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<tablerows>
+						<public />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00001>
+							<id-00002>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00002>
+							<id-00003>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00003>
+							<id-00004>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00004>
+							<id-00005>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00005>
+							<id-00006>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00006>
+							<id-00007>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00007>
+							<id-00008>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00008>
+							<id-00009>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00009>
+							<id-00010>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00010>
+							<id-00011>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00011>
+							<id-00012>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00012>
+							<id-00013>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00013>
+							<id-00014>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00014>
+							<id-00015>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00015>
+							<id-00016>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00016>
+							<id-00017>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00017>
+							<id-00018>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00018>
+							<id-00019>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00019>
+							<id-00020>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00020>
+							<id-00021>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00021>
+							<id-00022>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00022>
+							<id-00023>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00023>
+							<id-00024>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00024>
+							<id-00025>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00025>
+							<id-00026>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00026>
+							<id-00027>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00027>
+							<id-00028>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00028>
+							<id-00029>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00029>
+							<id-00030>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00030>
+							<id-00031>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00031>
+							<id-00032>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00032>
+							<id-00033>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00033>
+							<id-00034>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00034>
+							<id-00035>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00035>
+							<id-00036>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00036>
+							<id-00037>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00037>
+							<id-00038>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00038>
+							<id-00039>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00039>
+							<id-00040>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00040>
+							<id-00041>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00041>
+							<id-00042>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00042>
+							<id-00043>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00043>
+							<id-00044>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+											<id-00006>
+												<public />
+											</id-00006>
+										</category>
+									</results>
+								</category>
+							</id-00044>
+						</category>
+					</tablerows>
+				</category>
+			</id-00333>
+		</category>
+		<category name="ProNobis - Rooms" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Status Effects" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Synthesis" baseicon="0" decalicon="0">
+			<id-00487>
+				<hiderollresults type="number">1</hiderollresults>
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+				</category>
+			</id-00487>
+		</category>
+		<category name="ProNobis - Treasure" baseicon="0" decalicon="0">
+			<id-00442>
+				<hiderollresults type="number">1</hiderollresults>
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+				</category>
+			</id-00442>
+			<id-01195>
+				<hiderollresults type="number">1</hiderollresults>
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+				</category>
+			</id-01195>
+		</category>
+		<category name="Pronobis - Dungeon" baseicon="0" decalicon="0">
+			<id-01207>
+				<hiderollresults type="number">1</hiderollresults>
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+				</category>
+			</id-01207>
+		</category>
+		<category name="SRD - Magic Items" baseicon="0" decalicon="0">
+		</category>
+	</tables>
+</root>

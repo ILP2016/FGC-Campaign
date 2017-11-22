@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3" release="8|CoreRPG:3" integrity="38bc3aaeef5f3e9f5e59989137282e40af0d675a">
+	<reference>
+		<category name="DD Dungeon Masters Guide" baseicon="0" decalicon="0">
+			<classdata>
+				<category name="DD Dungeon Masters Guide" baseicon="0" decalicon="0">
+					<antipaladin>
+						<holder name="jtron24" />
+						<category name="DD Dungeon Masters Guide" baseicon="0" decalicon="0">
+							<abilities>
+								<holder name="jtron24" />
+								<category name="DD Dungeon Masters Guide" baseicon="0" decalicon="0">
+									<oathbreaker>
+										<holder name="jtron24" />
+									</oathbreaker>
+								</category>
+							</abilities>
+							<equipment>
+								<holder name="jtron24" />
+								<category name="DD Dungeon Masters Guide" baseicon="0" decalicon="0">
+									<standard>
+										<holder name="jtron24" />
+									</standard>
+								</category>
+							</equipment>
+							<features>
+								<holder name="jtron24" />
+								<category name="DD Dungeon Masters Guide" baseicon="0" decalicon="0">
+									<abilityscoreimprovement12>
+										<holder name="jtron24" />
+									</abilityscoreimprovement12>
+									<abilityscoreimprovement16>
+										<holder name="jtron24" />
+									</abilityscoreimprovement16>
+									<abilityscoreimprovement19>
+										<holder name="jtron24" />
+									</abilityscoreimprovement19>
+									<abilityscoreimprovement4>
+										<holder name="jtron24" />
+									</abilityscoreimprovement4>
+									<abilityscoreimprovement8>
+										<holder name="jtron24" />
+									</abilityscoreimprovement8>
+									<auraofcourage10>
+										<holder name="jtron24" />
+									</auraofcourage10>
+									<auraofcourage18>
+										<holder name="jtron24" />
+									</auraofcourage18>
+									<auraofhate18>
+										<holder name="jtron24" />
+									</auraofhate18>
+									<auraofhate7>
+										<holder name="jtron24" />
+									</auraofhate7>
+									<auraofprotection18>
+										<holder name="jtron24" />
+									</auraofprotection18>
+									<auraofprotection6>
+										<holder name="jtron24" />
+									</auraofprotection6>
+									<channeldivinity3>
+										<holder name="jtron24" />
+									</channeldivinity3>
+									<cleansingtouch14>
+										<holder name="jtron24" />
+									</cleansingtouch14>
+									<divinehealth3>
+										<holder name="jtron24" />
+									</divinehealth3>
+									<divinesense1>
+										<holder name="jtron24" />
+									</divinesense1>
+									<divinesmite2>
+										<holder name="jtron24" />
+									</divinesmite2>
+									<dreadlord20>
+										<holder name="jtron24" />
+									</dreadlord20>
+									<extraattack5>
+										<holder name="jtron24" />
+									</extraattack5>
+									<fightingstyle2>
+										<holder name="jtron24" />
+									</fightingstyle2>
+									<improveddivinesmite11>
+										<holder name="jtron24" />
+									</improveddivinesmite11>
+									<layonhands1>
+										<holder name="jtron24" />
+									</layonhands1>
+									<sacredoath3>
+										<holder name="jtron24" />
+									</sacredoath3>
+									<spellcasting2>
+										<holder name="jtron24" />
+									</spellcasting2>
+									<supernaturalresistance15>
+										<holder name="jtron24" />
+									</supernaturalresistance15>
+								</category>
+							</features>
+							<hp>
+								<holder name="jtron24" />
+								<category name="DD Dungeon Masters Guide" baseicon="0" decalicon="0">
+									<hitdice>
+										<holder name="jtron24" />
+									</hitdice>
+									<hitpointsat1stlevel>
+										<holder name="jtron24" />
+									</hitpointsat1stlevel>
+									<hitpointsathigherlevels>
+										<holder name="jtron24" />
+									</hitpointsathigherlevels>
+								</category>
+							</hp>
+							<multiclassfeatures>
+								<holder name="jtron24" />
+							</multiclassfeatures>
+							<multiclassproficiencies>
+								<holder name="jtron24" />
+								<category name="DD Dungeon Masters Guide" baseicon="0" decalicon="0">
+									<armor>
+										<holder name="jtron24" />
+									</armor>
+									<weapons>
+										<holder name="jtron24" />
+									</weapons>
+								</category>
+							</multiclassproficiencies>
+							<proficiencies>
+								<holder name="jtron24" />
+								<category name="DD Dungeon Masters Guide" baseicon="0" decalicon="0">
+									<armor>
+										<holder name="jtron24" />
+									</armor>
+									<savingthrows>
+										<holder name="jtron24" />
+									</savingthrows>
+									<skills>
+										<holder name="jtron24" />
+									</skills>
+									<tools>
+										<holder name="jtron24" />
+									</tools>
+									<weapons>
+										<holder name="jtron24" />
+									</weapons>
+								</category>
+							</proficiencies>
+						</category>
+					</antipaladin>
+				</category>
+			</classdata>
+			<racedata>
+				<category name="DD Dungeon Masters Guide" baseicon="0" decalicon="0">
+					<aasimar>
+						<public />
+						<category name="DD Dungeon Masters Guide" baseicon="0" decalicon="0">
+							<traits>
+								<public />
+								<category name="DD Dungeon Masters Guide" baseicon="0" decalicon="0">
+									<abilityscoreincrease>
+										<public />
+									</abilityscoreincrease>
+									<age>
+										<public />
+									</age>
+									<alignment>
+										<public />
+									</alignment>
+									<celestiallegacy>
+										<public />
+									</celestiallegacy>
+									<celestialresistance>
+										<public />
+									</celestialresistance>
+									<darkvision>
+										<public />
+									</darkvision>
+									<languages>
+										<public />
+									</languages>
+									<size>
+										<public />
+									</size>
+									<speed>
+										<public />
+									</speed>
+								</category>
+							</traits>
+						</category>
+					</aasimar>
+				</category>
+			</racedata>
+		</category>
+	</reference>
+</root>
