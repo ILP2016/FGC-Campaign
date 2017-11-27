@@ -419,25 +419,12 @@
 							<x>1851</x>
 							<y>631</y>
 							<orientation>1</orientation>
-							<name>Usk Ao</name>
-							<visibilitylocked>on</visibilitylocked>
-						</token>
-						<token>
-							<prototype>portrait_id-00047_token</prototype>
-							<id>5</id>
-							<x>1871</x>
-							<y>701</y>
-							<orientation>1</orientation>
-							<name>Delete Me</name>
-							<visibilitylocked>on</visibilitylocked>
 						</token>
 						<token>
 							<prototype>portrait_id-00050_token</prototype>
 							<id>1</id>
 							<x>1781</x>
 							<y>661</y>
-							<name>Ferral</name>
-							<visibilitylocked>on</visibilitylocked>
 						</token>
 						<token>
 							<prototype>portrait_id-00053_token</prototype>
@@ -445,8 +432,6 @@
 							<x>1581</x>
 							<y>601</y>
 							<orientation>7</orientation>
-							<name>Lakland</name>
-							<visibilitylocked>on</visibilitylocked>
 						</token>
 						<token>
 							<prototype>portrait_id-00039_token</prototype>
@@ -454,8 +439,6 @@
 							<x>1591</x>
 							<y>601</y>
 							<orientation>2</orientation>
-							<name>Feldis Harlequin</name>
-							<visibilitylocked>on</visibilitylocked>
 						</token>
 						<token>
 							<prototype>portrait_id-00043_token</prototype>

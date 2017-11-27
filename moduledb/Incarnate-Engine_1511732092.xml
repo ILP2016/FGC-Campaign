@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<root version="3.3" release="8|CoreRPG:3" integrity="c9d96bc7eced0dd9dcfab9fab38d7c8e30b903c5">
+<root version="3.3" release="8|CoreRPG:3" integrity="db537a785aa7692bf37271c7924c4ec0c1e0456f">
 	<class>
 		<category name="DandDwiki-Classes" baseicon="0" decalicon="0">
 			<id-00004>
@@ -902,13 +902,7 @@
 		</category>
 	</race>
 	<spell>
-		<category name="ProNobis - Effects Coding - 0 General" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Effects Coding - 1 Races" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Effects Coding - 2 Items" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Effects Coding - Barbarian" baseicon="0" decalicon="0">
+		<category name="ProNobis - Effects Coding" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Effects Coding - Bard" baseicon="0" decalicon="0">
 		</category>
@@ -916,9 +910,9 @@
 		</category>
 		<category name="ProNobis - Effects Coding - Fighter" baseicon="0" decalicon="0">
 		</category>
-		<category name="ProNobis - Effects Coding - Monk" baseicon="0" decalicon="0">
+		<category name="ProNobis - Effects Coding - Items" baseicon="0" decalicon="0">
 		</category>
-		<category name="ProNobis - Effects Coding - Paladin" baseicon="0" decalicon="0">
+		<category name="ProNobis - Effects Coding - Monk" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Hombrew Spells" baseicon="0" decalicon="0">
 		</category>
@@ -5084,8 +5078,6 @@
 		</category>
 	</tables>
 	<treasureparcels>
-		<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-		</category>
 		<category name="ProNobis - Starting - Backgrounds" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Starting - Classes" baseicon="0" decalicon="0">

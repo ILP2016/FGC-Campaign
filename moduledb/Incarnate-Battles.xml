@@ -15,6 +15,60 @@
 					</abilities>
 				</category>
 			</id-00006>
+			<id-00007>
+				<holder name="Malamute" />
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<holder name="Malamute" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<charisma>
+								<holder name="Malamute" />
+							</charisma>
+							<constitution>
+								<holder name="Malamute" />
+							</constitution>
+							<dexterity>
+								<holder name="Malamute" />
+							</dexterity>
+							<intelligence>
+								<holder name="Malamute" />
+							</intelligence>
+							<strength>
+								<holder name="Malamute" />
+							</strength>
+							<wisdom>
+								<holder name="Malamute" />
+							</wisdom>
+						</category>
+					</abilities>
+					<actions>
+						<holder name="Malamute" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Malamute" />
+							</id-00001>
+						</category>
+					</actions>
+					<innatespells>
+						<holder name="Malamute" />
+					</innatespells>
+					<lairactions>
+						<holder name="Malamute" />
+					</lairactions>
+					<legendaryactions>
+						<holder name="Malamute" />
+					</legendaryactions>
+					<reactions>
+						<holder name="Malamute" />
+					</reactions>
+					<spells>
+						<holder name="Malamute" />
+					</spells>
+					<traits>
+						<holder name="Malamute" />
+					</traits>
+				</category>
+			</id-00007>
 			<id-00011>
 				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
 					<abilities>
@@ -37,6 +91,127 @@
 					</abilities>
 				</category>
 			</id-00014>
+			<id-00023>
+				<holder name="Malamute" />
+				<innatespells>
+					<holder name="Malamute" />
+				</innatespells>
+				<lairactions>
+					<holder name="Malamute" />
+				</lairactions>
+				<legendaryactions>
+					<holder name="Malamute" />
+				</legendaryactions>
+				<reactions>
+					<holder name="Malamute" />
+				</reactions>
+				<spells>
+					<holder name="Malamute" />
+				</spells>
+				<traits>
+					<holder name="Malamute" />
+				</traits>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<holder name="Malamute" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<charisma>
+								<holder name="Malamute" />
+								<bonus type="number">-2</bonus>
+							</charisma>
+							<constitution>
+								<holder name="Malamute" />
+							</constitution>
+							<dexterity>
+								<holder name="Malamute" />
+							</dexterity>
+							<intelligence>
+								<holder name="Malamute" />
+							</intelligence>
+							<strength>
+								<holder name="Malamute" />
+							</strength>
+							<wisdom>
+								<holder name="Malamute" />
+							</wisdom>
+						</category>
+					</abilities>
+					<actions>
+						<holder name="Malamute" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Malamute" />
+							</id-00001>
+						</category>
+					</actions>
+				</category>
+			</id-00023>
+			<id-00030>
+				<holder name="Malamute" />
+				<innatespells>
+					<holder name="Malamute" />
+				</innatespells>
+				<lairactions>
+					<holder name="Malamute" />
+				</lairactions>
+				<legendaryactions>
+					<holder name="Malamute" />
+				</legendaryactions>
+				<reactions>
+					<holder name="Malamute" />
+				</reactions>
+				<spells>
+					<holder name="Malamute" />
+				</spells>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<holder name="Malamute" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<charisma>
+								<holder name="Malamute" />
+								<bonus type="number">-3</bonus>
+							</charisma>
+							<constitution>
+								<holder name="Malamute" />
+							</constitution>
+							<dexterity>
+								<holder name="Malamute" />
+							</dexterity>
+							<intelligence>
+								<holder name="Malamute" />
+							</intelligence>
+							<strength>
+								<holder name="Malamute" />
+							</strength>
+							<wisdom>
+								<holder name="Malamute" />
+							</wisdom>
+						</category>
+					</abilities>
+					<actions>
+						<holder name="Malamute" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Malamute" />
+							</id-00001>
+							<id-00002>
+								<holder name="Malamute" />
+							</id-00002>
+							<id-00003>
+								<holder name="Malamute" />
+							</id-00003>
+						</category>
+					</actions>
+					<traits>
+						<holder name="Malamute" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Malamute" />
+							</id-00001>
+						</category>
+					</traits>
+				</category>
+			</id-00030>
 			<id-00039>
 				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
 					<abilities>
@@ -65,6 +240,134 @@
 					</abilities>
 				</category>
 			</id-00041>
+			<id-00056>
+				<holder name="Malamute" />
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<holder name="Malamute" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<charisma>
+								<holder name="Malamute" />
+							</charisma>
+							<constitution>
+								<holder name="Malamute" />
+							</constitution>
+							<dexterity>
+								<holder name="Malamute" />
+							</dexterity>
+							<intelligence>
+								<holder name="Malamute" />
+							</intelligence>
+							<strength>
+								<holder name="Malamute" />
+							</strength>
+							<wisdom>
+								<holder name="Malamute" />
+							</wisdom>
+						</category>
+					</abilities>
+					<actions>
+						<holder name="Malamute" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Malamute" />
+							</id-00001>
+						</category>
+					</actions>
+					<innatespells>
+						<holder name="Malamute" />
+					</innatespells>
+					<lairactions>
+						<holder name="Malamute" />
+					</lairactions>
+					<legendaryactions>
+						<holder name="Malamute" />
+					</legendaryactions>
+					<reactions>
+						<holder name="Malamute" />
+					</reactions>
+					<spells>
+						<holder name="Malamute" />
+					</spells>
+					<traits>
+						<holder name="Malamute" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Malamute" />
+							</id-00001>
+							<id-00002>
+								<holder name="Malamute" />
+							</id-00002>
+							<id-00003>
+								<holder name="Malamute" />
+							</id-00003>
+						</category>
+					</traits>
+				</category>
+			</id-00056>
+			<id-00092>
+				<holder name="Malamute" />
+				<innatespells>
+					<holder name="Malamute" />
+				</innatespells>
+				<lairactions>
+					<holder name="Malamute" />
+				</lairactions>
+				<legendaryactions>
+					<holder name="Malamute" />
+				</legendaryactions>
+				<reactions>
+					<holder name="Malamute" />
+				</reactions>
+				<spells>
+					<holder name="Malamute" />
+				</spells>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<holder name="Malamute" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<charisma>
+								<holder name="Malamute" />
+							</charisma>
+							<constitution>
+								<holder name="Malamute" />
+							</constitution>
+							<dexterity>
+								<holder name="Malamute" />
+							</dexterity>
+							<intelligence>
+								<holder name="Malamute" />
+								<bonus type="number">-4</bonus>
+							</intelligence>
+							<strength>
+								<holder name="Malamute" />
+							</strength>
+							<wisdom>
+								<holder name="Malamute" />
+							</wisdom>
+						</category>
+					</abilities>
+					<actions>
+						<holder name="Malamute" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Malamute" />
+							</id-00001>
+						</category>
+					</actions>
+					<traits>
+						<holder name="Malamute" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Malamute" />
+							</id-00001>
+							<id-00002>
+								<holder name="Malamute" />
+							</id-00002>
+						</category>
+					</traits>
+				</category>
+			</id-00092>
 		</category>
 		<category name="SRD - Celestial" baseicon="0" decalicon="0">
 		</category>
