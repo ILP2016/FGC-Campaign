@@ -70430,33 +70430,33 @@
 					<h>Class</h>
 					<p>Barbarian: Barbarian Level 5:</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00001.proficiencies.armor@Incarnate-Engine">Armor</link>
-						<link class="reference_classproficiency" recordname="class.id-00001.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00001.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00001.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00001.features.rage1@Incarnate-Engine">Rage</link>
-						<link class="reference_classfeature" recordname="class.id-00001.features.unarmoreddefense1@Incarnate-Engine">Unarmored Defense</link>
+						<link class="reference_classproficiency" recordname="class.probarbarian.proficiencies.armor@Incarnate-Engine">Armor</link>
+						<link class="reference_classproficiency" recordname="class.probarbarian.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.probarbarian.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.probarbarian.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.probarbarian.features.rage1@Incarnate-Engine">Rage</link>
+						<link class="reference_classfeature" recordname="class.probarbarian.features.unarmoreddefense1@Incarnate-Engine">Unarmored Defense</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00008@Incarnate-Engine">Default Barbarian Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00001.features.dangersense2@Incarnate-Engine">Danger Sense</link>
-						<link class="reference_classfeature" recordname="class.id-00001.features.recklessattack2@Incarnate-Engine">Reckless Attack</link>
+						<link class="reference_classfeature" recordname="class.probarbarian.features.dangersense2@Incarnate-Engine">Danger Sense</link>
+						<link class="reference_classfeature" recordname="class.probarbarian.features.recklessattack2@Incarnate-Engine">Reckless Attack</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00001.features.id-00001@Incarnate-Engine">This Ends Now</link>
-						<link class="reference_classability" recordname="class.id-00001.abilities.id-00001@Incarnate-Engine">Path of the Battleborn</link>
+						<link class="reference_classfeature" recordname="class.probarbarian.features.id-00001@Incarnate-Engine">This Ends Now</link>
+						<link class="reference_classability" recordname="class.probarbarian.abilities.id-00001@Incarnate-Engine">Path of the Battleborn</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00001.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.probarbarian.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00001.features.extraattack5@Incarnate-Engine">Extra Attack</link>
-						<link class="reference_classfeature" recordname="class.id-00001.features.fastmovement5@Incarnate-Engine">Fast Movement</link>
-						<link class="reference_class" recordname="class.id-00001@Incarnate-Engine">Barbarian</link>
+						<link class="reference_classfeature" recordname="class.probarbarian.features.extraattack5@Incarnate-Engine">Extra Attack</link>
+						<link class="reference_classfeature" recordname="class.probarbarian.features.fastmovement5@Incarnate-Engine">Fast Movement</link>
+						<link class="reference_class" recordname="class.probarbarian@Incarnate-Engine">Barbarian</link>
 					</linklist>
 				</text>
 			</id-00090>
@@ -70494,32 +70494,32 @@
 					<h>Class</h>
 					<p>Bard: Bard Level: 04</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00002.proficiencies.armor@Incarnate-Engine">Armor</link>
-						<link class="reference_classproficiency" recordname="class.id-00002.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00002.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00002.proficiencies.tools@Incarnate-Engine">Tools</link>
-						<link class="reference_classproficiency" recordname="class.id-00002.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00002.features.bardicinspiration1@Incarnate-Engine">Bardic Inspiration</link>
-						<link class="reference_classfeature" recordname="class.id-00002.features.spellcasting1@Incarnate-Engine">Spellcasting</link>
+						<link class="reference_classproficiency" recordname="class.probard.proficiencies.armor@Incarnate-Engine">Armor</link>
+						<link class="reference_classproficiency" recordname="class.probard.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.probard.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.probard.proficiencies.tools@Incarnate-Engine">Tools</link>
+						<link class="reference_classproficiency" recordname="class.probard.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.probard.features.id-00013@Incarnate-Engine">Bardic Inspiration</link>
+						<link class="reference_classfeature" recordname="class.probard.features.id-00030@Incarnate-Engine">Spellcasting</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00009@Incarnate-Engine">Default Bard Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00002.features.songofrest2@Incarnate-Engine">Song of Rest</link>
+						<link class="reference_classfeature" recordname="class.probard.features.id-00028@Incarnate-Engine">Song of Rest</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00002.features.expertise3@Incarnate-Engine">Expertise</link>
+						<link class="reference_classfeature" recordname="class.probard.features.id-00018@Incarnate-Engine">Expertise</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classability" recordname="class.id-00002.abilities.collegeoflore@Incarnate-Engine">College of Lore</link>
-						<link class="reference_classfeature" recordname="class.id-00002.features.bonusproficiencies_lore_3@Incarnate-Engine">Bonus Proficiencies (Lore)</link>
-						<link class="reference_classfeature" recordname="class.id-00002.features.cuttingwords3@Incarnate-Engine">Cutting Words</link>
+						<link class="reference_classability" recordname="class.probard.abilities.id-00002@Incarnate-Engine">College of Lore</link>
+						<link class="reference_classfeature" recordname="class.probard.features.id-00014@Incarnate-Engine">Bonus Proficiencies (Lore)</link>
+						<link class="reference_classfeature" recordname="class.probard.features.id-00016@Incarnate-Engine">Cutting Words</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00002.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.probard.features.id-00009@Incarnate-Engine">Ability Score Improvement</link>
 					</linklist>
 					<p>Cantrip:</p>
 					<linklist>
@@ -70563,7 +70563,7 @@
 					</linklist>
 					<p>; Spell Slots: 4/3</p>
 					<linklist>
-						<link class="reference_class" recordname="class.id-00002@Incarnate-Engine">Bard</link>
+						<link class="reference_class" recordname="class.probard@Incarnate-Engine">Bard</link>
 					</linklist>
 				</text>
 			</id-00091>
@@ -71425,33 +71425,33 @@
 					<h>Class</h>
 					<p>Barbarian: Barbarian Level 5:</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00001.proficiencies.armor@Incarnate-Engine">Armor</link>
-						<link class="reference_classproficiency" recordname="class.id-00001.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00001.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00001.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00001.features.rage1@Incarnate-Engine">Rage</link>
-						<link class="reference_classfeature" recordname="class.id-00001.features.unarmoreddefense1@Incarnate-Engine">Unarmored Defense</link>
+						<link class="reference_classproficiency" recordname="class.probarbarian.proficiencies.armor@Incarnate-Engine">Armor</link>
+						<link class="reference_classproficiency" recordname="class.probarbarian.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.probarbarian.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.probarbarian.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.probarbarian.features.rage1@Incarnate-Engine">Rage</link>
+						<link class="reference_classfeature" recordname="class.probarbarian.features.unarmoreddefense1@Incarnate-Engine">Unarmored Defense</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00008@Incarnate-Engine">Default Barbarian Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00001.features.dangersense2@Incarnate-Engine">Danger Sense</link>
-						<link class="reference_classfeature" recordname="class.id-00001.features.recklessattack2@Incarnate-Engine">Reckless Attack</link>
+						<link class="reference_classfeature" recordname="class.probarbarian.features.dangersense2@Incarnate-Engine">Danger Sense</link>
+						<link class="reference_classfeature" recordname="class.probarbarian.features.recklessattack2@Incarnate-Engine">Reckless Attack</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00001.features.id-00009@Incarnate-Engine">Healer</link>
-						<link class="reference_classability" recordname="class.id-00001.abilities.id-00003@Incarnate-Engine">Path of the Healer</link>
+						<link class="reference_classfeature" recordname="class.probarbarian.features.id-00009@Incarnate-Engine">Healer</link>
+						<link class="reference_classability" recordname="class.probarbarian.abilities.id-00003@Incarnate-Engine">Path of the Healer</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00001.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.probarbarian.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00001.features.extraattack5@Incarnate-Engine">Extra Attack</link>
-						<link class="reference_classfeature" recordname="class.id-00001.features.fastmovement5@Incarnate-Engine">Fast Movement</link>
-						<link class="reference_class" recordname="class.id-00001@Incarnate-Engine">Barbarian</link>
+						<link class="reference_classfeature" recordname="class.probarbarian.features.extraattack5@Incarnate-Engine">Extra Attack</link>
+						<link class="reference_classfeature" recordname="class.probarbarian.features.fastmovement5@Incarnate-Engine">Fast Movement</link>
+						<link class="reference_class" recordname="class.probarbarian@Incarnate-Engine">Barbarian</link>
 					</linklist>
 				</text>
 			</id-00155>
@@ -71486,32 +71486,32 @@
 					<h>Class</h>
 					<p>Bard: Bard Level: 04</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00002.proficiencies.armor@Incarnate-Engine">Armor</link>
-						<link class="reference_classproficiency" recordname="class.id-00002.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00002.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00002.proficiencies.tools@Incarnate-Engine">Tools</link>
-						<link class="reference_classproficiency" recordname="class.id-00002.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00002.features.bardicinspiration1@Incarnate-Engine">Bardic Inspiration</link>
-						<link class="reference_classfeature" recordname="class.id-00002.features.spellcasting1@Incarnate-Engine">Spellcasting</link>
+						<link class="reference_classproficiency" recordname="class.probard.proficiencies.armor@Incarnate-Engine">Armor</link>
+						<link class="reference_classproficiency" recordname="class.probard.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.probard.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.probard.proficiencies.tools@Incarnate-Engine">Tools</link>
+						<link class="reference_classproficiency" recordname="class.probard.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.probard.features.id-00013@Incarnate-Engine">Bardic Inspiration</link>
+						<link class="reference_classfeature" recordname="class.probard.features.id-00030@Incarnate-Engine">Spellcasting</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00009@Incarnate-Engine">Default Bard Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00002.features.songofrest2@Incarnate-Engine">Song of Rest</link>
+						<link class="reference_classfeature" recordname="class.probard.features.id-00028@Incarnate-Engine">Song of Rest</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00002.features.expertise3@Incarnate-Engine">Expertise</link>
+						<link class="reference_classfeature" recordname="class.probard.features.id-00018@Incarnate-Engine">Expertise</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classability" recordname="class.id-00002.abilities.id-00001@Incarnate-Engine">College of Healing</link>
-						<link class="reference_classfeature" recordname="class.id-00002.features.id-00001@Incarnate-Engine">Bonus Proficiencies</link>
-						<link class="reference_classfeature" recordname="class.id-00002.features.id-00002@Incarnate-Engine">Healing Words</link>
+						<link class="reference_classability" recordname="class.probard.abilities.id-00001@Incarnate-Engine">College of Healing</link>
+						<link class="reference_classfeature" recordname="class.probard.features.id-00001@Incarnate-Engine">Bonus Proficiencies</link>
+						<link class="reference_classfeature" recordname="class.probard.features.id-00002@Incarnate-Engine">Healing Words</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00002.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.probard.features.id-00009@Incarnate-Engine">Ability Score Improvement</link>
 					</linklist>
 					<p>Cantrip:</p>
 					<linklist>
@@ -71555,7 +71555,7 @@
 					</linklist>
 					<p>; Spell Slots: 4/3</p>
 					<linklist>
-						<link class="reference_class" recordname="class.id-00002@Incarnate-Engine">Bard</link>
+						<link class="reference_class" recordname="class.probard@Incarnate-Engine">Bard</link>
 					</linklist>
 				</text>
 			</id-00156>
@@ -71591,32 +71591,32 @@
 					<h>Class</h>
 					<p>Bard: Bard Level: 04</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00002.proficiencies.armor@Incarnate-Engine">Armor</link>
-						<link class="reference_classproficiency" recordname="class.id-00002.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00002.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00002.proficiencies.tools@Incarnate-Engine">Tools</link>
-						<link class="reference_classproficiency" recordname="class.id-00002.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00002.features.bardicinspiration1@Incarnate-Engine">Bardic Inspiration</link>
-						<link class="reference_classfeature" recordname="class.id-00002.features.spellcasting1@Incarnate-Engine">Spellcasting</link>
+						<link class="reference_classproficiency" recordname="class.probard.proficiencies.armor@Incarnate-Engine">Armor</link>
+						<link class="reference_classproficiency" recordname="class.probard.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.probard.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.probard.proficiencies.tools@Incarnate-Engine">Tools</link>
+						<link class="reference_classproficiency" recordname="class.probard.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.probard.features.id-00013@Incarnate-Engine">Bardic Inspiration</link>
+						<link class="reference_classfeature" recordname="class.probard.features.id-00030@Incarnate-Engine">Spellcasting</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00009@Incarnate-Engine">Default Bard Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00002.features.songofrest2@Incarnate-Engine">Song of Rest</link>
+						<link class="reference_classfeature" recordname="class.probard.features.id-00028@Incarnate-Engine">Song of Rest</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00002.features.expertise3@Incarnate-Engine">Expertise</link>
+						<link class="reference_classfeature" recordname="class.probard.features.id-00018@Incarnate-Engine">Expertise</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classability" recordname="class.id-00002.abilities.collegeoflore@Incarnate-Engine">College of Lore</link>
-						<link class="reference_classfeature" recordname="class.id-00002.features.bonusproficiencies_lore_3@Incarnate-Engine">Bonus Proficiencies (Lore)</link>
-						<link class="reference_classfeature" recordname="class.id-00002.features.cuttingwords3@Incarnate-Engine">Cutting Words</link>
+						<link class="reference_classability" recordname="class.probard.abilities.id-00002@Incarnate-Engine">College of Lore</link>
+						<link class="reference_classfeature" recordname="class.probard.features.id-00014@Incarnate-Engine">Bonus Proficiencies (Lore)</link>
+						<link class="reference_classfeature" recordname="class.probard.features.id-00016@Incarnate-Engine">Cutting Words</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00002.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.probard.features.id-00009@Incarnate-Engine">Ability Score Improvement</link>
 					</linklist>
 					<p>Cantrip:</p>
 					<linklist>
@@ -71660,7 +71660,7 @@
 					</linklist>
 					<p>; Spell Slots: 4/3</p>
 					<linklist>
-						<link class="reference_class" recordname="class.id-00002@Incarnate-Engine">Bard</link>
+						<link class="reference_class" recordname="class.probard@Incarnate-Engine">Bard</link>
 					</linklist>
 				</text>
 			</id-00157>
@@ -71803,27 +71803,27 @@
 					<h>Class</h>
 					<p>Barbarian: Barbarian Level 3:</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00001.proficiencies.armor@Incarnate-Engine">Armor</link>
-						<link class="reference_classproficiency" recordname="class.id-00001.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00001.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00001.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00001.features.rage1@Incarnate-Engine">Rage</link>
-						<link class="reference_classfeature" recordname="class.id-00001.features.unarmoreddefense1@Incarnate-Engine">Unarmored Defense</link>
+						<link class="reference_classproficiency" recordname="class.probarbarian.proficiencies.armor@Incarnate-Engine">Armor</link>
+						<link class="reference_classproficiency" recordname="class.probarbarian.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.probarbarian.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.probarbarian.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.probarbarian.features.rage1@Incarnate-Engine">Rage</link>
+						<link class="reference_classfeature" recordname="class.probarbarian.features.unarmoreddefense1@Incarnate-Engine">Unarmored Defense</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00008@Incarnate-Engine">Default Barbarian Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00001.features.dangersense2@Incarnate-Engine">Danger Sense</link>
-						<link class="reference_classfeature" recordname="class.id-00001.features.recklessattack2@Incarnate-Engine">Reckless Attack</link>
+						<link class="reference_classfeature" recordname="class.probarbarian.features.dangersense2@Incarnate-Engine">Danger Sense</link>
+						<link class="reference_classfeature" recordname="class.probarbarian.features.recklessattack2@Incarnate-Engine">Reckless Attack</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00001.features.id-00013@Incarnate-Engine">Resolve</link>
-						<link class="reference_classfeature" recordname="class.id-00001.features.id-00014@Incarnate-Engine">With Age...</link>
-						<link class="reference_classfeature" recordname="class.id-00001.features.id-00015@Incarnate-Engine">Axeman</link>
-						<link class="reference_classfeature" recordname="class.id-00001.features.id-00016@Incarnate-Engine">Wide Stance</link>
-						<link class="reference_classability" recordname="class.id-00001.abilities.id-00004@Incarnate-Engine">Path of the Lumberjack</link>
-						<link class="reference_class" recordname="class.id-00001@Incarnate-Engine">Barbarian</link>
+						<link class="reference_classfeature" recordname="class.probarbarian.features.id-00013@Incarnate-Engine">Resolve</link>
+						<link class="reference_classfeature" recordname="class.probarbarian.features.id-00014@Incarnate-Engine">With Age...</link>
+						<link class="reference_classfeature" recordname="class.probarbarian.features.id-00015@Incarnate-Engine">Axeman</link>
+						<link class="reference_classfeature" recordname="class.probarbarian.features.id-00016@Incarnate-Engine">Wide Stance</link>
+						<link class="reference_classability" recordname="class.probarbarian.abilities.id-00004@Incarnate-Engine">Path of the Lumberjack</link>
+						<link class="reference_class" recordname="class.probarbarian@Incarnate-Engine">Barbarian</link>
 					</linklist>
 				</text>
 			</id-00159>
