@@ -413,39 +413,6 @@
 					<tokens>
 						<idcounter>6</idcounter>
 						<scalelock>6.25</scalelock>
-						<token>
-							<prototype>portrait_id-00043_token</prototype>
-							<id>4</id>
-							<x>1851</x>
-							<y>631</y>
-							<orientation>1</orientation>
-						</token>
-						<token>
-							<prototype>portrait_id-00050_token</prototype>
-							<id>1</id>
-							<x>1781</x>
-							<y>661</y>
-						</token>
-						<token>
-							<prototype>portrait_id-00053_token</prototype>
-							<id>2</id>
-							<x>1581</x>
-							<y>601</y>
-							<orientation>7</orientation>
-						</token>
-						<token>
-							<prototype>portrait_id-00039_token</prototype>
-							<id>3</id>
-							<x>1591</x>
-							<y>601</y>
-							<orientation>2</orientation>
-						</token>
-						<token>
-							<prototype>portrait_id-00043_token</prototype>
-							<id>6</id>
-							<x>1591</x>
-							<y>581</y>
-						</token>
 					</tokens>
 				</image>
 			</id-00073>
@@ -597,7 +564,7 @@
 							<endx>1531</endx>
 							<endy>1691</endy>
 							<owner></owner>
-							<color>ff</color>
+							<color>2a0070</color>
 						</pointer>
 					</pointers>
 				</image>
@@ -1368,8 +1335,8 @@
 						<token>
 							<prototype>tokens/Medium/a.png@Letter Tokens</prototype>
 							<id>6</id>
-							<x>905</x>
-							<y>1131</y>
+							<x>938</x>
+							<y>1181</y>
 							<scale>0.2</scale>
 						</token>
 					</tokens>
@@ -1732,6 +1699,108 @@
 							<recordname>image.id-00137@Incarnate-Penolia</recordname>
 						</shortcut>
 					</shortcuts>
+					<tokens>
+						<idcounter>27</idcounter>
+						<tokenlock />
+						<scalelock>6.25</scalelock>
+						<token>
+							<prototype>tokens/E.png@DD5E SRD Bestiary</prototype>
+							<id>23</id>
+							<x>1561</x>
+							<y>1301</y>
+							<scale>2</scale>
+							<name>Elk</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+						<token>
+							<prototype>portrait_id-00037_token</prototype>
+							<id>3</id>
+							<x>1901</x>
+							<y>1471</y>
+							<scale>0.5</scale>
+							<name>Swino son of Apia</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+						<token>
+							<prototype>portrait_id-00034_token</prototype>
+							<id>1</id>
+							<x>1631</x>
+							<y>1331</y>
+							<scale>0.7</scale>
+							<orientation>7</orientation>
+							<name>Aethelmaer</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+						<token>
+							<prototype>portrait_id-00036_token</prototype>
+							<id>2</id>
+							<x>1651</x>
+							<y>1451</y>
+							<orientation>7</orientation>
+							<name>Ronn</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+						<token>
+							<prototype>portrait_id-00047_token</prototype>
+							<id>20</id>
+							<x>1721</x>
+							<y>1271</y>
+							<orientation>4</orientation>
+							<name>Erdan</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+						<token>
+							<prototype>portrait_id-00045_token</prototype>
+							<id>4</id>
+							<x>1591</x>
+							<y>1291</y>
+							<orientation>7</orientation>
+							<name>Corbon</name>
+							<visibilitylocked>on</visibilitylocked>
+							<targets>20</targets>
+						</token>
+						<token>
+							<prototype>tokens/Medium/r.png@Letter Tokens</prototype>
+							<id>19</id>
+							<x>1521</x>
+							<y>1251</y>
+							<scale>2.85714</scale>
+							<name>Riding Horse</name>
+							<unmodifiable />
+						</token>
+					</tokens>
+					<pointers>
+						<pointer>
+							<id>3</id>
+							<type>2</type>
+							<startx>1921</startx>
+							<starty>1481</starty>
+							<endx>1881</endx>
+							<endy>1501</endy>
+							<owner></owner>
+							<color>2a0070</color>
+						</pointer>
+						<pointer>
+							<id>2</id>
+							<type>2</type>
+							<startx>1631</startx>
+							<starty>1351</starty>
+							<endx>1621</endx>
+							<endy>1351</endy>
+							<owner>id-00036</owner>
+							<color>ff0a3c0a</color>
+						</pointer>
+						<pointer>
+							<id>0</id>
+							<type>1</type>
+							<startx>1091</startx>
+							<starty>1111</starty>
+							<endx>1461</endx>
+							<endy>1141</endy>
+							<owner></owner>
+							<color>2a0070</color>
+						</pointer>
+					</pointers>
 				</image>
 			</id-00128>
 			<id-00129>
@@ -2216,7 +2285,7 @@
 							<endx>781</endx>
 							<endy>1331</endy>
 							<owner></owner>
-							<color>ff</color>
+							<color>2a0070</color>
 						</pointer>
 					</pointers>
 				</image>
@@ -2396,7 +2465,7 @@
 							<endx>461</endx>
 							<endy>1301</endy>
 							<owner></owner>
-							<color>ff</color>
+							<color>2a0070</color>
 						</pointer>
 					</pointers>
 				</image>

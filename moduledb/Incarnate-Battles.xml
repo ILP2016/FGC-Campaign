@@ -93,24 +93,6 @@
 			</id-00014>
 			<id-00023>
 				<holder name="Malamute" />
-				<innatespells>
-					<holder name="Malamute" />
-				</innatespells>
-				<lairactions>
-					<holder name="Malamute" />
-				</lairactions>
-				<legendaryactions>
-					<holder name="Malamute" />
-				</legendaryactions>
-				<reactions>
-					<holder name="Malamute" />
-				</reactions>
-				<spells>
-					<holder name="Malamute" />
-				</spells>
-				<traits>
-					<holder name="Malamute" />
-				</traits>
 				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
 					<abilities>
 						<holder name="Malamute" />
@@ -148,21 +130,6 @@
 			</id-00023>
 			<id-00030>
 				<holder name="Malamute" />
-				<innatespells>
-					<holder name="Malamute" />
-				</innatespells>
-				<lairactions>
-					<holder name="Malamute" />
-				</lairactions>
-				<legendaryactions>
-					<holder name="Malamute" />
-				</legendaryactions>
-				<reactions>
-					<holder name="Malamute" />
-				</reactions>
-				<spells>
-					<holder name="Malamute" />
-				</spells>
 				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
 					<abilities>
 						<holder name="Malamute" />
@@ -307,21 +274,6 @@
 			</id-00056>
 			<id-00092>
 				<holder name="Malamute" />
-				<innatespells>
-					<holder name="Malamute" />
-				</innatespells>
-				<lairactions>
-					<holder name="Malamute" />
-				</lairactions>
-				<legendaryactions>
-					<holder name="Malamute" />
-				</legendaryactions>
-				<reactions>
-					<holder name="Malamute" />
-				</reactions>
-				<spells>
-					<holder name="Malamute" />
-				</spells>
 				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
 					<abilities>
 						<holder name="Malamute" />

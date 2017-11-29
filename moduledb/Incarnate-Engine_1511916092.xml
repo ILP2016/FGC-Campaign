@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<root version="3.3" release="8|CoreRPG:3" integrity="b09d500f0c95a5f24aaddc55c4445f330f42199b">
+<root version="3.3" release="8|CoreRPG:3" integrity="c9d96bc7eced0dd9dcfab9fab38d7c8e30b903c5">
 	<class>
 		<category name="DandDwiki-Classes" baseicon="0" decalicon="0">
 			<id-00004>
@@ -5056,11 +5056,6 @@
 				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
 				</category>
 			</id-01195>
-			<id-01196>
-				<hiderollresults type="number">1</hiderollresults>
-				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-				</category>
-			</id-01196>
 		</category>
 		<category name="Pronobis - Dungeon" baseicon="0" decalicon="0">
 			<id-01207>
