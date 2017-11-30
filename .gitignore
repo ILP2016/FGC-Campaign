@@ -2,7 +2,8 @@
 *.html
 *.xml
 !db.xml
-!characters
+!characters/2017-11-29*.xml
+!characters/*.xml
 !maskedimages/*.png
 !moduledb/*.xml
 CampaignRegistry.lua
