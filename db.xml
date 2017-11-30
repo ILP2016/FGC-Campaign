@@ -3152,20 +3152,20 @@
 				<h>Class</h>
 				<p>Rogue: Level 2:</p>
 				<linklist>
-					<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.armor@Incarnate-Engine">Armor</link>
-					<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-					<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.skills@Incarnate-Engine">Skills</link>
-					<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.tools@Incarnate-Engine">Tools</link>
-					<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-					<link class="reference_classfeature" recordname="class.id-00008.features.expertise1@Incarnate-Engine">Expertise</link>
-					<link class="reference_classfeature" recordname="class.id-00008.features.sneakattack1@Incarnate-Engine">Sneak Attack</link>
-					<link class="reference_classfeature" recordname="class.id-00008.features.thieves_cant1@Incarnate-Engine">Thieves' Cant</link>
+					<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.armor@Incarnate-Engine">Armor</link>
+					<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+					<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.skills@Incarnate-Engine">Skills</link>
+					<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.tools@Incarnate-Engine">Tools</link>
+					<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+					<link class="reference_classfeature" recordname="class.prorogue.features.id-00011@Incarnate-Engine">Expertise</link>
+					<link class="reference_classfeature" recordname="class.prorogue.features.id-00018@Incarnate-Engine">Sneak Attack</link>
+					<link class="reference_classfeature" recordname="class.prorogue.features.id-00022@Incarnate-Engine">Thieves' Cant</link>
 					<link class="treasureparcel" recordname="treasureparcels.id-00016@Incarnate-Engine">Default Rogue Items</link>
 				</linklist>
 				<p></p>
 				<linklist>
-					<link class="reference_classfeature" recordname="class.id-00008.features.cunningaction2@Incarnate-Engine">Cunning Action</link>
-					<link class="reference_class" recordname="class.id-00008@Incarnate-Engine">Rogue</link>
+					<link class="reference_classfeature" recordname="class.prorogue.features.id-00008@Incarnate-Engine">Cunning Action</link>
+					<link class="reference_class" recordname="class.prorogue@Incarnate-Engine">Rogue</link>
 				</linklist>
 				<h>Spells</h>
 				<linklist>
@@ -3209,34 +3209,34 @@
 				<h>Class</h>
 				<p>Sorcerer: Level 6:</p>
 				<linklist>
-					<link class="reference_classproficiency" recordname="class.id-00009.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-					<link class="reference_classproficiency" recordname="class.id-00009.proficiencies.skills@Incarnate-Engine">Skills</link>
-					<link class="reference_classproficiency" recordname="class.id-00009.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-					<link class="reference_classfeature" recordname="class.id-00009.features.spellcasting1@Incarnate-Engine">Spellcasting</link>
-					<link class="reference_classfeature" recordname="class.id-00009.features.sorcerousorigin1@Incarnate-Engine">Sorcerous Origin</link>
+					<link class="reference_classproficiency" recordname="class.prosorcerer.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+					<link class="reference_classproficiency" recordname="class.prosorcerer.proficiencies.skills@Incarnate-Engine">Skills</link>
+					<link class="reference_classproficiency" recordname="class.prosorcerer.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+					<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00048@Incarnate-Engine">Spellcasting</link>
+					<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00046@Incarnate-Engine">Sorcerous Origin</link>
 					<link class="treasureparcel" recordname="treasureparcels.id-00017@Incarnate-Engine">Default Sorcerer Items</link>
 				</linklist>
 				<p></p>
 				<linklist>
-					<link class="reference_classability" recordname="class.id-00009.abilities.draconicbloodline@Incarnate-Engine">Draconic Bloodline</link>
-					<link class="reference_classfeature" recordname="class.id-00009.features.dragonancestor1@Incarnate-Engine">Dragon Ancestor</link>
-					<link class="reference_classfeature" recordname="class.id-00009.features.draconicresilience1@Incarnate-Engine">Draconic Resilience</link>
+					<link class="reference_classability" recordname="class.prosorcerer.abilities.id-00001@Incarnate-Engine">Draconic Bloodline</link>
+					<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00039@Incarnate-Engine">Dragon Ancestor</link>
+					<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00038@Incarnate-Engine">Draconic Resilience</link>
 				</linklist>
 				<p></p>
 				<linklist>
-					<link class="reference_classfeature" recordname="class.id-00009.features.fontofmagic2@Incarnate-Engine">Font of Magic</link>
+					<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00042@Incarnate-Engine">Font of Magic</link>
 				</linklist>
 				<p></p>
 				<linklist>
-					<link class="reference_classfeature" recordname="class.id-00009.features.metamagic3@Incarnate-Engine">Metamagic</link>
+					<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00045@Incarnate-Engine">Metamagic</link>
 				</linklist>
 				<p></p>
 				<linklist>
-					<link class="reference_classfeature" recordname="class.id-00009.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+					<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00035@Incarnate-Engine">Ability Score Improvement</link>
 				</linklist>
 				<p></p>
 				<linklist>
-					<link class="reference_classfeature" recordname="class.id-00009.features.elementalaffinity6@Incarnate-Engine">Elemental Affinity</link>
+					<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00041@Incarnate-Engine">Elemental Affinity</link>
 				</linklist>
 				<p>Cantrip:</p>
 				<linklist>
@@ -3288,7 +3288,7 @@
 				</linklist>
 				<p>; Spell slots: 4/3/3</p>
 				<linklist>
-					<link class="reference_class" recordname="class.id-00009@Incarnate-Engine">Sorcerer</link>
+					<link class="reference_class" recordname="class.prosorcerer@Incarnate-Engine">Sorcerer</link>
 				</linklist>
 			</text>
 		</id-00127>
@@ -3336,35 +3336,35 @@
 				<h>Class</h>
 				<p>Ranger: Level 5:</p>
 				<linklist>
-					<link class="reference_classproficiency" recordname="class.id-00007.proficiencies.armor@Incarnate-Engine">Armor</link>
-					<link class="reference_classproficiency" recordname="class.id-00007.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-					<link class="reference_classproficiency" recordname="class.id-00007.proficiencies.skills@Incarnate-Engine">Skills</link>
-					<link class="reference_classproficiency" recordname="class.id-00007.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-					<link class="reference_classfeature" recordname="class.id-00007.features.favoredenemy1@Incarnate-Engine">Favored Enemy</link>
-					<link class="reference_classfeature" recordname="class.id-00007.features.naturalexplorer1@Incarnate-Engine">Natural Explorer</link>
+					<link class="reference_classproficiency" recordname="class.proranger.proficiencies.armor@Incarnate-Engine">Armor</link>
+					<link class="reference_classproficiency" recordname="class.proranger.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+					<link class="reference_classproficiency" recordname="class.proranger.proficiencies.skills@Incarnate-Engine">Skills</link>
+					<link class="reference_classproficiency" recordname="class.proranger.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+					<link class="reference_classfeature" recordname="class.proranger.features.favoredenemy1@Incarnate-Engine">Favored Enemy</link>
+					<link class="reference_classfeature" recordname="class.proranger.features.id-00061@Incarnate-Engine">Natural Explorer</link>
 					<link class="treasureparcel" recordname="treasureparcels.id-00015@Incarnate-Engine">Default Ranger Items</link>
 				</linklist>
 				<p></p>
 				<linklist>
-					<link class="reference_classfeature" recordname="class.id-00007.features.fightingstyle2@Incarnate-Engine">Fighting Style</link>
-					<link class="reference_classfeature" recordname="class.id-00007.features.spellcasting2@Incarnate-Engine">Spellcasting</link>
+					<link class="reference_classfeature" recordname="class.proranger.features.id-00055@Incarnate-Engine">Fighting Style</link>
+					<link class="reference_classfeature" recordname="class.proranger.features.id-00064@Incarnate-Engine">Spellcasting</link>
 				</linklist>
 				<p></p>
 				<linklist>
-					<link class="reference_classfeature" recordname="class.id-00007.features.primevalawareness3@Incarnate-Engine">Primeval Awareness</link>
+					<link class="reference_classfeature" recordname="class.proranger.features.id-00062@Incarnate-Engine">Primeval Awareness</link>
 				</linklist>
 				<p></p>
 				<linklist>
-					<link class="reference_classability" recordname="class.id-00007.abilities.hunter@Incarnate-Engine">Hunter</link>
-					<link class="reference_classfeature" recordname="class.id-00007.features.hunter_sprey3@Incarnate-Engine">Hunter's Prey</link>
+					<link class="reference_classability" recordname="class.proranger.abilities.id-00008@Incarnate-Engine">Hunter</link>
+					<link class="reference_classfeature" recordname="class.proranger.features.id-00058@Incarnate-Engine">Hunter's Prey</link>
 				</linklist>
 				<p></p>
 				<linklist>
-					<link class="reference_classfeature" recordname="class.id-00007.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+					<link class="reference_classfeature" recordname="class.proranger.features.id-00047@Incarnate-Engine">Ability Score Improvement</link>
 				</linklist>
 				<p></p>
 				<linklist>
-					<link class="reference_classfeature" recordname="class.id-00007.features.id-00043@Incarnate-Engine">Extra Attack</link>
+					<link class="reference_classfeature" recordname="class.proranger.features.id-00043@Incarnate-Engine">Extra Attack</link>
 				</linklist>
 				<p>Level 1:</p>
 				<linklist>
@@ -3384,7 +3384,7 @@
 				</linklist>
 				<p>; Spell Slots: 4/2</p>
 				<linklist>
-					<link class="reference_class" recordname="class.id-00007@Incarnate-Engine">Ranger</link>
+					<link class="reference_class" recordname="class.proranger@Incarnate-Engine">Ranger</link>
 				</linklist>
 			</text>
 		</id-00161>
@@ -6999,26 +6999,26 @@
 					<h>Class</h>
 					<p>Rogue: Level 3:</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.armor@Incarnate-Engine">Armor</link>
-						<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.tools@Incarnate-Engine">Tools</link>
-						<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00008.features.expertise1@Incarnate-Engine">Expertise</link>
-						<link class="reference_classfeature" recordname="class.id-00008.features.sneakattack1@Incarnate-Engine">Sneak Attack</link>
-						<link class="reference_classfeature" recordname="class.id-00008.features.thieves_cant1@Incarnate-Engine">Thieves' Cant</link>
+						<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.armor@Incarnate-Engine">Armor</link>
+						<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.tools@Incarnate-Engine">Tools</link>
+						<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00011@Incarnate-Engine">Expertise</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00018@Incarnate-Engine">Sneak Attack</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00022@Incarnate-Engine">Thieves' Cant</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00016@Incarnate-Engine">Default Rogue Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00008.features.cunningaction2@Incarnate-Engine">Cunning Action</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00008@Incarnate-Engine">Cunning Action</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classability" recordname="class.id-00008.abilities.thief@Incarnate-Engine">Thief</link>
-						<link class="reference_classfeature" recordname="class.id-00008.features.fasthands3@Incarnate-Engine">Fast Hands</link>
-						<link class="reference_classfeature" recordname="class.id-00008.features.second_storywork3@Incarnate-Engine">Second-Story Work</link>
-						<link class="reference_class" recordname="class.id-00008@Incarnate-Engine">Rogue</link>
+						<link class="reference_classability" recordname="class.prorogue.abilities.id-00001@Incarnate-Engine">Thief</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00013@Incarnate-Engine">Fast Hands</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00016@Incarnate-Engine">Second-Story Work</link>
+						<link class="reference_class" recordname="class.prorogue@Incarnate-Engine">Rogue</link>
 					</linklist>
 				</text>
 			</id-00088>
@@ -7101,30 +7101,30 @@
 					<h>Class</h>
 					<p>Rogue: Level 4:</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.armor@Incarnate-Engine">Armor</link>
-						<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.tools@Incarnate-Engine">Tools</link>
-						<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00008.features.expertise1@Incarnate-Engine">Expertise</link>
-						<link class="reference_classfeature" recordname="class.id-00008.features.sneakattack1@Incarnate-Engine">Sneak Attack</link>
-						<link class="reference_classfeature" recordname="class.id-00008.features.thieves_cant1@Incarnate-Engine">Thieves' Cant</link>
+						<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.armor@Incarnate-Engine">Armor</link>
+						<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.tools@Incarnate-Engine">Tools</link>
+						<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00011@Incarnate-Engine">Expertise</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00018@Incarnate-Engine">Sneak Attack</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00022@Incarnate-Engine">Thieves' Cant</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00016@Incarnate-Engine">Default Rogue Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00008.features.cunningaction2@Incarnate-Engine">Cunning Action</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00008@Incarnate-Engine">Cunning Action</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classability" recordname="class.id-00008.abilities.thief@Incarnate-Engine">Thief</link>
-						<link class="reference_classfeature" recordname="class.id-00008.features.fasthands3@Incarnate-Engine">Fast Hands</link>
-						<link class="reference_classfeature" recordname="class.id-00008.features.second_storywork3@Incarnate-Engine">Second-Story Work</link>
+						<link class="reference_classability" recordname="class.prorogue.abilities.id-00001@Incarnate-Engine">Thief</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00013@Incarnate-Engine">Fast Hands</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00016@Incarnate-Engine">Second-Story Work</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00008.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
-						<link class="reference_class" recordname="class.id-00008@Incarnate-Engine">Rogue</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00005@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_class" recordname="class.prorogue@Incarnate-Engine">Rogue</link>
 					</linklist>
 				</text>
 			</id-00116>
@@ -7944,26 +7944,26 @@
 					<h>Class</h>
 					<p>Rogue: Level 3:</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.armor@Incarnate-Engine">Armor</link>
-						<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.tools@Incarnate-Engine">Tools</link>
-						<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00008.features.expertise1@Incarnate-Engine">Expertise</link>
-						<link class="reference_classfeature" recordname="class.id-00008.features.sneakattack1@Incarnate-Engine">Sneak Attack</link>
-						<link class="reference_classfeature" recordname="class.id-00008.features.thieves_cant1@Incarnate-Engine">Thieves' Cant</link>
+						<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.armor@Incarnate-Engine">Armor</link>
+						<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.tools@Incarnate-Engine">Tools</link>
+						<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00011@Incarnate-Engine">Expertise</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00018@Incarnate-Engine">Sneak Attack</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00022@Incarnate-Engine">Thieves' Cant</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00016@Incarnate-Engine">Default Rogue Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00008.features.cunningaction2@Incarnate-Engine">Cunning Action</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00008@Incarnate-Engine">Cunning Action</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classability" recordname="class.id-00008.abilities.thief@Incarnate-Engine">Thief</link>
-						<link class="reference_classfeature" recordname="class.id-00008.features.fasthands3@Incarnate-Engine">Fast Hands</link>
-						<link class="reference_classfeature" recordname="class.id-00008.features.second_storywork3@Incarnate-Engine">Second-Story Work</link>
-						<link class="reference_class" recordname="class.id-00008@Incarnate-Engine">Rogue</link>
+						<link class="reference_classability" recordname="class.prorogue.abilities.id-00001@Incarnate-Engine">Thief</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00013@Incarnate-Engine">Fast Hands</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00016@Incarnate-Engine">Second-Story Work</link>
+						<link class="reference_class" recordname="class.prorogue@Incarnate-Engine">Rogue</link>
 					</linklist>
 				</text>
 			</id-00189>
@@ -8558,26 +8558,26 @@
 					<h>Class</h>
 					<p>Sorcerer: Level 3:</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00009.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00009.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00009.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00009.features.spellcasting1@Incarnate-Engine">Spellcasting</link>
-						<link class="reference_classfeature" recordname="class.id-00009.features.sorcerousorigin1@Incarnate-Engine">Sorcerous Origin</link>
+						<link class="reference_classproficiency" recordname="class.prosorcerer.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.prosorcerer.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.prosorcerer.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00048@Incarnate-Engine">Spellcasting</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00046@Incarnate-Engine">Sorcerous Origin</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00017@Incarnate-Engine">Default Sorcerer Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classability" recordname="class.id-00009.abilities.draconicbloodline@Incarnate-Engine">Draconic Bloodline</link>
-						<link class="reference_classfeature" recordname="class.id-00009.features.dragonancestor1@Incarnate-Engine">Dragon Ancestor</link>
-						<link class="reference_classfeature" recordname="class.id-00009.features.draconicresilience1@Incarnate-Engine">Draconic Resilience</link>
+						<link class="reference_classability" recordname="class.prosorcerer.abilities.id-00001@Incarnate-Engine">Draconic Bloodline</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00039@Incarnate-Engine">Dragon Ancestor</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00038@Incarnate-Engine">Draconic Resilience</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00009.features.fontofmagic2@Incarnate-Engine">Font of Magic</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00042@Incarnate-Engine">Font of Magic</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00009.features.metamagic3@Incarnate-Engine">Metamagic</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00045@Incarnate-Engine">Metamagic</link>
 					</linklist>
 					<p>Cantrip:</p>
 					<linklist>
@@ -8613,7 +8613,7 @@
 					</linklist>
 					<p>; Spell slots: 4/2</p>
 					<linklist>
-						<link class="reference_class" recordname="class.id-00009@Incarnate-Engine">Sorcerer</link>
+						<link class="reference_class" recordname="class.prosorcerer@Incarnate-Engine">Sorcerer</link>
 					</linklist>
 				</text>
 			</id-00020>
@@ -8752,35 +8752,35 @@
 					<h>Class</h>
 					<p>Ranger: Level 5:</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00007.proficiencies.armor@Incarnate-Engine">Armor</link>
-						<link class="reference_classproficiency" recordname="class.id-00007.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00007.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00007.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00007.features.favoredenemy1@Incarnate-Engine">Favored Enemy</link>
-						<link class="reference_classfeature" recordname="class.id-00007.features.naturalexplorer1@Incarnate-Engine">Natural Explorer</link>
+						<link class="reference_classproficiency" recordname="class.proranger.proficiencies.armor@Incarnate-Engine">Armor</link>
+						<link class="reference_classproficiency" recordname="class.proranger.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.proranger.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.proranger.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.proranger.features.favoredenemy1@Incarnate-Engine">Favored Enemy</link>
+						<link class="reference_classfeature" recordname="class.proranger.features.id-00061@Incarnate-Engine">Natural Explorer</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00015@Incarnate-Engine">Default Ranger Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00007.features.fightingstyle2@Incarnate-Engine">Fighting Style</link>
-						<link class="reference_classfeature" recordname="class.id-00007.features.spellcasting2@Incarnate-Engine">Spellcasting</link>
+						<link class="reference_classfeature" recordname="class.proranger.features.id-00055@Incarnate-Engine">Fighting Style</link>
+						<link class="reference_classfeature" recordname="class.proranger.features.id-00064@Incarnate-Engine">Spellcasting</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00007.features.primevalawareness3@Incarnate-Engine">Primeval Awareness</link>
+						<link class="reference_classfeature" recordname="class.proranger.features.id-00062@Incarnate-Engine">Primeval Awareness</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classability" recordname="class.id-00007.abilities.hunter@Incarnate-Engine">Hunter</link>
-						<link class="reference_classfeature" recordname="class.id-00007.features.hunter_sprey3@Incarnate-Engine">Hunter's Prey</link>
+						<link class="reference_classability" recordname="class.proranger.abilities.id-00008@Incarnate-Engine">Hunter</link>
+						<link class="reference_classfeature" recordname="class.proranger.features.id-00058@Incarnate-Engine">Hunter's Prey</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00007.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.proranger.features.id-00047@Incarnate-Engine">Ability Score Improvement</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00007.features.id-00043@Incarnate-Engine">Extra Attack</link>
+						<link class="reference_classfeature" recordname="class.proranger.features.id-00043@Incarnate-Engine">Extra Attack</link>
 					</linklist>
 					<p>Level 1:</p>
 					<linklist>
@@ -8800,7 +8800,7 @@
 					</linklist>
 					<p>; Spell Slots: 4/2</p>
 					<linklist>
-						<link class="reference_class" recordname="class.id-00007@Incarnate-Engine">Ranger</link>
+						<link class="reference_class" recordname="class.proranger@Incarnate-Engine">Ranger</link>
 					</linklist>
 				</text>
 			</id-00022>
@@ -8980,30 +8980,30 @@
 					<h>Class</h>
 					<p>Rogue: Level 4:</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.armor@Incarnate-Engine">Armor</link>
-						<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.tools@Incarnate-Engine">Tools</link>
-						<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00008.features.expertise1@Incarnate-Engine">Expertise</link>
-						<link class="reference_classfeature" recordname="class.id-00008.features.sneakattack1@Incarnate-Engine">Sneak Attack</link>
-						<link class="reference_classfeature" recordname="class.id-00008.features.thieves_cant1@Incarnate-Engine">Thieves' Cant</link>
+						<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.armor@Incarnate-Engine">Armor</link>
+						<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.tools@Incarnate-Engine">Tools</link>
+						<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00011@Incarnate-Engine">Expertise</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00018@Incarnate-Engine">Sneak Attack</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00022@Incarnate-Engine">Thieves' Cant</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00016@Incarnate-Engine">Default Rogue Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00008.features.cunningaction2@Incarnate-Engine">Cunning Action</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00008@Incarnate-Engine">Cunning Action</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classability" recordname="class.id-00008.abilities.thief@Incarnate-Engine">Thief</link>
-						<link class="reference_classfeature" recordname="class.id-00008.features.fasthands3@Incarnate-Engine">Fast Hands</link>
-						<link class="reference_classfeature" recordname="class.id-00008.features.second_storywork3@Incarnate-Engine">Second-Story Work</link>
+						<link class="reference_classability" recordname="class.prorogue.abilities.id-00001@Incarnate-Engine">Thief</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00013@Incarnate-Engine">Fast Hands</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00016@Incarnate-Engine">Second-Story Work</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00008.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
-						<link class="reference_class" recordname="class.id-00008@Incarnate-Engine">Rogue</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00005@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_class" recordname="class.prorogue@Incarnate-Engine">Rogue</link>
 					</linklist>
 				</text>
 			</id-00024>
@@ -9152,30 +9152,30 @@
 					<h>Class</h>
 					<p>Sorcerer: Level 5:</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00009.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00009.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00009.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00009.features.spellcasting1@Incarnate-Engine">Spellcasting</link>
-						<link class="reference_classfeature" recordname="class.id-00009.features.sorcerousorigin1@Incarnate-Engine">Sorcerous Origin</link>
+						<link class="reference_classproficiency" recordname="class.prosorcerer.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.prosorcerer.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.prosorcerer.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00048@Incarnate-Engine">Spellcasting</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00046@Incarnate-Engine">Sorcerous Origin</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00017@Incarnate-Engine">Default Sorcerer Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classability" recordname="class.id-00009.abilities.id-00006@Incarnate-Engine">Maestro</link>
-						<link class="reference_classfeature" recordname="class.id-00009.features.id-00027@Incarnate-Engine">Musical Aptitude</link>
-						<link class="reference_classfeature" recordname="class.id-00009.features.id-00028@Incarnate-Engine">Song's Splendor</link>
+						<link class="reference_classability" recordname="class.prosorcerer.abilities.id-00006@Incarnate-Engine">Maestro</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00027@Incarnate-Engine">Musical Aptitude</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00028@Incarnate-Engine">Song's Splendor</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00009.features.fontofmagic2@Incarnate-Engine">Font of Magic</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00042@Incarnate-Engine">Font of Magic</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00009.features.metamagic3@Incarnate-Engine">Metamagic</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00045@Incarnate-Engine">Metamagic</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00009.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00035@Incarnate-Engine">Ability Score Improvement</link>
 					</linklist>
 					<p>Cantrip:</p>
 					<linklist>
@@ -9223,7 +9223,7 @@
 					</linklist>
 					<p>; Spell slots: 4/3/2</p>
 					<linklist>
-						<link class="reference_class" recordname="class.id-00009@Incarnate-Engine">Sorcerer</link>
+						<link class="reference_class" recordname="class.prosorcerer@Incarnate-Engine">Sorcerer</link>
 					</linklist>
 				</text>
 			</id-00028>
@@ -9261,35 +9261,35 @@
 					<h>Class</h>
 					<p>Sorcerer: Level 6:</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00009.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00009.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00009.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00009.features.spellcasting1@Incarnate-Engine">Spellcasting</link>
-						<link class="reference_classfeature" recordname="class.id-00009.features.sorcerousorigin1@Incarnate-Engine">Sorcerous Origin</link>
+						<link class="reference_classproficiency" recordname="class.prosorcerer.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.prosorcerer.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.prosorcerer.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00048@Incarnate-Engine">Spellcasting</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00046@Incarnate-Engine">Sorcerous Origin</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00017@Incarnate-Engine">Default Sorcerer Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classability" recordname="class.id-00009.abilities.id-00002@Incarnate-Engine">Arcane Bloodline</link>
-						<link class="reference_classfeature" recordname="class.id-00009.features.id-00001@Incarnate-Engine">Arcane Intuition</link>
-						<link class="reference_classfeature" recordname="class.id-00009.features.id-00002@Incarnate-Engine">Inherited Tradition</link>
-						<link class="reference_classfeature" recordname="class.id-00009.features.id-00003@Incarnate-Engine">Arcane Savant</link>
+						<link class="reference_classability" recordname="class.prosorcerer.abilities.id-00002@Incarnate-Engine">Arcane Bloodline</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00001@Incarnate-Engine">Arcane Intuition</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00002@Incarnate-Engine">Inherited Tradition</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00003@Incarnate-Engine">Arcane Savant</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00009.features.fontofmagic2@Incarnate-Engine">Font of Magic</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00042@Incarnate-Engine">Font of Magic</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00009.features.metamagic3@Incarnate-Engine">Metamagic</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00045@Incarnate-Engine">Metamagic</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00009.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00035@Incarnate-Engine">Ability Score Improvement</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00009.features.id-00004@Incarnate-Engine">Improved Arcana</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00004@Incarnate-Engine">Improved Arcana</link>
 					</linklist>
 					<p>Cantrip:</p>
 					<linklist>
@@ -9341,7 +9341,7 @@
 					</linklist>
 					<p>; Spell slots: 4/3/3</p>
 					<linklist>
-						<link class="reference_class" recordname="class.id-00009@Incarnate-Engine">Sorcerer</link>
+						<link class="reference_class" recordname="class.prosorcerer@Incarnate-Engine">Sorcerer</link>
 					</linklist>
 				</text>
 			</id-00084>
@@ -9834,26 +9834,26 @@
 					<h>Class</h>
 					<p>Sorcerer: Level 3:</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00009.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00009.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00009.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00009.features.spellcasting1@Incarnate-Engine">Spellcasting</link>
-						<link class="reference_classfeature" recordname="class.id-00009.features.sorcerousorigin1@Incarnate-Engine">Sorcerous Origin</link>
+						<link class="reference_classproficiency" recordname="class.prosorcerer.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.prosorcerer.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.prosorcerer.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00048@Incarnate-Engine">Spellcasting</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00046@Incarnate-Engine">Sorcerous Origin</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00017@Incarnate-Engine">Default Sorcerer Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classability" recordname="class.id-00009.abilities.id-00003@Incarnate-Engine">Destined Bloodline</link>
-						<link class="reference_classfeature" recordname="class.id-00009.features.id-00007@Incarnate-Engine">Lucky</link>
-						<link class="reference_classfeature" recordname="class.id-00009.features.id-00011@Incarnate-Engine">Protection of fortune</link>
+						<link class="reference_classability" recordname="class.prosorcerer.abilities.id-00003@Incarnate-Engine">Destined Bloodline</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00007@Incarnate-Engine">Lucky</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00011@Incarnate-Engine">Protection of fortune</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00009.features.fontofmagic2@Incarnate-Engine">Font of Magic</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00042@Incarnate-Engine">Font of Magic</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00009.features.metamagic3@Incarnate-Engine">Metamagic</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00045@Incarnate-Engine">Metamagic</link>
 					</linklist>
 					<p>Cantrip:</p>
 					<linklist>
@@ -9889,7 +9889,7 @@
 					</linklist>
 					<p>; Spell slots: 4/2</p>
 					<linklist>
-						<link class="reference_class" recordname="class.id-00009@Incarnate-Engine">Sorcerer</link>
+						<link class="reference_class" recordname="class.prosorcerer@Incarnate-Engine">Sorcerer</link>
 					</linklist>
 				</text>
 			</id-00149>
@@ -9978,30 +9978,30 @@
 					<h>Class</h>
 					<p>Rogue: Level 4:</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.armor@Incarnate-Engine">Armor</link>
-						<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.tools@Incarnate-Engine">Tools</link>
-						<link class="reference_classproficiency" recordname="class.id-00008.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00008.features.expertise1@Incarnate-Engine">Expertise</link>
-						<link class="reference_classfeature" recordname="class.id-00008.features.sneakattack1@Incarnate-Engine">Sneak Attack</link>
-						<link class="reference_classfeature" recordname="class.id-00008.features.thieves_cant1@Incarnate-Engine">Thieves' Cant</link>
+						<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.armor@Incarnate-Engine">Armor</link>
+						<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.tools@Incarnate-Engine">Tools</link>
+						<link class="reference_classproficiency" recordname="class.prorogue.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00011@Incarnate-Engine">Expertise</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00018@Incarnate-Engine">Sneak Attack</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00022@Incarnate-Engine">Thieves' Cant</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00016@Incarnate-Engine">Default Rogue Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00008.features.cunningaction2@Incarnate-Engine">Cunning Action</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00008@Incarnate-Engine">Cunning Action</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classability" recordname="class.id-00008.abilities.thief@Incarnate-Engine">Thief</link>
-						<link class="reference_classfeature" recordname="class.id-00008.features.fasthands3@Incarnate-Engine">Fast Hands</link>
-						<link class="reference_classfeature" recordname="class.id-00008.features.second_storywork3@Incarnate-Engine">Second-Story Work</link>
+						<link class="reference_classability" recordname="class.prorogue.abilities.id-00001@Incarnate-Engine">Thief</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00013@Incarnate-Engine">Fast Hands</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00016@Incarnate-Engine">Second-Story Work</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00008.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
-						<link class="reference_class" recordname="class.id-00008@Incarnate-Engine">Rogue</link>
+						<link class="reference_classfeature" recordname="class.prorogue.features.id-00005@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_class" recordname="class.prorogue@Incarnate-Engine">Rogue</link>
 					</linklist>
 				</text>
 			</id-00151>
@@ -10037,39 +10037,39 @@
 					<h>Class</h>
 					<p>Ranger: Level 6:</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00007.proficiencies.armor@Incarnate-Engine">Armor</link>
-						<link class="reference_classproficiency" recordname="class.id-00007.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00007.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00007.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00007.features.favoredenemy1@Incarnate-Engine">Favored Enemy</link>
-						<link class="reference_classfeature" recordname="class.id-00007.features.naturalexplorer1@Incarnate-Engine">Natural Explorer</link>
+						<link class="reference_classproficiency" recordname="class.proranger.proficiencies.armor@Incarnate-Engine">Armor</link>
+						<link class="reference_classproficiency" recordname="class.proranger.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.proranger.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.proranger.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.proranger.features.favoredenemy1@Incarnate-Engine">Favored Enemy</link>
+						<link class="reference_classfeature" recordname="class.proranger.features.id-00061@Incarnate-Engine">Natural Explorer</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00015@Incarnate-Engine">Default Ranger Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00007.features.fightingstyle2@Incarnate-Engine">Fighting Style</link>
-						<link class="reference_classfeature" recordname="class.id-00007.features.spellcasting2@Incarnate-Engine">Spellcasting</link>
+						<link class="reference_classfeature" recordname="class.proranger.features.id-00055@Incarnate-Engine">Fighting Style</link>
+						<link class="reference_classfeature" recordname="class.proranger.features.id-00064@Incarnate-Engine">Spellcasting</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00007.features.primevalawareness3@Incarnate-Engine">Primeval Awareness</link>
+						<link class="reference_classfeature" recordname="class.proranger.features.id-00062@Incarnate-Engine">Primeval Awareness</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classability" recordname="class.id-00007.abilities.hunter@Incarnate-Engine">Hunter</link>
-						<link class="reference_classfeature" recordname="class.id-00007.features.hunter_sprey3@Incarnate-Engine">Hunter's Prey</link>
+						<link class="reference_classability" recordname="class.proranger.abilities.id-00008@Incarnate-Engine">Hunter</link>
+						<link class="reference_classfeature" recordname="class.proranger.features.id-00058@Incarnate-Engine">Hunter's Prey</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00007.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.proranger.features.id-00047@Incarnate-Engine">Ability Score Improvement</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00007.features.id-00043@Incarnate-Engine">Extra Attack</link>
+						<link class="reference_classfeature" recordname="class.proranger.features.id-00043@Incarnate-Engine">Extra Attack</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00007.features.favoredenemy6@Incarnate-Engine">Favored Enemy</link>
+						<link class="reference_classfeature" recordname="class.proranger.features.id-00053@Incarnate-Engine">Favored Enemy</link>
 					</linklist>
 					<p>Level 1:</p>
 					<linklist>
@@ -10089,7 +10089,7 @@
 					</linklist>
 					<p>; Spell Slots: 4/2</p>
 					<linklist>
-						<link class="reference_class" recordname="class.id-00007@Incarnate-Engine">Ranger</link>
+						<link class="reference_class" recordname="class.proranger@Incarnate-Engine">Ranger</link>
 					</linklist>
 				</text>
 			</id-00152>
@@ -10124,33 +10124,33 @@
 					<h>Class</h>
 					<p>Sorcerer: Level 6:</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00009.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00009.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00009.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00009.features.spellcasting1@Incarnate-Engine">Spellcasting</link>
-						<link class="reference_classfeature" recordname="class.id-00009.features.sorcerousorigin1@Incarnate-Engine">Sorcerous Origin</link>
+						<link class="reference_classproficiency" recordname="class.prosorcerer.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.prosorcerer.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.prosorcerer.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00048@Incarnate-Engine">Spellcasting</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00046@Incarnate-Engine">Sorcerous Origin</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00017@Incarnate-Engine">Default Sorcerer Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classability" recordname="class.id-00009.abilities.id-00004@Incarnate-Engine">Time Sorcery</link>
-						<link class="reference_classfeature" recordname="class.id-00009.features.id-00012@Incarnate-Engine">Acceleration</link>
+						<link class="reference_classability" recordname="class.prosorcerer.abilities.id-00004@Incarnate-Engine">Time Sorcery</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00012@Incarnate-Engine">Acceleration</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00009.features.fontofmagic2@Incarnate-Engine">Font of Magic</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00042@Incarnate-Engine">Font of Magic</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00009.features.metamagic3@Incarnate-Engine">Metamagic</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00045@Incarnate-Engine">Metamagic</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00009.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00035@Incarnate-Engine">Ability Score Improvement</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00009.features.id-00013@Incarnate-Engine">Arcane Alacrity</link>
+						<link class="reference_classfeature" recordname="class.prosorcerer.features.id-00013@Incarnate-Engine">Arcane Alacrity</link>
 					</linklist>
 					<p>Cantrip:</p>
 					<linklist>
@@ -10202,7 +10202,7 @@
 					</linklist>
 					<p>; Spell slots: 4/3/3</p>
 					<linklist>
-						<link class="reference_class" recordname="class.id-00009@Incarnate-Engine">Sorcerer</link>
+						<link class="reference_class" recordname="class.prosorcerer@Incarnate-Engine">Sorcerer</link>
 					</linklist>
 				</text>
 			</id-00153>
