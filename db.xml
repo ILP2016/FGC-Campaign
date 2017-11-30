@@ -3420,23 +3420,23 @@
 				<h>Class</h>
 				<p>Warlock: Level 2:</p>
 				<linklist>
-					<link class="reference_classproficiency" recordname="class.id-00010.proficiencies.armor@Incarnate-Engine">Armor</link>
-					<link class="reference_classproficiency" recordname="class.id-00010.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-					<link class="reference_classproficiency" recordname="class.id-00010.proficiencies.skills@Incarnate-Engine">Skills</link>
-					<link class="reference_classproficiency" recordname="class.id-00010.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-					<link class="reference_classfeature" recordname="class.id-00010.features.pactmagic1@Incarnate-Engine">Pact Magic</link>
-					<link class="reference_classfeature" recordname="class.id-00010.features.otherworldlypatron1@Incarnate-Engine">Otherworldly Patron</link>
+					<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.armor@Incarnate-Engine">Armor</link>
+					<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+					<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.skills@Incarnate-Engine">Skills</link>
+					<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+					<link class="reference_classfeature" recordname="class.prowarlock.features.pactmagic1@Incarnate-Engine">Pact Magic</link>
+					<link class="reference_classfeature" recordname="class.prowarlock.features.otherworldlypatron1@Incarnate-Engine">Otherworldly Patron</link>
 					<link class="treasureparcel" recordname="treasureparcels.id-00018@Incarnate-Engine">Default Warlock Items</link>
 				</linklist>
 				<p></p>
 				<linklist>
-					<link class="reference_classability" recordname="class.id-00010.abilities.thefiend@Incarnate-Engine">The Fiend</link>
-					<link class="reference_classfeature" recordname="class.id-00010.features.expandedspelllist_fiend_1@Incarnate-Engine">Expanded Spell List (Fiend)</link>
-					<link class="reference_classfeature" recordname="class.id-00010.features.darkone_sblessing1@Incarnate-Engine">Dark One's Blessing</link>
+					<link class="reference_classability" recordname="class.prowarlock.abilities.id-00001@Incarnate-Engine">The Fiend</link>
+					<link class="reference_classfeature" recordname="class.prowarlock.features.id-00010@Incarnate-Engine">Expanded Spell List (Fiend)</link>
+					<link class="reference_classfeature" recordname="class.prowarlock.features.id-00006@Incarnate-Engine">Dark One's Blessing</link>
 				</linklist>
 				<p></p>
 				<linklist>
-					<link class="reference_classfeature" recordname="class.id-00010.features.eldritchinvocations2@Incarnate-Engine">Eldritch Invocations</link>
+					<link class="reference_classfeature" recordname="class.prowarlock.features.id-00008@Incarnate-Engine">Eldritch Invocations</link>
 				</linklist>
 				<p>Cantrip:</p>
 				<linklist>
@@ -3465,7 +3465,7 @@
 				<p></p>
 				<linklist>
 					<link class="power" recordname="spell.id-00331@Incarnate-Engine">Eldritch Spear</link>
-					<link class="reference_class" recordname="class.id-00010@Incarnate-Engine">Warlock</link>
+					<link class="reference_class" recordname="class.prowarlock@Incarnate-Engine">Warlock</link>
 				</linklist>
 			</text>
 		</id-00162>
@@ -3583,31 +3583,31 @@
 				<h>Class</h>
 				<p>Warlock: Level 4:</p>
 				<linklist>
-					<link class="reference_classproficiency" recordname="class.id-00010.proficiencies.armor@Incarnate-Engine">Armor</link>
-					<link class="reference_classproficiency" recordname="class.id-00010.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-					<link class="reference_classproficiency" recordname="class.id-00010.proficiencies.skills@Incarnate-Engine">Skills</link>
-					<link class="reference_classproficiency" recordname="class.id-00010.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-					<link class="reference_classfeature" recordname="class.id-00010.features.pactmagic1@Incarnate-Engine">Pact Magic</link>
-					<link class="reference_classfeature" recordname="class.id-00010.features.otherworldlypatron1@Incarnate-Engine">Otherworldly Patron</link>
+					<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.armor@Incarnate-Engine">Armor</link>
+					<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+					<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.skills@Incarnate-Engine">Skills</link>
+					<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+					<link class="reference_classfeature" recordname="class.prowarlock.features.pactmagic1@Incarnate-Engine">Pact Magic</link>
+					<link class="reference_classfeature" recordname="class.prowarlock.features.otherworldlypatron1@Incarnate-Engine">Otherworldly Patron</link>
 					<link class="treasureparcel" recordname="treasureparcels.id-00018@Incarnate-Engine">Default Warlock Items</link>
 				</linklist>
 				<p></p>
 				<linklist>
-					<link class="reference_classability" recordname="class.id-00010.abilities.thefiend@Incarnate-Engine">The Fiend</link>
-					<link class="reference_classfeature" recordname="class.id-00010.features.expandedspelllist_fiend_1@Incarnate-Engine">Expanded Spell List (Fiend)</link>
-					<link class="reference_classfeature" recordname="class.id-00010.features.darkone_sblessing1@Incarnate-Engine">Dark One's Blessing</link>
+					<link class="reference_classability" recordname="class.prowarlock.abilities.id-00001@Incarnate-Engine">The Fiend</link>
+					<link class="reference_classfeature" recordname="class.prowarlock.features.id-00010@Incarnate-Engine">Expanded Spell List (Fiend)</link>
+					<link class="reference_classfeature" recordname="class.prowarlock.features.id-00006@Incarnate-Engine">Dark One's Blessing</link>
 				</linklist>
 				<p></p>
 				<linklist>
-					<link class="reference_classfeature" recordname="class.id-00010.features.eldritchinvocations2@Incarnate-Engine">Eldritch Invocations</link>
+					<link class="reference_classfeature" recordname="class.prowarlock.features.id-00008@Incarnate-Engine">Eldritch Invocations</link>
 				</linklist>
 				<p></p>
 				<linklist>
-					<link class="reference_classfeature" recordname="class.id-00010.features.pactboon3@Incarnate-Engine">Pact Boon</link>
+					<link class="reference_classfeature" recordname="class.prowarlock.features.pactboon3@Incarnate-Engine">Pact Boon</link>
 				</linklist>
 				<p></p>
 				<linklist>
-					<link class="reference_classfeature" recordname="class.id-00010.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+					<link class="reference_classfeature" recordname="class.prowarlock.features.id-00004@Incarnate-Engine">Ability Score Improvement</link>
 				</linklist>
 				<p>Cantrip:</p>
 				<linklist>
@@ -3648,7 +3648,7 @@
 				<p></p>
 				<linklist>
 					<link class="power" recordname="spell.id-00331@Incarnate-Engine">Eldritch Spear</link>
-					<link class="reference_class" recordname="class.id-00010@Incarnate-Engine">Warlock</link>
+					<link class="reference_class" recordname="class.prowarlock@Incarnate-Engine">Warlock</link>
 				</linklist>
 			</text>
 		</id-00196>
@@ -4778,31 +4778,31 @@
 					<h>Class</h>
 					<p>Warlock: Level 4:</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00010.proficiencies.armor@Incarnate-Engine">Armor</link>
-						<link class="reference_classproficiency" recordname="class.id-00010.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00010.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00010.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00010.features.pactmagic1@Incarnate-Engine">Pact Magic</link>
-						<link class="reference_classfeature" recordname="class.id-00010.features.otherworldlypatron1@Incarnate-Engine">Otherworldly Patron</link>
+						<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.armor@Incarnate-Engine">Armor</link>
+						<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.pactmagic1@Incarnate-Engine">Pact Magic</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.otherworldlypatron1@Incarnate-Engine">Otherworldly Patron</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00018@Incarnate-Engine">Default Warlock Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classability" recordname="class.id-00010.abilities.thefiend@Incarnate-Engine">The Fiend</link>
-						<link class="reference_classfeature" recordname="class.id-00010.features.expandedspelllist_fiend_1@Incarnate-Engine">Expanded Spell List (Fiend)</link>
-						<link class="reference_classfeature" recordname="class.id-00010.features.darkone_sblessing1@Incarnate-Engine">Dark One's Blessing</link>
+						<link class="reference_classability" recordname="class.prowarlock.abilities.id-00001@Incarnate-Engine">The Fiend</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.id-00010@Incarnate-Engine">Expanded Spell List (Fiend)</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.id-00006@Incarnate-Engine">Dark One's Blessing</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00010.features.eldritchinvocations2@Incarnate-Engine">Eldritch Invocations</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.id-00008@Incarnate-Engine">Eldritch Invocations</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00010.features.pactboon3@Incarnate-Engine">Pact Boon</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.pactboon3@Incarnate-Engine">Pact Boon</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00010.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.id-00004@Incarnate-Engine">Ability Score Improvement</link>
 					</linklist>
 					<p>Cantrip:</p>
 					<linklist>
@@ -4843,7 +4843,7 @@
 					<p></p>
 					<linklist>
 						<link class="power" recordname="spell.id-00331@Incarnate-Engine">Eldritch Spear</link>
-						<link class="reference_class" recordname="class.id-00010@Incarnate-Engine">Warlock</link>
+						<link class="reference_class" recordname="class.prowarlock@Incarnate-Engine">Warlock</link>
 					</linklist>
 				</text>
 			</id-00130>
@@ -7326,31 +7326,31 @@
 					<h>Class</h>
 					<p>Warlock: Level 6:</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00010.proficiencies.armor@Incarnate-Engine">Armor</link>
-						<link class="reference_classproficiency" recordname="class.id-00010.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00010.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00010.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00010.features.pactmagic1@Incarnate-Engine">Pact Magic</link>
-						<link class="reference_classfeature" recordname="class.id-00010.features.otherworldlypatron1@Incarnate-Engine">Otherworldly Patron</link>
+						<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.armor@Incarnate-Engine">Armor</link>
+						<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.pactmagic1@Incarnate-Engine">Pact Magic</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.otherworldlypatron1@Incarnate-Engine">Otherworldly Patron</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00018@Incarnate-Engine">Default Warlock Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classability" recordname="class.id-00010.abilities.thefiend@Incarnate-Engine">The Fiend</link>
-						<link class="reference_classfeature" recordname="class.id-00010.features.expandedspelllist_fiend_1@Incarnate-Engine">Expanded Spell List (Fiend)</link>
-						<link class="reference_classfeature" recordname="class.id-00010.features.darkone_sblessing1@Incarnate-Engine">Dark One's Blessing</link>
+						<link class="reference_classability" recordname="class.prowarlock.abilities.id-00001@Incarnate-Engine">The Fiend</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.id-00010@Incarnate-Engine">Expanded Spell List (Fiend)</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.id-00006@Incarnate-Engine">Dark One's Blessing</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00010.features.eldritchinvocations2@Incarnate-Engine">Eldritch Invocations</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.id-00008@Incarnate-Engine">Eldritch Invocations</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00010.features.pactboon3@Incarnate-Engine">Pact Boon</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.pactboon3@Incarnate-Engine">Pact Boon</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00010.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.id-00004@Incarnate-Engine">Ability Score Improvement</link>
 					</linklist>
 					<p>Warlock, Level 06 - The Fiend Cantrip:</p>
 					<linklist>
@@ -7403,7 +7403,7 @@
 					<p></p>
 					<linklist>
 						<link class="power" recordname="spell.id-00324@Incarnate-Engine">Beguiling Influence</link>
-						<link class="reference_class" recordname="class.id-00010@Incarnate-Engine">Warlock</link>
+						<link class="reference_class" recordname="class.prowarlock@Incarnate-Engine">Warlock</link>
 					</linklist>
 				</text>
 			</id-00119>
@@ -10807,27 +10807,27 @@
 					<h>Class</h>
 					<p>Warlock: Level 3:</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00010.proficiencies.armor@Incarnate-Engine">Armor</link>
-						<link class="reference_classproficiency" recordname="class.id-00010.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00010.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00010.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00010.features.pactmagic1@Incarnate-Engine">Pact Magic</link>
-						<link class="reference_classfeature" recordname="class.id-00010.features.otherworldlypatron1@Incarnate-Engine">Otherworldly Patron</link>
+						<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.armor@Incarnate-Engine">Armor</link>
+						<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.pactmagic1@Incarnate-Engine">Pact Magic</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.otherworldlypatron1@Incarnate-Engine">Otherworldly Patron</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00018@Incarnate-Engine">Default Warlock Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classability" recordname="class.id-00010.abilities.thefiend@Incarnate-Engine">The Fiend</link>
-						<link class="reference_classfeature" recordname="class.id-00010.features.expandedspelllist_fiend_1@Incarnate-Engine">Expanded Spell List (Fiend)</link>
-						<link class="reference_classfeature" recordname="class.id-00010.features.darkone_sblessing1@Incarnate-Engine">Dark One's Blessing</link>
+						<link class="reference_classability" recordname="class.prowarlock.abilities.id-00001@Incarnate-Engine">The Fiend</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.id-00010@Incarnate-Engine">Expanded Spell List (Fiend)</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.id-00006@Incarnate-Engine">Dark One's Blessing</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00010.features.eldritchinvocations2@Incarnate-Engine">Eldritch Invocations</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.id-00008@Incarnate-Engine">Eldritch Invocations</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00010.features.pactboon3@Incarnate-Engine">Pact Boon</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.pactboon3@Incarnate-Engine">Pact Boon</link>
 					</linklist>
 					<p>Cantrip:</p>
 					<linklist>
@@ -10860,7 +10860,7 @@
 					<p></p>
 					<linklist>
 						<link class="power" recordname="spell.id-00323@Incarnate-Engine">Beast Speech</link>
-						<link class="reference_class" recordname="class.id-00010@Incarnate-Engine">Warlock</link>
+						<link class="reference_class" recordname="class.prowarlock@Incarnate-Engine">Warlock</link>
 					</linklist>
 				</text>
 			</id-00160>
