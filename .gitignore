@@ -2,7 +2,7 @@
 *.html
 *.xml
 !db.xml
-!characters/2017-11-29*.xml
+!characters/2017-11-29
 !characters/*.xml
 !maskedimages/*.png
 !moduledb/*.xml
