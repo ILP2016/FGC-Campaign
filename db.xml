@@ -6073,19 +6073,19 @@
 					<h>Class</h>
 					<p>Druid: Druid level: 07</p>
 					<linklist>
-						<link class="reference_class" recordname="class.id-00003@Incarnate-Engine">Druid</link>
-						<link class="reference_classproficiency" recordname="class.id-00003.proficiencies.armor@Incarnate-Engine">Armor</link>
-						<link class="reference_classproficiency" recordname="class.id-00003.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00003.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00003.proficiencies.tools@Incarnate-Engine">Tools</link>
-						<link class="reference_classproficiency" recordname="class.id-00003.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00003.features.druidic1@Incarnate-Engine">Druidic</link>
-						<link class="reference_classfeature" recordname="class.id-00003.features.spellcasting1@Incarnate-Engine">Spellcasting</link>
+						<link class="reference_class" recordname="class.prodruid@Incarnate-Engine">Druid</link>
+						<link class="reference_classproficiency" recordname="class.prodruid.proficiencies.armor@Incarnate-Engine">Armor</link>
+						<link class="reference_classproficiency" recordname="class.prodruid.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.prodruid.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.prodruid.proficiencies.tools@Incarnate-Engine">Tools</link>
+						<link class="reference_classproficiency" recordname="class.prodruid.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.prodruid.features.id-00033@Incarnate-Engine">Druidic</link>
+						<link class="reference_classfeature" recordname="class.prodruid.features.id-00038@Incarnate-Engine">Spellcasting</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00011@Incarnate-Engine">Default Druid Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00003.features.wildshape2@Incarnate-Engine">Wild Shape</link>
+						<link class="reference_classfeature" recordname="class.prodruid.features.id-00040@Incarnate-Engine">Wild Shape</link>
 					</linklist>
 					<p>Druid, Level 02 - Transformation Cantrip:</p>
 					<linklist>
@@ -6121,11 +6121,11 @@
 					</linklist>
 					<p>; Spell slots: 4/2</p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00003.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.prodruid.features.id-00026@Incarnate-Engine">Ability Score Improvement</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00003.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.prodruid.features.id-00026@Incarnate-Engine">Ability Score Improvement</link>
 					</linklist>
 					<p>Druid, Level 06 - Transformation Cantrip:</p>
 					<linklist>
@@ -6185,7 +6185,7 @@
 					</linklist>
 					<p>; Spell slots: 4/3/3/1</p>
 					<linklist>
-						<link class="reference_class" recordname="class.id-00003@Incarnate-Engine">Druid</link>
+						<link class="reference_class" recordname="class.prodruid@Incarnate-Engine">Druid</link>
 					</linklist>
 				</text>
 			</id-00045>
@@ -8414,19 +8414,19 @@
 					<h>Class</h>
 					<p>Druid: Druid level: 06</p>
 					<linklist>
-						<link class="reference_class" recordname="class.id-00003@Incarnate-Engine">Druid</link>
-						<link class="reference_classproficiency" recordname="class.id-00003.proficiencies.armor@Incarnate-Engine">Armor</link>
-						<link class="reference_classproficiency" recordname="class.id-00003.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00003.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00003.proficiencies.tools@Incarnate-Engine">Tools</link>
-						<link class="reference_classproficiency" recordname="class.id-00003.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00003.features.druidic1@Incarnate-Engine">Druidic</link>
-						<link class="reference_classfeature" recordname="class.id-00003.features.spellcasting1@Incarnate-Engine">Spellcasting</link>
+						<link class="reference_class" recordname="class.prodruid@Incarnate-Engine">Druid</link>
+						<link class="reference_classproficiency" recordname="class.prodruid.proficiencies.armor@Incarnate-Engine">Armor</link>
+						<link class="reference_classproficiency" recordname="class.prodruid.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.prodruid.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.prodruid.proficiencies.tools@Incarnate-Engine">Tools</link>
+						<link class="reference_classproficiency" recordname="class.prodruid.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.prodruid.features.id-00033@Incarnate-Engine">Druidic</link>
+						<link class="reference_classfeature" recordname="class.prodruid.features.id-00038@Incarnate-Engine">Spellcasting</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00011@Incarnate-Engine">Default Druid Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00003.features.wildshape2@Incarnate-Engine">Wild Shape</link>
+						<link class="reference_classfeature" recordname="class.prodruid.features.id-00040@Incarnate-Engine">Wild Shape</link>
 					</linklist>
 					<p>Druid, Level 02 - Transformation Cantrip:</p>
 					<linklist>
@@ -8462,11 +8462,11 @@
 					</linklist>
 					<p>; Spell slots: 4/2</p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00003.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.prodruid.features.id-00026@Incarnate-Engine">Ability Score Improvement</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00003.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.prodruid.features.id-00026@Incarnate-Engine">Ability Score Improvement</link>
 					</linklist>
 					<p>Druid, Level 06 - Transformation Cantrip:</p>
 					<linklist>
@@ -8522,7 +8522,7 @@
 					</linklist>
 					<p>; Spell slots: 4/3/3</p>
 					<linklist>
-						<link class="reference_class" recordname="class.id-00003@Incarnate-Engine">Druid</link>
+						<link class="reference_class" recordname="class.prodruid@Incarnate-Engine">Druid</link>
 					</linklist>
 				</text>
 			</id-00019>
@@ -8837,19 +8837,19 @@
 					<h>Class</h>
 					<p>Druid: Druid level: 06</p>
 					<linklist>
-						<link class="reference_class" recordname="class.id-00003@Incarnate-Engine">Druid</link>
-						<link class="reference_classproficiency" recordname="class.id-00003.proficiencies.armor@Incarnate-Engine">Armor</link>
-						<link class="reference_classproficiency" recordname="class.id-00003.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00003.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00003.proficiencies.tools@Incarnate-Engine">Tools</link>
-						<link class="reference_classproficiency" recordname="class.id-00003.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00003.features.druidic1@Incarnate-Engine">Druidic</link>
-						<link class="reference_classfeature" recordname="class.id-00003.features.spellcasting1@Incarnate-Engine">Spellcasting</link>
+						<link class="reference_class" recordname="class.prodruid@Incarnate-Engine">Druid</link>
+						<link class="reference_classproficiency" recordname="class.prodruid.proficiencies.armor@Incarnate-Engine">Armor</link>
+						<link class="reference_classproficiency" recordname="class.prodruid.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.prodruid.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.prodruid.proficiencies.tools@Incarnate-Engine">Tools</link>
+						<link class="reference_classproficiency" recordname="class.prodruid.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.prodruid.features.id-00033@Incarnate-Engine">Druidic</link>
+						<link class="reference_classfeature" recordname="class.prodruid.features.id-00038@Incarnate-Engine">Spellcasting</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00011@Incarnate-Engine">Default Druid Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00003.features.wildshape2@Incarnate-Engine">Wild Shape</link>
+						<link class="reference_classfeature" recordname="class.prodruid.features.id-00040@Incarnate-Engine">Wild Shape</link>
 					</linklist>
 					<p>Druid, Level 02 - Transformation Cantrip:</p>
 					<linklist>
@@ -8885,11 +8885,11 @@
 					</linklist>
 					<p>; Spell slots: 4/2</p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00003.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.prodruid.features.id-00026@Incarnate-Engine">Ability Score Improvement</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00003.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.prodruid.features.id-00026@Incarnate-Engine">Ability Score Improvement</link>
 					</linklist>
 					<p>Druid, Level 06 - Transformation Cantrip:</p>
 					<linklist>
@@ -8945,7 +8945,7 @@
 					</linklist>
 					<p>; Spell slots: 4/3/3</p>
 					<linklist>
-						<link class="reference_class" recordname="class.id-00003@Incarnate-Engine">Druid</link>
+						<link class="reference_class" recordname="class.prodruid@Incarnate-Engine">Druid</link>
 					</linklist>
 				</text>
 			</id-00023>
@@ -9551,31 +9551,31 @@
 					<h>Class</h>
 					<p>Fighter: Fighter level: 05</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00004.proficiencies.armor@Incarnate-Engine">Armor</link>
-						<link class="reference_classproficiency" recordname="class.id-00004.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00004.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00004.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00004.features.fightingstyle1@Incarnate-Engine">Fighting Style</link>
-						<link class="reference_classfeature" recordname="class.id-00004.features.secondwind1@Incarnate-Engine">Second Wind</link>
+						<link class="reference_classproficiency" recordname="class.profighter.proficiencies.armor@Incarnate-Engine">Armor</link>
+						<link class="reference_classproficiency" recordname="class.profighter.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.profighter.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.profighter.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.profighter.features.id-00028@Incarnate-Engine">Fighting Style</link>
+						<link class="reference_classfeature" recordname="class.profighter.features.id-00035@Incarnate-Engine">Second Wind</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00012@Incarnate-Engine">Default Fighter Items</link>
 					</linklist>
 					<p>;</p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00004.features.actionsurge2@Incarnate-Engine">Action Surge</link>
+						<link class="reference_classfeature" recordname="class.profighter.features.id-00025@Incarnate-Engine">Action Surge</link>
 					</linklist>
 					<p>;</p>
 					<linklist>
-						<link class="reference_classability" recordname="class.id-00004.abilities.id-00001@Incarnate-Engine">Grappler</link>
-						<link class="reference_classfeature" recordname="class.id-00004.features.id-00001@Incarnate-Engine">Wrestling Toss</link>
+						<link class="reference_classability" recordname="class.profighter.abilities.id-00001@Incarnate-Engine">Grappler</link>
+						<link class="reference_classfeature" recordname="class.profighter.features.id-00001@Incarnate-Engine">Wrestling Toss</link>
 					</linklist>
 					<p>;</p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00004.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.profighter.features.id-00022@Incarnate-Engine">Ability Score Improvement</link>
 					</linklist>
 					<p>;</p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00004.features.extraattack5@Incarnate-Engine">Extra Attack</link>
-						<link class="reference_class" recordname="class.id-00004@Incarnate-Engine">Fighter</link>
+						<link class="reference_classfeature" recordname="class.profighter.features.id-00027@Incarnate-Engine">Extra Attack</link>
+						<link class="reference_class" recordname="class.profighter@Incarnate-Engine">Fighter</link>
 					</linklist>
 				</text>
 			</id-00092>
@@ -10237,19 +10237,19 @@
 					<h>Class</h>
 					<p>Druid: Druid level: 05</p>
 					<linklist>
-						<link class="reference_class" recordname="class.id-00003@Incarnate-Engine">Druid</link>
-						<link class="reference_classproficiency" recordname="class.id-00003.proficiencies.armor@Incarnate-Engine">Armor</link>
-						<link class="reference_classproficiency" recordname="class.id-00003.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00003.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00003.proficiencies.tools@Incarnate-Engine">Tools</link>
-						<link class="reference_classproficiency" recordname="class.id-00003.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00003.features.druidic1@Incarnate-Engine">Druidic</link>
-						<link class="reference_classfeature" recordname="class.id-00003.features.spellcasting1@Incarnate-Engine">Spellcasting</link>
+						<link class="reference_class" recordname="class.prodruid@Incarnate-Engine">Druid</link>
+						<link class="reference_classproficiency" recordname="class.prodruid.proficiencies.armor@Incarnate-Engine">Armor</link>
+						<link class="reference_classproficiency" recordname="class.prodruid.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.prodruid.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.prodruid.proficiencies.tools@Incarnate-Engine">Tools</link>
+						<link class="reference_classproficiency" recordname="class.prodruid.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.prodruid.features.id-00033@Incarnate-Engine">Druidic</link>
+						<link class="reference_classfeature" recordname="class.prodruid.features.id-00038@Incarnate-Engine">Spellcasting</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00011@Incarnate-Engine">Default Druid Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00003.features.wildshape2@Incarnate-Engine">Wild Shape</link>
+						<link class="reference_classfeature" recordname="class.prodruid.features.id-00040@Incarnate-Engine">Wild Shape</link>
 					</linklist>
 					<p>Druid, Level 02 - Transformation Cantrip:</p>
 					<linklist>
@@ -10285,11 +10285,11 @@
 					</linklist>
 					<p>; Spell slots: 4/2</p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00003.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.prodruid.features.id-00026@Incarnate-Engine">Ability Score Improvement</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00003.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.prodruid.features.id-00026@Incarnate-Engine">Ability Score Improvement</link>
 					</linklist>
 					<p>Cantrip:</p>
 					<linklist>
@@ -10341,7 +10341,7 @@
 					</linklist>
 					<p>; Spell slots: 4/3/2</p>
 					<linklist>
-						<link class="reference_class" recordname="class.id-00003@Incarnate-Engine">Druid</link>
+						<link class="reference_class" recordname="class.prodruid@Incarnate-Engine">Druid</link>
 					</linklist>
 				</text>
 			</id-00154>
