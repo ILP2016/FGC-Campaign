@@ -44,12 +44,6 @@
 							<recordname>encounter.id-00121</recordname>
 						</shortcut>
 						<shortcut>
-							<x>904</x>
-							<y>1195</y>
-							<class>battle</class>
-							<recordname>battle.id-00002</recordname>
-						</shortcut>
-						<shortcut>
 							<x>949</x>
 							<y>1189</y>
 							<class>encounter</class>
@@ -68,8 +62,8 @@
 							<recordname>encounter.id-00123</recordname>
 						</shortcut>
 						<shortcut>
-							<x>728</x>
-							<y>1197</y>
+							<x>694</x>
+							<y>1186</y>
 							<class>battle</class>
 							<recordname>battle.id-00005</recordname>
 						</shortcut>
@@ -92,8 +86,8 @@
 							<recordname>encounter.id-00126</recordname>
 						</shortcut>
 						<shortcut>
-							<x>802</x>
-							<y>1086</y>
+							<x>804</x>
+							<y>1093</y>
 							<class>encounter</class>
 							<recordname>encounter.id-00163</recordname>
 						</shortcut>
@@ -139,9 +133,27 @@
 							<class>encounter</class>
 							<recordname>encounter.id-00167</recordname>
 						</shortcut>
+						<shortcut>
+							<x>733</x>
+							<y>1207</y>
+							<class>battle</class>
+							<recordname>battle.C0300014@Incarnate-Battles</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1007</x>
+							<y>1178</y>
+							<class>battle</class>
+							<recordname>battle.C0300003@Incarnate-Battles</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1074</x>
+							<y>1423</y>
+							<class>battle</class>
+							<recordname>battle.C0400010@Incarnate-Battles</recordname>
+						</shortcut>
 					</shortcuts>
 					<tokens>
-						<idcounter>78</idcounter>
+						<idcounter>90</idcounter>
 						<scalelock>6.25</scalelock>
 					</tokens>
 				</image>
@@ -368,6 +380,7 @@
 				<public />
 				<image type="image">
 					<bitmap>Region_5_5.png</bitmap>
+					<mask>maskedimages/1511982849.png</mask>
 					<gridsize>20</gridsize>
 					<gridoffset>0,0</gridoffset>
 					<gridsnap>on</gridsnap>
@@ -417,7 +430,6 @@
 				</image>
 			</id-00073>
 			<id-00074>
-				<public />
 				<image type="image">
 					<bitmap>Region_5_6.png</bitmap>
 					<mask>maskedimages/1511134223.png</mask>
@@ -481,8 +493,8 @@
 						</shortcut>
 						<shortcut>
 							<public />
-							<x>1120</x>
-							<y>1159</y>
+							<x>1049</x>
+							<y>1105</y>
 							<class>imagewindow</class>
 							<recordname>image.id-00127@Incarnate-Penolia</recordname>
 						</shortcut>
@@ -534,13 +546,24 @@
 						</shortcut>
 					</shortcuts>
 					<tokens>
-						<idcounter>31</idcounter>
+						<idcounter>35</idcounter>
 						<scalelock>6.25</scalelock>
 					</tokens>
+					<pointers>
+						<pointer>
+							<id>0</id>
+							<type>1</type>
+							<startx>191</startx>
+							<starty>691</starty>
+							<endx>271</endx>
+							<endy>441</endy>
+							<owner></owner>
+							<color>ff</color>
+						</pointer>
+					</pointers>
 				</image>
 			</id-00084>
 			<id-00085>
-				<public />
 				<image type="image">
 					<bitmap>Region_6_6.png</bitmap>
 					<mask>maskedimages/1511134698.png</mask>
@@ -564,7 +587,7 @@
 							<endx>1531</endx>
 							<endy>1691</endy>
 							<owner></owner>
-							<color>2a0070</color>
+							<color>ff</color>
 						</pointer>
 					</pointers>
 				</image>
@@ -1335,13 +1358,30 @@
 						<token>
 							<prototype>tokens/Medium/a.png@Letter Tokens</prototype>
 							<id>6</id>
-							<x>938</x>
-							<y>1181</y>
+							<x>958</x>
+							<y>1163</y>
 							<scale>0.2</scale>
 						</token>
 					</tokens>
 				</image>
 			</id-00122>
+			<id-00123>
+				<image type="image">
+					<bitmap>05_05ForestVillage_1_1.png</bitmap>
+					<mask>maskedimages/1511982876.png</mask>
+					<gridsize>20</gridsize>
+					<gridoffset>0,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<x>182</x>
+							<y>1810</y>
+							<class>imagewindow</class>
+							<recordname>image.id-00073@Incarnate-Penolia</recordname>
+						</shortcut>
+					</shortcuts>
+				</image>
+			</id-00123>
 			<id-00124>
 				<public />
 				<image type="image">
@@ -1429,8 +1469,34 @@
 						</shortcut>
 					</shortcuts>
 					<tokens>
-						<idcounter>11</idcounter>
+						<idcounter>15</idcounter>
 						<scalelock>6.25</scalelock>
+						<token>
+							<prototype>portrait_id-00049_token</prototype>
+							<id>13</id>
+							<x>1521</x>
+							<y>811</y>
+							<orientation>2</orientation>
+						</token>
+						<token>
+							<prototype>portrait_id-00034_token</prototype>
+							<id>14</id>
+							<x>1631</x>
+							<y>801</y>
+							<orientation>6</orientation>
+						</token>
+						<token>
+							<prototype>portrait_id-00036_token</prototype>
+							<id>15</id>
+							<x>1671</x>
+							<y>671</y>
+						</token>
+						<token>
+							<prototype>portrait_id-00052_token</prototype>
+							<id>12</id>
+							<x>1511</x>
+							<y>731</y>
+						</token>
 					</tokens>
 				</image>
 				<name type="string">06_05FarmingHamlet-Umag</name>
@@ -1704,22 +1770,11 @@
 						<tokenlock />
 						<scalelock>6.25</scalelock>
 						<token>
-							<prototype>tokens/E.png@DD5E SRD Bestiary</prototype>
-							<id>23</id>
-							<x>1561</x>
-							<y>1301</y>
-							<scale>2</scale>
-							<name>Elk</name>
-							<visibilitylocked>on</visibilitylocked>
-						</token>
-						<token>
 							<prototype>portrait_id-00037_token</prototype>
 							<id>3</id>
 							<x>1901</x>
 							<y>1471</y>
 							<scale>0.5</scale>
-							<name>Swino son of Apia</name>
-							<visibilitylocked>on</visibilitylocked>
 						</token>
 						<token>
 							<prototype>portrait_id-00034_token</prototype>
@@ -1728,8 +1783,6 @@
 							<y>1331</y>
 							<scale>0.7</scale>
 							<orientation>7</orientation>
-							<name>Aethelmaer</name>
-							<visibilitylocked>on</visibilitylocked>
 						</token>
 						<token>
 							<prototype>portrait_id-00036_token</prototype>
@@ -1737,8 +1790,7 @@
 							<x>1651</x>
 							<y>1451</y>
 							<orientation>7</orientation>
-							<name>Ronn</name>
-							<visibilitylocked>on</visibilitylocked>
+							<targets>2</targets>
 						</token>
 						<token>
 							<prototype>portrait_id-00047_token</prototype>
@@ -1746,8 +1798,6 @@
 							<x>1721</x>
 							<y>1271</y>
 							<orientation>4</orientation>
-							<name>Erdan</name>
-							<visibilitylocked>on</visibilitylocked>
 						</token>
 						<token>
 							<prototype>portrait_id-00045_token</prototype>
@@ -1755,18 +1805,7 @@
 							<x>1591</x>
 							<y>1291</y>
 							<orientation>7</orientation>
-							<name>Corbon</name>
-							<visibilitylocked>on</visibilitylocked>
 							<targets>20</targets>
-						</token>
-						<token>
-							<prototype>tokens/Medium/r.png@Letter Tokens</prototype>
-							<id>19</id>
-							<x>1521</x>
-							<y>1251</y>
-							<scale>2.85714</scale>
-							<name>Riding Horse</name>
-							<unmodifiable />
 						</token>
 					</tokens>
 					<pointers>
@@ -1778,7 +1817,7 @@
 							<endx>1881</endx>
 							<endy>1501</endy>
 							<owner></owner>
-							<color>2a0070</color>
+							<color>ff</color>
 						</pointer>
 						<pointer>
 							<id>2</id>
@@ -1788,7 +1827,7 @@
 							<endx>1621</endx>
 							<endy>1351</endy>
 							<owner>id-00036</owner>
-							<color>ff0a3c0a</color>
+							<color>ff006e00</color>
 						</pointer>
 						<pointer>
 							<id>0</id>
@@ -1798,7 +1837,7 @@
 							<endx>1461</endx>
 							<endy>1141</endy>
 							<owner></owner>
-							<color>2a0070</color>
+							<color>ff</color>
 						</pointer>
 					</pointers>
 				</image>
@@ -2241,11 +2280,54 @@
 							<class>encounter</class>
 							<recordname>encounter.id-00136</recordname>
 						</shortcut>
+						<shortcut>
+							<x>618</x>
+							<y>793</y>
+							<class>battle</class>
+							<recordname>battle.C0300010@Incarnate-Battles</recordname>
+						</shortcut>
+						<shortcut>
+							<x>300</x>
+							<y>976</y>
+							<class>battle</class>
+							<recordname>battle.C0300018@Incarnate-Battles</recordname>
+						</shortcut>
+						<shortcut>
+							<x>769</x>
+							<y>1158</y>
+							<class>battle</class>
+							<recordname>battle.C0200012@Incarnate-Battles</recordname>
+						</shortcut>
+						<shortcut>
+							<x>259</x>
+							<y>965</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00179</recordname>
+						</shortcut>
 					</shortcuts>
 					<tokens>
-						<idcounter>4</idcounter>
+						<idcounter>18</idcounter>
 						<scalelock>6.25</scalelock>
+						<token>
+							<prototype>tokens/veteran.png@DD5E SRD Bestiary</prototype>
+							<id>18</id>
+							<x>331</x>
+							<y>941</y>
+							<scale>0.78125</scale>
+						</token>
 					</tokens>
+					<pointers>
+						<pointer>
+							<id>0</id>
+							<type>1</type>
+							<startx>251</startx>
+							<starty>901</starty>
+							<endx>331</endx>
+							<endy>941</endy>
+							<owner></owner>
+							<color>ff</color>
+						</pointer>
+					</pointers>
 				</image>
 				<locked type="number">0</locked>
 			</id-00134>
@@ -2266,28 +2348,60 @@
 							<recordname>image.id-00128@Incarnate-Penolia</recordname>
 						</shortcut>
 						<shortcut>
-							<x>431</x>
-							<y>951</y>
+							<x>348</x>
+							<y>901</y>
 							<class>npc</class>
 							<recordname>npc.id-00001@Incarnate-Engine</recordname>
 						</shortcut>
+						<shortcut>
+							<x>517</x>
+							<y>1549</y>
+							<class>battle</class>
+							<recordname>battle.C0300014@Incarnate-Battles</recordname>
+						</shortcut>
+						<shortcut>
+							<x>249</x>
+							<y>1768</y>
+							<class>battle</class>
+							<recordname>battle.C0300005@Incarnate-Battles</recordname>
+						</shortcut>
+						<shortcut>
+							<x>443</x>
+							<y>1792</y>
+							<class>battle</class>
+							<recordname>battle.C0400013@Incarnate-Battles</recordname>
+						</shortcut>
 					</shortcuts>
 					<tokens>
-						<idcounter>11</idcounter>
+						<idcounter>34</idcounter>
 						<scalelock>6.25</scalelock>
+						<token>
+							<prototype>portrait_id-00049_token</prototype>
+							<id>20</id>
+							<x>871</x>
+							<y>1551</y>
+							<orientation>1</orientation>
+							<name>Pherrid Oakleaf</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+						<token>
+							<prototype>portrait_id-00036_token</prototype>
+							<id>19</id>
+							<x>871</x>
+							<y>1571</y>
+							<name>Ronn</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+						<token>
+							<prototype>portrait_id-00034_token</prototype>
+							<id>17</id>
+							<x>501</x>
+							<y>981</y>
+							<orientation>4</orientation>
+							<name>Aethelmaer</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
 					</tokens>
-					<pointers>
-						<pointer>
-							<id>0</id>
-							<type>1</type>
-							<startx>711</startx>
-							<starty>1251</starty>
-							<endx>781</endx>
-							<endy>1331</endy>
-							<owner></owner>
-							<color>2a0070</color>
-						</pointer>
-					</pointers>
 				</image>
 			</id-00137>
 			<id-00138>
@@ -2465,7 +2579,7 @@
 							<endx>461</endx>
 							<endy>1301</endy>
 							<owner></owner>
-							<color>2a0070</color>
+							<color>ff</color>
 						</pointer>
 					</pointers>
 				</image>

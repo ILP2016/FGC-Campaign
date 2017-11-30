@@ -1,7 +1,261 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<root version="3.3" release="8|CoreRPG:3" integrity="541d9c6c91b1b6680d4f76f25b50ed1d5d7dbb77">
+<root version="3.3" release="8|CoreRPG:3" integrity="5c586bec40d7de05e0080fbf9298e86b98089c8a">
+	<battle>
+		<category name="ProNobis - Encounter - Arctic" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Cavern" baseicon="0" decalicon="0">
+			<C0300003>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<npclist>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<maplink>
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.id-00126.image@Incarnate-Penolia</recordname>
+												</imageref>
+												<imagex type="number">925</imagex>
+												<imagey type="number">1209</imagey>
+											</id-00001>
+											<id-00002>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.id-00126.image@Incarnate-Penolia</recordname>
+												</imageref>
+												<imagex type="number">909</imagex>
+												<imagey type="number">1182</imagey>
+											</id-00002>
+											<id-00003>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.id-00126.image@Incarnate-Penolia</recordname>
+												</imageref>
+												<imagex type="number">996</imagex>
+												<imagey type="number">1199</imagey>
+											</id-00003>
+											<id-00004>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.id-00126.image@Incarnate-Penolia</recordname>
+												</imageref>
+												<imagex type="number">884</imagex>
+												<imagey type="number">1162</imagey>
+											</id-00004>
+											<id-00005>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.id-00126.image@Incarnate-Penolia</recordname>
+												</imageref>
+												<imagex type="number">1017</imagex>
+												<imagey type="number">1184</imagey>
+											</id-00005>
+										</category>
+									</maplink>
+								</category>
+							</id-00001>
+							<id-00002>
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<maplink>
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.id-00126.image@Incarnate-Penolia</recordname>
+												</imageref>
+												<imagex type="number">1023</imagex>
+												<imagey type="number">1148</imagey>
+											</id-00001>
+										</category>
+									</maplink>
+								</category>
+							</id-00002>
+						</category>
+					</npclist>
+				</category>
+			</C0300003>
+			<C0300005>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<npclist>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<maplink>
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.id-00137.image@Incarnate-Penolia</recordname>
+												</imageref>
+												<imagex type="number">271</imagex>
+												<imagey type="number">1751</imagey>
+											</id-00001>
+											<id-00002>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.id-00137.image@Incarnate-Penolia</recordname>
+												</imageref>
+												<imagex type="number">261</imagex>
+												<imagey type="number">1761</imagey>
+											</id-00002>
+											<id-00003>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.id-00137.image@Incarnate-Penolia</recordname>
+												</imageref>
+												<imagex type="number">241</imagex>
+												<imagey type="number">1781</imagey>
+											</id-00003>
+										</category>
+									</maplink>
+								</category>
+							</id-00001>
+							<id-00002>
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<maplink>
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.id-00137.image@Incarnate-Penolia</recordname>
+												</imageref>
+												<imagex type="number">251</imagex>
+												<imagey type="number">1721</imagey>
+											</id-00001>
+											<id-00002>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.id-00137.image@Incarnate-Penolia</recordname>
+												</imageref>
+												<imagex type="number">221</imagex>
+												<imagey type="number">1741</imagey>
+											</id-00002>
+										</category>
+									</maplink>
+								</category>
+							</id-00002>
+						</category>
+					</npclist>
+				</category>
+			</C0300005>
+			<C0300014>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<npclist>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<maplink>
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.id-00137.image@Incarnate-Penolia</recordname>
+												</imageref>
+												<imagex type="number">491</imagex>
+												<imagey type="number">1591</imagey>
+											</id-00001>
+											<id-00002>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.id-00137.image@Incarnate-Penolia</recordname>
+												</imageref>
+												<imagex type="number">541</imagex>
+												<imagey type="number">1581</imagey>
+											</id-00002>
+										</category>
+									</maplink>
+								</category>
+							</id-00001>
+							<id-00002>
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<maplink>
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.id-00137.image@Incarnate-Penolia</recordname>
+												</imageref>
+												<imagex type="number">531</imagex>
+												<imagey type="number">1651</imagey>
+											</id-00001>
+										</category>
+									</maplink>
+								</category>
+							</id-00002>
+						</category>
+					</npclist>
+				</category>
+			</C0300014>
+			<C0400013>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<npclist>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<maplink>
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.id-00137.image@Incarnate-Penolia</recordname>
+												</imageref>
+												<imagex type="number">411</imagex>
+												<imagey type="number">1791</imagey>
+											</id-00001>
+											<id-00002>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.id-00137.image@Incarnate-Penolia</recordname>
+												</imageref>
+												<imagex type="number">441</imagex>
+												<imagey type="number">1771</imagey>
+											</id-00002>
+										</category>
+									</maplink>
+								</category>
+							</id-00001>
+						</category>
+					</npclist>
+				</category>
+			</C0400013>
+		</category>
+		<category name="ProNobis - Encounter - Coastal" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Desert" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Forest" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Grassland" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Hill" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Mountain" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Swamp" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Underwater" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Urban" baseicon="0" decalicon="0">
+		</category>
+	</battle>
 	<npc>
 		<category name="SRD - Aberration" baseicon="0" decalicon="0">
+			<id-00002>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<charisma>
+								<bonus type="number">-3</bonus>
+							</charisma>
+							<intelligence>
+								<bonus type="number">-3</bonus>
+							</intelligence>
+						</category>
+					</abilities>
+				</category>
+			</id-00002>
 		</category>
 		<category name="SRD - Beast" baseicon="0" decalicon="0">
 			<id-00006>
@@ -375,12 +629,463 @@
 		<category name="SRD - Swarm of Tiny Beasts" baseicon="0" decalicon="0">
 		</category>
 		<category name="SRD - Undead" baseicon="0" decalicon="0">
+			<id-00302>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<charisma>
+								<bonus type="number">-3</bonus>
+							</charisma>
+						</category>
+					</abilities>
+				</category>
+			</id-00302>
 		</category>
 	</npc>
 	<tables>
 		<category name="ProNobis - Encounter - Arctic" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Encounter - Cavern" baseicon="0" decalicon="0">
+			<C-00001>
+				<public />
+				<hiderollresults type="number">1</hiderollresults>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<tablerows>
+						<public />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00001>
+							<id-00002>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00002>
+							<id-00003>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00003>
+							<id-00004>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00004>
+							<id-00005>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00005>
+							<id-00006>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00006>
+							<id-00007>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00007>
+							<id-00008>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00008>
+							<id-00009>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00009>
+							<id-00010>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00010>
+							<id-00011>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00011>
+							<id-00012>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00012>
+							<id-00013>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00013>
+							<id-00014>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00014>
+							<id-00015>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00015>
+							<id-00016>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00016>
+							<id-00017>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00017>
+							<id-00018>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00018>
+							<id-00019>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00019>
+							<id-00020>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00020>
+							<id-00021>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00021>
+							<id-00022>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00022>
+							<id-00023>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00023>
+							<id-00024>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00024>
+							<id-00025>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00025>
+							<id-00026>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00026>
+							<id-00027>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00027>
+							<id-00028>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00028>
+							<id-00029>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00029>
+							<id-00030>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00030>
+							<id-00031>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00031>
+							<id-00032>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00032>
+							<id-00033>
+								<public />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00033>
+						</category>
+					</tablerows>
+				</category>
+			</C-00001>
 		</category>
 		<category name="ProNobis - Encounter - Coastal" baseicon="0" decalicon="0">
 		</category>

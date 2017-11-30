@@ -6,18 +6,9 @@
 				<category name="DD MM Monster Manual" baseicon="2" decalicon="1">
 				</category>
 				<category name="Monsters - DD MM Monster Manual" baseicon="2" decalicon="1">
-					<img_basilisk_jpg>
+					<img_minotaurskeleton_jpg>
 						<public />
-					</img_basilisk_jpg>
-					<img_greenhag_jpg>
-						<public />
-					</img_greenhag_jpg>
-					<img_hellhound_jpg>
-						<public />
-					</img_hellhound_jpg>
-					<img_magmamephit_jpg>
-						<public />
-					</img_magmamephit_jpg>
+					</img_minotaurskeleton_jpg>
 				</category>
 			</imagedata>
 		</category>

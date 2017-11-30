@@ -1,27 +1,5 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<root version="3.3" release="8|CoreRPG:3" integrity="0938f92441bdeea17fbcd5bc80d020aa3878fc77">
-	<background>
-		<category name="DandDwiki - Backgrounds" baseicon="0" decalicon="0">
-			<id-00007>
-				<holder name="Alyks" />
-				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-					<features>
-						<holder name="Alyks" />
-						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-							<id-00001>
-								<holder name="Alyks" />
-							</id-00001>
-							<id-00002>
-								<holder name="Alyks" />
-							</id-00002>
-						</category>
-					</features>
-				</category>
-			</id-00007>
-		</category>
-		<category name="ProNobis - Backgrounds" baseicon="0" decalicon="0">
-		</category>
-	</background>
+<root version="3.3" release="8|CoreRPG:3" integrity="b09d500f0c95a5f24aaddc55c4445f330f42199b">
 	<class>
 		<category name="DandDwiki-Classes" baseicon="0" decalicon="0">
 			<id-00004>
@@ -613,8 +591,6 @@
 				</category>
 			</id-00009>
 		</category>
-		<category name="SRD - DandDwiki - Classes" baseicon="0" decalicon="0">
-		</category>
 	</class>
 	<encounter>
 		<category name="DandDwiki - Backgrounds" baseicon="0" decalicon="0">
@@ -622,8 +598,6 @@
 		<category name="DandDwiki - Classes" baseicon="0" decalicon="0">
 		</category>
 		<category name="DandDwiki - Races" baseicon="0" decalicon="0">
-		</category>
-		<category name="Incarnate-Engine" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - 00 Cheat Sheets" baseicon="0" decalicon="0">
 		</category>
@@ -739,118 +713,12 @@
 		<category name="SRD - Weapon - Simple Ranged" baseicon="0" decalicon="0">
 		</category>
 	</item>
-	<lists>
-		<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-			<startingequipment>
-				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-					<rogue>
-						<holder name="Alyks" />
-						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-							<groups>
-								<holder name="Alyks" />
-								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-									<p1choice1>
-										<holder name="Alyks" />
-										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-											<equipment>
-												<holder name="Alyks" />
-												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-													<rapier>
-														<holder name="Alyks" />
-													</rapier>
-													<shortsword>
-														<holder name="Alyks" />
-													</shortsword>
-												</category>
-											</equipment>
-										</category>
-									</p1choice1>
-									<p2choice2>
-										<holder name="Alyks" />
-										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-											<equipment>
-												<holder name="Alyks" />
-												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-													<arrow>
-														<holder name="Alyks" />
-													</arrow>
-													<shortbow>
-														<holder name="Alyks" />
-													</shortbow>
-													<shortsword>
-														<holder name="Alyks" />
-													</shortsword>
-												</category>
-											</equipment>
-										</category>
-									</p2choice2>
-									<p3choice3>
-										<holder name="Alyks" />
-										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-											<equipment>
-												<holder name="Alyks" />
-												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-													<burglerspack>
-														<holder name="Alyks" />
-													</burglerspack>
-													<dungeoneerspack>
-														<holder name="Alyks" />
-													</dungeoneerspack>
-													<explorerspack>
-														<holder name="Alyks" />
-													</explorerspack>
-												</category>
-											</equipment>
-										</category>
-									</p3choice3>
-									<p4choice4>
-										<holder name="Alyks" />
-										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-											<equipment>
-												<holder name="Alyks" />
-												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-													<dagger>
-														<holder name="Alyks" />
-													</dagger>
-													<p01leather>
-														<holder name="Alyks" />
-													</p01leather>
-													<thievestools>
-														<holder name="Alyks" />
-													</thievestools>
-												</category>
-											</equipment>
-										</category>
-									</p4choice4>
-								</category>
-							</groups>
-						</category>
-					</rogue>
-				</category>
-			</startingequipment>
-		</category>
-	</lists>
 	<npc>
 		<category name="ProNobis - DemiHumans - Greak" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Dungeon Bosses" baseicon="0" decalicon="0">
-			<id-00001>
-				<locked type="number">1</locked>
-				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-				</category>
-			</id-00001>
-			<id-00003>
-				<locked type="number">1</locked>
-				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-				</category>
-			</id-00003>
-			<id-00013>
-				<locked type="number">1</locked>
-				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-				</category>
-			</id-00013>
 			<id-00016>
-				<locked type="number">1</locked>
+				<locked type="number">0</locked>
 				<text type="formattedtext">
 					<h>Description</h>
 					<p>A king in ancient times tripped over a porcupine discovered that thier spines can find and pierce the boundaries between plate bodies. He deicded that these humble creatures might be the salvation of his empire from the demon hoard. If their spines could get past his plate body then they could also get past the tough demon scales.</p>
@@ -1074,11 +942,15 @@
 		</category>
 	</spell>
 	<storytemplate>
+		<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+		</category>
 		<category name="ProNobis - Backgrounds" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Chases" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - City" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Dungeon - Boss" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Dungeons" baseicon="0" decalicon="0">
 		</category>
@@ -1088,8 +960,6 @@
 			</id-00164>
 		</category>
 		<category name="ProNobis - Random - Rooms" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Random NPC" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Random NPC - CR" baseicon="0" decalicon="0">
 		</category>
@@ -5154,8 +5024,6 @@
 				</category>
 			</id-00333>
 		</category>
-		<category name="ProNobis - Random NPC" baseicon="0" decalicon="0">
-		</category>
 		<category name="ProNobis - Rooms" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Status Effects" baseicon="0" decalicon="0">
@@ -5193,11 +5061,6 @@
 				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
 				</category>
 			</id-01196>
-			<id-01894>
-				<hiderollresults type="number">1</hiderollresults>
-				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-				</category>
-			</id-01894>
 		</category>
 		<category name="Pronobis - Dungeon" baseicon="0" decalicon="0">
 			<id-01207>

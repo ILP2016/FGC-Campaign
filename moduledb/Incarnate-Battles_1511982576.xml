@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3" release="8|CoreRPG:3" integrity="541d9c6c91b1b6680d4f76f25b50ed1d5d7dbb77">
+	<npc>
+		<category name="SRD - Aberration" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Beast" baseicon="0" decalicon="0">
+			<id-00006>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<charisma>
+								<bonus type="number">-2</bonus>
+							</charisma>
+						</category>
+					</abilities>
+				</category>
+			</id-00006>
+			<id-00007>
+				<holder name="Malamute" />
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<holder name="Malamute" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<charisma>
+								<holder name="Malamute" />
+							</charisma>
+							<constitution>
+								<holder name="Malamute" />
+							</constitution>
+							<dexterity>
+								<holder name="Malamute" />
+							</dexterity>
+							<intelligence>
+								<holder name="Malamute" />
+							</intelligence>
+							<strength>
+								<holder name="Malamute" />
+							</strength>
+							<wisdom>
+								<holder name="Malamute" />
+							</wisdom>
+						</category>
+					</abilities>
+					<actions>
+						<holder name="Malamute" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Malamute" />
+							</id-00001>
+						</category>
+					</actions>
+					<innatespells>
+						<holder name="Malamute" />
+					</innatespells>
+					<lairactions>
+						<holder name="Malamute" />
+					</lairactions>
+					<legendaryactions>
+						<holder name="Malamute" />
+					</legendaryactions>
+					<reactions>
+						<holder name="Malamute" />
+					</reactions>
+					<spells>
+						<holder name="Malamute" />
+					</spells>
+					<traits>
+						<holder name="Malamute" />
+					</traits>
+				</category>
+			</id-00007>
+			<id-00011>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<charisma>
+								<bonus type="number">-2</bonus>
+							</charisma>
+						</category>
+					</abilities>
+				</category>
+			</id-00011>
+			<id-00014>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<charisma>
+								<bonus type="number">-2</bonus>
+							</charisma>
+						</category>
+					</abilities>
+				</category>
+			</id-00014>
+			<id-00023>
+				<holder name="Malamute" />
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<holder name="Malamute" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<charisma>
+								<holder name="Malamute" />
+								<bonus type="number">-2</bonus>
+							</charisma>
+							<constitution>
+								<holder name="Malamute" />
+							</constitution>
+							<dexterity>
+								<holder name="Malamute" />
+							</dexterity>
+							<intelligence>
+								<holder name="Malamute" />
+							</intelligence>
+							<strength>
+								<holder name="Malamute" />
+							</strength>
+							<wisdom>
+								<holder name="Malamute" />
+							</wisdom>
+						</category>
+					</abilities>
+					<actions>
+						<holder name="Malamute" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Malamute" />
+							</id-00001>
+						</category>
+					</actions>
+				</category>
+			</id-00023>
+			<id-00030>
+				<holder name="Malamute" />
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<holder name="Malamute" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<charisma>
+								<holder name="Malamute" />
+								<bonus type="number">-3</bonus>
+							</charisma>
+							<constitution>
+								<holder name="Malamute" />
+							</constitution>
+							<dexterity>
+								<holder name="Malamute" />
+							</dexterity>
+							<intelligence>
+								<holder name="Malamute" />
+							</intelligence>
+							<strength>
+								<holder name="Malamute" />
+							</strength>
+							<wisdom>
+								<holder name="Malamute" />
+							</wisdom>
+						</category>
+					</abilities>
+					<actions>
+						<holder name="Malamute" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Malamute" />
+							</id-00001>
+							<id-00002>
+								<holder name="Malamute" />
+							</id-00002>
+							<id-00003>
+								<holder name="Malamute" />
+							</id-00003>
+						</category>
+					</actions>
+					<traits>
+						<holder name="Malamute" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Malamute" />
+							</id-00001>
+						</category>
+					</traits>
+				</category>
+			</id-00030>
+			<id-00039>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<charisma>
+								<bonus type="number">-4</bonus>
+							</charisma>
+							<intelligence>
+								<bonus type="number">-5</bonus>
+							</intelligence>
+							<wisdom>
+								<bonus type="number">-2</bonus>
+							</wisdom>
+						</category>
+					</abilities>
+				</category>
+			</id-00039>
+			<id-00041>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<intelligence>
+								<bonus type="number">-4</bonus>
+							</intelligence>
+						</category>
+					</abilities>
+				</category>
+			</id-00041>
+			<id-00056>
+				<holder name="Malamute" />
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<holder name="Malamute" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<charisma>
+								<holder name="Malamute" />
+							</charisma>
+							<constitution>
+								<holder name="Malamute" />
+							</constitution>
+							<dexterity>
+								<holder name="Malamute" />
+							</dexterity>
+							<intelligence>
+								<holder name="Malamute" />
+							</intelligence>
+							<strength>
+								<holder name="Malamute" />
+							</strength>
+							<wisdom>
+								<holder name="Malamute" />
+							</wisdom>
+						</category>
+					</abilities>
+					<actions>
+						<holder name="Malamute" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Malamute" />
+							</id-00001>
+						</category>
+					</actions>
+					<innatespells>
+						<holder name="Malamute" />
+					</innatespells>
+					<lairactions>
+						<holder name="Malamute" />
+					</lairactions>
+					<legendaryactions>
+						<holder name="Malamute" />
+					</legendaryactions>
+					<reactions>
+						<holder name="Malamute" />
+					</reactions>
+					<spells>
+						<holder name="Malamute" />
+					</spells>
+					<traits>
+						<holder name="Malamute" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Malamute" />
+							</id-00001>
+							<id-00002>
+								<holder name="Malamute" />
+							</id-00002>
+							<id-00003>
+								<holder name="Malamute" />
+							</id-00003>
+						</category>
+					</traits>
+				</category>
+			</id-00056>
+			<id-00092>
+				<holder name="Malamute" />
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<holder name="Malamute" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<charisma>
+								<holder name="Malamute" />
+							</charisma>
+							<constitution>
+								<holder name="Malamute" />
+							</constitution>
+							<dexterity>
+								<holder name="Malamute" />
+							</dexterity>
+							<intelligence>
+								<holder name="Malamute" />
+								<bonus type="number">-4</bonus>
+							</intelligence>
+							<strength>
+								<holder name="Malamute" />
+							</strength>
+							<wisdom>
+								<holder name="Malamute" />
+							</wisdom>
+						</category>
+					</abilities>
+					<actions>
+						<holder name="Malamute" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Malamute" />
+							</id-00001>
+						</category>
+					</actions>
+					<traits>
+						<holder name="Malamute" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Malamute" />
+							</id-00001>
+							<id-00002>
+								<holder name="Malamute" />
+							</id-00002>
+						</category>
+					</traits>
+				</category>
+			</id-00092>
+		</category>
+		<category name="SRD - Celestial" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Construct" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Dragon" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Elemental" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Fey" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Fiend" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Giant" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Humanoid - General" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Humanoid - Specific Race" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Monstrosity" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Monstrosity - Shapechanger" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Monstrosity - Titan" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Ooze" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Plant" baseicon="0" decalicon="0">
+			<id-00289>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<charisma>
+								<bonus type="number">-5</bonus>
+							</charisma>
+							<dexterity>
+								<bonus type="number">-5</bonus>
+							</dexterity>
+							<intelligence>
+								<bonus type="number">-5</bonus>
+							</intelligence>
+							<strength>
+								<bonus type="number">-5</bonus>
+							</strength>
+							<wisdom>
+								<bonus type="number">-4</bonus>
+							</wisdom>
+						</category>
+					</abilities>
+				</category>
+			</id-00289>
+		</category>
+		<category name="SRD - Swarm of Tiny Beasts" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Undead" baseicon="0" decalicon="0">
+		</category>
+	</npc>
+	<tables>
+		<category name="ProNobis - Encounter - Arctic" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Cavern" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Coastal" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Desert" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Forest" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Grassland" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Hill" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Mountain" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Swamp" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Synthesis" baseicon="0" decalicon="0">
+			<id-00001>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<tablerows>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00004>
+								<fromrange type="number">0</fromrange>
+								<torange type="number">0</torange>
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+								</category>
+							</id-00004>
+							<id-00008>
+								<fromrange type="number">7</fromrange>
+								<torange type="number">10</torange>
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+								</category>
+							</id-00008>
+						</category>
+					</tablerows>
+				</category>
+			</id-00001>
+		</category>
+		<category name="ProNobis - Encounter - Underwater" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounter - Urban" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Semi-Random Encounter - Arctic" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Semi-Random Encounter - Cavern" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Semi-Random Encounter - Coastal" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Semi-Random Encounter - Desert" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Semi-Random Encounter - Forest" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Semi-Random Encounter - Grassland" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Semi-Random Encounter - Hill" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Semi-Random Encounter - Mountain" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Semi-Random Encounter - Swamp" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Semi-Random Encounter - Underwater" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Semi-Random Encounter - Urban" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - True Random - Arctic" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - True Random - Cavern" baseicon="0" decalicon="0">
+			<C00002>
+				<mod type="number">2</mod>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+				</category>
+			</C00002>
+		</category>
+		<category name="ProNobis - True Random - Coastal" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - True Random - Desert" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - True Random - Forest" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - True Random - Grassland" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - True Random - Hill" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - True Random - Humanoid" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - True Random - Mountain" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - True Random - Swamp" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - True Random - Underwater" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - True Random - Urban" baseicon="0" decalicon="0">
+		</category>
+	</tables>
+</root>
