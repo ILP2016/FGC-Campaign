@@ -6930,38 +6930,38 @@
 					<h>Class</h>
 					<p>Monk: Monk level: 6</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00005.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00005.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00005.proficiencies.tools@Incarnate-Engine">Tools</link>
-						<link class="reference_classproficiency" recordname="class.id-00005.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00005.features.martialarts1@Incarnate-Engine">Martial Arts</link>
-						<link class="reference_classfeature" recordname="class.id-00005.features.unarmoreddefense1@Incarnate-Engine">Unarmored Defense</link>
+						<link class="reference_classproficiency" recordname="class.promonk.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.promonk.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.promonk.proficiencies.tools@Incarnate-Engine">Tools</link>
+						<link class="reference_classproficiency" recordname="class.promonk.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.promonk.features.id-00026@Incarnate-Engine">Martial Arts</link>
+						<link class="reference_classfeature" recordname="class.promonk.features.id-00038@Incarnate-Engine">Unarmored Defense</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00013@Incarnate-Engine">Default Monk Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00005.features.ki2@Incarnate-Engine">Ki</link>
-						<link class="reference_classfeature" recordname="class.id-00005.features.unarmoredmovement2@Incarnate-Engine">Unarmored Movement</link>
+						<link class="reference_classfeature" recordname="class.promonk.features.id-00024@Incarnate-Engine">Ki</link>
+						<link class="reference_classfeature" recordname="class.promonk.features.id-00039@Incarnate-Engine">Unarmored Movement</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classability" recordname="class.id-00005.abilities.id-00003@Incarnate-Engine">Fire Elemental</link>
-						<link class="reference_classfeature" recordname="class.id-00005.features.id-00010@Incarnate-Engine">Inner Flame</link>
+						<link class="reference_classability" recordname="class.promonk.abilities.id-00003@Incarnate-Engine">Fire Elemental</link>
+						<link class="reference_classfeature" recordname="class.promonk.features.id-00010@Incarnate-Engine">Inner Flame</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00005.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
-						<link class="reference_classfeature" recordname="class.id-00005.features.slowfall4@Incarnate-Engine">Slow Fall</link>
+						<link class="reference_classfeature" recordname="class.promonk.features.id-00017@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.promonk.features.id-00032@Incarnate-Engine">Slow Fall</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00005.features.extraattack5@Incarnate-Engine">Extra Attack</link>
-						<link class="reference_classfeature" recordname="class.id-00005.features.stunningstrike5@Incarnate-Engine">Stunning Strike</link>
+						<link class="reference_classfeature" recordname="class.promonk.features.id-00023@Incarnate-Engine">Extra Attack</link>
+						<link class="reference_classfeature" recordname="class.promonk.features.id-00034@Incarnate-Engine">Stunning Strike</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00005.features.id-00011@Incarnate-Engine">Forges Fire</link>
-						<link class="reference_class" recordname="class.id-00005@Incarnate-Engine">Monk</link>
+						<link class="reference_classfeature" recordname="class.promonk.features.id-00011@Incarnate-Engine">Forges Fire</link>
+						<link class="reference_class" recordname="class.promonk@Incarnate-Engine">Monk</link>
 					</linklist>
 				</text>
 			</id-00087>
@@ -7166,29 +7166,29 @@
 					<h>Class</h>
 					<p>Paladin: Level 3:</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00006.proficiencies.armor@Incarnate-Engine">Armor</link>
-						<link class="reference_classproficiency" recordname="class.id-00006.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00006.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00006.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.divinesense1@Incarnate-Engine">Divine Sense</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.layonhands1@Incarnate-Engine">Lay on Hands</link>
+						<link class="reference_classproficiency" recordname="class.propaladin.proficiencies.armor@Incarnate-Engine">Armor</link>
+						<link class="reference_classproficiency" recordname="class.propaladin.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.propaladin.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.propaladin.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00015@Incarnate-Engine">Divine Sense</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00021@Incarnate-Engine">Lay on Hands</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00014@Incarnate-Engine">Default Paladin Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00006.features.divinesmite2@Incarnate-Engine">Divine Smite</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.fightingstyle2@Incarnate-Engine">Fighting Style</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.spellcasting2@Incarnate-Engine">Spellcasting</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00016@Incarnate-Engine">Divine Smite</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00018@Incarnate-Engine">Fighting Style</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00025@Incarnate-Engine">Spellcasting</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00006.features.divinehealth3@Incarnate-Engine">Divine Health</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00014@Incarnate-Engine">Divine Health</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00006.features.tenetsofdevotion3@Incarnate-Engine">Tenets of Devotion</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.channeldivinity_devotion_3@Incarnate-Engine">Channel Divinity (Devotion)</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.oathspells_devotion_3@Incarnate-Engine">Oath Spells (Devotion)</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00026@Incarnate-Engine">Tenets of Devotion</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00012@Incarnate-Engine">Channel Divinity (Devotion)</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00022@Incarnate-Engine">Oath Spells (Devotion)</link>
 					</linklist>
 					<p>Level 1:</p>
 					<linklist>
@@ -7200,7 +7200,7 @@
 					</linklist>
 					<p>; Spell Slots: 3</p>
 					<linklist>
-						<link class="reference_class" recordname="class.id-00006@Incarnate-Engine">Paladin</link>
+						<link class="reference_class" recordname="class.propaladin@Incarnate-Engine">Paladin</link>
 					</linklist>
 				</text>
 			</id-00117>
@@ -7242,37 +7242,37 @@
 					<h>Class</h>
 					<p>Paladin: Level 5:</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00006.proficiencies.armor@Incarnate-Engine">Armor</link>
-						<link class="reference_classproficiency" recordname="class.id-00006.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00006.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00006.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.divinesense1@Incarnate-Engine">Divine Sense</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.layonhands1@Incarnate-Engine">Lay on Hands</link>
+						<link class="reference_classproficiency" recordname="class.propaladin.proficiencies.armor@Incarnate-Engine">Armor</link>
+						<link class="reference_classproficiency" recordname="class.propaladin.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.propaladin.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.propaladin.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00015@Incarnate-Engine">Divine Sense</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00021@Incarnate-Engine">Lay on Hands</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00014@Incarnate-Engine">Default Paladin Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00006.features.divinesmite2@Incarnate-Engine">Divine Smite</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.fightingstyle2@Incarnate-Engine">Fighting Style</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.spellcasting2@Incarnate-Engine">Spellcasting</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00016@Incarnate-Engine">Divine Smite</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00018@Incarnate-Engine">Fighting Style</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00025@Incarnate-Engine">Spellcasting</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00006.features.divinehealth3@Incarnate-Engine">Divine Health</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00014@Incarnate-Engine">Divine Health</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00006.features.tenetsofdevotion3@Incarnate-Engine">Tenets of Devotion</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.channeldivinity_devotion_3@Incarnate-Engine">Channel Divinity (Devotion)</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.oathspells_devotion_3@Incarnate-Engine">Oath Spells (Devotion)</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00026@Incarnate-Engine">Tenets of Devotion</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00012@Incarnate-Engine">Channel Divinity (Devotion)</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00022@Incarnate-Engine">Oath Spells (Devotion)</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00006.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00004@Incarnate-Engine">Ability Score Improvement</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00006.features.extraattack5@Incarnate-Engine">Extra Attack</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00017@Incarnate-Engine">Extra Attack</link>
 					</linklist>
 					<p>Level 1:</p>
 					<linklist>
@@ -7288,7 +7288,7 @@
 					</linklist>
 					<p>; Spell Slots: 4/2</p>
 					<linklist>
-						<link class="reference_class" recordname="class.id-00006@Incarnate-Engine">Paladin</link>
+						<link class="reference_class" recordname="class.propaladin@Incarnate-Engine">Paladin</link>
 					</linklist>
 				</text>
 			</id-00118>
@@ -9044,37 +9044,37 @@
 					<h>Class</h>
 					<p>Paladin: Level 5:</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00006.proficiencies.armor@Incarnate-Engine">Armor</link>
-						<link class="reference_classproficiency" recordname="class.id-00006.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00006.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00006.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.divinesense1@Incarnate-Engine">Divine Sense</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.layonhands1@Incarnate-Engine">Lay on Hands</link>
+						<link class="reference_classproficiency" recordname="class.propaladin.proficiencies.armor@Incarnate-Engine">Armor</link>
+						<link class="reference_classproficiency" recordname="class.propaladin.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.propaladin.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.propaladin.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00015@Incarnate-Engine">Divine Sense</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00021@Incarnate-Engine">Lay on Hands</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00014@Incarnate-Engine">Default Paladin Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00006.features.divinesmite2@Incarnate-Engine">Divine Smite</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.fightingstyle2@Incarnate-Engine">Fighting Style</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.spellcasting2@Incarnate-Engine">Spellcasting</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00016@Incarnate-Engine">Divine Smite</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00018@Incarnate-Engine">Fighting Style</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00025@Incarnate-Engine">Spellcasting</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00006.features.divinehealth3@Incarnate-Engine">Divine Health</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00014@Incarnate-Engine">Divine Health</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00006.features.tenetsofdevotion3@Incarnate-Engine">Tenets of Devotion</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.channeldivinity_devotion_3@Incarnate-Engine">Channel Divinity (Devotion)</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.oathspells_devotion_3@Incarnate-Engine">Oath Spells (Devotion)</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00026@Incarnate-Engine">Tenets of Devotion</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00012@Incarnate-Engine">Channel Divinity (Devotion)</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00022@Incarnate-Engine">Oath Spells (Devotion)</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00006.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00004@Incarnate-Engine">Ability Score Improvement</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00006.features.extraattack5@Incarnate-Engine">Extra Attack</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00017@Incarnate-Engine">Extra Attack</link>
 					</linklist>
 					<p>Level 1:</p>
 					<linklist>
@@ -9090,7 +9090,7 @@
 					</linklist>
 					<p>; Spell Slots: 4/2</p>
 					<linklist>
-						<link class="reference_class" recordname="class.id-00006@Incarnate-Engine">Paladin</link>
+						<link class="reference_class" recordname="class.propaladin@Incarnate-Engine">Paladin</link>
 					</linklist>
 				</text>
 			</id-00025>
@@ -9634,33 +9634,33 @@
 					<h>Class</h>
 					<p>Paladin: Level 4:</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00006.proficiencies.armor@Incarnate-Engine">Armor</link>
-						<link class="reference_classproficiency" recordname="class.id-00006.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00006.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00006.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.divinesense1@Incarnate-Engine">Divine Sense</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.layonhands1@Incarnate-Engine">Lay on Hands</link>
+						<link class="reference_classproficiency" recordname="class.propaladin.proficiencies.armor@Incarnate-Engine">Armor</link>
+						<link class="reference_classproficiency" recordname="class.propaladin.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.propaladin.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.propaladin.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00015@Incarnate-Engine">Divine Sense</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00021@Incarnate-Engine">Lay on Hands</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00014@Incarnate-Engine">Default Paladin Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00006.features.divinesmite2@Incarnate-Engine">Divine Smite</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.fightingstyle2@Incarnate-Engine">Fighting Style</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.spellcasting2@Incarnate-Engine">Spellcasting</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00016@Incarnate-Engine">Divine Smite</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00018@Incarnate-Engine">Fighting Style</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00025@Incarnate-Engine">Spellcasting</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00006.features.divinehealth3@Incarnate-Engine">Divine Health</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00014@Incarnate-Engine">Divine Health</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00006.features.tenetsofdevotion3@Incarnate-Engine">Tenets of Devotion</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.channeldivinity_devotion_3@Incarnate-Engine">Channel Divinity (Devotion)</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.oathspells_devotion_3@Incarnate-Engine">Oath Spells (Devotion)</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00026@Incarnate-Engine">Tenets of Devotion</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00012@Incarnate-Engine">Channel Divinity (Devotion)</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00022@Incarnate-Engine">Oath Spells (Devotion)</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00006.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00004@Incarnate-Engine">Ability Score Improvement</link>
 					</linklist>
 					<p>Level 1:</p>
 					<linklist>
@@ -9672,7 +9672,7 @@
 					</linklist>
 					<p>; Spell Slots: 3</p>
 					<linklist>
-						<link class="reference_class" recordname="class.id-00006@Incarnate-Engine">Paladin</link>
+						<link class="reference_class" recordname="class.propaladin@Incarnate-Engine">Paladin</link>
 					</linklist>
 				</text>
 			</id-00146>
@@ -9705,29 +9705,29 @@
 					<h>Class</h>
 					<p>Paladin: Level 3:</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00006.proficiencies.armor@Incarnate-Engine">Armor</link>
-						<link class="reference_classproficiency" recordname="class.id-00006.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00006.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00006.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.divinesense1@Incarnate-Engine">Divine Sense</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.layonhands1@Incarnate-Engine">Lay on Hands</link>
+						<link class="reference_classproficiency" recordname="class.propaladin.proficiencies.armor@Incarnate-Engine">Armor</link>
+						<link class="reference_classproficiency" recordname="class.propaladin.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.propaladin.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.propaladin.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00015@Incarnate-Engine">Divine Sense</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00021@Incarnate-Engine">Lay on Hands</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00014@Incarnate-Engine">Default Paladin Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00006.features.divinesmite2@Incarnate-Engine">Divine Smite</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.fightingstyle2@Incarnate-Engine">Fighting Style</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.spellcasting2@Incarnate-Engine">Spellcasting</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00016@Incarnate-Engine">Divine Smite</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00018@Incarnate-Engine">Fighting Style</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00025@Incarnate-Engine">Spellcasting</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00006.features.divinehealth3@Incarnate-Engine">Divine Health</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00014@Incarnate-Engine">Divine Health</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00006.features.tenetsofdevotion3@Incarnate-Engine">Tenets of Devotion</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.channeldivinity_devotion_3@Incarnate-Engine">Channel Divinity (Devotion)</link>
-						<link class="reference_classfeature" recordname="class.id-00006.features.oathspells_devotion_3@Incarnate-Engine">Oath Spells (Devotion)</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00026@Incarnate-Engine">Tenets of Devotion</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00012@Incarnate-Engine">Channel Divinity (Devotion)</link>
+						<link class="reference_classfeature" recordname="class.propaladin.features.id-00022@Incarnate-Engine">Oath Spells (Devotion)</link>
 					</linklist>
 					<p>Level 1:</p>
 					<linklist>
@@ -9739,7 +9739,7 @@
 					</linklist>
 					<p>; Spell Slots: 3</p>
 					<linklist>
-						<link class="reference_class" recordname="class.id-00006@Incarnate-Engine">Paladin</link>
+						<link class="reference_class" recordname="class.propaladin@Incarnate-Engine">Paladin</link>
 					</linklist>
 				</text>
 			</id-00147>
@@ -9776,29 +9776,29 @@
 					<h>Class</h>
 					<p>Monk: Monk level: 4</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00005.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00005.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00005.proficiencies.tools@Incarnate-Engine">Tools</link>
-						<link class="reference_classproficiency" recordname="class.id-00005.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00005.features.martialarts1@Incarnate-Engine">Martial Arts</link>
-						<link class="reference_classfeature" recordname="class.id-00005.features.unarmoreddefense1@Incarnate-Engine">Unarmored Defense</link>
+						<link class="reference_classproficiency" recordname="class.promonk.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.promonk.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.promonk.proficiencies.tools@Incarnate-Engine">Tools</link>
+						<link class="reference_classproficiency" recordname="class.promonk.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.promonk.features.id-00026@Incarnate-Engine">Martial Arts</link>
+						<link class="reference_classfeature" recordname="class.promonk.features.id-00038@Incarnate-Engine">Unarmored Defense</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00013@Incarnate-Engine">Default Monk Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00005.features.ki2@Incarnate-Engine">Ki</link>
-						<link class="reference_classfeature" recordname="class.id-00005.features.unarmoredmovement2@Incarnate-Engine">Unarmored Movement</link>
+						<link class="reference_classfeature" recordname="class.promonk.features.id-00024@Incarnate-Engine">Ki</link>
+						<link class="reference_classfeature" recordname="class.promonk.features.id-00039@Incarnate-Engine">Unarmored Movement</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classability" recordname="class.id-00005.abilities.wayoftheopenhand@Incarnate-Engine">Way of the Open Hand</link>
-						<link class="reference_classfeature" recordname="class.id-00005.features.openhandtechnique3@Incarnate-Engine">Open Hand Technique</link>
+						<link class="reference_classability" recordname="class.promonk.abilities.id-00004@Incarnate-Engine">Way of the Open Hand</link>
+						<link class="reference_classfeature" recordname="class.promonk.features.id-00028@Incarnate-Engine">Open Hand Technique</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00005.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
-						<link class="reference_classfeature" recordname="class.id-00005.features.slowfall4@Incarnate-Engine">Slow Fall</link>
-						<link class="reference_class" recordname="class.id-00005@Incarnate-Engine">Monk</link>
+						<link class="reference_classfeature" recordname="class.promonk.features.id-00017@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.promonk.features.id-00032@Incarnate-Engine">Slow Fall</link>
+						<link class="reference_class" recordname="class.promonk@Incarnate-Engine">Monk</link>
 					</linklist>
 				</text>
 			</id-00148>
@@ -9927,24 +9927,24 @@
 					<h>Class</h>
 					<p>Monk: Monk level: 3</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00005.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00005.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00005.proficiencies.tools@Incarnate-Engine">Tools</link>
-						<link class="reference_classproficiency" recordname="class.id-00005.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00005.features.martialarts1@Incarnate-Engine">Martial Arts</link>
-						<link class="reference_classfeature" recordname="class.id-00005.features.unarmoreddefense1@Incarnate-Engine">Unarmored Defense</link>
+						<link class="reference_classproficiency" recordname="class.promonk.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.promonk.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.promonk.proficiencies.tools@Incarnate-Engine">Tools</link>
+						<link class="reference_classproficiency" recordname="class.promonk.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.promonk.features.id-00026@Incarnate-Engine">Martial Arts</link>
+						<link class="reference_classfeature" recordname="class.promonk.features.id-00038@Incarnate-Engine">Unarmored Defense</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00013@Incarnate-Engine">Default Monk Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00005.features.ki2@Incarnate-Engine">Ki</link>
-						<link class="reference_classfeature" recordname="class.id-00005.features.unarmoredmovement2@Incarnate-Engine">Unarmored Movement</link>
+						<link class="reference_classfeature" recordname="class.promonk.features.id-00024@Incarnate-Engine">Ki</link>
+						<link class="reference_classfeature" recordname="class.promonk.features.id-00039@Incarnate-Engine">Unarmored Movement</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classability" recordname="class.id-00005.abilities.id-00003@Incarnate-Engine">Fire Elemental</link>
-						<link class="reference_classfeature" recordname="class.id-00005.features.id-00010@Incarnate-Engine">Inner Flame</link>
-						<link class="reference_class" recordname="class.id-00005@Incarnate-Engine">Monk</link>
+						<link class="reference_classability" recordname="class.promonk.abilities.id-00003@Incarnate-Engine">Fire Elemental</link>
+						<link class="reference_classfeature" recordname="class.promonk.features.id-00010@Incarnate-Engine">Inner Flame</link>
+						<link class="reference_class" recordname="class.promonk@Incarnate-Engine">Monk</link>
 					</linklist>
 				</text>
 			</id-00150>
