@@ -3424,8 +3424,8 @@
 					<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
 					<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.skills@Incarnate-Engine">Skills</link>
 					<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-					<link class="reference_classfeature" recordname="class.prowarlock.features.pactmagic1@Incarnate-Engine">Pact Magic</link>
-					<link class="reference_classfeature" recordname="class.prowarlock.features.otherworldlypatron1@Incarnate-Engine">Otherworldly Patron</link>
+					<link class="reference_classfeature" recordname="class.prowarlock.features.id-00019@Incarnate-Engine">Pact Magic</link>
+					<link class="reference_classfeature" recordname="class.prowarlock.features.id-00017@Incarnate-Engine">Otherworldly Patron</link>
 					<link class="treasureparcel" recordname="treasureparcels.id-00018@Incarnate-Engine">Default Warlock Items</link>
 				</linklist>
 				<p></p>
@@ -3587,8 +3587,8 @@
 					<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
 					<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.skills@Incarnate-Engine">Skills</link>
 					<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-					<link class="reference_classfeature" recordname="class.prowarlock.features.pactmagic1@Incarnate-Engine">Pact Magic</link>
-					<link class="reference_classfeature" recordname="class.prowarlock.features.otherworldlypatron1@Incarnate-Engine">Otherworldly Patron</link>
+					<link class="reference_classfeature" recordname="class.prowarlock.features.id-00019@Incarnate-Engine">Pact Magic</link>
+					<link class="reference_classfeature" recordname="class.prowarlock.features.id-00017@Incarnate-Engine">Otherworldly Patron</link>
 					<link class="treasureparcel" recordname="treasureparcels.id-00018@Incarnate-Engine">Default Warlock Items</link>
 				</linklist>
 				<p></p>
@@ -3603,7 +3603,7 @@
 				</linklist>
 				<p></p>
 				<linklist>
-					<link class="reference_classfeature" recordname="class.prowarlock.features.pactboon3@Incarnate-Engine">Pact Boon</link>
+					<link class="reference_classfeature" recordname="class.prowarlock.features.id-00018@Incarnate-Engine">Pact Boon</link>
 				</linklist>
 				<p></p>
 				<linklist>
@@ -4782,8 +4782,8 @@
 						<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
 						<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.skills@Incarnate-Engine">Skills</link>
 						<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.prowarlock.features.pactmagic1@Incarnate-Engine">Pact Magic</link>
-						<link class="reference_classfeature" recordname="class.prowarlock.features.otherworldlypatron1@Incarnate-Engine">Otherworldly Patron</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.id-00019@Incarnate-Engine">Pact Magic</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.id-00017@Incarnate-Engine">Otherworldly Patron</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00018@Incarnate-Engine">Default Warlock Items</link>
 					</linklist>
 					<p></p>
@@ -4798,7 +4798,7 @@
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.prowarlock.features.pactboon3@Incarnate-Engine">Pact Boon</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.id-00018@Incarnate-Engine">Pact Boon</link>
 					</linklist>
 					<p></p>
 					<linklist>
@@ -7330,8 +7330,8 @@
 						<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
 						<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.skills@Incarnate-Engine">Skills</link>
 						<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.prowarlock.features.pactmagic1@Incarnate-Engine">Pact Magic</link>
-						<link class="reference_classfeature" recordname="class.prowarlock.features.otherworldlypatron1@Incarnate-Engine">Otherworldly Patron</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.id-00019@Incarnate-Engine">Pact Magic</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.id-00017@Incarnate-Engine">Otherworldly Patron</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00018@Incarnate-Engine">Default Warlock Items</link>
 					</linklist>
 					<p></p>
@@ -7346,7 +7346,7 @@
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.prowarlock.features.pactboon3@Incarnate-Engine">Pact Boon</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.id-00018@Incarnate-Engine">Pact Boon</link>
 					</linklist>
 					<p></p>
 					<linklist>
@@ -7665,18 +7665,18 @@
 					<h>Class</h>
 					<p>Wizard: Level 3:</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00011.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00011.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00011.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00011.features.arcanerecovery1@Incarnate-Engine">Arcane Recovery</link>
-						<link class="reference_classfeature" recordname="class.id-00011.features.spellcasting1@Incarnate-Engine">Spellcasting</link>
+						<link class="reference_classproficiency" recordname="class.prowizard.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.prowizard.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.prowizard.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.prowizard.features.id-00006@Incarnate-Engine">Arcane Recovery</link>
+						<link class="reference_classfeature" recordname="class.prowizard.features.id-00014@Incarnate-Engine">Spellcasting</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00019@Incarnate-Engine">Default Wizard Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classability" recordname="class.id-00011.abilities.schoolofevocation@Incarnate-Engine">School of Evocation</link>
-						<link class="reference_classfeature" recordname="class.id-00011.features.evocationsavant2@Incarnate-Engine">Evocation Savant</link>
-						<link class="reference_classfeature" recordname="class.id-00011.features.sculptspells2@Incarnate-Engine">Sculpt Spells</link>
+						<link class="reference_classability" recordname="class.prowizard.abilities.id-00001@Incarnate-Engine">School of Evocation</link>
+						<link class="reference_classfeature" recordname="class.prowizard.features.id-00009@Incarnate-Engine">Evocation Savant</link>
+						<link class="reference_classfeature" recordname="class.prowizard.features.id-00012@Incarnate-Engine">Sculpt Spells</link>
 					</linklist>
 					<p>Cantrips:</p>
 					<linklist>
@@ -7712,7 +7712,7 @@
 					</linklist>
 					<p>; Spell slots: 4/2</p>
 					<linklist>
-						<link class="reference_class" recordname="class.id-00011@Incarnate-Engine">Wizard</link>
+						<link class="reference_class" recordname="class.prowizard@Incarnate-Engine">Wizard</link>
 					</linklist>
 				</text>
 			</id-00094>
@@ -7999,22 +7999,22 @@
 					<h>Class</h>
 					<p>Wizard: Level 4:</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00011.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00011.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00011.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00011.features.arcanerecovery1@Incarnate-Engine">Arcane Recovery</link>
-						<link class="reference_classfeature" recordname="class.id-00011.features.spellcasting1@Incarnate-Engine">Spellcasting</link>
+						<link class="reference_classproficiency" recordname="class.prowizard.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.prowizard.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.prowizard.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.prowizard.features.id-00006@Incarnate-Engine">Arcane Recovery</link>
+						<link class="reference_classfeature" recordname="class.prowizard.features.id-00014@Incarnate-Engine">Spellcasting</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00019@Incarnate-Engine">Default Wizard Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classability" recordname="class.id-00011.abilities.schoolofevocation@Incarnate-Engine">School of Evocation</link>
-						<link class="reference_classfeature" recordname="class.id-00011.features.evocationsavant2@Incarnate-Engine">Evocation Savant</link>
-						<link class="reference_classfeature" recordname="class.id-00011.features.sculptspells2@Incarnate-Engine">Sculpt Spells</link>
+						<link class="reference_classability" recordname="class.prowizard.abilities.id-00001@Incarnate-Engine">School of Evocation</link>
+						<link class="reference_classfeature" recordname="class.prowizard.features.id-00009@Incarnate-Engine">Evocation Savant</link>
+						<link class="reference_classfeature" recordname="class.prowizard.features.id-00012@Incarnate-Engine">Sculpt Spells</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00011.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.prowizard.features.id-00004@Incarnate-Engine">Ability Score Improvement</link>
 					</linklist>
 					<p>Cantrips:</p>
 					<linklist>
@@ -8058,7 +8058,7 @@
 					</linklist>
 					<p>; Spell slots: 4/3</p>
 					<linklist>
-						<link class="reference_class" recordname="class.id-00011@Incarnate-Engine">Wizard</link>
+						<link class="reference_class" recordname="class.prowizard@Incarnate-Engine">Wizard</link>
 					</linklist>
 				</text>
 			</id-00190>
@@ -8651,22 +8651,22 @@
 					<h>Class</h>
 					<p>Wizard: Level 5:</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00011.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00011.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00011.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00011.features.arcanerecovery1@Incarnate-Engine">Arcane Recovery</link>
-						<link class="reference_classfeature" recordname="class.id-00011.features.spellcasting1@Incarnate-Engine">Spellcasting</link>
+						<link class="reference_classproficiency" recordname="class.prowizard.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.prowizard.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.prowizard.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.prowizard.features.id-00006@Incarnate-Engine">Arcane Recovery</link>
+						<link class="reference_classfeature" recordname="class.prowizard.features.id-00014@Incarnate-Engine">Spellcasting</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00019@Incarnate-Engine">Default Wizard Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classability" recordname="class.id-00011.abilities.schoolofevocation@Incarnate-Engine">School of Evocation</link>
-						<link class="reference_classfeature" recordname="class.id-00011.features.evocationsavant2@Incarnate-Engine">Evocation Savant</link>
-						<link class="reference_classfeature" recordname="class.id-00011.features.sculptspells2@Incarnate-Engine">Sculpt Spells</link>
+						<link class="reference_classability" recordname="class.prowizard.abilities.id-00001@Incarnate-Engine">School of Evocation</link>
+						<link class="reference_classfeature" recordname="class.prowizard.features.id-00009@Incarnate-Engine">Evocation Savant</link>
+						<link class="reference_classfeature" recordname="class.prowizard.features.id-00012@Incarnate-Engine">Sculpt Spells</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00011.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.prowizard.features.id-00004@Incarnate-Engine">Ability Score Improvement</link>
 					</linklist>
 					<p>Cantrips:</p>
 					<linklist>
@@ -8714,7 +8714,7 @@
 					</linklist>
 					<p>; Spell slots: 4/3/2</p>
 					<linklist>
-						<link class="reference_class" recordname="class.id-00011@Incarnate-Engine">Wizard</link>
+						<link class="reference_class" recordname="class.prowizard@Incarnate-Engine">Wizard</link>
 					</linklist>
 				</text>
 			</id-00021>
@@ -10645,26 +10645,26 @@
 					<h>Class</h>
 					<p>Wizard: Level 6:</p>
 					<linklist>
-						<link class="reference_classproficiency" recordname="class.id-00011.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
-						<link class="reference_classproficiency" recordname="class.id-00011.proficiencies.skills@Incarnate-Engine">Skills</link>
-						<link class="reference_classproficiency" recordname="class.id-00011.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.id-00011.features.arcanerecovery1@Incarnate-Engine">Arcane Recovery</link>
-						<link class="reference_classfeature" recordname="class.id-00011.features.spellcasting1@Incarnate-Engine">Spellcasting</link>
+						<link class="reference_classproficiency" recordname="class.prowizard.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
+						<link class="reference_classproficiency" recordname="class.prowizard.proficiencies.skills@Incarnate-Engine">Skills</link>
+						<link class="reference_classproficiency" recordname="class.prowizard.proficiencies.weapons@Incarnate-Engine">Weapons</link>
+						<link class="reference_classfeature" recordname="class.prowizard.features.id-00006@Incarnate-Engine">Arcane Recovery</link>
+						<link class="reference_classfeature" recordname="class.prowizard.features.id-00014@Incarnate-Engine">Spellcasting</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00019@Incarnate-Engine">Default Wizard Items</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classability" recordname="class.id-00011.abilities.schoolofevocation@Incarnate-Engine">School of Evocation</link>
-						<link class="reference_classfeature" recordname="class.id-00011.features.evocationsavant2@Incarnate-Engine">Evocation Savant</link>
-						<link class="reference_classfeature" recordname="class.id-00011.features.sculptspells2@Incarnate-Engine">Sculpt Spells</link>
+						<link class="reference_classability" recordname="class.prowizard.abilities.id-00001@Incarnate-Engine">School of Evocation</link>
+						<link class="reference_classfeature" recordname="class.prowizard.features.id-00009@Incarnate-Engine">Evocation Savant</link>
+						<link class="reference_classfeature" recordname="class.prowizard.features.id-00012@Incarnate-Engine">Sculpt Spells</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00011.features.abilityscoreimprovement4@Incarnate-Engine">Ability Score Improvement</link>
+						<link class="reference_classfeature" recordname="class.prowizard.features.id-00004@Incarnate-Engine">Ability Score Improvement</link>
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.id-00011.features.potentcantrip6@Incarnate-Engine">Potent Cantrip</link>
+						<link class="reference_classfeature" recordname="class.prowizard.features.id-00011@Incarnate-Engine">Potent Cantrip</link>
 					</linklist>
 					<p>Cantrips:</p>
 					<linklist>
@@ -10716,7 +10716,7 @@
 					</linklist>
 					<p>; Spell slots: 4/3/3</p>
 					<linklist>
-						<link class="reference_class" recordname="class.id-00011@Incarnate-Engine">Wizard</link>
+						<link class="reference_class" recordname="class.prowizard@Incarnate-Engine">Wizard</link>
 					</linklist>
 				</text>
 			</id-00158>
@@ -10811,8 +10811,8 @@
 						<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.savingthrows@Incarnate-Engine">Saving Throws</link>
 						<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.skills@Incarnate-Engine">Skills</link>
 						<link class="reference_classproficiency" recordname="class.prowarlock.proficiencies.weapons@Incarnate-Engine">Weapons</link>
-						<link class="reference_classfeature" recordname="class.prowarlock.features.pactmagic1@Incarnate-Engine">Pact Magic</link>
-						<link class="reference_classfeature" recordname="class.prowarlock.features.otherworldlypatron1@Incarnate-Engine">Otherworldly Patron</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.id-00019@Incarnate-Engine">Pact Magic</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.id-00017@Incarnate-Engine">Otherworldly Patron</link>
 						<link class="treasureparcel" recordname="treasureparcels.id-00018@Incarnate-Engine">Default Warlock Items</link>
 					</linklist>
 					<p></p>
@@ -10827,7 +10827,7 @@
 					</linklist>
 					<p></p>
 					<linklist>
-						<link class="reference_classfeature" recordname="class.prowarlock.features.pactboon3@Incarnate-Engine">Pact Boon</link>
+						<link class="reference_classfeature" recordname="class.prowarlock.features.id-00018@Incarnate-Engine">Pact Boon</link>
 					</linklist>
 					<p>Cantrip:</p>
 					<linklist>
