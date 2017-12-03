@@ -526,6 +526,23 @@
 					</traits>
 				</category>
 			</id-00056>
+			<id-00075>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<constitution>
+								<bonus type="number">-1</bonus>
+							</constitution>
+							<intelligence>
+								<bonus type="number">-5</bonus>
+							</intelligence>
+							<wisdom>
+								<bonus type="number">-2</bonus>
+							</wisdom>
+						</category>
+					</abilities>
+				</category>
+			</id-00075>
 			<id-00092>
 				<holder name="Malamute" />
 				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
@@ -627,6 +644,23 @@
 			</id-00289>
 		</category>
 		<category name="SRD - Swarm of Tiny Beasts" baseicon="0" decalicon="0">
+			<id-00295>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<constitution>
+								<bonus type="number">-1</bonus>
+							</constitution>
+							<intelligence>
+								<bonus type="number">-5</bonus>
+							</intelligence>
+							<wisdom>
+								<bonus type="number">-2</bonus>
+							</wisdom>
+						</category>
+					</abilities>
+				</category>
+			</id-00295>
 		</category>
 		<category name="SRD - Undead" baseicon="0" decalicon="0">
 			<id-00302>

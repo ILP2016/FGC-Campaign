@@ -520,8 +520,8 @@
 						</shortcut>
 						<shortcut>
 							<public />
-							<x>1874</x>
-							<y>1762</y>
+							<x>1822</x>
+							<y>1715</y>
 							<class>imagewindow</class>
 							<recordname>image.id-00134@Incarnate-Penolia</recordname>
 						</shortcut>
@@ -549,18 +549,6 @@
 						<idcounter>35</idcounter>
 						<scalelock>6.25</scalelock>
 					</tokens>
-					<pointers>
-						<pointer>
-							<id>0</id>
-							<type>1</type>
-							<startx>191</startx>
-							<starty>691</starty>
-							<endx>271</endx>
-							<endy>441</endy>
-							<owner></owner>
-							<color>ff</color>
-						</pointer>
-					</pointers>
 				</image>
 			</id-00084>
 			<id-00085>
@@ -1358,8 +1346,8 @@
 						<token>
 							<prototype>tokens/Medium/a.png@Letter Tokens</prototype>
 							<id>6</id>
-							<x>958</x>
-							<y>1163</y>
+							<x>1093</x>
+							<y>1257</y>
 							<scale>0.2</scale>
 						</token>
 					</tokens>
@@ -1737,7 +1725,7 @@
 						</shortcut>
 					</shortcuts>
 					<tokens>
-						<idcounter>33</idcounter>
+						<idcounter>34</idcounter>
 						<scalelock>6.25</scalelock>
 					</tokens>
 				</image>
@@ -2304,26 +2292,25 @@
 							<class>encounter</class>
 							<recordname>encounter.id-00179</recordname>
 						</shortcut>
+						<shortcut>
+							<x>219</x>
+							<y>351</y>
+							<class>npc</class>
+							<recordname>npc.id-00008</recordname>
+						</shortcut>
 					</shortcuts>
 					<tokens>
-						<idcounter>18</idcounter>
+						<idcounter>31</idcounter>
 						<scalelock>6.25</scalelock>
-						<token>
-							<prototype>tokens/veteran.png@DD5E SRD Bestiary</prototype>
-							<id>18</id>
-							<x>331</x>
-							<y>941</y>
-							<scale>0.78125</scale>
-						</token>
 					</tokens>
 					<pointers>
 						<pointer>
 							<id>0</id>
 							<type>1</type>
-							<startx>251</startx>
-							<starty>901</starty>
-							<endx>331</endx>
-							<endy>941</endy>
+							<startx>451</startx>
+							<starty>431</starty>
+							<endx>281</endx>
+							<endy>451</endy>
 							<owner></owner>
 							<color>ff</color>
 						</pointer>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3" release="8|CoreRPG:3" integrity="ee5921a8f283434a9e1d019e3bfbc274b96c125b">
+	<encounter>
+		<category name="Artist Bios" baseicon="0" decalicon="0">
+			<id-00006>
+				<public />
+			</id-00006>
+			<id-00007>
+				<public />
+			</id-00007>
+		</category>
+	</encounter>
+	<image>
+		<category name="Flo" baseicon="0" decalicon="0">
+		</category>
+		<category name="Foldi-One" baseicon="0" decalicon="0">
+		</category>
+		<category name="GameTileWarehouse" baseicon="0" decalicon="0">
+		</category>
+		<category name="Madman" baseicon="0" decalicon="0">
+			<id-00127>
+				<public />
+				<image type="image">
+					<bitmap>Crossing With Bridge.jpg</bitmap>
+					<gridsize>100</gridsize>
+					<gridoffset>0,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<tokens>
+						<idcounter>6</idcounter>
+						<scalelock>1.25</scalelock>
+					</tokens>
+				</image>
+			</id-00127>
+		</category>
+		<category name="MapHammer" baseicon="0" decalicon="0">
+			<id-00280>
+				<public />
+				<image type="image">
+					<bitmap>300x300_Road_ambush_gridless.jpg</bitmap>
+					<drawing>drawings/drawing_1512333852.png</drawing>
+					<gridsize>100</gridsize>
+					<gridoffset>0,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<tokens>
+						<idcounter>8</idcounter>
+						<scalelock>1.25</scalelock>
+					</tokens>
+				</image>
+			</id-00280>
+		</category>
+		<category name="ProNobis" baseicon="0" decalicon="0">
+		</category>
+		<category name="Venatus" baseicon="0" decalicon="0">
+		</category>
+		<category name="Vishera" baseicon="0" decalicon="0">
+		</category>
+		<category name="Zovya" baseicon="0" decalicon="0">
+		</category>
+	</image>
+	<tables>
+		<category name="FGC-Maps" baseicon="0" decalicon="0">
+			<id-00001>
+				<hiderollresults type="number">1</hiderollresults>
+				<category name="FGC-Maps" baseicon="0" decalicon="0">
+				</category>
+			</id-00001>
+		</category>
+	</tables>
+</root>

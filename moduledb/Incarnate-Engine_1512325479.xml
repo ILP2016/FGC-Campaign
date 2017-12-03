@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<root version="3.3" release="8|CoreRPG:3" integrity="1a22f714f6bfe6270aaecff6dda659b8ab5691ba">
+<root version="3.3" release="8|CoreRPG:3" integrity="83b5b23ee306743da0055c1d96540cc4af8b2c69">
 	<class>
+		<id-00004 type="deleted" />
+		<id-00006 type="deleted" />
+		<id-00009 type="deleted" />
 		<category name="SRD - DandDwiki - Classes" baseicon="0" decalicon="0">
 		</category>
 	</class>
