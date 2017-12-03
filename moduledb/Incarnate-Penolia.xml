@@ -2375,32 +2375,6 @@
 					<tokens>
 						<idcounter>34</idcounter>
 						<scalelock>6.25</scalelock>
-						<token>
-							<prototype>portrait_id-00049_token</prototype>
-							<id>20</id>
-							<x>871</x>
-							<y>1551</y>
-							<orientation>1</orientation>
-							<name>Pherrid Oakleaf</name>
-							<visibilitylocked>on</visibilitylocked>
-						</token>
-						<token>
-							<prototype>portrait_id-00036_token</prototype>
-							<id>19</id>
-							<x>871</x>
-							<y>1571</y>
-							<name>Ronn</name>
-							<visibilitylocked>on</visibilitylocked>
-						</token>
-						<token>
-							<prototype>portrait_id-00034_token</prototype>
-							<id>17</id>
-							<x>501</x>
-							<y>981</y>
-							<orientation>4</orientation>
-							<name>Aethelmaer</name>
-							<visibilitylocked>on</visibilitylocked>
-						</token>
 					</tokens>
 				</image>
 			</id-00137>
