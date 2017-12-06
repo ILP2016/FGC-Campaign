@@ -160,6 +160,18 @@
 			</id-00126>
 		</category>
 		<category name="Ishilb City" baseicon="0" decalicon="0">
+			<ishilbcity00060>
+			</ishilbcity00060>
+			<ishilbcity00062>
+			</ishilbcity00062>
+			<ishilbcity00070>
+			</ishilbcity00070>
+			<ishilbcity00071>
+			</ishilbcity00071>
+			<ishilbcity00072>
+			</ishilbcity00072>
+			<ishilbcity00073>
+			</ishilbcity00073>
 			<ishilbcity00122>
 				<public />
 				<image type="image">
@@ -376,6 +388,9 @@
 			</ishilbcity00122>
 		</category>
 		<category name="Main World" baseicon="0" decalicon="0">
+			<id-00025>
+				<public />
+			</id-00025>
 			<id-00073>
 				<public />
 				<image type="image">
@@ -1354,6 +1369,7 @@
 				</image>
 			</id-00122>
 			<id-00123>
+				<public />
 				<image type="image">
 					<bitmap>05_05ForestVillage_1_1.png</bitmap>
 					<mask>maskedimages/1511982876.png</mask>
@@ -1934,6 +1950,24 @@
 					</pointers>
 				</image>
 			</id-00129>
+			<id-00130>
+				<public />
+				<image type="image">
+					<bitmap>07_04TropicalVillage_1_1.png</bitmap>
+					<mask>maskedimages/1512578998.png</mask>
+					<gridsize>20</gridsize>
+					<gridoffset>0,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<x>124</x>
+							<y>1883</y>
+							<class>imagewindow</class>
+							<recordname>image.id-00094@Incarnate-Penolia</recordname>
+						</shortcut>
+					</shortcuts>
+				</image>
+			</id-00130>
 			<id-00136>
 				<public />
 				<image type="image">
