@@ -2,6 +2,305 @@
 <root version="3.3" release="8|CoreRPG:3" integrity="1a22f714f6bfe6270aaecff6dda659b8ab5691ba">
 	<class>
 		<category name="SRD - DandDwiki - Classes" baseicon="0" decalicon="0">
+			<proranger>
+				<holder name="Grey" />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<abilities>
+						<holder name="Grey" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Grey" />
+							</id-00001>
+							<id-00002>
+								<holder name="Grey" />
+							</id-00002>
+							<id-00003>
+								<holder name="Grey" />
+							</id-00003>
+							<id-00004>
+								<holder name="Grey" />
+							</id-00004>
+							<id-00005>
+								<holder name="Grey" />
+							</id-00005>
+							<id-00006>
+								<holder name="Grey" />
+							</id-00006>
+							<id-00007>
+								<holder name="Grey" />
+							</id-00007>
+							<id-00008>
+								<holder name="Grey" />
+							</id-00008>
+						</category>
+					</abilities>
+					<equipment>
+						<holder name="Grey" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<standard>
+								<holder name="Grey" />
+							</standard>
+						</category>
+					</equipment>
+					<features>
+						<holder name="Grey" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Grey" />
+							</id-00001>
+							<id-00002>
+								<holder name="Grey" />
+							</id-00002>
+							<id-00003>
+								<holder name="Grey" />
+							</id-00003>
+							<id-00004>
+								<holder name="Grey" />
+							</id-00004>
+							<id-00005>
+								<holder name="Grey" />
+							</id-00005>
+							<id-00006>
+								<holder name="Grey" />
+							</id-00006>
+							<id-00007>
+								<holder name="Grey" />
+							</id-00007>
+							<id-00008>
+								<holder name="Grey" />
+							</id-00008>
+							<id-00009>
+								<holder name="Grey" />
+							</id-00009>
+							<id-00010>
+								<holder name="Grey" />
+							</id-00010>
+							<id-00011>
+								<holder name="Grey" />
+							</id-00011>
+							<id-00012>
+								<holder name="Grey" />
+							</id-00012>
+							<id-00013>
+								<holder name="Grey" />
+							</id-00013>
+							<id-00014>
+								<holder name="Grey" />
+							</id-00014>
+							<id-00015>
+								<holder name="Grey" />
+							</id-00015>
+							<id-00016>
+								<holder name="Grey" />
+							</id-00016>
+							<id-00017>
+								<holder name="Grey" />
+							</id-00017>
+							<id-00018>
+								<holder name="Grey" />
+							</id-00018>
+							<id-00019>
+								<holder name="Grey" />
+							</id-00019>
+							<id-00020>
+								<holder name="Grey" />
+							</id-00020>
+							<id-00021>
+								<holder name="Grey" />
+							</id-00021>
+							<id-00022>
+								<holder name="Grey" />
+							</id-00022>
+							<id-00023>
+								<holder name="Grey" />
+							</id-00023>
+							<id-00024>
+								<holder name="Grey" />
+							</id-00024>
+							<id-00025>
+								<holder name="Grey" />
+							</id-00025>
+							<id-00026>
+								<holder name="Grey" />
+							</id-00026>
+							<id-00027>
+								<holder name="Grey" />
+							</id-00027>
+							<id-00028>
+								<holder name="Grey" />
+							</id-00028>
+							<id-00029>
+								<holder name="Grey" />
+							</id-00029>
+							<id-00030>
+								<holder name="Grey" />
+							</id-00030>
+							<id-00031>
+								<holder name="Grey" />
+							</id-00031>
+							<id-00032>
+								<holder name="Grey" />
+							</id-00032>
+							<id-00033>
+								<holder name="Grey" />
+							</id-00033>
+							<id-00034>
+								<holder name="Grey" />
+							</id-00034>
+							<id-00035>
+								<holder name="Grey" />
+							</id-00035>
+							<id-00036>
+								<holder name="Grey" />
+							</id-00036>
+							<id-00037>
+								<holder name="Grey" />
+							</id-00037>
+							<id-00038>
+								<holder name="Grey" />
+							</id-00038>
+							<id-00039>
+								<holder name="Grey" />
+							</id-00039>
+							<id-00040>
+								<holder name="Grey" />
+							</id-00040>
+							<id-00041>
+								<holder name="Grey" />
+							</id-00041>
+							<id-00042>
+								<holder name="Grey" />
+							</id-00042>
+							<id-00043>
+								<holder name="Grey" />
+							</id-00043>
+							<id-00044>
+								<holder name="Grey" />
+							</id-00044>
+							<id-00045>
+								<holder name="Grey" />
+							</id-00045>
+							<id-00046>
+								<holder name="Grey" />
+							</id-00046>
+							<id-00047>
+								<holder name="Grey" />
+							</id-00047>
+							<id-00048>
+								<holder name="Grey" />
+							</id-00048>
+							<id-00049>
+								<holder name="Grey" />
+							</id-00049>
+							<id-00050>
+								<holder name="Grey" />
+							</id-00050>
+							<id-00051>
+								<holder name="Grey" />
+							</id-00051>
+							<id-00052>
+								<holder name="Grey" />
+							</id-00052>
+							<id-00053>
+								<holder name="Grey" />
+							</id-00053>
+							<id-00054>
+								<holder name="Grey" />
+							</id-00054>
+							<id-00055>
+								<holder name="Grey" />
+							</id-00055>
+							<id-00056>
+								<holder name="Grey" />
+							</id-00056>
+							<id-00057>
+								<holder name="Grey" />
+							</id-00057>
+							<id-00058>
+								<holder name="Grey" />
+							</id-00058>
+							<id-00059>
+								<holder name="Grey" />
+							</id-00059>
+							<id-00060>
+								<holder name="Grey" />
+							</id-00060>
+							<id-00061>
+								<holder name="Grey" />
+							</id-00061>
+							<id-00062>
+								<holder name="Grey" />
+							</id-00062>
+							<id-00063>
+								<holder name="Grey" />
+							</id-00063>
+							<id-00064>
+								<holder name="Grey" />
+							</id-00064>
+							<id-00065>
+								<holder name="Grey" />
+							</id-00065>
+							<id-00066>
+								<holder name="Grey" />
+							</id-00066>
+						</category>
+					</features>
+					<hp>
+						<holder name="Grey" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<hitdice>
+								<holder name="Grey" />
+							</hitdice>
+							<hitpointsat1stlevel>
+								<holder name="Grey" />
+							</hitpointsat1stlevel>
+							<hitpointsathigherlevels>
+								<holder name="Grey" />
+							</hitpointsathigherlevels>
+						</category>
+					</hp>
+					<multiclassfeatures>
+						<holder name="Grey" />
+					</multiclassfeatures>
+					<multiclassproficiencies>
+						<holder name="Grey" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<armor>
+								<holder name="Grey" />
+							</armor>
+							<skills>
+								<holder name="Grey" />
+							</skills>
+							<tools>
+								<holder name="Grey" />
+							</tools>
+							<weapons>
+								<holder name="Grey" />
+							</weapons>
+						</category>
+					</multiclassproficiencies>
+					<proficiencies>
+						<holder name="Grey" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<armor>
+								<holder name="Grey" />
+							</armor>
+							<savingthrows>
+								<holder name="Grey" />
+							</savingthrows>
+							<skills>
+								<holder name="Grey" />
+							</skills>
+							<tools>
+								<holder name="Grey" />
+							</tools>
+							<weapons>
+								<holder name="Grey" />
+							</weapons>
+						</category>
+					</proficiencies>
+				</category>
+			</proranger>
 		</category>
 	</class>
 	<encounter>
@@ -375,6 +674,181 @@
 					</letter>
 				</category>
 			</backgrounds>
+			<spells>
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<ranger>
+						<public />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<groups>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<level1>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<alarm>
+														<public />
+													</alarm>
+													<animalfriendship>
+														<public />
+													</animalfriendship>
+													<curewounds>
+														<public />
+													</curewounds>
+													<detectmagic>
+														<public />
+													</detectmagic>
+													<detectpoisonanddisease>
+														<public />
+													</detectpoisonanddisease>
+													<fogcloud>
+														<public />
+													</fogcloud>
+													<goodberry>
+														<public />
+													</goodberry>
+													<jump>
+														<public />
+													</jump>
+													<longstrider>
+														<public />
+													</longstrider>
+													<speakwithanimals>
+														<public />
+													</speakwithanimals>
+												</category>
+											</index>
+										</category>
+									</level1>
+									<level2>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<animalmessenger>
+														<public />
+													</animalmessenger>
+													<barkskin>
+														<public />
+													</barkskin>
+													<darkvision>
+														<public />
+													</darkvision>
+													<findtraps>
+														<public />
+													</findtraps>
+													<lesserrestoration>
+														<public />
+													</lesserrestoration>
+													<locateanimalsorplants>
+														<public />
+													</locateanimalsorplants>
+													<locateobject>
+														<public />
+													</locateobject>
+													<nondetection>
+														<public />
+													</nondetection>
+													<passwithouttrace>
+														<public />
+													</passwithouttrace>
+													<protectionfrompoison>
+														<public />
+													</protectionfrompoison>
+													<silence>
+														<public />
+													</silence>
+													<spikegrowth>
+														<public />
+													</spikegrowth>
+												</category>
+											</index>
+										</category>
+									</level2>
+									<level3>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<conjureanimals>
+														<public />
+													</conjureanimals>
+													<daylight>
+														<public />
+													</daylight>
+													<nondetection>
+														<public />
+													</nondetection>
+													<plantgrowth>
+														<public />
+													</plantgrowth>
+													<protectionfromenergy>
+														<public />
+													</protectionfromenergy>
+													<speakwithplants>
+														<public />
+													</speakwithplants>
+													<waterbreathing>
+														<public />
+													</waterbreathing>
+													<waterwalk>
+														<public />
+													</waterwalk>
+													<windwall>
+														<public />
+													</windwall>
+												</category>
+											</index>
+										</category>
+									</level3>
+									<level4>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<conjurewoodlandbeings>
+														<public />
+													</conjurewoodlandbeings>
+													<freedomofmovement>
+														<public />
+													</freedomofmovement>
+													<locatecreature>
+														<public />
+													</locatecreature>
+													<stoneskin>
+														<public />
+													</stoneskin>
+												</category>
+											</index>
+										</category>
+									</level4>
+									<level5>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<communewithnature>
+														<public />
+													</communewithnature>
+													<treestride>
+														<public />
+													</treestride>
+												</category>
+											</index>
+										</category>
+									</level5>
+								</category>
+							</groups>
+						</category>
+					</ranger>
+				</category>
+			</spells>
 		</category>
 	</lists>
 	<npc>

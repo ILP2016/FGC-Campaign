@@ -388,9 +388,30 @@
 			</ishilbcity00122>
 		</category>
 		<category name="Main World" baseicon="0" decalicon="0">
+			<id-00006>
+			</id-00006>
+			<id-00018>
+			</id-00018>
 			<id-00025>
-				<public />
 			</id-00025>
+			<id-00042>
+			</id-00042>
+			<id-00043>
+			</id-00043>
+			<id-00050>
+			</id-00050>
+			<id-00051>
+			</id-00051>
+			<id-00057>
+			</id-00057>
+			<id-00061>
+			</id-00061>
+			<id-00066>
+			</id-00066>
+			<id-00068>
+			</id-00068>
+			<id-00070>
+			</id-00070>
 			<id-00073>
 				<public />
 				<image type="image">
@@ -461,6 +482,13 @@
 					</shortcuts>
 				</image>
 			</id-00074>
+			<id-00077>
+			</id-00077>
+			<id-00082>
+			</id-00082>
+			<id-00083>
+				<public />
+			</id-00083>
 			<id-00084>
 				<public />
 				<image type="image">
@@ -561,9 +589,31 @@
 						</shortcut>
 					</shortcuts>
 					<tokens>
-						<idcounter>35</idcounter>
+						<idcounter>64</idcounter>
 						<scalelock>6.25</scalelock>
 					</tokens>
+					<pointers>
+						<pointer>
+							<id>0</id>
+							<type>1</type>
+							<startx>641</startx>
+							<starty>691</starty>
+							<endx>531</endx>
+							<endy>691</endy>
+							<owner>KrovaxGarakson</owner>
+							<color>ff000000</color>
+						</pointer>
+						<pointer>
+							<id>0</id>
+							<type>1</type>
+							<startx>841</startx>
+							<starty>691</starty>
+							<endx>931</endx>
+							<endy>551</endy>
+							<owner></owner>
+							<color>ff</color>
+						</pointer>
+					</pointers>
 				</image>
 			</id-00084>
 			<id-00085>
@@ -595,11 +645,30 @@
 					</pointers>
 				</image>
 			</id-00085>
+			<id-00086>
+			</id-00086>
+			<id-00087>
+			</id-00087>
+			<id-00095>
+				<public />
+			</id-00095>
+			<id-00097>
+			</id-00097>
+			<id-00098>
+			</id-00098>
+			<id-00105>
+			</id-00105>
+			<id-00106>
+			</id-00106>
+			<id-00107>
+			</id-00107>
+			<id-00108>
+			</id-00108>
 			<id-00122>
 				<public />
 				<image type="image">
 					<bitmap>World_1_1.png</bitmap>
-					<mask>maskedimages/1509903111.png</mask>
+					<mask>maskedimages/1512598311.png</mask>
 					<shortcuts>
 						<shortcut>
 							<x>93</x>
@@ -951,6 +1020,7 @@
 							<recordname>image.id-00082@Incarnate-Penolia</recordname>
 						</shortcut>
 						<shortcut>
+							<public />
 							<x>1024</x>
 							<y>1396</y>
 							<class>imagewindow</class>
@@ -1024,6 +1094,7 @@
 							<recordname>image.id-00094@Incarnate-Penolia</recordname>
 						</shortcut>
 						<shortcut>
+							<public />
 							<x>1210</x>
 							<y>1210</y>
 							<class>imagewindow</class>
@@ -1361,15 +1432,27 @@
 						<token>
 							<prototype>tokens/Medium/a.png@Letter Tokens</prototype>
 							<id>6</id>
-							<x>1093</x>
-							<y>1257</y>
+							<x>1010</x>
+							<y>1196</y>
 							<scale>0.2</scale>
+							<orientation>7</orientation>
 						</token>
 					</tokens>
+					<pointers>
+						<pointer>
+							<id>0</id>
+							<type>1</type>
+							<startx>994</startx>
+							<starty>1178</starty>
+							<endx>966</endx>
+							<endy>1137</endy>
+							<owner></owner>
+							<color>ff</color>
+						</pointer>
+					</pointers>
 				</image>
 			</id-00122>
 			<id-00123>
-				<public />
 				<image type="image">
 					<bitmap>05_05ForestVillage_1_1.png</bitmap>
 					<mask>maskedimages/1511982876.png</mask>
@@ -1951,7 +2034,6 @@
 				</image>
 			</id-00129>
 			<id-00130>
-				<public />
 				<image type="image">
 					<bitmap>07_04TropicalVillage_1_1.png</bitmap>
 					<mask>maskedimages/1512578998.png</mask>

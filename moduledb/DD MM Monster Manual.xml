@@ -6,12 +6,9 @@
 				<category name="DD MM Monster Manual" baseicon="2" decalicon="1">
 				</category>
 				<category name="Monsters - DD MM Monster Manual" baseicon="2" decalicon="1">
-					<img_kobold_jpg>
+					<img_gnoll_jpg>
 						<public />
-					</img_kobold_jpg>
-					<img_minotaurskeleton_jpg>
-						<public />
-					</img_minotaurskeleton_jpg>
+					</img_gnoll_jpg>
 				</category>
 			</imagedata>
 		</category>
