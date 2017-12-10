@@ -11726,7 +11726,7 @@
 					</description>
 					<isidentified type="number">1</isidentified>
 					<locked type="number">1</locked>
-					<name type="string">Grey's Longbow </name>
+					<name type="string">Grey's Longbow</name>
 					<properties type="string">Ammunition (range 150/600), heavy, two-handed</properties>
 					<subtype type="string">Martial Ranged Weapons</subtype>
 					<type type="string">Weapon</type>
@@ -12832,7 +12832,7 @@
 						</id-00001>
 					</damagelist>
 					<isidentified type="number">1</isidentified>
-					<name type="string">Grey's Longbow </name>
+					<name type="string">Grey's Longbow</name>
 					<shortcut type="windowreference">
 						<class>item</class>
 						<recordname>....inventorylist.id-00029</recordname>
@@ -21210,11 +21210,11 @@
 	<export>
 		<author type="string">Fantasy Grounds College</author>
 		<category type="string">Campaign Setting</category>
-		<file type="string">FGC-West-Marches-Alpha</file>
-		<name type="string">West Marches Campaign World</name>
+		<file type="string">FGC-ExplorersGuild</file>
+		<name type="string">FGC-ExplorersGuild</name>
 		<playervisible type="number">0</playervisible>
 		<readonly type="number">0</readonly>
-		<thumbnail type="string">C:\\users\\Wineskin\\Application Data\\Fantasy Grounds\\campaigns\\West Marches%3A Thomas\\images\\WMC FGC Smaller Logo.jpg</thumbnail>
+		<thumbnail type="string">C:\\Users\\Ralf\\Documents\\FantasyGrounds-Archive\\CampaignLogos\\FGCEGLogo.png</thumbnail>
 	</export>
 	<feat>
 	</feat>
@@ -21589,7 +21589,7 @@
 						<endx>966</endx>
 						<endy>178</endy>
 						<owner>id-00005</owner>
-						<color>ff000000</color>
+						<color>ff3cff00</color>
 					</pointer>
 				</pointers>
 			</image>
@@ -22334,7 +22334,7 @@
 						<endx>7</endx>
 						<endy>856</endy>
 						<owner>id-00001</owner>
-						<color>ff4b4600</color>
+						<color>ff00008c</color>
 					</pointer>
 				</pointers>
 			</image>
@@ -22680,7 +22680,7 @@
 		<id-00002>
 			<name type="string">Loot Split</name>
 			<text type="formattedtext">
-				<p>krovax: 16 + 37, potion of frost giant strength 5000 GV, </p>
+				<p>krovax: 16 + 37, potion of frost giant strength 5000 GV,</p>
 				<p>potion of poison resistance 500 GP</p>
 				<p>aethelmaer: 16 + 37, 500 gp glasses of eagle eyes.</p>
 				<p>grey: 8</p>
