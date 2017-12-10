@@ -311,6 +311,9 @@
 		<category name="DandDwiki - Races" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - 00 Cheat Sheets" baseicon="0" decalicon="0">
+			<id-00033>
+				<public />
+			</id-00033>
 		</category>
 		<category name="ProNobis - Background" baseicon="0" decalicon="0">
 			<id-00044>
@@ -860,6 +863,65 @@
 			</id-00025>
 		</category>
 		<category name="ProNobis - Dungeon Bosses" baseicon="0" decalicon="0">
+			<id-00007>
+				<holder name="Foldi-One" />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<abilities>
+						<holder name="Foldi-One" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<charisma>
+								<holder name="Foldi-One" />
+							</charisma>
+							<constitution>
+								<holder name="Foldi-One" />
+							</constitution>
+							<dexterity>
+								<holder name="Foldi-One" />
+							</dexterity>
+							<intelligence>
+								<holder name="Foldi-One" />
+							</intelligence>
+							<strength>
+								<holder name="Foldi-One" />
+							</strength>
+							<wisdom>
+								<holder name="Foldi-One" />
+							</wisdom>
+						</category>
+					</abilities>
+					<actions>
+						<holder name="Foldi-One" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Foldi-One" />
+							</id-00001>
+						</category>
+					</actions>
+					<innatespells>
+						<holder name="Foldi-One" />
+					</innatespells>
+					<lairactions>
+						<holder name="Foldi-One" />
+					</lairactions>
+					<legendaryactions>
+						<holder name="Foldi-One" />
+					</legendaryactions>
+					<reactions>
+						<holder name="Foldi-One" />
+					</reactions>
+					<spells>
+						<holder name="Foldi-One" />
+					</spells>
+					<traits>
+						<holder name="Foldi-One" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Foldi-One" />
+							</id-00001>
+						</category>
+					</traits>
+				</category>
+			</id-00007>
 		</category>
 	</npc>
 	<race>
@@ -1180,6 +1242,33 @@
 			</id-00004>
 		</category>
 	</race>
+	<storytemplate>
+		<category name="ProNobis - Backgrounds" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Chases" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - City" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Dungeons" baseicon="0" decalicon="0">
+			<id-00134>
+				<public />
+			</id-00134>
+		</category>
+		<category name="ProNobis - Random - Buildings" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Random - Rooms" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Random NPC" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Random NPC - CR" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Random NPC - Class" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Random NPC - Race" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Sythensis" baseicon="0" decalicon="0">
+		</category>
+	</storytemplate>
 	<tables>
 		<category name="DandDwiki - Backgrounds" baseicon="0" decalicon="0">
 		</category>
@@ -1528,8 +1617,110 @@
 		<category name="ProNobis - Synthesis" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Treasure" baseicon="0" decalicon="0">
+			<id-00450>
+				<public />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<tablerows>
+						<public />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+										</category>
+									</results>
+								</category>
+							</id-00001>
+							<id-00002>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+										</category>
+									</results>
+								</category>
+							</id-00002>
+						</category>
+					</tablerows>
+				</category>
+			</id-00450>
+			<id-01197>
+				<public />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<tablerows>
+						<public />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+										</category>
+									</results>
+								</category>
+							</id-00001>
+						</category>
+					</tablerows>
+				</category>
+			</id-01197>
 		</category>
 		<category name="Pronobis - Dungeon" baseicon="0" decalicon="0">
+			<id-01667>
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<tablerows>
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00003>
+								<fromrange type="number">71</fromrange>
+								<torange type="number">80</torange>
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+								</category>
+							</id-00003>
+							<id-00004>
+								<fromrange type="number">0</fromrange>
+								<torange type="number">0</torange>
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+								</category>
+							</id-00004>
+							<id-00005>
+								<fromrange type="number">1</fromrange>
+								<torange type="number">70</torange>
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+								</category>
+							</id-00005>
+							<id-00006>
+								<fromrange type="number">81</fromrange>
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+								</category>
+							</id-00006>
+						</category>
+					</tablerows>
+				</category>
+			</id-01667>
 		</category>
 		<category name="SRD - Magic Items" baseicon="0" decalicon="0">
 		</category>

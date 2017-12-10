@@ -458,12 +458,25 @@
 							<class>battle</class>
 							<recordname>battle.id-00014</recordname>
 						</shortcut>
+						<shortcut>
+							<x>1527</x>
+							<y>222</y>
+							<class>battle</class>
+							<recordname>battle.id-00001</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1551</x>
+							<y>56</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00199</recordname>
+						</shortcut>
 					</shortcuts>
 					<tokens>
-						<idcounter>6</idcounter>
+						<idcounter>30</idcounter>
 						<scalelock>6.25</scalelock>
 					</tokens>
 				</image>
+				<isidentified type="number">1</isidentified>
 			</id-00073>
 			<id-00074>
 				<image type="image">
@@ -482,6 +495,28 @@
 					</shortcuts>
 				</image>
 			</id-00074>
+			<id-00075>
+				<public />
+				<image type="image">
+					<bitmap>Region_5_7.png</bitmap>
+					<gridsize>20</gridsize>
+					<gridoffset>0,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<public />
+							<x>48</x>
+							<y>1950</y>
+							<class>imagewindow</class>
+							<recordname>image.id-00122@Incarnate-Penolia</recordname>
+						</shortcut>
+					</shortcuts>
+					<tokens>
+						<idcounter>4</idcounter>
+						<scalelock>6.25</scalelock>
+					</tokens>
+				</image>
+			</id-00075>
 			<id-00077>
 			</id-00077>
 			<id-00082>
@@ -617,9 +652,9 @@
 				</image>
 			</id-00084>
 			<id-00085>
+				<public />
 				<image type="image">
 					<bitmap>Region_6_6.png</bitmap>
-					<mask>maskedimages/1511134698.png</mask>
 					<gridsize>20</gridsize>
 					<gridoffset>0,0</gridoffset>
 					<gridsnap>on</gridsnap>
@@ -630,19 +665,17 @@
 							<class>imagewindow</class>
 							<recordname>image.id-00122@Incarnate-Penolia</recordname>
 						</shortcut>
+						<shortcut>
+							<x>988</x>
+							<y>684</y>
+							<class>battle</class>
+							<recordname>battle.id-00009</recordname>
+						</shortcut>
 					</shortcuts>
-					<pointers>
-						<pointer>
-							<id>0</id>
-							<type>2</type>
-							<startx>1511</startx>
-							<starty>1671</starty>
-							<endx>1531</endx>
-							<endy>1691</endy>
-							<owner></owner>
-							<color>ff</color>
-						</pointer>
-					</pointers>
+					<tokens>
+						<idcounter>6</idcounter>
+						<scalelock>4.375</scalelock>
+					</tokens>
 				</image>
 			</id-00085>
 			<id-00086>
@@ -661,6 +694,7 @@
 			<id-00106>
 			</id-00106>
 			<id-00107>
+				<public />
 			</id-00107>
 			<id-00108>
 			</id-00108>
@@ -972,6 +1006,7 @@
 							<recordname>image.id-00074@Incarnate-Penolia</recordname>
 						</shortcut>
 						<shortcut>
+							<public />
 							<x>837</x>
 							<y>837</y>
 							<class>imagewindow</class>
@@ -1034,6 +1069,7 @@
 							<recordname>image.id-00084@Incarnate-Penolia</recordname>
 						</shortcut>
 						<shortcut>
+							<public />
 							<x>1024</x>
 							<y>1024</y>
 							<class>imagewindow</class>
@@ -1425,6 +1461,31 @@
 							<class>imagewindow</class>
 							<recordname>image.id-00138@Incarnate-Penolia</recordname>
 						</shortcut>
+						<shortcut>
+							<x>951</x>
+							<y>1098</y>
+							<class>battle</class>
+							<recordname>battle.id-00007</recordname>
+						</shortcut>
+						<shortcut>
+							<x>818</x>
+							<y>1068</y>
+							<class>battle</class>
+							<recordname>battle.id-00008</recordname>
+						</shortcut>
+						<shortcut>
+							<x>841</x>
+							<y>969</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00200</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>1272</x>
+							<y>877</y>
+							<class>imagewindow</class>
+							<recordname>image.id-00135@Incarnate-Penolia</recordname>
+						</shortcut>
 					</shortcuts>
 					<tokens>
 						<idcounter>6</idcounter>
@@ -1432,20 +1493,20 @@
 						<token>
 							<prototype>tokens/Medium/a.png@Letter Tokens</prototype>
 							<id>6</id>
-							<x>1010</x>
-							<y>1196</y>
-							<scale>0.2</scale>
-							<orientation>7</orientation>
+							<x>1270</x>
+							<y>887</y>
+							<scale>0.1</scale>
+							<orientation>5</orientation>
 						</token>
 					</tokens>
 					<pointers>
 						<pointer>
 							<id>0</id>
 							<type>1</type>
-							<startx>994</startx>
-							<starty>1178</starty>
-							<endx>966</endx>
-							<endy>1137</endy>
+							<startx>1298</startx>
+							<starty>912</starty>
+							<endx>1272</endx>
+							<endy>880</endy>
 							<owner></owner>
 							<color>ff</color>
 						</pointer>
@@ -2434,6 +2495,87 @@
 				</image>
 				<locked type="number">0</locked>
 			</id-00134>
+			<id-00135>
+				<public />
+				<image type="image">
+					<bitmap>Dungeon2_1_1.png</bitmap>
+					<mask>maskedimages/1512943833.png</mask>
+					<drawing>drawings/drawing_1512944269.png</drawing>
+					<gridsize>20</gridsize>
+					<gridoffset>0,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<public />
+							<x>1490</x>
+							<y>46</y>
+							<class>imagewindow</class>
+							<recordname>image.id-00122@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1441</x>
+							<y>70</y>
+							<class>npc</class>
+							<recordname>npc.id-00007@Incarnate-Engine</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1516</x>
+							<y>340</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00201</recordname>
+						</shortcut>
+					</shortcuts>
+					<tokens>
+						<idcounter>11</idcounter>
+						<scalelock>6.25</scalelock>
+						<token>
+							<prototype>portrait_id-00007_token</prototype>
+							<id>4</id>
+							<x>1551</x>
+							<y>371</y>
+							<name>Firebomb Featherbeard</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+						<token>
+							<prototype>portrait_id-00004_token</prototype>
+							<id>2</id>
+							<x>1571</x>
+							<y>391</y>
+							<name>Ferral</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+						<token>
+							<prototype>portrait_id-00002_token</prototype>
+							<id>3</id>
+							<x>1551</x>
+							<y>391</y>
+							<orientation>7</orientation>
+							<name>Feldis Harlequin</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+						<token>
+							<prototype>portrait_id-00005_token</prototype>
+							<id>5</id>
+							<x>1571</x>
+							<y>371</y>
+							<name>Usk Ao</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+					</tokens>
+					<pointers>
+						<pointer>
+							<id>0</id>
+							<type>2</type>
+							<startx>1471</startx>
+							<starty>311</starty>
+							<endx>1631</endx>
+							<endy>311</endy>
+							<owner>id-00002</owner>
+							<color>ff004682</color>
+						</pointer>
+					</pointers>
+				</image>
+			</id-00135>
 			<id-00137>
 				<public />
 				<image type="image">

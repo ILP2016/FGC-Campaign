@@ -188,6 +188,54 @@
 					</npclist>
 				</category>
 			</C0300014>
+			<C0400009>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<npclist>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00002>
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<maplink>
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.id-00135.image@Incarnate-Penolia</recordname>
+												</imageref>
+												<imagex type="number">1621</imagex>
+												<imagey type="number">271</imagey>
+											</id-00001>
+										</category>
+									</maplink>
+								</category>
+							</id-00002>
+							<id-00003>
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<maplink>
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.id-00135.image@Incarnate-Penolia</recordname>
+												</imageref>
+												<imagex type="number">1601</imagex>
+												<imagey type="number">251</imagey>
+											</id-00001>
+											<id-00002>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.id-00135.image@Incarnate-Penolia</recordname>
+												</imageref>
+												<imagex type="number">1651</imagex>
+												<imagey type="number">271</imagey>
+											</id-00002>
+										</category>
+									</maplink>
+								</category>
+							</id-00003>
+						</category>
+					</npclist>
+				</category>
+			</C0400009>
 			<C0400013>
 				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
 					<npclist>
@@ -240,6 +288,39 @@
 		<category name="ProNobis - Encounter - Urban" baseicon="0" decalicon="0">
 		</category>
 	</battle>
+	<encounter>
+		<category name="ProNobis - Encounters - Monsters - Terrain" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Encounters - Synthesis" baseicon="0" decalicon="0">
+			<id-00001>
+				<text type="formattedtext">
+					<h>Introduction</h>
+					<p></p>
+					<linklist>
+						<link class="table" recordname="tables.id-00003@Incarnate-Battles">Random - Encounter</link>
+					</linklist>
+					<h>Semi-Random</h>
+					<linklist>
+						<link class="table" recordname="tables.id-00002@Incarnate-Battles">Random - Encounter - Simple</link>
+					</linklist>
+					<h>CR by Terrain</h>
+					<linklist>
+						<link class="table" recordname="tables.A-00001@Incarnate-Battles">Random - Arctic - Encounter</link>
+						<link class="table" recordname="tables.C-00001@Incarnate-Battles">Random - Cavern - Encounter</link>
+						<link class="table" recordname="tables.O-00001@Incarnate-Battles">Random - Coastal - Encounter</link>
+						<link class="table" recordname="tables.D-00001@Incarnate-Battles">Random - Desert - Encounter</link>
+						<link class="table" recordname="tables.F-00001@Incarnate-Battles">Random - Forest - Encounter</link>
+						<link class="table" recordname="tables.G-00001@Incarnate-Battles">Random - Grassland - Encounter</link>
+						<link class="table" recordname="tables.H-00001@Incarnate-Battles">Random - Hill - Encounter</link>
+						<link class="table" recordname="tables.M-00001@Incarnate-Battles">Random - Mountain - Encounter</link>
+						<link class="table" recordname="tables.S-00001@Incarnate-Battles">Random - Swamp - Encounter</link>
+						<link class="table" recordname="tables.U-00001@Incarnate-Battles">Random - Underwater - Encounter</link>
+						<link class="table" recordname="tables.R-00001@Incarnate-Battles">Random - Urban - Encounter</link>
+					</linklist>
+				</text>
+			</id-00001>
+		</category>
+	</encounter>
 	<npc>
 		<category name="SRD - Aberration" baseicon="0" decalicon="0">
 			<id-00002>
@@ -382,6 +463,20 @@
 					</actions>
 				</category>
 			</id-00023>
+			<id-00025>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<dexterity>
+								<bonus type="number">-1</bonus>
+							</dexterity>
+							<intelligence>
+								<bonus type="number">-4</bonus>
+							</intelligence>
+						</category>
+					</abilities>
+				</category>
+			</id-00025>
 			<id-00030>
 				<holder name="Malamute" />
 				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
@@ -683,6 +778,7 @@
 			<C-00001>
 				<public />
 				<hiderollresults type="number">1</hiderollresults>
+				<mod type="number">5</mod>
 				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
 					<tablerows>
 						<public />
@@ -1156,6 +1252,39 @@
 					</tablerows>
 				</category>
 			</id-00001>
+			<id-00002>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<tablerows>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00011>
+								<torange type="number">0</torange>
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+								</category>
+							</id-00011>
+						</category>
+					</tablerows>
+				</category>
+			</id-00002>
+			<id-00003>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<tablerows>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<fromrange type="number">0</fromrange>
+								<torange type="number">0</torange>
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+								</category>
+							</id-00001>
+							<id-00002>
+								<fromrange type="number">1</fromrange>
+								<torange type="number">1</torange>
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+								</category>
+							</id-00002>
+						</category>
+					</tablerows>
+				</category>
+			</id-00003>
 		</category>
 		<category name="ProNobis - Encounter - Underwater" baseicon="0" decalicon="0">
 		</category>
@@ -1199,10 +1328,455 @@
 		<category name="ProNobis - True Random - Forest" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - True Random - Grassland" baseicon="0" decalicon="0">
+			<G00002>
+				<holder name="Foldi-One" />
+				<mod type="number">5</mod>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<tablerows>
+						<holder name="Foldi-One" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00001>
+							<id-00002>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00002>
+							<id-00003>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00003>
+							<id-00004>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00004>
+							<id-00005>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00005>
+							<id-00006>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00006>
+							<id-00007>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00007>
+							<id-00008>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00008>
+							<id-00009>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00009>
+							<id-00010>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00010>
+							<id-00011>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00011>
+							<id-00012>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00012>
+							<id-00013>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00013>
+							<id-00014>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00014>
+							<id-00015>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00015>
+							<id-00016>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00016>
+							<id-00017>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00017>
+							<id-00018>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00018>
+							<id-00019>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00019>
+							<id-00020>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00020>
+							<id-00021>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00021>
+							<id-00022>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00022>
+							<id-00023>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00023>
+							<id-00024>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00024>
+							<id-00025>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00025>
+							<id-00026>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00026>
+							<id-00027>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00027>
+							<id-00028>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00028>
+							<id-00029>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00029>
+							<id-00030>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00030>
+							<id-00031>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00031>
+							<id-00032>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00032>
+							<id-00033>
+								<holder name="Foldi-One" />
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Foldi-One" />
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Foldi-One" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00033>
+						</category>
+					</tablerows>
+				</category>
+			</G00002>
 		</category>
 		<category name="ProNobis - True Random - Hill" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - True Random - Humanoid" baseicon="0" decalicon="0">
+			<N00002>
+				<mod type="number">7</mod>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+				</category>
+			</N00002>
 		</category>
 		<category name="ProNobis - True Random - Mountain" baseicon="0" decalicon="0">
 		</category>

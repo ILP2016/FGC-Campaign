@@ -2,6 +2,9 @@
 <root version="3.3" release="8|CoreRPG:3" integrity="ee5921a8f283434a9e1d019e3bfbc274b96c125b">
 	<encounter>
 		<category name="Artist Bios" baseicon="0" decalicon="0">
+			<id-00002>
+				<public />
+			</id-00002>
 			<id-00006>
 				<public />
 			</id-00006>
@@ -49,6 +52,9 @@
 			</id-00280>
 		</category>
 		<category name="ProNobis" baseicon="0" decalicon="0">
+			<id-00039>
+				<public />
+			</id-00039>
 		</category>
 		<category name="Venatus" baseicon="0" decalicon="0">
 		</category>
@@ -64,6 +70,176 @@
 				<category name="FGC-Maps" baseicon="0" decalicon="0">
 				</category>
 			</id-00001>
+			<id-00008>
+				<public />
+				<category name="FGC-Maps" baseicon="0" decalicon="0">
+					<tablerows>
+						<public />
+						<category name="FGC-Maps" baseicon="0" decalicon="0">
+							<id-00001>
+								<public />
+								<category name="FGC-Maps" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="FGC-Maps" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+										</category>
+									</results>
+								</category>
+							</id-00001>
+							<id-00002>
+								<public />
+								<category name="FGC-Maps" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="FGC-Maps" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+										</category>
+									</results>
+								</category>
+							</id-00002>
+							<id-00003>
+								<public />
+								<category name="FGC-Maps" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="FGC-Maps" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+										</category>
+									</results>
+								</category>
+							</id-00003>
+							<id-00004>
+								<public />
+								<category name="FGC-Maps" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="FGC-Maps" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+										</category>
+									</results>
+								</category>
+							</id-00004>
+							<id-00005>
+								<public />
+								<category name="FGC-Maps" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="FGC-Maps" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+										</category>
+									</results>
+								</category>
+							</id-00005>
+							<id-00006>
+								<public />
+								<category name="FGC-Maps" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="FGC-Maps" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+										</category>
+									</results>
+								</category>
+							</id-00006>
+							<id-00007>
+								<public />
+								<category name="FGC-Maps" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="FGC-Maps" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+										</category>
+									</results>
+								</category>
+							</id-00007>
+							<id-00008>
+								<public />
+								<category name="FGC-Maps" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="FGC-Maps" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+										</category>
+									</results>
+								</category>
+							</id-00008>
+							<id-00009>
+								<public />
+								<category name="FGC-Maps" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="FGC-Maps" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+										</category>
+									</results>
+								</category>
+							</id-00009>
+							<id-00010>
+								<public />
+								<category name="FGC-Maps" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="FGC-Maps" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+										</category>
+									</results>
+								</category>
+							</id-00010>
+						</category>
+					</tablerows>
+				</category>
+			</id-00008>
 		</category>
 	</tables>
 </root>
