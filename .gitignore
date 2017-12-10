@@ -3,9 +3,6 @@
 *.xml
 !db.xml
 !chatlog.html
-!characters/2017-11-29/*.xml
-!characters/Pregens-PHBDelux/*.xml
-!characters/*.xml
 !maskedimages/*.png
 !moduledb/FGC-Maps.xml
 !moduledb/FGC-Maps_*.xml
