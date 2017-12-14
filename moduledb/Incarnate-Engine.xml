@@ -331,6 +331,85 @@
 		<category name="SRD - Rules" baseicon="0" decalicon="0">
 		</category>
 	</encounter>
+	<item>
+		<category name="ProNobis" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Background Items" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - Ammunition" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - Arcane Focus" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - Druidic Focus" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - Equipment Kits" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - General" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - Holy Symbol" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - Poisons" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Armor - Heavy Armor" baseicon="0" decalicon="0">
+			<id-00199>
+				<description type="formattedtext">
+					<p>Of all the armor categories, heavy armor offers the best protection. These suits of armor cover the entire body and are designed to stop a wide range of attacks. Only proficient warriors can manage their weight and bulk.</p>
+					<p>Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.</p>
+				</description>
+				<locked type="number">0</locked>
+			</id-00199>
+		</category>
+		<category name="SRD - Armor - Light Armor" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Armor - Medium Armor" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Armor - Shield" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Armor" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Potion" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Ring" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Rod" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Scroll" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Staff" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Wand" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Weapon" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Wondrous Item" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Tools - Artisan's" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Tools - Gaming Set" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Tools - Kits/Sets" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Tools - Musical Instrument" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Transportation - Drawn Vehicles" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Transportation - Mounts and Animals" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Transportation - Saddle" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Transportation - Tack and Harness" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Transportation - Waterborne Vehicles" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Weapon - Martial" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Weapon - Ranged Weapon" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Weapon - Simple Melee" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Weapon - Simple Ranged" baseicon="0" decalicon="0">
+		</category>
+	</item>
 	<lists>
 		<category name="Incarnate-Engine" baseicon="0" decalicon="0">
 			<backgrounds>
@@ -856,6 +935,97 @@
 	</lists>
 	<npc>
 		<category name="ProNobis - DemiHumans - Greak" baseicon="0" decalicon="0">
+			<id-00022>
+				<holder name="Thomas" />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<abilities>
+						<holder name="Thomas" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<charisma>
+								<holder name="Thomas" />
+							</charisma>
+							<constitution>
+								<holder name="Thomas" />
+							</constitution>
+							<dexterity>
+								<holder name="Thomas" />
+							</dexterity>
+							<intelligence>
+								<holder name="Thomas" />
+							</intelligence>
+							<strength>
+								<holder name="Thomas" />
+							</strength>
+							<wisdom>
+								<holder name="Thomas" />
+							</wisdom>
+						</category>
+					</abilities>
+					<actions>
+						<holder name="Thomas" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Thomas" />
+							</id-00001>
+							<id-00002>
+								<holder name="Thomas" />
+							</id-00002>
+							<id-00003>
+								<holder name="Thomas" />
+							</id-00003>
+							<id-00004>
+								<holder name="Thomas" />
+							</id-00004>
+							<id-00005>
+								<holder name="Thomas" />
+							</id-00005>
+							<id-00006>
+								<holder name="Thomas" />
+							</id-00006>
+						</category>
+					</actions>
+					<innatespells>
+						<holder name="Thomas" />
+					</innatespells>
+					<lairactions>
+						<holder name="Thomas" />
+					</lairactions>
+					<legendaryactions>
+						<holder name="Thomas" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Thomas" />
+							</id-00001>
+							<id-00002>
+								<holder name="Thomas" />
+							</id-00002>
+							<id-00003>
+								<holder name="Thomas" />
+							</id-00003>
+							<id-00004>
+								<holder name="Thomas" />
+							</id-00004>
+						</category>
+					</legendaryactions>
+					<reactions>
+						<holder name="Thomas" />
+					</reactions>
+					<spells>
+						<holder name="Thomas" />
+					</spells>
+					<traits>
+						<holder name="Thomas" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Thomas" />
+							</id-00001>
+							<id-00002>
+								<holder name="Thomas" />
+							</id-00002>
+						</category>
+					</traits>
+				</category>
+			</id-00022>
 			<id-00025>
 				<locked type="number">1</locked>
 				<category name="Incarnate-Engine" baseicon="0" decalicon="0">

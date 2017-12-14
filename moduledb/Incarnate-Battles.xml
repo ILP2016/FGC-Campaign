@@ -1316,7 +1316,7 @@
 		</category>
 		<category name="ProNobis - True Random - Cavern" baseicon="0" decalicon="0">
 			<C00002>
-				<mod type="number">2</mod>
+				<mod type="number">5</mod>
 				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
 				</category>
 			</C00002>

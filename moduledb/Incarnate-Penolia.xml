@@ -2115,6 +2115,7 @@
 				<public />
 				<image type="image">
 					<bitmap>IshilbDoorstep_1_1.png</bitmap>
+					<drawing>drawings/drawing_1513204079.png</drawing>
 					<gridsize>20</gridsize>
 					<gridoffset>0,0</gridoffset>
 					<gridsnap>on</gridsnap>
@@ -2302,6 +2303,36 @@
 							<recordname>encounter.id-00037</recordname>
 						</shortcut>
 					</shortcuts>
+					<tokens>
+						<idcounter>6</idcounter>
+						<scalelock>6.25</scalelock>
+						<token>
+							<prototype>portrait_id-00002_token</prototype>
+							<id>2</id>
+							<x>1461</x>
+							<y>1631</y>
+							<orientation>2</orientation>
+							<name>Varric Adahlin</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+						<token>
+							<prototype>portrait_id-00003_token</prototype>
+							<id>3</id>
+							<x>1451</x>
+							<y>1691</y>
+							<orientation>2</orientation>
+							<name>Barda</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+						<token>
+							<prototype>portrait_id-00001_token</prototype>
+							<id>1</id>
+							<x>1711</x>
+							<y>1581</y>
+							<name>Aethelmaer</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+					</tokens>
 				</image>
 			</id-00136>
 			<id-00139>
@@ -2533,33 +2564,6 @@
 							<id>4</id>
 							<x>1551</x>
 							<y>371</y>
-							<name>Firebomb Featherbeard</name>
-							<visibilitylocked>on</visibilitylocked>
-						</token>
-						<token>
-							<prototype>portrait_id-00004_token</prototype>
-							<id>2</id>
-							<x>1571</x>
-							<y>391</y>
-							<name>Ferral</name>
-							<visibilitylocked>on</visibilitylocked>
-						</token>
-						<token>
-							<prototype>portrait_id-00002_token</prototype>
-							<id>3</id>
-							<x>1551</x>
-							<y>391</y>
-							<orientation>7</orientation>
-							<name>Feldis Harlequin</name>
-							<visibilitylocked>on</visibilitylocked>
-						</token>
-						<token>
-							<prototype>portrait_id-00005_token</prototype>
-							<id>5</id>
-							<x>1571</x>
-							<y>371</y>
-							<name>Usk Ao</name>
-							<visibilitylocked>on</visibilitylocked>
 						</token>
 					</tokens>
 					<pointers>
