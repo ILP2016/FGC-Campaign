@@ -268,6 +268,30 @@
 					</npclist>
 				</category>
 			</C0400013>
+			<C0500011>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<npclist>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00002>
+								<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+									<maplink>
+										<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+											<id-00001>
+												<imageref type="windowreference">
+													<class>imagewindow</class>
+													<recordname>image.id-00045.image</recordname>
+												</imageref>
+												<imagex type="number">378</imagex>
+												<imagey type="number">1188</imagey>
+											</id-00001>
+										</category>
+									</maplink>
+								</category>
+							</id-00002>
+						</category>
+					</npclist>
+				</category>
+			</C0500011>
 		</category>
 		<category name="ProNobis - Encounter - Coastal" baseicon="0" decalicon="0">
 		</category>
@@ -696,6 +720,17 @@
 		<category name="SRD - Elemental" baseicon="0" decalicon="0">
 		</category>
 		<category name="SRD - Fey" baseicon="0" decalicon="0">
+			<id-00172>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<strength>
+								<bonus type="number">-4</bonus>
+							</strength>
+						</category>
+					</abilities>
+				</category>
+			</id-00172>
 		</category>
 		<category name="SRD - Fiend" baseicon="0" decalicon="0">
 		</category>
@@ -714,6 +749,17 @@
 		<category name="SRD - Ooze" baseicon="0" decalicon="0">
 		</category>
 		<category name="SRD - Plant" baseicon="0" decalicon="0">
+			<id-00287>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<charisma>
+								<bonus type="number">-2</bonus>
+							</charisma>
+						</category>
+					</abilities>
+				</category>
+			</id-00287>
 			<id-00289>
 				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
 					<abilities>
@@ -758,6 +804,17 @@
 			</id-00295>
 		</category>
 		<category name="SRD - Undead" baseicon="0" decalicon="0">
+			<id-00299>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<strength>
+								<bonus type="number">-2</bonus>
+							</strength>
+						</category>
+					</abilities>
+				</category>
+			</id-00299>
 			<id-00302>
 				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
 					<abilities>
@@ -1326,11 +1383,16 @@
 		<category name="ProNobis - True Random - Desert" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - True Random - Forest" baseicon="0" decalicon="0">
+			<W00002>
+				<mod type="number">4</mod>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+				</category>
+			</W00002>
 		</category>
 		<category name="ProNobis - True Random - Grassland" baseicon="0" decalicon="0">
 			<G00002>
 				<holder name="Foldi-One" />
-				<mod type="number">5</mod>
+				<mod type="number">4</mod>
 				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
 					<tablerows>
 						<holder name="Foldi-One" />
@@ -1779,6 +1841,11 @@
 			</N00002>
 		</category>
 		<category name="ProNobis - True Random - Mountain" baseicon="0" decalicon="0">
+			<M00002>
+				<mod type="number">4</mod>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+				</category>
+			</M00002>
 		</category>
 		<category name="ProNobis - True Random - Swamp" baseicon="0" decalicon="0">
 		</category>

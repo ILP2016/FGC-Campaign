@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<root version="3.3" release="8|CoreRPG:3" integrity="1a7f5b0238092f3c1ef72e7cdaac0622d840a79e">
+<root version="3.3" release="8|CoreRPG:3" integrity="63869ae9de8845bbcec53d51b6ac5ad19e3224bc">
 	<class>
 		<category name="SRD - DandDwiki - Classes" baseicon="0" decalicon="0">
 			<proranger>
@@ -192,6 +192,9 @@
 							<id-00049>
 								<holder name="Grey" />
 							</id-00049>
+							<id-00050>
+								<holder name="Grey" />
+							</id-00050>
 							<id-00051>
 								<holder name="Grey" />
 							</id-00051>
@@ -320,15 +323,10 @@
 		<category name="ProNobis - Classes" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Hombrew Rules" baseicon="0" decalicon="0">
-			<id-00018>
-				<holder name="Thomas" />
-			</id-00018>
 		</category>
 		<category name="ProNobis - Lore" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Synthesis" baseicon="0" decalicon="0">
-		</category>
-		<category name="SRD - Class Tables" baseicon="0" decalicon="0">
 		</category>
 		<category name="SRD - Rules" baseicon="0" decalicon="0">
 		</category>
@@ -1113,6 +1111,14 @@
 								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
 									<traits>
 										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<abilityscoreincrease>
+												<public />
+											</abilityscoreincrease>
+											<dwarventoughness>
+												<public />
+											</dwarventoughness>
+										</category>
 									</traits>
 								</category>
 							</hilldwarf>
@@ -1359,63 +1365,47 @@
 									</traits>
 								</category>
 							</id-00014>
-							<id-00015>
-								<public />
-								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-									<traits>
-										<public />
-										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-											<id-00001>
-												<public />
-											</id-00001>
-											<id-00002>
-												<public />
-											</id-00002>
-										</category>
-									</traits>
-								</category>
-							</id-00015>
 						</category>
 					</subraces>
 					<traits>
 						<public />
 						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-							<id-00001>
+							<abilityscoreincrease>
 								<public />
-							</id-00001>
-							<id-00002>
+							</abilityscoreincrease>
+							<age>
 								<public />
-							</id-00002>
-							<id-00003>
+							</age>
+							<alignment>
 								<public />
-							</id-00003>
-							<id-00004>
+							</alignment>
+							<darkvision>
 								<public />
-							</id-00004>
-							<id-00005>
+							</darkvision>
+							<dwarvencombattraining>
 								<public />
-							</id-00005>
-							<id-00006>
+							</dwarvencombattraining>
+							<dwarvenresilience>
 								<public />
-							</id-00006>
-							<id-00007>
+							</dwarvenresilience>
+							<languages>
 								<public />
-							</id-00007>
-							<id-00008>
+							</languages>
+							<size>
 								<public />
-							</id-00008>
-							<id-00009>
+							</size>
+							<speed>
 								<public />
-							</id-00009>
-							<id-00010>
+							</speed>
+							<stonecunning>
 								<public />
-							</id-00010>
-							<id-00011>
+							</stonecunning>
+							<subrace>
 								<public />
-							</id-00011>
-							<id-00012>
+							</subrace>
+							<toolproficiency>
 								<public />
-							</id-00012>
+							</toolproficiency>
 						</category>
 					</traits>
 				</category>
@@ -1423,8 +1413,6 @@
 		</category>
 	</race>
 	<storytemplate>
-		<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-		</category>
 		<category name="ProNobis - Backgrounds" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Chases" baseicon="0" decalicon="0">
@@ -1455,6 +1443,8 @@
 		<category name="DandDwiki - Backgrounds" baseicon="0" decalicon="0">
 		</category>
 		<category name="DandDwiki - Races" baseicon="0" decalicon="0">
+		</category>
+		<category name="Incarnate-Engine" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Backgrounds" baseicon="0" decalicon="0">
 		</category>
@@ -1905,10 +1895,10 @@
 		</category>
 		<category name="SRD - Magic Items" baseicon="0" decalicon="0">
 		</category>
-		<category name="Z - Debug - Background" baseicon="0" decalicon="0">
-		</category>
 	</tables>
 	<treasureparcels>
+		<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+		</category>
 		<category name="ProNobis - Starting - Backgrounds" baseicon="0" decalicon="0">
 			<id-00022>
 				<public />

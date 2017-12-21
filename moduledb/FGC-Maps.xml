@@ -22,7 +22,6 @@
 		</category>
 		<category name="Madman" baseicon="0" decalicon="0">
 			<id-00127>
-				<public />
 				<image type="image">
 					<bitmap>Crossing With Bridge.jpg</bitmap>
 					<gridsize>100</gridsize>
@@ -34,10 +33,61 @@
 					</tokens>
 				</image>
 			</id-00127>
+			<id-00148>
+				<image type="image">
+					<bitmap>Meadow 6000x6000.jpg</bitmap>
+					<gridsize>100</gridsize>
+					<gridoffset>0,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<tokens>
+						<idcounter>12</idcounter>
+						<scalelock>1.25</scalelock>
+						<token>
+							<prototype>portrait_id-00008_token</prototype>
+							<id>9</id>
+							<x>2451</x>
+							<y>1751</y>
+							<orientation>7</orientation>
+						</token>
+						<token>
+							<prototype>portrait_id-00004_token</prototype>
+							<id>10</id>
+							<x>2601</x>
+							<y>1501</y>
+							<orientation>7</orientation>
+						</token>
+						<token>
+							<prototype>portrait_id-00009_token</prototype>
+							<id>11</id>
+							<x>2651</x>
+							<y>1701</y>
+							<orientation>7</orientation>
+						</token>
+						<token>
+							<prototype>portrait_id-00005_token</prototype>
+							<id>12</id>
+							<x>2201</x>
+							<y>1551</y>
+							<orientation>7</orientation>
+						</token>
+					</tokens>
+				</image>
+			</id-00148>
+			<id-00160>
+				<image type="image">
+					<bitmap>Rocky-Cave-Encounter.jpg</bitmap>
+					<gridsize>100</gridsize>
+					<gridoffset>0,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<tokens>
+						<idcounter>12</idcounter>
+						<scalelock>1.6</scalelock>
+					</tokens>
+				</image>
+			</id-00160>
 		</category>
 		<category name="MapHammer" baseicon="0" decalicon="0">
 			<id-00280>
-				<public />
 				<image type="image">
 					<bitmap>300x300_Road_ambush_gridless.jpg</bitmap>
 					<drawing>drawings/drawing_1512333852.png</drawing>
@@ -53,7 +103,6 @@
 		</category>
 		<category name="ProNobis" baseicon="0" decalicon="0">
 			<id-00039>
-				<public />
 			</id-00039>
 		</category>
 		<category name="Venatus" baseicon="0" decalicon="0">
