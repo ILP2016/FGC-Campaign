@@ -1,165 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<root version="3.3" release="8|CoreRPG:3" integrity="3ed1b7ccf0686b42454b2804b970ce25a2867071">
+<root version="3.3" release="8|CoreRPG:3" integrity="1a7f5b0238092f3c1ef72e7cdaac0622d840a79e">
 	<class>
 		<category name="SRD - DandDwiki - Classes" baseicon="0" decalicon="0">
-			<propaladin>
-				<public />
-				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-					<abilities>
-						<public />
-						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-							<id-00001>
-								<public />
-							</id-00001>
-						</category>
-					</abilities>
-					<equipment>
-						<public />
-						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-							<standard>
-								<public />
-							</standard>
-						</category>
-					</equipment>
-					<features>
-						<public />
-						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-							<id-00001>
-								<public />
-							</id-00001>
-							<id-00002>
-								<public />
-							</id-00002>
-							<id-00003>
-								<public />
-							</id-00003>
-							<id-00004>
-								<public />
-							</id-00004>
-							<id-00005>
-								<public />
-							</id-00005>
-							<id-00006>
-								<public />
-							</id-00006>
-							<id-00007>
-								<public />
-							</id-00007>
-							<id-00008>
-								<public />
-							</id-00008>
-							<id-00009>
-								<public />
-							</id-00009>
-							<id-00010>
-								<public />
-							</id-00010>
-							<id-00011>
-								<public />
-							</id-00011>
-							<id-00012>
-								<public />
-							</id-00012>
-							<id-00013>
-								<public />
-							</id-00013>
-							<id-00014>
-								<public />
-							</id-00014>
-							<id-00015>
-								<public />
-							</id-00015>
-							<id-00016>
-								<public />
-							</id-00016>
-							<id-00017>
-								<public />
-							</id-00017>
-							<id-00018>
-								<public />
-							</id-00018>
-							<id-00019>
-								<public />
-							</id-00019>
-							<id-00020>
-								<public />
-							</id-00020>
-							<id-00021>
-								<public />
-							</id-00021>
-							<id-00022>
-								<public />
-							</id-00022>
-							<id-00023>
-								<public />
-							</id-00023>
-							<id-00024>
-								<public />
-							</id-00024>
-							<id-00025>
-								<public />
-							</id-00025>
-							<id-00026>
-								<public />
-							</id-00026>
-						</category>
-					</features>
-					<hp>
-						<public />
-						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-							<hitdice>
-								<public />
-							</hitdice>
-							<hitpointsat1stlevel>
-								<public />
-							</hitpointsat1stlevel>
-							<hitpointsathigherlevels>
-								<public />
-							</hitpointsathigherlevels>
-						</category>
-					</hp>
-					<multiclassfeatures>
-						<public />
-					</multiclassfeatures>
-					<multiclassproficiencies>
-						<public />
-						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-							<armor>
-								<public />
-							</armor>
-							<skills>
-								<public />
-							</skills>
-							<tools>
-								<public />
-							</tools>
-							<weapons>
-								<public />
-							</weapons>
-						</category>
-					</multiclassproficiencies>
-					<proficiencies>
-						<public />
-						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-							<armor>
-								<public />
-							</armor>
-							<savingthrows>
-								<public />
-							</savingthrows>
-							<skills>
-								<public />
-							</skills>
-							<tools>
-								<public />
-							</tools>
-							<weapons>
-								<public />
-							</weapons>
-						</category>
-					</proficiencies>
-				</category>
-			</propaladin>
 			<proranger>
 				<holder name="Grey" />
 				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
@@ -478,9 +320,6 @@
 		<category name="ProNobis - Classes" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Hombrew Rules" baseicon="0" decalicon="0">
-			<id-00001>
-				<public />
-			</id-00001>
 			<id-00018>
 				<holder name="Thomas" />
 			</id-00018>
@@ -495,27 +334,17 @@
 		</category>
 	</encounter>
 	<item>
-		<category name="0 Temp" baseicon="0" decalicon="0">
-		</category>
-		<category name="1 Temp" baseicon="0" decalicon="0">
-		</category>
 		<category name="ProNobis" baseicon="0" decalicon="0">
 		</category>
-		<category name="ProNobis - Armor - Elemental" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Armor - Special Metal" baseicon="0" decalicon="0">
-		</category>
 		<category name="ProNobis - Background Items" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Magic Item - Spoofs" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Magic Items - Shield" baseicon="0" decalicon="0">
 		</category>
 		<category name="SRD - Adventuring Gear - Ammunition" baseicon="0" decalicon="0">
 		</category>
 		<category name="SRD - Adventuring Gear - Arcane Focus" baseicon="0" decalicon="0">
 		</category>
 		<category name="SRD - Adventuring Gear - Druidic Focus" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - Equipment Kits" baseicon="0" decalicon="0">
 		</category>
 		<category name="SRD - Adventuring Gear - General" baseicon="0" decalicon="0">
 		</category>
@@ -556,8 +385,6 @@
 		</category>
 		<category name="SRD - Magic Item - Wondrous Item" baseicon="0" decalicon="0">
 		</category>
-		<category name="SRD - ProNobis" baseicon="0" decalicon="0">
-		</category>
 		<category name="SRD - Tools - Artisan's" baseicon="0" decalicon="0">
 		</category>
 		<category name="SRD - Tools - Gaming Set" baseicon="0" decalicon="0">
@@ -566,13 +393,13 @@
 		</category>
 		<category name="SRD - Tools - Musical Instrument" baseicon="0" decalicon="0">
 		</category>
-		<category name="SRD - Trade Goods" baseicon="0" decalicon="0">
-		</category>
 		<category name="SRD - Transportation - Drawn Vehicles" baseicon="0" decalicon="0">
 		</category>
 		<category name="SRD - Transportation - Mounts and Animals" baseicon="0" decalicon="0">
 		</category>
 		<category name="SRD - Transportation - Saddle" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Transportation - Tack and Harness" baseicon="0" decalicon="0">
 		</category>
 		<category name="SRD - Transportation - Waterborne Vehicles" baseicon="0" decalicon="0">
 		</category>
@@ -1267,31 +1094,6 @@
 					</traits>
 				</category>
 			</id-00007>
-			<id-00013>
-				<locked type="number">0</locked>
-				<text type="formattedtext">
-					<h>Description</h>
-					<p>Servant's of Hades.</p>
-					<h>Forshadowing</h>
-					<list>
-						<li>A metalic pin embedded in the wall.</li>
-						<li></li>
-						<li></li>
-						<li>An orc with a pin in the middle of his very pale forehead... It seems like the life fled from his body.</li>
-					</list>
-					<h>Opening Text</h>
-					<frame>There is a bounty on your head, well everything's head, but that's besides the point.</frame>
-					<h>Battle Taunt</h>
-					<frame>Everyone's time has to come, why not yours now?</frame>
-					<frame>Pincushions are close relatives of mine... or rather pincushioned beings are.</frame>
-					<frame>This is entirely natural, you have nothing to fear but death itself.</frame>
-					<h>Death Speech</h>
-					<frame>What was intended has happened and so I pass on.</frame>
-				</text>
-				<type type="string">Undead</type>
-				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-				</category>
-			</id-00013>
 		</category>
 	</npc>
 	<race>
@@ -1309,6 +1111,9 @@
 							<hilldwarf>
 								<public />
 								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<traits>
+										<public />
+									</traits>
 								</category>
 							</hilldwarf>
 							<id-00001>
@@ -1617,54 +1422,6 @@
 			</id-00004>
 		</category>
 	</race>
-	<referencemanual2>
-		<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-			<SRD_PRO_00016>
-				<holder name="Foldi" />
-				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-					<blocks>
-						<holder name="Foldi" />
-						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-							<block_001>
-								<holder name="Foldi" />
-							</block_001>
-						</category>
-					</blocks>
-				</category>
-			</SRD_PRO_00016>
-		</category>
-	</referencemanual2>
-	<spell>
-		<category name="ProNobis - Effects Coding - 0 General" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Effects Coding - 1 Races" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Effects Coding - 2 Items" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Effects Coding - Barbarian" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Effects Coding - Bard" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Effects Coding - Cleric" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Effects Coding - Fighter" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Effects Coding - Monk" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Effects Coding - Paladin" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Hombrew Spells" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Weapons" baseicon="0" decalicon="0">
-		</category>
-		<category name="SRD - Eldritch Invocations" baseicon="0" decalicon="0">
-		</category>
-		<category name="SRD - Spells" baseicon="0" decalicon="0">
-			<id-00123>
-				<public />
-			</id-00123>
-		</category>
-	</spell>
 	<storytemplate>
 		<category name="Incarnate-Engine" baseicon="0" decalicon="0">
 		</category>
@@ -2026,21 +1783,10 @@
 		<category name="ProNobis - Organization" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Race" baseicon="0" decalicon="0">
-			<id-00344>
-				<dice type="dice">d0</dice>
-				<mod type="number">6</mod>
-				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-				</category>
-			</id-00344>
 		</category>
 		<category name="ProNobis - Race Descriptions" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Random CR Stats" baseicon="0" decalicon="0">
-			<id-00333>
-				<mod type="number">6</mod>
-				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-				</category>
-			</id-00333>
 		</category>
 		<category name="ProNobis - Random NPC" baseicon="0" decalicon="0">
 		</category>
@@ -2157,7 +1903,7 @@
 				</category>
 			</id-01667>
 		</category>
-		<category name="SRD - Tables" baseicon="0" decalicon="0">
+		<category name="SRD - Magic Items" baseicon="0" decalicon="0">
 		</category>
 		<category name="Z - Debug - Background" baseicon="0" decalicon="0">
 		</category>
@@ -2190,9 +1936,9 @@
 					<itemlist>
 						<public />
 						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-							<id-00001>
+							<id-00002>
 								<public />
-							</id-00001>
+							</id-00002>
 							<id-00004>
 								<public />
 							</id-00004>

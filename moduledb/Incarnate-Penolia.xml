@@ -3,6 +3,7 @@
 	<image>
 		<category name="Incarnate-Penolia" baseicon="0" decalicon="0">
 			<id-00126>
+				<public />
 				<image type="image">
 					<bitmap>elvendungeon1_1_1.png</bitmap>
 					<mask>maskedimages/1509484330.png</mask>
@@ -172,6 +173,7 @@
 			<ishilbcity00073>
 			</ishilbcity00073>
 			<ishilbcity00122>
+				<public />
 				<image type="image">
 					<bitmap>ishilbcity_1_1.png</bitmap>
 					<gridsize>20</gridsize>
@@ -413,6 +415,7 @@
 			<id-00070>
 			</id-00070>
 			<id-00073>
+				<public />
 				<image type="image">
 					<bitmap>Region_5_5.png</bitmap>
 					<mask>maskedimages/1511982849.png</mask>
@@ -478,6 +481,7 @@
 				<isidentified type="number">1</isidentified>
 			</id-00073>
 			<id-00074>
+				<public />
 				<image type="image">
 					<bitmap>Region_5_6.png</bitmap>
 					<mask>maskedimages/1511134223.png</mask>
@@ -519,6 +523,7 @@
 			<id-00077>
 			</id-00077>
 			<id-00082>
+				<public />
 				<image type="image">
 					<bitmap>Region_6_3.png</bitmap>
 					<mask>maskedimages/1513822708.png</mask>
@@ -554,6 +559,7 @@
 				<isidentified type="number">1</isidentified>
 			</id-00082>
 			<id-00083>
+				<public />
 				<image type="image">
 					<bitmap>Region_6_4.png</bitmap>
 					<gridsize>20</gridsize>
@@ -593,6 +599,7 @@
 				<isidentified type="number">1</isidentified>
 			</id-00083>
 			<id-00084>
+				<public />
 				<image type="image">
 					<bitmap>Region_6_5.png</bitmap>
 					<mask>maskedimages/1510181990.png</mask>
@@ -697,7 +704,7 @@
 						</shortcut>
 					</shortcuts>
 					<tokens>
-						<idcounter>64</idcounter>
+						<idcounter>65</idcounter>
 						<scalelock>6.25</scalelock>
 					</tokens>
 					<pointers>
@@ -711,10 +718,21 @@
 							<owner>KrovaxGarakson</owner>
 							<color>ff000000</color>
 						</pointer>
+						<pointer>
+							<id>0</id>
+							<type>1</type>
+							<startx>1871</startx>
+							<starty>581</starty>
+							<endx>1901</endx>
+							<endy>621</endy>
+							<owner></owner>
+							<color>ff</color>
+						</pointer>
 					</pointers>
 				</image>
 			</id-00084>
 			<id-00085>
+				<public />
 				<image type="image">
 					<bitmap>Region_6_6.png</bitmap>
 					<gridsize>20</gridsize>
@@ -745,6 +763,7 @@
 			<id-00087>
 			</id-00087>
 			<id-00095>
+				<public />
 				<image type="image">
 					<bitmap>Region_7_5.png</bitmap>
 					<mask>maskedimages/1513537913.png</mask>
@@ -760,15 +779,39 @@
 							<recordname>image.id-00122@Incarnate-Penolia</recordname>
 						</shortcut>
 						<shortcut>
+							<public />
 							<x>1867</x>
 							<y>679</y>
 							<class>imagewindow</class>
 							<recordname>image.id-00131@Incarnate-Penolia</recordname>
 						</shortcut>
+						<shortcut>
+							<x>1484</x>
+							<y>609</y>
+							<class>npc</class>
+							<recordname>npc.id-00013@Incarnate-Engine</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1871</x>
+							<y>448</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00221</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1525</x>
+							<y>630</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00222</recordname>
+						</shortcut>
 					</shortcuts>
+					<tokens>
+						<idcounter>2</idcounter>
+						<scalelock>6.25</scalelock>
+					</tokens>
 				</image>
 			</id-00095>
 			<id-00096>
+				<public />
 				<image type="image">
 					<bitmap>Region_7_6.png</bitmap>
 					<mask>maskedimages/1513549259.png</mask>
@@ -803,6 +846,7 @@
 			<id-00105>
 			</id-00105>
 			<id-00106>
+				<public />
 				<image type="image">
 					<bitmap>Region_8_5.png</bitmap>
 					<mask>maskedimages/1513549623.png</mask>
@@ -820,6 +864,7 @@
 				</image>
 			</id-00106>
 			<id-00107>
+				<public />
 				<image type="image">
 					<bitmap>Region_8_6.png</bitmap>
 					<mask>maskedimages/1513546613.png</mask>
@@ -858,6 +903,7 @@
 				</image>
 			</id-00108>
 			<id-00122>
+				<public />
 				<image type="image">
 					<bitmap>World_1_1.png</bitmap>
 					<mask>maskedimages/1513822112.png</mask>
@@ -1602,6 +1648,30 @@
 							<recordname>image.id-00093@Incarnate-Penolia</recordname>
 						</shortcut>
 					</shortcuts>
+					<tokens>
+						<idcounter>2</idcounter>
+						<scalelock>4.375</scalelock>
+						<token>
+							<prototype>tokens/Medium/a.png@Letter Tokens</prototype>
+							<id>2</id>
+							<x>1121</x>
+							<y>1121</y>
+							<scale>1.42857</scale>
+							<orientation>7</orientation>
+						</token>
+					</tokens>
+					<pointers>
+						<pointer>
+							<id>0</id>
+							<type>1</type>
+							<startx>1101</startx>
+							<starty>1061</starty>
+							<endx>1231</endx>
+							<endy>1151</endy>
+							<owner></owner>
+							<color>ff</color>
+						</pointer>
+					</pointers>
 				</image>
 			</id-00122>
 			<id-00123>
@@ -1622,6 +1692,7 @@
 				</image>
 			</id-00123>
 			<id-00124>
+				<public />
 				<image type="image">
 					<bitmap>06_05FarmingHamlet_1_1.png</bitmap>
 					<gridsize>20</gridsize>
@@ -1740,6 +1811,7 @@
 				<name type="string">06_05FarmingHamlet-Umag</name>
 			</id-00124>
 			<id-00125>
+				<public />
 				<image type="image">
 					<bitmap>06_05Lizardfolkvillage_1_1.png</bitmap>
 					<gridsize>20</gridsize>
@@ -1903,6 +1975,7 @@
 				</image>
 			</id-00125>
 			<id-00127>
+				<public />
 				<image type="image">
 					<bitmap>06_05StartCity_1_1.png</bitmap>
 					<gridsize>20</gridsize>
@@ -1979,6 +2052,7 @@
 				</image>
 			</id-00127>
 			<id-00128>
+				<public />
 				<image type="image">
 					<bitmap>06_05TowerInRough_1_1.png</bitmap>
 					<gridsize>20</gridsize>
@@ -2078,9 +2152,9 @@
 				</image>
 			</id-00128>
 			<id-00129>
+				<public />
 				<image type="image">
 					<bitmap>06_05Wizard'sForest_1_1.png</bitmap>
-					<mask>maskedimages/1509910375.png</mask>
 					<gridsize>20</gridsize>
 					<gridoffset>0,0</gridoffset>
 					<gridsnap>on</gridsnap>
@@ -2197,7 +2271,66 @@
 					</shortcuts>
 				</image>
 			</id-00130>
+			<id-00131>
+				<public />
+				<image type="image">
+					<bitmap>07_05ForestVillage_1_1.png</bitmap>
+					<gridsize>20</gridsize>
+					<gridoffset>0,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<public />
+							<x>175</x>
+							<y>1823</y>
+							<class>imagewindow</class>
+							<recordname>image.id-00095@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>609</x>
+							<y>815</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00224</recordname>
+						</shortcut>
+					</shortcuts>
+					<tokens>
+						<idcounter>3</idcounter>
+						<scalelock>25</scalelock>
+						<token>
+							<prototype>portrait_id-00002_token</prototype>
+							<id>2</id>
+							<x>1911</x>
+							<y>1531</y>
+							<scale>3.9</scale>
+							<orientation>1</orientation>
+							<name>Firebomb Featherbeard</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+						<token>
+							<prototype>tokens/host/Kort.png</prototype>
+							<id>1</id>
+							<x>1871</x>
+							<y>1531</y>
+							<name>Galadriel</name>
+							<unmodifiable />
+							<targets>3</targets>
+						</token>
+						<token>
+							<prototype>portrait_id-00001_token</prototype>
+							<id>3</id>
+							<x>1901</x>
+							<y>1571</y>
+							<scale>4.2</scale>
+							<name>Aethelmaer</name>
+							<visibilitylocked>on</visibilitylocked>
+							<targets>1</targets>
+						</token>
+					</tokens>
+				</image>
+			</id-00131>
 			<id-00136>
+				<public />
 				<image type="image">
 					<bitmap>IshilbDoorstep_1_1.png</bitmap>
 					<drawing>drawings/drawing_1513204079.png</drawing>
@@ -2408,6 +2541,7 @@
 				<isidentified type="number">1</isidentified>
 			</id-00136>
 			<id-00139>
+				<public />
 				<image type="image">
 					<bitmap>northernforest0605_1_1.png</bitmap>
 					<gridsize>20</gridsize>
@@ -2500,6 +2634,7 @@
 		</category>
 		<category name="Unexplored" baseicon="0" decalicon="0">
 			<id-00134>
+				<public />
 				<image type="image">
 					<bitmap>Dungeon1_1_1.png</bitmap>
 					<mask>maskedimages/1509493919.png</mask>
@@ -2683,12 +2818,13 @@
 							<endx>1481</endx>
 							<endy>31</endy>
 							<owner>id-00002</owner>
-							<color>ff3c3c0a</color>
+							<color>ff000000</color>
 						</pointer>
 					</pointers>
 				</image>
 			</id-00135>
 			<id-00137>
+				<public />
 				<image type="image">
 					<bitmap>Tower1_1_1.png</bitmap>
 					<mask>maskedimages/1510784917.png</mask>
