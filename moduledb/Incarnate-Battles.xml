@@ -718,6 +718,17 @@
 		<category name="SRD - Dragon" baseicon="0" decalicon="0">
 		</category>
 		<category name="SRD - Elemental" baseicon="0" decalicon="0">
+			<id-00157>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<charisma>
+								<bonus type="number">-2</bonus>
+							</charisma>
+						</category>
+					</abilities>
+				</category>
+			</id-00157>
 		</category>
 		<category name="SRD - Fey" baseicon="0" decalicon="0">
 			<id-00172>
@@ -735,6 +746,23 @@
 		<category name="SRD - Fiend" baseicon="0" decalicon="0">
 		</category>
 		<category name="SRD - Giant" baseicon="0" decalicon="0">
+			<id-00198>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<charisma>
+								<bonus type="number">-2</bonus>
+							</charisma>
+							<intelligence>
+								<bonus type="number">-3</bonus>
+							</intelligence>
+							<wisdom>
+								<bonus type="number">-2</bonus>
+							</wisdom>
+						</category>
+					</abilities>
+				</category>
+			</id-00198>
 		</category>
 		<category name="SRD - Humanoid - General" baseicon="0" decalicon="0">
 		</category>
@@ -1842,7 +1870,7 @@
 		</category>
 		<category name="ProNobis - True Random - Mountain" baseicon="0" decalicon="0">
 			<M00002>
-				<mod type="number">4</mod>
+				<mod type="number">5</mod>
 				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
 				</category>
 			</M00002>

@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3" release="8|CoreRPG:3" integrity="e2df37b1c748f423263b30744c929e080e500419">
+	<class>
+		<category name="SRD - DandDwiki - Classes" baseicon="0" decalicon="0">
+			<probard>
+				<holder name="Vallard Dickens" />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<abilities>
+						<holder name="Vallard Dickens" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Vallard Dickens" />
+							</id-00001>
+							<id-00002>
+								<holder name="Vallard Dickens" />
+							</id-00002>
+						</category>
+					</abilities>
+					<equipment>
+						<holder name="Vallard Dickens" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<standard>
+								<holder name="Vallard Dickens" />
+							</standard>
+						</category>
+					</equipment>
+					<features>
+						<holder name="Vallard Dickens" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Vallard Dickens" />
+							</id-00001>
+							<id-00002>
+								<holder name="Vallard Dickens" />
+							</id-00002>
+							<id-00003>
+								<holder name="Vallard Dickens" />
+							</id-00003>
+							<id-00004>
+								<holder name="Vallard Dickens" />
+							</id-00004>
+							<id-00005>
+								<holder name="Vallard Dickens" />
+							</id-00005>
+							<id-00006>
+								<holder name="Vallard Dickens" />
+							</id-00006>
+							<id-00007>
+								<holder name="Vallard Dickens" />
+							</id-00007>
+							<id-00008>
+								<holder name="Vallard Dickens" />
+							</id-00008>
+							<id-00009>
+								<holder name="Vallard Dickens" />
+							</id-00009>
+							<id-00010>
+								<holder name="Vallard Dickens" />
+							</id-00010>
+							<id-00011>
+								<holder name="Vallard Dickens" />
+							</id-00011>
+							<id-00012>
+								<holder name="Vallard Dickens" />
+							</id-00012>
+							<id-00013>
+								<holder name="Vallard Dickens" />
+							</id-00013>
+							<id-00014>
+								<holder name="Vallard Dickens" />
+							</id-00014>
+							<id-00015>
+								<holder name="Vallard Dickens" />
+							</id-00015>
+							<id-00016>
+								<holder name="Vallard Dickens" />
+							</id-00016>
+							<id-00017>
+								<holder name="Vallard Dickens" />
+							</id-00017>
+							<id-00018>
+								<holder name="Vallard Dickens" />
+							</id-00018>
+							<id-00019>
+								<holder name="Vallard Dickens" />
+							</id-00019>
+							<id-00020>
+								<holder name="Vallard Dickens" />
+							</id-00020>
+							<id-00021>
+								<holder name="Vallard Dickens" />
+							</id-00021>
+							<id-000215>
+								<holder name="Vallard Dickens" />
+							</id-000215>
+							<id-00022>
+								<holder name="Vallard Dickens" />
+							</id-00022>
+							<id-00023>
+								<holder name="Vallard Dickens" />
+							</id-00023>
+							<id-00024>
+								<holder name="Vallard Dickens" />
+							</id-00024>
+							<id-00025>
+								<holder name="Vallard Dickens" />
+							</id-00025>
+							<id-00026>
+								<holder name="Vallard Dickens" />
+							</id-00026>
+							<id-00027>
+								<holder name="Vallard Dickens" />
+							</id-00027>
+							<id-00028>
+								<holder name="Vallard Dickens" />
+							</id-00028>
+							<id-00029>
+								<holder name="Vallard Dickens" />
+							</id-00029>
+							<id-00030>
+								<holder name="Vallard Dickens" />
+							</id-00030>
+							<id-00031>
+								<holder name="Vallard Dickens" />
+							</id-00031>
+						</category>
+					</features>
+					<hp>
+						<holder name="Vallard Dickens" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<hitdice>
+								<holder name="Vallard Dickens" />
+							</hitdice>
+							<hitpointsat1stlevel>
+								<holder name="Vallard Dickens" />
+							</hitpointsat1stlevel>
+							<hitpointsathigherlevels>
+								<holder name="Vallard Dickens" />
+							</hitpointsathigherlevels>
+						</category>
+					</hp>
+					<multiclassfeatures>
+						<holder name="Vallard Dickens" />
+					</multiclassfeatures>
+					<multiclassproficiencies>
+						<holder name="Vallard Dickens" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<armor>
+								<holder name="Vallard Dickens" />
+							</armor>
+							<skills>
+								<holder name="Vallard Dickens" />
+							</skills>
+							<tools>
+								<holder name="Vallard Dickens" />
+							</tools>
+							<weapons>
+								<holder name="Vallard Dickens" />
+							</weapons>
+						</category>
+					</multiclassproficiencies>
+					<proficiencies>
+						<holder name="Vallard Dickens" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<armor>
+								<holder name="Vallard Dickens" />
+							</armor>
+							<savingthrows>
+								<holder name="Vallard Dickens" />
+							</savingthrows>
+							<skills>
+								<holder name="Vallard Dickens" />
+							</skills>
+							<tools>
+								<holder name="Vallard Dickens" />
+							</tools>
+							<weapons>
+								<holder name="Vallard Dickens" />
+							</weapons>
+						</category>
+					</proficiencies>
+				</category>
+			</probard>
+		</category>
+	</class>
+	<referencemanual2>
+		<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+			<SRD_PRO_00012>
+				<holder name="Vallard Dickens" />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<blocks>
+						<holder name="Vallard Dickens" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<block_001>
+								<holder name="Vallard Dickens" />
+							</block_001>
+						</category>
+					</blocks>
+				</category>
+			</SRD_PRO_00012>
+		</category>
+	</referencemanual2>
+	<tables>
+		<category name="DandDwiki - Backgrounds" baseicon="0" decalicon="0">
+		</category>
+		<category name="DandDwiki - Races" baseicon="0" decalicon="0">
+			<id-00169>
+				<holder name="Vallard Dickens" />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<tablerows>
+						<holder name="Vallard Dickens" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Vallard Dickens" />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Vallard Dickens" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Vallard Dickens" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00001>
+							<id-00002>
+								<holder name="Vallard Dickens" />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Vallard Dickens" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Vallard Dickens" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00002>
+							<id-00003>
+								<holder name="Vallard Dickens" />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Vallard Dickens" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Vallard Dickens" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00003>
+							<id-00005>
+								<holder name="Vallard Dickens" />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Vallard Dickens" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Vallard Dickens" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00005>
+							<id-00006>
+								<holder name="Vallard Dickens" />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Vallard Dickens" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Vallard Dickens" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00006>
+							<id-00007>
+								<holder name="Vallard Dickens" />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Vallard Dickens" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Vallard Dickens" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00007>
+							<id-00008>
+								<holder name="Vallard Dickens" />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Vallard Dickens" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Vallard Dickens" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00008>
+							<id-00011>
+								<holder name="Vallard Dickens" />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<holder name="Vallard Dickens" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<holder name="Vallard Dickens" />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00011>
+						</category>
+					</tablerows>
+				</category>
+			</id-00169>
+		</category>
+		<category name="ProNobis - Backgrounds" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Chases" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Cities" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Class Attribute Tables" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Demihumans" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Dungeon - Bosses" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Item Tables" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Linguistic Name Generator" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - NameGenerator" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Organization" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Race" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Race Descriptions" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Random CR Stats" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Random NPC" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Rooms" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Status Effects" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Synthesis" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Treasure" baseicon="0" decalicon="0">
+		</category>
+		<category name="Pronobis - Dungeon" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Tables" baseicon="0" decalicon="0">
+		</category>
+		<category name="Z - Debug - Background" baseicon="0" decalicon="0">
+		</category>
+	</tables>
+</root>

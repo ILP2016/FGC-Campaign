@@ -1,0 +1,2221 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3" release="8|CoreRPG:3" integrity="3ed1b7ccf0686b42454b2804b970ce25a2867071">
+	<class>
+		<category name="SRD - DandDwiki - Classes" baseicon="0" decalicon="0">
+			<propaladin>
+				<public />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<abilities>
+						<public />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<public />
+							</id-00001>
+						</category>
+					</abilities>
+					<equipment>
+						<public />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<standard>
+								<public />
+							</standard>
+						</category>
+					</equipment>
+					<features>
+						<public />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<public />
+							</id-00001>
+							<id-00002>
+								<public />
+							</id-00002>
+							<id-00003>
+								<public />
+							</id-00003>
+							<id-00004>
+								<public />
+							</id-00004>
+							<id-00005>
+								<public />
+							</id-00005>
+							<id-00006>
+								<public />
+							</id-00006>
+							<id-00007>
+								<public />
+							</id-00007>
+							<id-00008>
+								<public />
+							</id-00008>
+							<id-00009>
+								<public />
+							</id-00009>
+							<id-00010>
+								<public />
+							</id-00010>
+							<id-00011>
+								<public />
+							</id-00011>
+							<id-00012>
+								<public />
+							</id-00012>
+							<id-00013>
+								<public />
+							</id-00013>
+							<id-00014>
+								<public />
+							</id-00014>
+							<id-00015>
+								<public />
+							</id-00015>
+							<id-00016>
+								<public />
+							</id-00016>
+							<id-00017>
+								<public />
+							</id-00017>
+							<id-00018>
+								<public />
+							</id-00018>
+							<id-00019>
+								<public />
+							</id-00019>
+							<id-00020>
+								<public />
+							</id-00020>
+							<id-00021>
+								<public />
+							</id-00021>
+							<id-00022>
+								<public />
+							</id-00022>
+							<id-00023>
+								<public />
+							</id-00023>
+							<id-00024>
+								<public />
+							</id-00024>
+							<id-00025>
+								<public />
+							</id-00025>
+							<id-00026>
+								<public />
+							</id-00026>
+						</category>
+					</features>
+					<hp>
+						<public />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<hitdice>
+								<public />
+							</hitdice>
+							<hitpointsat1stlevel>
+								<public />
+							</hitpointsat1stlevel>
+							<hitpointsathigherlevels>
+								<public />
+							</hitpointsathigherlevels>
+						</category>
+					</hp>
+					<multiclassfeatures>
+						<public />
+					</multiclassfeatures>
+					<multiclassproficiencies>
+						<public />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<armor>
+								<public />
+							</armor>
+							<skills>
+								<public />
+							</skills>
+							<tools>
+								<public />
+							</tools>
+							<weapons>
+								<public />
+							</weapons>
+						</category>
+					</multiclassproficiencies>
+					<proficiencies>
+						<public />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<armor>
+								<public />
+							</armor>
+							<savingthrows>
+								<public />
+							</savingthrows>
+							<skills>
+								<public />
+							</skills>
+							<tools>
+								<public />
+							</tools>
+							<weapons>
+								<public />
+							</weapons>
+						</category>
+					</proficiencies>
+				</category>
+			</propaladin>
+			<proranger>
+				<holder name="Grey" />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<abilities>
+						<holder name="Grey" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Grey" />
+							</id-00001>
+							<id-00002>
+								<holder name="Grey" />
+							</id-00002>
+							<id-00003>
+								<holder name="Grey" />
+							</id-00003>
+							<id-00004>
+								<holder name="Grey" />
+							</id-00004>
+							<id-00005>
+								<holder name="Grey" />
+							</id-00005>
+							<id-00006>
+								<holder name="Grey" />
+							</id-00006>
+							<id-00007>
+								<holder name="Grey" />
+							</id-00007>
+							<id-00008>
+								<holder name="Grey" />
+							</id-00008>
+						</category>
+					</abilities>
+					<equipment>
+						<holder name="Grey" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<standard>
+								<holder name="Grey" />
+							</standard>
+						</category>
+					</equipment>
+					<features>
+						<holder name="Grey" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Grey" />
+							</id-00001>
+							<id-00002>
+								<holder name="Grey" />
+							</id-00002>
+							<id-00003>
+								<holder name="Grey" />
+							</id-00003>
+							<id-00004>
+								<holder name="Grey" />
+							</id-00004>
+							<id-00005>
+								<holder name="Grey" />
+							</id-00005>
+							<id-00006>
+								<holder name="Grey" />
+							</id-00006>
+							<id-00007>
+								<holder name="Grey" />
+							</id-00007>
+							<id-00008>
+								<holder name="Grey" />
+							</id-00008>
+							<id-00009>
+								<holder name="Grey" />
+							</id-00009>
+							<id-00010>
+								<holder name="Grey" />
+							</id-00010>
+							<id-00011>
+								<holder name="Grey" />
+							</id-00011>
+							<id-00012>
+								<holder name="Grey" />
+							</id-00012>
+							<id-00013>
+								<holder name="Grey" />
+							</id-00013>
+							<id-00014>
+								<holder name="Grey" />
+							</id-00014>
+							<id-00015>
+								<holder name="Grey" />
+							</id-00015>
+							<id-00016>
+								<holder name="Grey" />
+							</id-00016>
+							<id-00017>
+								<holder name="Grey" />
+							</id-00017>
+							<id-00018>
+								<holder name="Grey" />
+							</id-00018>
+							<id-00019>
+								<holder name="Grey" />
+							</id-00019>
+							<id-00020>
+								<holder name="Grey" />
+							</id-00020>
+							<id-00021>
+								<holder name="Grey" />
+							</id-00021>
+							<id-00022>
+								<holder name="Grey" />
+							</id-00022>
+							<id-00023>
+								<holder name="Grey" />
+							</id-00023>
+							<id-00024>
+								<holder name="Grey" />
+							</id-00024>
+							<id-00025>
+								<holder name="Grey" />
+							</id-00025>
+							<id-00026>
+								<holder name="Grey" />
+							</id-00026>
+							<id-00027>
+								<holder name="Grey" />
+							</id-00027>
+							<id-00028>
+								<holder name="Grey" />
+							</id-00028>
+							<id-00029>
+								<holder name="Grey" />
+							</id-00029>
+							<id-00030>
+								<holder name="Grey" />
+							</id-00030>
+							<id-00031>
+								<holder name="Grey" />
+							</id-00031>
+							<id-00032>
+								<holder name="Grey" />
+							</id-00032>
+							<id-00033>
+								<holder name="Grey" />
+							</id-00033>
+							<id-00034>
+								<holder name="Grey" />
+							</id-00034>
+							<id-00035>
+								<holder name="Grey" />
+							</id-00035>
+							<id-00036>
+								<holder name="Grey" />
+							</id-00036>
+							<id-00037>
+								<holder name="Grey" />
+							</id-00037>
+							<id-00038>
+								<holder name="Grey" />
+							</id-00038>
+							<id-00039>
+								<holder name="Grey" />
+							</id-00039>
+							<id-00040>
+								<holder name="Grey" />
+							</id-00040>
+							<id-00041>
+								<holder name="Grey" />
+							</id-00041>
+							<id-00042>
+								<holder name="Grey" />
+							</id-00042>
+							<id-00043>
+								<holder name="Grey" />
+							</id-00043>
+							<id-00044>
+								<holder name="Grey" />
+							</id-00044>
+							<id-00045>
+								<holder name="Grey" />
+							</id-00045>
+							<id-00046>
+								<holder name="Grey" />
+							</id-00046>
+							<id-00047>
+								<holder name="Grey" />
+							</id-00047>
+							<id-00048>
+								<holder name="Grey" />
+							</id-00048>
+							<id-00049>
+								<holder name="Grey" />
+							</id-00049>
+							<id-00051>
+								<holder name="Grey" />
+							</id-00051>
+							<id-00052>
+								<holder name="Grey" />
+							</id-00052>
+							<id-00053>
+								<holder name="Grey" />
+							</id-00053>
+							<id-00054>
+								<holder name="Grey" />
+							</id-00054>
+							<id-00055>
+								<holder name="Grey" />
+							</id-00055>
+							<id-00056>
+								<holder name="Grey" />
+							</id-00056>
+							<id-00057>
+								<holder name="Grey" />
+							</id-00057>
+							<id-00058>
+								<holder name="Grey" />
+							</id-00058>
+							<id-00059>
+								<holder name="Grey" />
+							</id-00059>
+							<id-00060>
+								<holder name="Grey" />
+							</id-00060>
+							<id-00061>
+								<holder name="Grey" />
+							</id-00061>
+							<id-00062>
+								<holder name="Grey" />
+							</id-00062>
+							<id-00063>
+								<holder name="Grey" />
+							</id-00063>
+							<id-00064>
+								<holder name="Grey" />
+							</id-00064>
+							<id-00065>
+								<holder name="Grey" />
+							</id-00065>
+							<id-00066>
+								<holder name="Grey" />
+							</id-00066>
+						</category>
+					</features>
+					<hp>
+						<holder name="Grey" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<hitdice>
+								<holder name="Grey" />
+							</hitdice>
+							<hitpointsat1stlevel>
+								<holder name="Grey" />
+							</hitpointsat1stlevel>
+							<hitpointsathigherlevels>
+								<holder name="Grey" />
+							</hitpointsathigherlevels>
+						</category>
+					</hp>
+					<multiclassfeatures>
+						<holder name="Grey" />
+					</multiclassfeatures>
+					<multiclassproficiencies>
+						<holder name="Grey" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<armor>
+								<holder name="Grey" />
+							</armor>
+							<skills>
+								<holder name="Grey" />
+							</skills>
+							<tools>
+								<holder name="Grey" />
+							</tools>
+							<weapons>
+								<holder name="Grey" />
+							</weapons>
+						</category>
+					</multiclassproficiencies>
+					<proficiencies>
+						<holder name="Grey" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<armor>
+								<holder name="Grey" />
+							</armor>
+							<savingthrows>
+								<holder name="Grey" />
+							</savingthrows>
+							<skills>
+								<holder name="Grey" />
+							</skills>
+							<tools>
+								<holder name="Grey" />
+							</tools>
+							<weapons>
+								<holder name="Grey" />
+							</weapons>
+						</category>
+					</proficiencies>
+				</category>
+			</proranger>
+		</category>
+	</class>
+	<encounter>
+		<category name="DandDwiki - Backgrounds" baseicon="0" decalicon="0">
+		</category>
+		<category name="DandDwiki - Classes" baseicon="0" decalicon="0">
+		</category>
+		<category name="DandDwiki - Races" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - 00 Cheat Sheets" baseicon="0" decalicon="0">
+			<id-00033>
+				<public />
+			</id-00033>
+		</category>
+		<category name="ProNobis - Background" baseicon="0" decalicon="0">
+			<id-00044>
+				<holder name="Krovax" />
+			</id-00044>
+		</category>
+		<category name="ProNobis - Classes" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Hombrew Rules" baseicon="0" decalicon="0">
+			<id-00001>
+				<public />
+			</id-00001>
+			<id-00018>
+				<holder name="Thomas" />
+			</id-00018>
+		</category>
+		<category name="ProNobis - Lore" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Synthesis" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Class Tables" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Rules" baseicon="0" decalicon="0">
+		</category>
+	</encounter>
+	<item>
+		<category name="0 Temp" baseicon="0" decalicon="0">
+		</category>
+		<category name="1 Temp" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Armor - Elemental" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Armor - Special Metal" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Background Items" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Magic Item - Spoofs" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Magic Items - Shield" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - Ammunition" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - Arcane Focus" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - Druidic Focus" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - General" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - Holy Symbol" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - Poisons" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Armor - Heavy Armor" baseicon="0" decalicon="0">
+			<id-00199>
+				<description type="formattedtext">
+					<p>Of all the armor categories, heavy armor offers the best protection. These suits of armor cover the entire body and are designed to stop a wide range of attacks. Only proficient warriors can manage their weight and bulk.</p>
+					<p>Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.</p>
+				</description>
+				<locked type="number">0</locked>
+			</id-00199>
+		</category>
+		<category name="SRD - Armor - Light Armor" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Armor - Medium Armor" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Armor - Shield" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Armor" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Potion" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Ring" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Rod" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Scroll" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Staff" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Wand" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Weapon" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Wondrous Item" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - ProNobis" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Tools - Artisan's" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Tools - Gaming Set" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Tools - Kits/Sets" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Tools - Musical Instrument" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Trade Goods" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Transportation - Drawn Vehicles" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Transportation - Mounts and Animals" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Transportation - Saddle" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Transportation - Waterborne Vehicles" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Weapon - Martial" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Weapon - Ranged Weapon" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Weapon - Simple Melee" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Weapon - Simple Ranged" baseicon="0" decalicon="0">
+		</category>
+	</item>
+	<lists>
+		<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+			<backgrounds>
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<letter>
+						<holder name="Krovax" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<groups>
+								<holder name="Krovax" />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<typeletterA>
+										<holder name="Krovax" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<holder name="Krovax" />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<acrobat>
+														<holder name="Krovax" />
+													</acrobat>
+													<adventurer>
+														<holder name="Krovax" />
+													</adventurer>
+													<antiquian>
+														<holder name="Krovax" />
+													</antiquian>
+													<apothecary>
+														<holder name="Krovax" />
+													</apothecary>
+													<artist>
+														<holder name="Krovax" />
+													</artist>
+													<assassin>
+														<holder name="Krovax" />
+													</assassin>
+												</category>
+											</index>
+										</category>
+									</typeletterA>
+									<typeletterB>
+										<holder name="Krovax" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<holder name="Krovax" />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<barmaid>
+														<holder name="Krovax" />
+													</barmaid>
+													<battlesmith>
+														<holder name="Krovax" />
+													</battlesmith>
+													<beggar>
+														<holder name="Krovax" />
+													</beggar>
+													<blacksmith>
+														<holder name="Krovax" />
+													</blacksmith>
+												</category>
+											</index>
+										</category>
+									</typeletterB>
+									<typeletterC>
+										<holder name="Krovax" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<holder name="Krovax" />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<chef>
+														<holder name="Krovax" />
+													</chef>
+													<cityguard>
+														<holder name="Krovax" />
+													</cityguard>
+													<cleric>
+														<holder name="Krovax" />
+													</cleric>
+													<cobbler>
+														<holder name="Krovax" />
+													</cobbler>
+													<craftsman>
+														<holder name="Krovax" />
+													</craftsman>
+													<criminal>
+														<holder name="Krovax" />
+													</criminal>
+												</category>
+											</index>
+										</category>
+									</typeletterC>
+									<typeletterD>
+										<holder name="Krovax" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<holder name="Krovax" />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<detective>
+														<holder name="Krovax" />
+													</detective>
+													<doctor>
+														<holder name="Krovax" />
+													</doctor>
+												</category>
+											</index>
+										</category>
+									</typeletterD>
+									<typeletterF>
+										<holder name="Krovax" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<holder name="Krovax" />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<farmer>
+														<holder name="Krovax" />
+													</farmer>
+													<fieflesslord>
+														<holder name="Krovax" />
+													</fieflesslord>
+													<fletcher>
+														<holder name="Krovax" />
+													</fletcher>
+												</category>
+											</index>
+										</category>
+									</typeletterF>
+									<typeletterG>
+										<holder name="Krovax" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<holder name="Krovax" />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<gambler>
+														<holder name="Krovax" />
+													</gambler>
+													<governmentliason>
+														<holder name="Krovax" />
+													</governmentliason>
+													<groom>
+														<holder name="Krovax" />
+													</groom>
+												</category>
+											</index>
+										</category>
+									</typeletterG>
+									<typeletterH>
+										<holder name="Krovax" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<holder name="Krovax" />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<hoodedfigure>
+														<holder name="Krovax" />
+													</hoodedfigure>
+													<horsetrainer>
+														<holder name="Krovax" />
+													</horsetrainer>
+												</category>
+											</index>
+										</category>
+									</typeletterH>
+									<typeletterJ>
+										<holder name="Krovax" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<holder name="Krovax" />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<judge>
+														<holder name="Krovax" />
+													</judge>
+												</category>
+											</index>
+										</category>
+									</typeletterJ>
+									<typeletterK>
+										<holder name="Krovax" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<holder name="Krovax" />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<king>
+														<holder name="Krovax" />
+													</king>
+													<kingindisguise>
+														<holder name="Krovax" />
+													</kingindisguise>
+												</category>
+											</index>
+										</category>
+									</typeletterK>
+									<typeletterL>
+										<holder name="Krovax" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<holder name="Krovax" />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<librarian>
+														<holder name="Krovax" />
+													</librarian>
+												</category>
+											</index>
+										</category>
+									</typeletterL>
+									<typeletterM>
+										<holder name="Krovax" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<holder name="Krovax" />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<mayor>
+														<holder name="Krovax" />
+													</mayor>
+													<mercenary>
+														<holder name="Krovax" />
+													</mercenary>
+													<merchant>
+														<holder name="Krovax" />
+													</merchant>
+													<messenger>
+														<holder name="Krovax" />
+													</messenger>
+													<militaryinstructor>
+														<holder name="Krovax" />
+													</militaryinstructor>
+													<monastic>
+														<holder name="Krovax" />
+													</monastic>
+												</category>
+											</index>
+										</category>
+									</typeletterM>
+									<typeletterN>
+										<holder name="Krovax" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<holder name="Krovax" />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<nobleguard>
+														<holder name="Krovax" />
+													</nobleguard>
+												</category>
+											</index>
+										</category>
+									</typeletterN>
+									<typeletterP>
+										<holder name="Krovax" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<holder name="Krovax" />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<priest>
+														<holder name="Krovax" />
+													</priest>
+													<prince>
+														<holder name="Krovax" />
+													</prince>
+													<professor>
+														<holder name="Krovax" />
+													</professor>
+													<prospector>
+														<holder name="Krovax" />
+													</prospector>
+												</category>
+											</index>
+										</category>
+									</typeletterP>
+									<typeletterR>
+										<holder name="Krovax" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<holder name="Krovax" />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<Rabbi>
+														<holder name="Krovax" />
+													</Rabbi>
+												</category>
+											</index>
+										</category>
+									</typeletterR>
+									<typeletterS>
+										<holder name="Krovax" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<holder name="Krovax" />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<seamstress>
+														<holder name="Krovax" />
+													</seamstress>
+													<spy>
+														<holder name="Krovax" />
+													</spy>
+													<stableboy>
+														<holder name="Krovax" />
+													</stableboy>
+													<studentofmagic>
+														<holder name="Krovax" />
+													</studentofmagic>
+												</category>
+											</index>
+										</category>
+									</typeletterS>
+									<typeletterT>
+										<holder name="Krovax" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<holder name="Krovax" />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<tavernowner>
+														<holder name="Krovax" />
+													</tavernowner>
+													<teacher>
+														<holder name="Krovax" />
+													</teacher>
+												</category>
+											</index>
+										</category>
+									</typeletterT>
+									<typeletterU>
+										<holder name="Krovax" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<holder name="Krovax" />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<urbanvigilante>
+														<holder name="Krovax" />
+													</urbanvigilante>
+												</category>
+											</index>
+										</category>
+									</typeletterU>
+									<typeletterW>
+										<holder name="Krovax" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<holder name="Krovax" />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<waterfallmonk>
+														<holder name="Krovax" />
+													</waterfallmonk>
+												</category>
+											</index>
+										</category>
+									</typeletterW>
+								</category>
+							</groups>
+						</category>
+					</letter>
+				</category>
+			</backgrounds>
+			<spells>
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<ranger>
+						<public />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<groups>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<level1>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<alarm>
+														<public />
+													</alarm>
+													<animalfriendship>
+														<public />
+													</animalfriendship>
+													<curewounds>
+														<public />
+													</curewounds>
+													<detectmagic>
+														<public />
+													</detectmagic>
+													<detectpoisonanddisease>
+														<public />
+													</detectpoisonanddisease>
+													<fogcloud>
+														<public />
+													</fogcloud>
+													<goodberry>
+														<public />
+													</goodberry>
+													<jump>
+														<public />
+													</jump>
+													<longstrider>
+														<public />
+													</longstrider>
+													<speakwithanimals>
+														<public />
+													</speakwithanimals>
+												</category>
+											</index>
+										</category>
+									</level1>
+									<level2>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<animalmessenger>
+														<public />
+													</animalmessenger>
+													<barkskin>
+														<public />
+													</barkskin>
+													<darkvision>
+														<public />
+													</darkvision>
+													<findtraps>
+														<public />
+													</findtraps>
+													<lesserrestoration>
+														<public />
+													</lesserrestoration>
+													<locateanimalsorplants>
+														<public />
+													</locateanimalsorplants>
+													<locateobject>
+														<public />
+													</locateobject>
+													<nondetection>
+														<public />
+													</nondetection>
+													<passwithouttrace>
+														<public />
+													</passwithouttrace>
+													<protectionfrompoison>
+														<public />
+													</protectionfrompoison>
+													<silence>
+														<public />
+													</silence>
+													<spikegrowth>
+														<public />
+													</spikegrowth>
+												</category>
+											</index>
+										</category>
+									</level2>
+									<level3>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<conjureanimals>
+														<public />
+													</conjureanimals>
+													<daylight>
+														<public />
+													</daylight>
+													<nondetection>
+														<public />
+													</nondetection>
+													<plantgrowth>
+														<public />
+													</plantgrowth>
+													<protectionfromenergy>
+														<public />
+													</protectionfromenergy>
+													<speakwithplants>
+														<public />
+													</speakwithplants>
+													<waterbreathing>
+														<public />
+													</waterbreathing>
+													<waterwalk>
+														<public />
+													</waterwalk>
+													<windwall>
+														<public />
+													</windwall>
+												</category>
+											</index>
+										</category>
+									</level3>
+									<level4>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<conjurewoodlandbeings>
+														<public />
+													</conjurewoodlandbeings>
+													<freedomofmovement>
+														<public />
+													</freedomofmovement>
+													<locatecreature>
+														<public />
+													</locatecreature>
+													<stoneskin>
+														<public />
+													</stoneskin>
+												</category>
+											</index>
+										</category>
+									</level4>
+									<level5>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<public />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<communewithnature>
+														<public />
+													</communewithnature>
+													<treestride>
+														<public />
+													</treestride>
+												</category>
+											</index>
+										</category>
+									</level5>
+								</category>
+							</groups>
+						</category>
+					</ranger>
+				</category>
+			</spells>
+		</category>
+	</lists>
+	<npc>
+		<category name="ProNobis - DemiHumans - Greak" baseicon="0" decalicon="0">
+			<id-00022>
+				<holder name="Thomas" />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<abilities>
+						<holder name="Thomas" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<charisma>
+								<holder name="Thomas" />
+							</charisma>
+							<constitution>
+								<holder name="Thomas" />
+							</constitution>
+							<dexterity>
+								<holder name="Thomas" />
+							</dexterity>
+							<intelligence>
+								<holder name="Thomas" />
+							</intelligence>
+							<strength>
+								<holder name="Thomas" />
+							</strength>
+							<wisdom>
+								<holder name="Thomas" />
+							</wisdom>
+						</category>
+					</abilities>
+					<actions>
+						<holder name="Thomas" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Thomas" />
+							</id-00001>
+							<id-00002>
+								<holder name="Thomas" />
+							</id-00002>
+							<id-00003>
+								<holder name="Thomas" />
+							</id-00003>
+							<id-00004>
+								<holder name="Thomas" />
+							</id-00004>
+							<id-00005>
+								<holder name="Thomas" />
+							</id-00005>
+							<id-00006>
+								<holder name="Thomas" />
+							</id-00006>
+						</category>
+					</actions>
+					<innatespells>
+						<holder name="Thomas" />
+					</innatespells>
+					<lairactions>
+						<holder name="Thomas" />
+					</lairactions>
+					<legendaryactions>
+						<holder name="Thomas" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Thomas" />
+							</id-00001>
+							<id-00002>
+								<holder name="Thomas" />
+							</id-00002>
+							<id-00003>
+								<holder name="Thomas" />
+							</id-00003>
+							<id-00004>
+								<holder name="Thomas" />
+							</id-00004>
+						</category>
+					</legendaryactions>
+					<reactions>
+						<holder name="Thomas" />
+					</reactions>
+					<spells>
+						<holder name="Thomas" />
+					</spells>
+					<traits>
+						<holder name="Thomas" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Thomas" />
+							</id-00001>
+							<id-00002>
+								<holder name="Thomas" />
+							</id-00002>
+						</category>
+					</traits>
+				</category>
+			</id-00022>
+			<id-00025>
+				<locked type="number">1</locked>
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+				</category>
+			</id-00025>
+		</category>
+		<category name="ProNobis - Dungeon Bosses" baseicon="0" decalicon="0">
+			<id-00007>
+				<holder name="Foldi-One" />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<abilities>
+						<holder name="Foldi-One" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<charisma>
+								<holder name="Foldi-One" />
+							</charisma>
+							<constitution>
+								<holder name="Foldi-One" />
+							</constitution>
+							<dexterity>
+								<holder name="Foldi-One" />
+							</dexterity>
+							<intelligence>
+								<holder name="Foldi-One" />
+							</intelligence>
+							<strength>
+								<holder name="Foldi-One" />
+							</strength>
+							<wisdom>
+								<holder name="Foldi-One" />
+							</wisdom>
+						</category>
+					</abilities>
+					<actions>
+						<holder name="Foldi-One" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Foldi-One" />
+							</id-00001>
+						</category>
+					</actions>
+					<innatespells>
+						<holder name="Foldi-One" />
+					</innatespells>
+					<lairactions>
+						<holder name="Foldi-One" />
+					</lairactions>
+					<legendaryactions>
+						<holder name="Foldi-One" />
+					</legendaryactions>
+					<reactions>
+						<holder name="Foldi-One" />
+					</reactions>
+					<spells>
+						<holder name="Foldi-One" />
+					</spells>
+					<traits>
+						<holder name="Foldi-One" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Foldi-One" />
+							</id-00001>
+						</category>
+					</traits>
+				</category>
+			</id-00007>
+			<id-00013>
+				<locked type="number">0</locked>
+				<text type="formattedtext">
+					<h>Description</h>
+					<p>Servant's of Hades.</p>
+					<h>Forshadowing</h>
+					<list>
+						<li>A metalic pin embedded in the wall.</li>
+						<li></li>
+						<li></li>
+						<li>An orc with a pin in the middle of his very pale forehead... It seems like the life fled from his body.</li>
+					</list>
+					<h>Opening Text</h>
+					<frame>There is a bounty on your head, well everything's head, but that's besides the point.</frame>
+					<h>Battle Taunt</h>
+					<frame>Everyone's time has to come, why not yours now?</frame>
+					<frame>Pincushions are close relatives of mine... or rather pincushioned beings are.</frame>
+					<frame>This is entirely natural, you have nothing to fear but death itself.</frame>
+					<h>Death Speech</h>
+					<frame>What was intended has happened and so I pass on.</frame>
+				</text>
+				<type type="string">Undead</type>
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+				</category>
+			</id-00013>
+		</category>
+	</npc>
+	<race>
+		<category name="DandDwiki-Races" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis-Races" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - DandDwiki - Races" baseicon="0" decalicon="0">
+			<id-00004>
+				<public />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<subraces>
+						<public />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<hilldwarf>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+								</category>
+							</hilldwarf>
+							<id-00001>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<traits>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+										</category>
+									</traits>
+								</category>
+							</id-00001>
+							<id-00002>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<traits>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+										</category>
+									</traits>
+								</category>
+							</id-00002>
+							<id-00003>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<traits>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+										</category>
+									</traits>
+								</category>
+							</id-00003>
+							<id-00004>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<traits>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+										</category>
+									</traits>
+								</category>
+							</id-00004>
+							<id-00005>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<traits>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+										</category>
+									</traits>
+								</category>
+							</id-00005>
+							<id-00006>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<traits>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+										</category>
+									</traits>
+								</category>
+							</id-00006>
+							<id-00007>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<traits>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+										</category>
+									</traits>
+								</category>
+							</id-00007>
+							<id-00008>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<traits>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+										</category>
+									</traits>
+								</category>
+							</id-00008>
+							<id-00009>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<traits>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+										</category>
+									</traits>
+								</category>
+							</id-00009>
+							<id-00010>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<traits>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+										</category>
+									</traits>
+								</category>
+							</id-00010>
+							<id-00011>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<traits>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+										</category>
+									</traits>
+								</category>
+							</id-00011>
+							<id-00014>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<traits>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+											<id-00004>
+												<public />
+											</id-00004>
+											<id-00005>
+												<public />
+											</id-00005>
+										</category>
+									</traits>
+								</category>
+							</id-00014>
+							<id-00015>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<traits>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+										</category>
+									</traits>
+								</category>
+							</id-00015>
+						</category>
+					</subraces>
+					<traits>
+						<public />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<public />
+							</id-00001>
+							<id-00002>
+								<public />
+							</id-00002>
+							<id-00003>
+								<public />
+							</id-00003>
+							<id-00004>
+								<public />
+							</id-00004>
+							<id-00005>
+								<public />
+							</id-00005>
+							<id-00006>
+								<public />
+							</id-00006>
+							<id-00007>
+								<public />
+							</id-00007>
+							<id-00008>
+								<public />
+							</id-00008>
+							<id-00009>
+								<public />
+							</id-00009>
+							<id-00010>
+								<public />
+							</id-00010>
+							<id-00011>
+								<public />
+							</id-00011>
+							<id-00012>
+								<public />
+							</id-00012>
+						</category>
+					</traits>
+				</category>
+			</id-00004>
+		</category>
+	</race>
+	<referencemanual2>
+		<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+			<SRD_PRO_00016>
+				<holder name="Foldi" />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<blocks>
+						<holder name="Foldi" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<block_001>
+								<holder name="Foldi" />
+							</block_001>
+						</category>
+					</blocks>
+				</category>
+			</SRD_PRO_00016>
+		</category>
+	</referencemanual2>
+	<spell>
+		<category name="ProNobis - Effects Coding - 0 General" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Effects Coding - 1 Races" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Effects Coding - 2 Items" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Effects Coding - Barbarian" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Effects Coding - Bard" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Effects Coding - Cleric" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Effects Coding - Fighter" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Effects Coding - Monk" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Effects Coding - Paladin" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Hombrew Spells" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Weapons" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Eldritch Invocations" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Spells" baseicon="0" decalicon="0">
+			<id-00123>
+				<public />
+			</id-00123>
+		</category>
+	</spell>
+	<storytemplate>
+		<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Backgrounds" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Chases" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - City" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Dungeons" baseicon="0" decalicon="0">
+			<id-00134>
+				<public />
+			</id-00134>
+		</category>
+		<category name="ProNobis - Random - Buildings" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Random - Rooms" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Random NPC" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Random NPC - CR" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Random NPC - Class" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Random NPC - Race" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Sythensis" baseicon="0" decalicon="0">
+		</category>
+	</storytemplate>
+	<tables>
+		<category name="DandDwiki - Backgrounds" baseicon="0" decalicon="0">
+		</category>
+		<category name="DandDwiki - Races" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Backgrounds" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Chases" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Cities" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Class Attribute Tables" baseicon="0" decalicon="0">
+			<id-00511>
+				<public />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<tablerows>
+						<public />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00001>
+							<id-00002>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00002>
+							<id-00003>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00003>
+							<id-00004>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00004>
+							<id-00005>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00005>
+							<id-00006>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00006>
+							<id-00007>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00007>
+							<id-00008>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00008>
+							<id-00009>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00009>
+							<id-00010>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00010>
+							<id-00011>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00011>
+							<id-00012>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00012>
+							<id-00013>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00013>
+							<id-00014>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00014>
+							<id-00015>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00015>
+						</category>
+					</tablerows>
+				</category>
+			</id-00511>
+			<id-00515>
+				<public />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<tablerows>
+						<public />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00001>
+							<id-00002>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00002>
+							<id-00003>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00003>
+							<id-00004>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00004>
+							<id-00005>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00005>
+							<id-00006>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00006>
+							<id-00007>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00007>
+						</category>
+					</tablerows>
+				</category>
+			</id-00515>
+		</category>
+		<category name="ProNobis - Demihumans" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Dungeon - Bosses" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Item Tables" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Linguistic Name Generator" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - NameGenerator" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Organization" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Race" baseicon="0" decalicon="0">
+			<id-00344>
+				<dice type="dice">d0</dice>
+				<mod type="number">6</mod>
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+				</category>
+			</id-00344>
+		</category>
+		<category name="ProNobis - Race Descriptions" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Random CR Stats" baseicon="0" decalicon="0">
+			<id-00333>
+				<mod type="number">6</mod>
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+				</category>
+			</id-00333>
+		</category>
+		<category name="ProNobis - Random NPC" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Rooms" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Status Effects" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Synthesis" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Treasure" baseicon="0" decalicon="0">
+			<id-00450>
+				<public />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<tablerows>
+						<public />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+										</category>
+									</results>
+								</category>
+							</id-00001>
+							<id-00002>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+										</category>
+									</results>
+								</category>
+							</id-00002>
+						</category>
+					</tablerows>
+				</category>
+			</id-00450>
+			<id-01197>
+				<public />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<tablerows>
+						<public />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<public />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<results>
+										<public />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<id-00001>
+												<public />
+											</id-00001>
+											<id-00002>
+												<public />
+											</id-00002>
+											<id-00003>
+												<public />
+											</id-00003>
+										</category>
+									</results>
+								</category>
+							</id-00001>
+						</category>
+					</tablerows>
+				</category>
+			</id-01197>
+		</category>
+		<category name="Pronobis - Dungeon" baseicon="0" decalicon="0">
+			<id-01667>
+				<hiderollresults type="number">1</hiderollresults>
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<tablerows>
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00003>
+								<fromrange type="number">71</fromrange>
+								<torange type="number">80</torange>
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+								</category>
+							</id-00003>
+							<id-00004>
+								<fromrange type="number">0</fromrange>
+								<torange type="number">0</torange>
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+								</category>
+							</id-00004>
+							<id-00005>
+								<fromrange type="number">1</fromrange>
+								<torange type="number">70</torange>
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+								</category>
+							</id-00005>
+							<id-00006>
+								<fromrange type="number">81</fromrange>
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+								</category>
+							</id-00006>
+						</category>
+					</tablerows>
+				</category>
+			</id-01667>
+		</category>
+		<category name="SRD - Tables" baseicon="0" decalicon="0">
+		</category>
+		<category name="Z - Debug - Background" baseicon="0" decalicon="0">
+		</category>
+	</tables>
+	<treasureparcels>
+		<category name="ProNobis - Starting - Backgrounds" baseicon="0" decalicon="0">
+			<id-00022>
+				<public />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<coinlist>
+						<public />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<public />
+							</id-00001>
+							<id-00002>
+								<public />
+							</id-00002>
+							<id-00003>
+								<public />
+							</id-00003>
+							<id-00004>
+								<public />
+							</id-00004>
+							<id-00005>
+								<public />
+							</id-00005>
+						</category>
+					</coinlist>
+					<itemlist>
+						<public />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<public />
+							</id-00001>
+							<id-00004>
+								<public />
+							</id-00004>
+							<id-00005>
+								<public />
+							</id-00005>
+							<id-00006>
+								<public />
+							</id-00006>
+							<id-00007>
+								<public />
+							</id-00007>
+						</category>
+					</itemlist>
+					<temp>
+						<public />
+					</temp>
+				</category>
+			</id-00022>
+		</category>
+		<category name="ProNobis - Starting - Classes" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Packs" baseicon="0" decalicon="0">
+		</category>
+	</treasureparcels>
+</root>
