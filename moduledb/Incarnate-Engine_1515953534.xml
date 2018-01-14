@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<root version="3.3" release="8|CoreRPG:3" integrity="61c08ca2a5c77ddf03758486b4fef3cd29c65979">
+<root version="3.3" release="8|CoreRPG:3" integrity="773c6e52cf4e1ee1c7a397bfa4fd8b1875ba54e4">
 	<background>
 		<category name="DandDwiki - Backgrounds" baseicon="0" decalicon="0">
 		</category>
@@ -42,6 +42,9 @@
 							<id-00003>
 								<holder name="Genghis Tebo - ProNobis" />
 							</id-00003>
+							<id-00004>
+								<holder name="Genghis Tebo - ProNobis" />
+							</id-00004>
 							<id-00005>
 								<holder name="Genghis Tebo - ProNobis" />
 							</id-00005>
@@ -657,13 +660,9 @@
 		</category>
 	</encounter>
 	<item>
-		<category name="01 Temp - armor copies" baseicon="0" decalicon="0">
+		<category name="0 Temp" baseicon="0" decalicon="0">
 		</category>
-		<category name="02 Temp - weapon copies" baseicon="0" decalicon="0">
-		</category>
-		<category name="03 Temp - shield copies" baseicon="0" decalicon="0">
-		</category>
-		<category name="04 Temp - sword copies" baseicon="0" decalicon="0">
+		<category name="1 Temp" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis" baseicon="0" decalicon="0">
 		</category>
@@ -671,9 +670,7 @@
 		</category>
 		<category name="ProNobis - Armor - Elemental" baseicon="0" decalicon="0">
 		</category>
-		<category name="ProNobis - Armor - Magical" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Armor - Special Material" baseicon="0" decalicon="0">
+		<category name="ProNobis - Armor - Special Metal" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Background Items" baseicon="0" decalicon="0">
 		</category>
@@ -755,8 +752,6 @@
 		<category name="SRD - Weapon - Simple Melee" baseicon="0" decalicon="0">
 		</category>
 		<category name="SRD - Weapon - Simple Ranged" baseicon="0" decalicon="0">
-		</category>
-		<category name="Z Effect Coding" baseicon="0" decalicon="0">
 		</category>
 	</item>
 	<lists>
@@ -994,8 +989,6 @@
 		</category>
 		<category name="SRD - DandDwiki - Races" baseicon="0" decalicon="0">
 		</category>
-		<category name="SRD-Races" baseicon="0" decalicon="0">
-		</category>
 	</race>
 	<referencemanual2>
 		<category name="Incarnate-Engine" baseicon="0" decalicon="0">
@@ -1040,15 +1033,11 @@
 		</category>
 		<category name="ProNobis - Effects Coding - Cleric" baseicon="0" decalicon="0">
 		</category>
-		<category name="ProNobis - Effects Coding - DandDwiki - Feats" baseicon="0" decalicon="0">
-		</category>
 		<category name="ProNobis - Effects Coding - Fighter" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Effects Coding - Monk" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Effects Coding - Paladin" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Effects Coding - Ranger" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Hombrew Spells" baseicon="0" decalicon="0">
 		</category>
@@ -1425,136 +1414,6 @@
 									</results>
 								</category>
 							</id-00004>
-							<id-00005>
-								<public />
-								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-									<results>
-										<public />
-										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-											<id-00001>
-												<public />
-											</id-00001>
-										</category>
-									</results>
-								</category>
-							</id-00005>
-							<id-00006>
-								<public />
-								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-									<results>
-										<public />
-										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-											<id-00001>
-												<public />
-											</id-00001>
-										</category>
-									</results>
-								</category>
-							</id-00006>
-							<id-00007>
-								<public />
-								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-									<results>
-										<public />
-										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-											<id-00001>
-												<public />
-											</id-00001>
-										</category>
-									</results>
-								</category>
-							</id-00007>
-							<id-00008>
-								<public />
-								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-									<results>
-										<public />
-										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-											<id-00001>
-												<public />
-											</id-00001>
-										</category>
-									</results>
-								</category>
-							</id-00008>
-							<id-00009>
-								<public />
-								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-									<results>
-										<public />
-										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-											<id-00001>
-												<public />
-											</id-00001>
-										</category>
-									</results>
-								</category>
-							</id-00009>
-							<id-00010>
-								<public />
-								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-									<results>
-										<public />
-										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-											<id-00001>
-												<public />
-											</id-00001>
-										</category>
-									</results>
-								</category>
-							</id-00010>
-							<id-00011>
-								<public />
-								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-									<results>
-										<public />
-										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-											<id-00001>
-												<public />
-											</id-00001>
-										</category>
-									</results>
-								</category>
-							</id-00011>
-							<id-00012>
-								<public />
-								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-									<results>
-										<public />
-										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-											<id-00001>
-												<public />
-											</id-00001>
-										</category>
-									</results>
-								</category>
-							</id-00012>
-							<id-00013>
-								<public />
-								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-									<results>
-										<public />
-										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-											<id-00001>
-												<public />
-											</id-00001>
-										</category>
-									</results>
-								</category>
-							</id-00013>
-							<id-00014>
-								<public />
-								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-									<results>
-										<public />
-										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-											<id-00001>
-												<public />
-											</id-00001>
-										</category>
-									</results>
-								</category>
-							</id-00014>
 						</category>
 					</tablerows>
 				</category>
