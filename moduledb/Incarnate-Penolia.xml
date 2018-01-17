@@ -155,6 +155,7 @@
 							<recordname>image.id-00127@Incarnate-Penolia</recordname>
 						</shortcut>
 						<shortcut>
+							<public />
 							<x>650</x>
 							<y>475</y>
 							<class>imagewindow</class>
@@ -180,6 +181,9 @@
 			</id-00085>
 			<id-00086>
 			</id-00086>
+			<id-00089>
+				<public />
+			</id-00089>
 			<id-00094>
 				<public />
 				<image type="image">
@@ -281,7 +285,7 @@
 							<endx>1631</endx>
 							<endy>971</endy>
 							<owner>id-00001</owner>
-							<color>ff0000af</color>
+							<color>ff000000</color>
 						</pointer>
 					</pointers>
 				</image>
@@ -1080,22 +1084,11 @@
 						<token>
 							<prototype>tokens/shared/ProNobis/LetterTokens/A.png</prototype>
 							<id>2</id>
-							<x>941</x>
-							<y>1131</y>
+							<x>911</x>
+							<y>1181</y>
+							<scale>0.6</scale>
 						</token>
 					</tokens>
-					<pointers>
-						<pointer>
-							<id>0</id>
-							<type>1</type>
-							<startx>901</startx>
-							<starty>1041</starty>
-							<endx>931</endx>
-							<endy>1131</endy>
-							<owner></owner>
-							<color>ff</color>
-						</pointer>
-					</pointers>
 				</image>
 				<isidentified type="number">1</isidentified>
 			</id-00122>
@@ -1180,41 +1173,6 @@
 					<tokens>
 						<idcounter>28</idcounter>
 						<scalelock>6.25</scalelock>
-						<token>
-							<prototype>portrait_id-00003_token</prototype>
-							<id>3</id>
-							<x>1091</x>
-							<y>1231</y>
-							<orientation>2</orientation>
-							<name>Varric Adahlin</name>
-							<visibilitylocked>on</visibilitylocked>
-						</token>
-						<token>
-							<prototype>portrait_id-00007_token</prototype>
-							<id>4</id>
-							<x>1421</x>
-							<y>1331</y>
-							<name>Aethelmaer</name>
-							<visibilitylocked>on</visibilitylocked>
-						</token>
-						<token>
-							<prototype>portrait_id-00001_token</prototype>
-							<id>2</id>
-							<x>1081</x>
-							<y>1211</y>
-							<orientation>5</orientation>
-							<name>Tony</name>
-							<visibilitylocked>on</visibilitylocked>
-						</token>
-						<token>
-							<prototype>portrait_id-00002_token</prototype>
-							<id>1</id>
-							<x>1171</x>
-							<y>1151</y>
-							<orientation>2</orientation>
-							<name>Vallard Dickens</name>
-							<visibilitylocked>on</visibilitylocked>
-						</token>
 					</tokens>
 					<pointers>
 						<pointer>
@@ -1239,6 +1197,27 @@
 			</id-00127>
 			<id-00128>
 				<public />
+				<image type="image">
+					<bitmap>06_05TowerInRough_1_1.png</bitmap>
+					<gridsize>20</gridsize>
+					<gridoffset>0,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<x>157</x>
+							<y>1603</y>
+							<class>imagewindow</class>
+							<recordname>image.id-00084@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>1014</x>
+							<y>929</y>
+							<class>imagewindow</class>
+							<recordname>image.id-00137@Incarnate-Penolia</recordname>
+						</shortcut>
+					</shortcuts>
+				</image>
 			</id-00128>
 			<id-00129>
 				<public />
@@ -1246,10 +1225,247 @@
 			<id-00136>
 				<public />
 			</id-00136>
+			<id-00139>
+				<public />
+				<image type="image">
+					<bitmap>northernforest0605_1_1.png</bitmap>
+					<gridsize>20</gridsize>
+					<gridoffset>0,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<public />
+							<x>41</x>
+							<y>2012</y>
+							<class>imagewindow</class>
+							<recordname>image.id-00084@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<x>526</x>
+							<y>1116</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00102</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1634</x>
+							<y>885</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00105</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1138</x>
+							<y>386</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00110</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1284</x>
+							<y>712</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00101</recordname>
+						</shortcut>
+						<shortcut>
+							<x>894</x>
+							<y>800</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00108</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1062</x>
+							<y>967</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00109</recordname>
+						</shortcut>
+						<shortcut>
+							<x>973</x>
+							<y>1162</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00106</recordname>
+						</shortcut>
+						<shortcut>
+							<x>934</x>
+							<y>1600</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00111</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1573</x>
+							<y>1408</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00096</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1399</x>
+							<y>1116</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00107</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1284</x>
+							<y>873</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00027</recordname>
+						</shortcut>
+					</shortcuts>
+				</image>
+			</id-00139>
 		</category>
 		<category name="Southern Port City" baseicon="0" decalicon="0">
 		</category>
 		<category name="Unexplored" baseicon="0" decalicon="0">
+			<id-00137>
+				<public />
+				<image type="image">
+					<bitmap>Tower1_1_1.png</bitmap>
+					<drawing>drawings/drawing_1515967348.png</drawing>
+					<gridsize>20</gridsize>
+					<gridoffset>0,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<public />
+							<x>52</x>
+							<y>2003</y>
+							<class>imagewindow</class>
+							<recordname>image.id-00128@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<x>315</x>
+							<y>790</y>
+							<class>battle</class>
+							<recordname>battle.id-00053</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1604</x>
+							<y>693</y>
+							<class>battle</class>
+							<recordname>battle.id-00018</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1601</x>
+							<y>608</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00070</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1680</x>
+							<y>426</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00073</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1398</x>
+							<y>635</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00238</recordname>
+						</shortcut>
+					</shortcuts>
+					<tokens>
+						<idcounter>29</idcounter>
+						<scalelock>6.25</scalelock>
+						<token>
+							<prototype>tokens/ProNobis/LetterTokens/S.png@Incarnate-Engine</prototype>
+							<id>22</id>
+							<x>1301</x>
+							<y>741</y>
+							<scale>1.5625</scale>
+							<name>Spifier 15</name>
+							<unmodifiable />
+							<visibilitylocked>off</visibilitylocked>
+						</token>
+						<token>
+							<prototype>tokens/ProNobis/LetterTokens/S.png@Incarnate-Engine</prototype>
+							<id>27</id>
+							<x>1281</x>
+							<y>721</y>
+							<scale>1.2625</scale>
+							<name>Spifier 6</name>
+							<unmodifiable />
+							<visibilitylocked>off</visibilitylocked>
+							<targets>29</targets>
+						</token>
+						<token>
+							<prototype>tokens/giantspider.png@DD5E SRD Bestiary</prototype>
+							<id>28</id>
+							<x>1271</x>
+							<y>751</y>
+							<scale>1.5625</scale>
+							<name>Giant Spider 3</name>
+							<unmodifiable />
+							<visibilitylocked>off</visibilitylocked>
+						</token>
+						<token>
+							<prototype>tokens/giantspider.png@DD5E SRD Bestiary</prototype>
+							<id>26</id>
+							<x>1311</x>
+							<y>771</y>
+							<scale>1.5625</scale>
+							<name>Giant Spider 10</name>
+							<unmodifiable />
+							<visibilitylocked>off</visibilitylocked>
+						</token>
+						<token>
+							<prototype>tokens/giantspider.png@DD5E SRD Bestiary</prototype>
+							<id>24</id>
+							<x>1271</x>
+							<y>791</y>
+							<scale>1.5625</scale>
+							<name>Giant Spider 7</name>
+							<unmodifiable />
+							<visibilitylocked>off</visibilitylocked>
+						</token>
+						<token>
+							<prototype>portrait_id-00005_token</prototype>
+							<id>2</id>
+							<x>1341</x>
+							<y>711</y>
+							<name>Corbon</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+						<token>
+							<prototype>portrait_id-00001_token</prototype>
+							<id>3</id>
+							<x>1411</x>
+							<y>571</y>
+						</token>
+						<token>
+							<prototype>portrait_id-00004_token</prototype>
+							<id>1</id>
+							<x>1491</x>
+							<y>561</y>
+							<orientation>5</orientation>
+							<targets>12</targets>
+						</token>
+						<token>
+							<prototype>tokens/ProNobis/LetterTokens/S.png@Incarnate-Engine</prototype>
+							<id>25</id>
+							<x>1261</x>
+							<y>711</y>
+							<scale>1.5625</scale>
+							<name>Spifier 11</name>
+							<unmodifiable />
+							<visibilitylocked>off</visibilitylocked>
+						</token>
+						<token>
+							<prototype>tokens/shared/ProNobis/LetterTokens/D.png</prototype>
+							<id>29</id>
+							<x>1291</x>
+							<y>701</y>
+							<scale>1.5625</scale>
+							<name>Door</name>
+							<unmodifiable />
+						</token>
+						<token>
+							<prototype>portrait_id-00007_token</prototype>
+							<id>12</id>
+							<x>1311</x>
+							<y>691</y>
+							<orientation>7</orientation>
+						</token>
+					</tokens>
+				</image>
+				<isidentified type="number">1</isidentified>
+			</id-00137>
 		</category>
 	</image>
 </root>

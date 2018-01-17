@@ -2,6 +2,86 @@
 <root version="3.3" release="8|CoreRPG:3" integrity="61c08ca2a5c77ddf03758486b4fef3cd29c65979">
 	<background>
 		<category name="DandDwiki - Backgrounds" baseicon="0" decalicon="0">
+			<id-00006>
+				<holder name="Esmal" />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<features>
+						<holder name="Esmal" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Esmal" />
+							</id-00001>
+							<id-00002>
+								<holder name="Esmal" />
+							</id-00002>
+						</category>
+					</features>
+				</category>
+			</id-00006>
+			<id-00009>
+				<holder name="Esmal" />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<features>
+						<holder name="Esmal" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Esmal" />
+							</id-00001>
+							<id-00002>
+								<holder name="Esmal" />
+							</id-00002>
+						</category>
+					</features>
+				</category>
+			</id-00009>
+			<id-00011>
+				<holder name="Esmal" />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<features>
+						<holder name="Esmal" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Esmal" />
+							</id-00001>
+							<id-00002>
+								<holder name="Esmal" />
+							</id-00002>
+						</category>
+					</features>
+				</category>
+			</id-00011>
+			<id-00013>
+				<holder name="Esmal" />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<features>
+						<holder name="Esmal" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Esmal" />
+							</id-00001>
+							<id-00002>
+								<holder name="Esmal" />
+							</id-00002>
+						</category>
+					</features>
+				</category>
+			</id-00013>
+			<id-00018>
+				<holder name="Esmal" />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<features>
+						<holder name="Esmal" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Esmal" />
+							</id-00001>
+							<id-00002>
+								<holder name="Esmal" />
+							</id-00002>
+						</category>
+					</features>
+				</category>
+			</id-00018>
 		</category>
 		<category name="ProNobis - Backgrounds" baseicon="0" decalicon="0">
 			<id-00035>
@@ -496,6 +576,164 @@
 					</features>
 				</category>
 			</prodruid>
+			<propaladin>
+				<holder name="Esmal" />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<abilities>
+						<holder name="Esmal" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Esmal" />
+							</id-00001>
+						</category>
+					</abilities>
+					<equipment>
+						<holder name="Esmal" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<standard>
+								<holder name="Esmal" />
+							</standard>
+						</category>
+					</equipment>
+					<features>
+						<holder name="Esmal" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Esmal" />
+							</id-00001>
+							<id-00002>
+								<holder name="Esmal" />
+							</id-00002>
+							<id-00003>
+								<holder name="Esmal" />
+							</id-00003>
+							<id-00004>
+								<holder name="Esmal" />
+							</id-00004>
+							<id-00005>
+								<holder name="Esmal" />
+							</id-00005>
+							<id-00006>
+								<holder name="Esmal" />
+							</id-00006>
+							<id-00007>
+								<holder name="Esmal" />
+							</id-00007>
+							<id-00008>
+								<holder name="Esmal" />
+							</id-00008>
+							<id-00009>
+								<holder name="Esmal" />
+							</id-00009>
+							<id-00010>
+								<holder name="Esmal" />
+							</id-00010>
+							<id-00011>
+								<holder name="Esmal" />
+							</id-00011>
+							<id-00012>
+								<holder name="Esmal" />
+							</id-00012>
+							<id-00013>
+								<holder name="Esmal" />
+							</id-00013>
+							<id-00014>
+								<holder name="Esmal" />
+							</id-00014>
+							<id-00015>
+								<holder name="Esmal" />
+							</id-00015>
+							<id-00016>
+								<holder name="Esmal" />
+							</id-00016>
+							<id-00017>
+								<holder name="Esmal" />
+							</id-00017>
+							<id-00018>
+								<holder name="Esmal" />
+							</id-00018>
+							<id-00019>
+								<holder name="Esmal" />
+							</id-00019>
+							<id-00020>
+								<holder name="Esmal" />
+							</id-00020>
+							<id-00021>
+								<holder name="Esmal" />
+							</id-00021>
+							<id-00022>
+								<holder name="Esmal" />
+							</id-00022>
+							<id-00023>
+								<holder name="Esmal" />
+							</id-00023>
+							<id-00024>
+								<holder name="Esmal" />
+							</id-00024>
+							<id-00025>
+								<holder name="Esmal" />
+							</id-00025>
+							<id-00026>
+								<holder name="Esmal" />
+							</id-00026>
+						</category>
+					</features>
+					<hp>
+						<holder name="Esmal" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<hitdice>
+								<holder name="Esmal" />
+							</hitdice>
+							<hitpointsat1stlevel>
+								<holder name="Esmal" />
+							</hitpointsat1stlevel>
+							<hitpointsathigherlevels>
+								<holder name="Esmal" />
+							</hitpointsathigherlevels>
+						</category>
+					</hp>
+					<multiclassfeatures>
+						<holder name="Esmal" />
+					</multiclassfeatures>
+					<multiclassproficiencies>
+						<holder name="Esmal" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<armor>
+								<holder name="Esmal" />
+							</armor>
+							<skills>
+								<holder name="Esmal" />
+							</skills>
+							<tools>
+								<holder name="Esmal" />
+							</tools>
+							<weapons>
+								<holder name="Esmal" />
+							</weapons>
+						</category>
+					</multiclassproficiencies>
+					<proficiencies>
+						<holder name="Esmal" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<armor>
+								<holder name="Esmal" />
+							</armor>
+							<savingthrows>
+								<holder name="Esmal" />
+							</savingthrows>
+							<skills>
+								<holder name="Esmal" />
+							</skills>
+							<tools>
+								<holder name="Esmal" />
+							</tools>
+							<weapons>
+								<holder name="Esmal" />
+							</weapons>
+						</category>
+					</proficiencies>
+				</category>
+			</propaladin>
 			<prowizard>
 				<holder name="Genghis Tebo - ProNobis" />
 				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
@@ -635,6 +873,7 @@
 		<category name="ProNobis - Background" baseicon="0" decalicon="0">
 			<id-00044>
 				<holder name="Genghis Tebo - ProNobis" />
+				<holder name="Esmal" />
 			</id-00044>
 		</category>
 		<category name="ProNobis - Classes" baseicon="0" decalicon="0">
@@ -761,73 +1000,252 @@
 	</item>
 	<lists>
 		<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+			<spells>
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<paladin>
+						<holder name="Esmal" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<groups>
+								<holder name="Esmal" />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<level1>
+										<holder name="Esmal" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<holder name="Esmal" />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<bless>
+														<holder name="Esmal" />
+													</bless>
+													<command>
+														<holder name="Esmal" />
+													</command>
+													<curewounds>
+														<holder name="Esmal" />
+													</curewounds>
+													<detectevilandgood>
+														<holder name="Esmal" />
+													</detectevilandgood>
+													<detectmagic>
+														<holder name="Esmal" />
+													</detectmagic>
+													<detectpoisonanddisease>
+														<holder name="Esmal" />
+													</detectpoisonanddisease>
+													<divinefavor>
+														<holder name="Esmal" />
+													</divinefavor>
+													<heroism>
+														<holder name="Esmal" />
+													</heroism>
+													<protectionfromevilandgood>
+														<holder name="Esmal" />
+													</protectionfromevilandgood>
+													<purifyfoodanddrink>
+														<holder name="Esmal" />
+													</purifyfoodanddrink>
+													<shieldoffaith>
+														<holder name="Esmal" />
+													</shieldoffaith>
+												</category>
+											</index>
+										</category>
+									</level1>
+									<level2>
+										<holder name="Esmal" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<holder name="Esmal" />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<aid>
+														<holder name="Esmal" />
+													</aid>
+													<brandingsmite>
+														<holder name="Esmal" />
+													</brandingsmite>
+													<findsteed>
+														<holder name="Esmal" />
+													</findsteed>
+													<lesserrestoration>
+														<holder name="Esmal" />
+													</lesserrestoration>
+													<locateobject>
+														<holder name="Esmal" />
+													</locateobject>
+													<magicweapon>
+														<holder name="Esmal" />
+													</magicweapon>
+													<protectionfrompoison>
+														<holder name="Esmal" />
+													</protectionfrompoison>
+													<zoneoftruth>
+														<holder name="Esmal" />
+													</zoneoftruth>
+												</category>
+											</index>
+										</category>
+									</level2>
+									<level3>
+										<holder name="Esmal" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<holder name="Esmal" />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<createfoodandwater>
+														<holder name="Esmal" />
+													</createfoodandwater>
+													<daylight>
+														<holder name="Esmal" />
+													</daylight>
+													<dispelmagic>
+														<holder name="Esmal" />
+													</dispelmagic>
+													<magiccircle>
+														<holder name="Esmal" />
+													</magiccircle>
+													<removecurse>
+														<holder name="Esmal" />
+													</removecurse>
+													<revivify>
+														<holder name="Esmal" />
+													</revivify>
+												</category>
+											</index>
+										</category>
+									</level3>
+									<level4>
+										<holder name="Esmal" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<holder name="Esmal" />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<banishment>
+														<holder name="Esmal" />
+													</banishment>
+													<deathward>
+														<holder name="Esmal" />
+													</deathward>
+													<locatecreature>
+														<holder name="Esmal" />
+													</locatecreature>
+												</category>
+											</index>
+										</category>
+									</level4>
+									<level5>
+										<holder name="Esmal" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<index>
+												<holder name="Esmal" />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<dispelevilandgood>
+														<holder name="Esmal" />
+													</dispelevilandgood>
+													<geas>
+														<holder name="Esmal" />
+													</geas>
+													<raisedead>
+														<holder name="Esmal" />
+													</raisedead>
+												</category>
+											</index>
+										</category>
+									</level5>
+								</category>
+							</groups>
+						</category>
+					</paladin>
+				</category>
+			</spells>
 			<startingequipment>
 				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
 					<barbarian>
 						<holder name="Genghis Tebo - ProNobis" />
+						<holder name="Grey-prenub" />
 						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
 							<groups>
 								<holder name="Genghis Tebo - ProNobis" />
+								<holder name="Grey-prenub" />
 								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
 									<p1choice1>
 										<holder name="Genghis Tebo - ProNobis" />
+										<holder name="Grey-prenub" />
 										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
 											<equipment>
 												<holder name="Genghis Tebo - ProNobis" />
+												<holder name="Grey-prenub" />
 												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
 													<battleaxe>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</battleaxe>
 													<flail>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</flail>
 													<glaive>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</glaive>
 													<greataxe>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</greataxe>
 													<greatsword>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</greatsword>
 													<halberd>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</halberd>
 													<lance>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</lance>
 													<longsword>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</longsword>
 													<maul>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</maul>
 													<morningstar>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</morningstar>
 													<pike>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</pike>
 													<rapier>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</rapier>
 													<scimitar>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</scimitar>
 													<shortsword>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</shortsword>
 													<trident>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</trident>
 													<warhammer>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</warhammer>
 													<warpick>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</warpick>
 													<whip>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</whip>
 												</category>
 											</equipment>
@@ -835,39 +1253,51 @@
 									</p1choice1>
 									<p2choice2>
 										<holder name="Genghis Tebo - ProNobis" />
+										<holder name="Grey-prenub" />
 										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
 											<equipment>
 												<holder name="Genghis Tebo - ProNobis" />
+												<holder name="Grey-prenub" />
 												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
 													<club>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</club>
 													<dagger>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</dagger>
 													<greatclub>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</greatclub>
 													<handaxe>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</handaxe>
 													<javelin>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</javelin>
 													<lighthammer>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</lighthammer>
 													<mace>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</mace>
 													<quarterstaff>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</quarterstaff>
 													<sickle>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</sickle>
 													<spear>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</spear>
 												</category>
 											</equipment>
@@ -875,12 +1305,15 @@
 									</p2choice2>
 									<p3choice3>
 										<holder name="Genghis Tebo - ProNobis" />
+										<holder name="Grey-prenub" />
 										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
 											<equipment>
 												<holder name="Genghis Tebo - ProNobis" />
+												<holder name="Grey-prenub" />
 												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
 													<explorerspack>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</explorerspack>
 												</category>
 											</equipment>
@@ -888,12 +1321,15 @@
 									</p3choice3>
 									<p4choice4>
 										<holder name="Genghis Tebo - ProNobis" />
+										<holder name="Grey-prenub" />
 										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
 											<equipment>
 												<holder name="Genghis Tebo - ProNobis" />
+												<holder name="Grey-prenub" />
 												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
 													<javelin>
 														<holder name="Genghis Tebo - ProNobis" />
+														<holder name="Grey-prenub" />
 													</javelin>
 												</category>
 											</equipment>
@@ -903,10 +1339,188 @@
 							</groups>
 						</category>
 					</barbarian>
+					<paladin>
+						<holder name="Esmal" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<groups>
+								<holder name="Esmal" />
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+									<p1choice1>
+										<holder name="Esmal" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<equipment>
+												<holder name="Esmal" />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<battleaxe>
+														<holder name="Esmal" />
+													</battleaxe>
+													<flail>
+														<holder name="Esmal" />
+													</flail>
+													<glaive>
+														<holder name="Esmal" />
+													</glaive>
+													<greataxe>
+														<holder name="Esmal" />
+													</greataxe>
+													<greatsword>
+														<holder name="Esmal" />
+													</greatsword>
+													<halberd>
+														<holder name="Esmal" />
+													</halberd>
+													<lance>
+														<holder name="Esmal" />
+													</lance>
+													<longsword>
+														<holder name="Esmal" />
+													</longsword>
+													<maul>
+														<holder name="Esmal" />
+													</maul>
+													<morningstar>
+														<holder name="Esmal" />
+													</morningstar>
+													<p01shield>
+														<holder name="Esmal" />
+													</p01shield>
+													<pike>
+														<holder name="Esmal" />
+													</pike>
+													<rapier>
+														<holder name="Esmal" />
+													</rapier>
+													<scimitar>
+														<holder name="Esmal" />
+													</scimitar>
+													<shortsword>
+														<holder name="Esmal" />
+													</shortsword>
+													<trident>
+														<holder name="Esmal" />
+													</trident>
+													<warhammer>
+														<holder name="Esmal" />
+													</warhammer>
+													<warpick>
+														<holder name="Esmal" />
+													</warpick>
+													<whip>
+														<holder name="Esmal" />
+													</whip>
+												</category>
+											</equipment>
+										</category>
+									</p1choice1>
+									<p2choice2>
+										<holder name="Esmal" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<equipment>
+												<holder name="Esmal" />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<club>
+														<holder name="Esmal" />
+													</club>
+													<dagger>
+														<holder name="Esmal" />
+													</dagger>
+													<greatclub>
+														<holder name="Esmal" />
+													</greatclub>
+													<handaxe>
+														<holder name="Esmal" />
+													</handaxe>
+													<javelin>
+														<holder name="Esmal" />
+													</javelin>
+													<lighthammer>
+														<holder name="Esmal" />
+													</lighthammer>
+													<mace>
+														<holder name="Esmal" />
+													</mace>
+													<quarterstaff>
+														<holder name="Esmal" />
+													</quarterstaff>
+													<sickle>
+														<holder name="Esmal" />
+													</sickle>
+													<spear>
+														<holder name="Esmal" />
+													</spear>
+												</category>
+											</equipment>
+										</category>
+									</p2choice2>
+									<p3choice3>
+										<holder name="Esmal" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<equipment>
+												<holder name="Esmal" />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<explorerspack>
+														<holder name="Esmal" />
+													</explorerspack>
+													<priestspack>
+														<holder name="Esmal" />
+													</priestspack>
+												</category>
+											</equipment>
+										</category>
+									</p3choice3>
+									<p4choice4>
+										<holder name="Esmal" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<equipment>
+												<holder name="Esmal" />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<p1chainmail>
+														<holder name="Esmal" />
+													</p1chainmail>
+												</category>
+											</equipment>
+										</category>
+									</p4choice4>
+									<p5choice5>
+										<holder name="Esmal" />
+										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+											<equipment>
+												<holder name="Esmal" />
+												<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+													<amulet>
+														<holder name="Esmal" />
+													</amulet>
+													<emblem>
+														<holder name="Esmal" />
+													</emblem>
+													<reliquary>
+														<holder name="Esmal" />
+													</reliquary>
+												</category>
+											</equipment>
+										</category>
+									</p5choice5>
+								</category>
+							</groups>
+						</category>
+					</paladin>
 				</category>
 			</startingequipment>
 		</category>
 	</lists>
+	<npc>
+		<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - DemiHumans - Greak" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Dungeon Bosses" baseicon="0" decalicon="0">
+			<id-00001>
+				<locked type="number">1</locked>
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+				</category>
+			</id-00001>
+		</category>
+	</npc>
 	<race>
 		<category name="DandDwiki-Races" baseicon="0" decalicon="0">
 			<id-00002>
@@ -989,6 +1603,49 @@
 					</traits>
 				</category>
 			</id-00002>
+			<id-00014>
+				<holder name="Esmal" />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<subraces>
+						<holder name="Esmal" />
+					</subraces>
+					<traits>
+						<holder name="Esmal" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Esmal" />
+							</id-00001>
+							<id-00002>
+								<holder name="Esmal" />
+							</id-00002>
+							<id-00003>
+								<holder name="Esmal" />
+							</id-00003>
+							<id-00004>
+								<holder name="Esmal" />
+							</id-00004>
+							<id-00005>
+								<holder name="Esmal" />
+							</id-00005>
+							<id-00006>
+								<holder name="Esmal" />
+							</id-00006>
+							<id-00007>
+								<holder name="Esmal" />
+							</id-00007>
+							<id-00008>
+								<holder name="Esmal" />
+							</id-00008>
+							<id-00009>
+								<holder name="Esmal" />
+							</id-00009>
+							<id-00010>
+								<holder name="Esmal" />
+							</id-00010>
+						</category>
+					</traits>
+				</category>
+			</id-00014>
 		</category>
 		<category name="ProNobis-Races" baseicon="0" decalicon="0">
 		</category>
