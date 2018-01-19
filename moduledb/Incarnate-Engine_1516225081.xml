@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<root version="3.3" release="8|CoreRPG:3" integrity="2cd13c41665a6c4d9bc563acb2eeaa60fc63ff37">
+<root version="3.3" release="8|CoreRPG:3" integrity="61c08ca2a5c77ddf03758486b4fef3cd29c65979">
 	<background>
 		<category name="DandDwiki - Backgrounds" baseicon="0" decalicon="0">
 			<id-00006>
@@ -414,7 +414,6 @@
 							<id-00013>
 								<holder name="Vallard Dickens" />
 								<holder name="jtron" />
-								<holder name="Vallard ProNobisGN" />
 							</id-00013>
 							<id-00014>
 								<holder name="Vallard Dickens" />
@@ -737,161 +736,124 @@
 			</propaladin>
 			<prowizard>
 				<holder name="Genghis Tebo - ProNobis" />
-				<holder name="Foldi-One" />
 				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
 					<abilities>
 						<holder name="Genghis Tebo - ProNobis" />
-						<holder name="Foldi-One" />
 						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
 							<id-00001>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</id-00001>
 						</category>
 					</abilities>
 					<equipment>
 						<holder name="Genghis Tebo - ProNobis" />
-						<holder name="Foldi-One" />
 						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
 							<standard>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</standard>
 						</category>
 					</equipment>
 					<features>
 						<holder name="Genghis Tebo - ProNobis" />
-						<holder name="Foldi-One" />
 						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
 							<id-00001>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</id-00001>
 							<id-00002>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</id-00002>
 							<id-00003>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</id-00003>
 							<id-00004>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</id-00004>
 							<id-00005>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</id-00005>
 							<id-00006>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</id-00006>
 							<id-00007>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</id-00007>
 							<id-00008>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</id-00008>
 							<id-00009>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</id-00009>
 							<id-00010>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</id-00010>
 							<id-00011>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</id-00011>
 							<id-00012>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</id-00012>
 							<id-00013>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</id-00013>
 							<id-00014>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</id-00014>
 							<id-00015>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</id-00015>
 						</category>
 					</features>
 					<hp>
 						<holder name="Genghis Tebo - ProNobis" />
-						<holder name="Foldi-One" />
 						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
 							<hitdice>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</hitdice>
 							<hitpointsat1stlevel>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</hitpointsat1stlevel>
 							<hitpointsathigherlevels>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</hitpointsathigherlevels>
 						</category>
 					</hp>
 					<multiclassfeatures>
 						<holder name="Genghis Tebo - ProNobis" />
-						<holder name="Foldi-One" />
 					</multiclassfeatures>
 					<multiclassproficiencies>
 						<holder name="Genghis Tebo - ProNobis" />
-						<holder name="Foldi-One" />
 						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
 							<armor>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</armor>
 							<skills>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</skills>
 							<tools>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</tools>
 							<weapons>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</weapons>
 						</category>
 					</multiclassproficiencies>
 					<proficiencies>
 						<holder name="Genghis Tebo - ProNobis" />
-						<holder name="Foldi-One" />
 						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
 							<armor>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</armor>
 							<savingthrows>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</savingthrows>
 							<skills>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</skills>
 							<tools>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</tools>
 							<weapons>
 								<holder name="Genghis Tebo - ProNobis" />
-								<holder name="Foldi-One" />
 							</weapons>
 						</category>
 					</proficiencies>
@@ -902,10 +864,11 @@
 	<encounter>
 		<category name="DandDwiki - Backgrounds" baseicon="0" decalicon="0">
 		</category>
+		<category name="DandDwiki - Classes" baseicon="0" decalicon="0">
+		</category>
+		<category name="DandDwiki - Races" baseicon="0" decalicon="0">
+		</category>
 		<category name="ProNobis - 00 Cheat Sheets" baseicon="0" decalicon="0">
-			<id-00033>
-				<public />
-			</id-00033>
 		</category>
 		<category name="ProNobis - Background" baseicon="0" decalicon="0">
 			<id-00044>
@@ -915,7 +878,7 @@
 		</category>
 		<category name="ProNobis - Classes" baseicon="0" decalicon="0">
 		</category>
-		<category name="ProNobis - Homebrew Rules" baseicon="0" decalicon="0">
+		<category name="ProNobis - Hombrew Rules" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Lore" baseicon="0" decalicon="0">
 		</category>
@@ -933,9 +896,23 @@
 		</category>
 	</encounter>
 	<item>
+		<category name="01 Temp - armor copies" baseicon="0" decalicon="0">
+		</category>
+		<category name="02 Temp - weapon copies" baseicon="0" decalicon="0">
+		</category>
+		<category name="03 Temp - shield copies" baseicon="0" decalicon="0">
+		</category>
+		<category name="04 Temp - sword copies" baseicon="0" decalicon="0">
+		</category>
 		<category name="ProNobis" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Adventuring Gear" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Armor - Elemental" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Armor - Magical" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Armor - Special Material" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Background Items" baseicon="0" decalicon="0">
 		</category>
@@ -943,6 +920,8 @@
 			<id-00131>
 				<isidentified type="number">1</isidentified>
 			</id-00131>
+		</category>
+		<category name="ProNobis - Magic Items - Shield" baseicon="0" decalicon="0">
 		</category>
 		<category name="SRD - Adventuring Gear - Ammunition" baseicon="0" decalicon="0">
 		</category>
@@ -1703,24 +1682,9 @@
 					</blocks>
 				</category>
 			</SRD_PRO_00060>
-			<SRD_PRO_00078>
-				<holder name="Foldi-One" />
-				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-					<blocks>
-						<holder name="Foldi-One" />
-						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-							<block_001>
-								<holder name="Foldi-One" />
-							</block_001>
-						</category>
-					</blocks>
-				</category>
-			</SRD_PRO_00078>
 		</category>
 	</referencemanual2>
 	<spell>
-		<category name="01Temp" baseicon="0" decalicon="0">
-		</category>
 		<category name="ProNobis - Effects Coding - 0 General" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Effects Coding - 1 Races" baseicon="0" decalicon="0">
@@ -1782,12 +1746,6 @@
 		<category name="ProNobis - Random NPC - Race" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Sythensis" baseicon="0" decalicon="0">
-			<id-00001>
-				<public />
-			</id-00001>
-			<id-00003>
-				<public />
-			</id-00003>
 		</category>
 	</storytemplate>
 	<tables>
@@ -2064,48 +2022,6 @@
 		<category name="ProNobis - Synthesis" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Treasure" baseicon="0" decalicon="0">
-			<id-00443>
-				<public />
-				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-					<tablerows>
-						<public />
-						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-							<id-00001>
-								<public />
-								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-									<results>
-										<public />
-										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-											<id-00001>
-												<public />
-											</id-00001>
-											<id-00002>
-												<public />
-											</id-00002>
-										</category>
-									</results>
-								</category>
-							</id-00001>
-							<id-00002>
-								<public />
-								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-									<results>
-										<public />
-										<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-											<id-00001>
-												<public />
-											</id-00001>
-											<id-00002>
-												<public />
-											</id-00002>
-										</category>
-									</results>
-								</category>
-							</id-00002>
-						</category>
-					</tablerows>
-				</category>
-			</id-00443>
 		</category>
 		<category name="Pronobis - Dungeon" baseicon="0" decalicon="0">
 			<id-00140>
@@ -2304,8 +2220,6 @@
 		<category name="SRD - Tables" baseicon="0" decalicon="0">
 		</category>
 		<category name="Z - Debug - Background" baseicon="0" decalicon="0">
-		</category>
-		<category name="Z - Debug - NPC CR generation" baseicon="0" decalicon="0">
 		</category>
 	</tables>
 </root>

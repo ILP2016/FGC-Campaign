@@ -2,18 +2,310 @@
 <root version="3.3" release="8|CoreRPG:3" integrity="13faa31775d0aebd07e816c48f3aea2660f40026">
 	<image>
 		<category name="Incarnate-Penolia" baseicon="0" decalicon="0">
+			<id-00126>
+				<public />
+				<image type="image">
+					<bitmap>elvendungeon1_1_1.png</bitmap>
+					<mask>maskedimages/1516314494.png</mask>
+					<shortcuts>
+						<shortcut>
+							<public />
+							<x>49</x>
+							<y>1945</y>
+							<class>imagewindow</class>
+							<recordname>image.id-00084@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1014</x>
+							<y>1626</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00126</recordname>
+						</shortcut>
+						<shortcut>
+							<x>804</x>
+							<y>1091</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00112</recordname>
+						</shortcut>
+						<shortcut>
+							<x>729</x>
+							<y>1209</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00122</recordname>
+						</shortcut>
+						<shortcut>
+							<x>741</x>
+							<y>1384</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00123</recordname>
+						</shortcut>
+						<shortcut>
+							<x>966</x>
+							<y>1341</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00125</recordname>
+						</shortcut>
+						<shortcut>
+							<x>868</x>
+							<y>1464</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00165</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1119</x>
+							<y>1394</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00165</recordname>
+						</shortcut>
+						<shortcut>
+							<x>967</x>
+							<y>1184</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00166</recordname>
+						</shortcut>
+						<shortcut>
+							<x>959</x>
+							<y>1013</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00167</recordname>
+						</shortcut>
+					</shortcuts>
+				</image>
+			</id-00126>
 		</category>
 		<category name="Ishilb City" baseicon="0" decalicon="0">
+			<ishilbcity00034>
+				<public />
+			</ishilbcity00034>
+			<ishilbcity00037>
+				<public />
+			</ishilbcity00037>
+			<ishilbcity00038>
+				<public />
+			</ishilbcity00038>
+			<ishilbcity00039>
+				<public />
+			</ishilbcity00039>
+			<ishilbcity00045>
+				<public />
+			</ishilbcity00045>
+			<ishilbcity00048>
+				<public />
+			</ishilbcity00048>
+			<ishilbcity00049>
+				<public />
+			</ishilbcity00049>
+			<ishilbcity00050>
+				<public />
+			</ishilbcity00050>
+			<ishilbcity00056>
+				<public />
+			</ishilbcity00056>
+			<ishilbcity00059>
+				<public />
+			</ishilbcity00059>
+			<ishilbcity00060>
+				<public />
+			</ishilbcity00060>
+			<ishilbcity00061>
+				<public />
+			</ishilbcity00061>
 			<ishilbcity00122>
 				<public />
+				<image type="image">
+					<bitmap>ishilbcity_1_1.png</bitmap>
+					<gridsize>20</gridsize>
+					<gridoffset>0,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<x>200</x>
+							<y>1800</y>
+							<class>imagewindow</class>
+							<recordname>image.ishilbcity00023@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>600</x>
+							<y>1400</y>
+							<class>imagewindow</class>
+							<recordname>image.ishilbcity00037@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>1000</x>
+							<y>1000</y>
+							<class>imagewindow</class>
+							<recordname>image.ishilbcity00049@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>1400</x>
+							<y>600</y>
+							<class>imagewindow</class>
+							<recordname>image.ishilbcity00061@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1800</x>
+							<y>200</y>
+							<class>imagewindow</class>
+							<recordname>image.ishilbcity00073@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>25</x>
+							<y>1542</y>
+							<class>imagewindow</class>
+							<recordname>image.id-00136@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>52</x>
+							<y>1999</y>
+							<class>imagewindow</class>
+							<recordname>image.id-00136@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<x>200</x>
+							<y>1400</y>
+							<class>imagewindow</class>
+							<recordname>image.ishilbcity00026@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<x>200</x>
+							<y>1000</y>
+							<class>imagewindow</class>
+							<recordname>image.ishilbcity00027@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<x>200</x>
+							<y>600</y>
+							<class>imagewindow</class>
+							<recordname>image.ishilbcity00028@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<x>200</x>
+							<y>200</y>
+							<class>imagewindow</class>
+							<recordname>image.ishilbcity00029@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>600</x>
+							<y>1000</y>
+							<class>imagewindow</class>
+							<recordname>image.ishilbcity00038@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>600</x>
+							<y>1800</y>
+							<class>imagewindow</class>
+							<recordname>image.ishilbcity00034@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>600</x>
+							<y>600</y>
+							<class>imagewindow</class>
+							<recordname>image.ishilbcity00039@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<x>600</x>
+							<y>200</y>
+							<class>imagewindow</class>
+							<recordname>image.ishilbcity00040@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>1000</x>
+							<y>1800</y>
+							<class>imagewindow</class>
+							<recordname>image.ishilbcity00045@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>1000</x>
+							<y>1400</y>
+							<class>imagewindow</class>
+							<recordname>image.ishilbcity00048@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>1000</x>
+							<y>600</y>
+							<class>imagewindow</class>
+							<recordname>image.ishilbcity00050@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1000</x>
+							<y>200</y>
+							<class>imagewindow</class>
+							<recordname>image.ishilbcity00051@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>1400</x>
+							<y>1800</y>
+							<class>imagewindow</class>
+							<recordname>image.ishilbcity00056@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>1400</x>
+							<y>1400</y>
+							<class>imagewindow</class>
+							<recordname>image.ishilbcity00059@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>1400</x>
+							<y>1000</y>
+							<class>imagewindow</class>
+							<recordname>image.ishilbcity00060@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1400</x>
+							<y>200</y>
+							<class>imagewindow</class>
+							<recordname>image.ishilbcity00062@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1800</x>
+							<y>1800</y>
+							<class>imagewindow</class>
+							<recordname>image.ishilbcity00067@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1800</x>
+							<y>1400</y>
+							<class>imagewindow</class>
+							<recordname>image.ishilbcity00070@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1800</x>
+							<y>1000</y>
+							<class>imagewindow</class>
+							<recordname>image.ishilbcity00071@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1800</x>
+							<y>600</y>
+							<class>imagewindow</class>
+							<recordname>image.ishilbcity00072@Incarnate-Penolia</recordname>
+						</shortcut>
+					</shortcuts>
+				</image>
+				<isidentified type="number">1</isidentified>
 			</ishilbcity00122>
 		</category>
 		<category name="Main World" baseicon="0" decalicon="0">
 			<id-00006>
-				<public />
 			</id-00006>
-			<id-00020>
+			<id-00017>
 				<public />
+			</id-00017>
+			<id-00020>
 			</id-00020>
 			<id-00073>
 				<public />
@@ -25,6 +317,7 @@
 					<gridsnap>on</gridsnap>
 					<shortcuts>
 						<shortcut>
+							<public />
 							<x>48</x>
 							<y>1950</y>
 							<class>imagewindow</class>
@@ -83,24 +376,58 @@
 					</shortcuts>
 					<tokens>
 						<idcounter>1</idcounter>
-						<token>
-							<prototype>tokens/shared/ProNobis/LetterTokens/A.png</prototype>
-							<id>1</id>
-							<x>1801</x>
-							<y>1531</y>
-							<scale>0.3</scale>
-							<orientation>7</orientation>
-						</token>
 					</tokens>
 				</image>
 			</id-00075>
+			<id-00082>
+				<public />
+				<image type="image">
+					<bitmap>Region_6_3.png</bitmap>
+					<mask>maskedimages/1516314964.png</mask>
+					<gridsize>20</gridsize>
+					<gridoffset>0,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<public />
+							<x>48</x>
+							<y>1950</y>
+							<class>imagewindow</class>
+							<recordname>image.id-00122@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1250</x>
+							<y>1749</y>
+							<class>imagewindow</class>
+							<recordname>image.id-00142@Incarnate-Penolia</recordname>
+						</shortcut>
+					</shortcuts>
+				</image>
+				<isidentified type="number">1</isidentified>
+			</id-00082>
 			<id-00083>
 				<public />
+				<image type="image">
+					<bitmap>Region_6_4.png</bitmap>
+					<gridsize>20</gridsize>
+					<gridoffset>0,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<public />
+							<x>48</x>
+							<y>1950</y>
+							<class>imagewindow</class>
+							<recordname>image.id-00122@Incarnate-Penolia</recordname>
+						</shortcut>
+					</shortcuts>
+				</image>
 			</id-00083>
 			<id-00084>
 				<public />
 				<image type="image">
 					<bitmap>Region_6_5.png</bitmap>
+					<drawing>drawings/drawing_1516315368.png</drawing>
 					<gridsize>20</gridsize>
 					<gridoffset>0,0</gridoffset>
 					<gridsnap>on</gridsnap>
@@ -162,8 +489,9 @@
 							<recordname>image.id-00139@Incarnate-Penolia</recordname>
 						</shortcut>
 						<shortcut>
-							<x>681</x>
-							<y>498</y>
+							<public />
+							<x>610</x>
+							<y>490</y>
 							<class>imagewindow</class>
 							<recordname>image.id-00126@Incarnate-Penolia</recordname>
 						</shortcut>
@@ -174,7 +502,96 @@
 							<recordname>encounter.id-00205</recordname>
 						</shortcut>
 					</shortcuts>
+					<tokens>
+						<idcounter>9</idcounter>
+						<scalelock>6.25</scalelock>
+						<token>
+							<prototype>tokens/A.png@DD MM Monster Manual</prototype>
+							<id>1</id>
+							<x>851</x>
+							<y>631</y>
+							<name>Acolyte 4</name>
+							<unmodifiable />
+						</token>
+						<token>
+							<prototype>tokens/A.png@DD MM Monster Manual</prototype>
+							<id>2</id>
+							<x>1081</x>
+							<y>551</y>
+							<name>Acolyte 7</name>
+							<unmodifiable />
+						</token>
+						<token>
+							<prototype>tokens/A.png@DD MM Monster Manual</prototype>
+							<id>3</id>
+							<x>911</x>
+							<y>531</y>
+							<name>Acolyte 3</name>
+							<unmodifiable />
+						</token>
+						<token>
+							<prototype>tokens/A.png@DD MM Monster Manual</prototype>
+							<id>4</id>
+							<x>981</x>
+							<y>691</y>
+							<name>Acolyte 12</name>
+							<unmodifiable />
+						</token>
+						<token>
+							<prototype>tokens/A.png@DD MM Monster Manual</prototype>
+							<id>5</id>
+							<x>881</x>
+							<y>751</y>
+							<name>Acolyte 1</name>
+							<unmodifiable />
+						</token>
+						<token>
+							<prototype>portrait_id-00004_token</prototype>
+							<id>6</id>
+							<x>1131</x>
+							<y>741</y>
+							<name>Mab Test</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+						<token>
+							<prototype>portrait_id-00002_token</prototype>
+							<id>7</id>
+							<x>1291</x>
+							<y>561</y>
+							<name>Strassa</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+						<token>
+							<prototype>portrait_id-00003_token</prototype>
+							<id>8</id>
+							<x>1261</x>
+							<y>631</y>
+							<name>Christian</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+						<token>
+							<prototype>portrait_id-00001_token</prototype>
+							<id>9</id>
+							<x>1301</x>
+							<y>741</y>
+							<name>Vallard Dickens</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+					</tokens>
+					<pointers>
+						<pointer>
+							<id>0</id>
+							<type>2</type>
+							<startx>841</startx>
+							<starty>511</starty>
+							<endx>1031</endx>
+							<endy>741</endy>
+							<owner></owner>
+							<color>ff</color>
+						</pointer>
+					</pointers>
 				</image>
+				<isidentified type="number">1</isidentified>
 			</id-00084>
 			<id-00085>
 				<public />
@@ -182,7 +599,6 @@
 			<id-00086>
 			</id-00086>
 			<id-00089>
-				<public />
 			</id-00089>
 			<id-00094>
 				<public />
@@ -211,6 +627,32 @@
 			</id-00094>
 			<id-00095>
 				<public />
+				<image type="image">
+					<bitmap>Region_7_5.png</bitmap>
+					<gridsize>20</gridsize>
+					<gridoffset>0,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<public />
+							<x>48</x>
+							<y>1950</y>
+							<class>imagewindow</class>
+							<recordname>image.id-00122@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1867</x>
+							<y>679</y>
+							<class>imagewindow</class>
+							<recordname>image.id-00131@Incarnate-Penolia</recordname>
+						</shortcut>
+					</shortcuts>
+					<tokens>
+						<idcounter>11</idcounter>
+						<scalelock>6.25</scalelock>
+					</tokens>
+				</image>
+				<isidentified type="number">1</isidentified>
 			</id-00095>
 			<id-00096>
 				<public />
@@ -222,6 +664,7 @@
 					<gridsnap>on</gridsnap>
 					<shortcuts>
 						<shortcut>
+							<public />
 							<x>48</x>
 							<y>1950</y>
 							<class>imagewindow</class>
@@ -241,6 +684,7 @@
 						</shortcut>
 					</shortcuts>
 				</image>
+				<isidentified type="number">1</isidentified>
 			</id-00096>
 			<id-00097>
 				<public />
@@ -291,6 +735,32 @@
 				</image>
 				<isidentified type="number">1</isidentified>
 			</id-00097>
+			<id-00106>
+				<public />
+				<image type="image">
+					<bitmap>Region_8_5.png</bitmap>
+					<mask>maskedimages/1516227385.png</mask>
+					<gridsize>20</gridsize>
+					<gridoffset>0,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<public />
+							<x>48</x>
+							<y>1950</y>
+							<class>imagewindow</class>
+							<recordname>image.id-00122@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1825</x>
+							<y>1015</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00239</recordname>
+						</shortcut>
+					</shortcuts>
+				</image>
+				<isidentified type="number">1</isidentified>
+			</id-00106>
 			<id-00107>
 				<public />
 				<image type="image">
@@ -329,6 +799,87 @@
 					</shortcuts>
 				</image>
 			</id-00108>
+			<id-00117>
+				<public />
+				<image type="image">
+					<bitmap>Region_9_5.png</bitmap>
+					<mask>maskedimages/1516232601.png</mask>
+					<gridsize>20</gridsize>
+					<gridoffset>0,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<public />
+							<x>48</x>
+							<y>1950</y>
+							<class>imagewindow</class>
+							<recordname>image.id-00122@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<x>52</x>
+							<y>982</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00240</recordname>
+						</shortcut>
+						<shortcut>
+							<x>286</x>
+							<y>900</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00241</recordname>
+						</shortcut>
+					</shortcuts>
+					<tokens>
+						<idcounter>17</idcounter>
+						<scalelock>8</scalelock>
+						<token>
+							<prototype>portrait_id-00001_token</prototype>
+							<id>5</id>
+							<x>271</x>
+							<y>1171</y>
+							<scale>1.28</scale>
+							<targets>3</targets>
+						</token>
+						<token>
+							<prototype>portrait_id-00003_token</prototype>
+							<id>4</id>
+							<x>411</x>
+							<y>1291</y>
+							<scale>1.28</scale>
+						</token>
+						<token>
+							<prototype>portrait_id-00002_token</prototype>
+							<id>3</id>
+							<x>381</x>
+							<y>1301</y>
+							<scale>1.28</scale>
+							<orientation>6</orientation>
+						</token>
+					</tokens>
+					<pointers>
+						<pointer>
+							<id>0</id>
+							<type>1</type>
+							<startx>341</startx>
+							<starty>1261</starty>
+							<endx>441</endx>
+							<endy>1291</endy>
+							<owner>id-00002</owner>
+							<color>ff000000</color>
+						</pointer>
+						<pointer>
+							<id>0</id>
+							<type>1</type>
+							<startx>361</startx>
+							<starty>1311</starty>
+							<endx>391</endx>
+							<endy>1341</endy>
+							<owner></owner>
+							<color>ff</color>
+						</pointer>
+					</pointers>
+				</image>
+				<isidentified type="number">1</isidentified>
+			</id-00117>
 			<id-00122>
 				<public />
 				<image type="image">
@@ -673,6 +1224,7 @@
 							<recordname>image.id-00081@Incarnate-Penolia</recordname>
 						</shortcut>
 						<shortcut>
+							<public />
 							<x>1000</x>
 							<y>1545</y>
 							<class>imagewindow</class>
@@ -818,6 +1370,7 @@
 							<recordname>image.id-00105@Incarnate-Penolia</recordname>
 						</shortcut>
 						<shortcut>
+							<public />
 							<x>1363</x>
 							<y>1181</y>
 							<class>imagewindow</class>
@@ -886,6 +1439,7 @@
 							<recordname>image.id-00116@Incarnate-Penolia</recordname>
 						</shortcut>
 						<shortcut>
+							<public />
 							<x>1545</x>
 							<y>1181</y>
 							<class>imagewindow</class>
@@ -1081,14 +1635,19 @@
 					<tokens>
 						<idcounter>2</idcounter>
 						<scalelock>4</scalelock>
-						<token>
-							<prototype>tokens/shared/ProNobis/LetterTokens/A.png</prototype>
-							<id>2</id>
-							<x>911</x>
-							<y>1181</y>
-							<scale>0.6</scale>
-						</token>
 					</tokens>
+					<pointers>
+						<pointer>
+							<id>0</id>
+							<type>1</type>
+							<startx>1171</startx>
+							<starty>1231</starty>
+							<endx>1341</endx>
+							<endy>1131</endy>
+							<owner></owner>
+							<color>ff</color>
+						</pointer>
+					</pointers>
 				</image>
 				<isidentified type="number">1</isidentified>
 			</id-00122>
@@ -1191,9 +1750,39 @@
 			</id-00124>
 			<id-00125>
 				<public />
+				<image type="image">
+					<bitmap>06_05Lizardfolkvillage_1_1.png</bitmap>
+					<gridsize>20</gridsize>
+					<gridoffset>0,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<public />
+							<x>158</x>
+							<y>1800</y>
+							<class>imagewindow</class>
+							<recordname>image.id-00084@Incarnate-Penolia</recordname>
+						</shortcut>
+					</shortcuts>
+				</image>
 			</id-00125>
 			<id-00127>
 				<public />
+				<image type="image">
+					<bitmap>06_05StartCity_1_1.png</bitmap>
+					<gridsize>20</gridsize>
+					<gridoffset>0,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<public />
+							<x>60</x>
+							<y>1720</y>
+							<class>imagewindow</class>
+							<recordname>image.id-00084@Incarnate-Penolia</recordname>
+						</shortcut>
+					</shortcuts>
+				</image>
 			</id-00127>
 			<id-00128>
 				<public />
@@ -1224,6 +1813,36 @@
 			</id-00129>
 			<id-00136>
 				<public />
+				<image type="image">
+					<bitmap>IshilbDoorstep_1_1.png</bitmap>
+					<gridsize>20</gridsize>
+					<gridoffset>0,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<public />
+							<x>2022</x>
+							<y>1061</y>
+							<class>imagewindow</class>
+							<recordname>image.ishilbcity00122@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>23</x>
+							<y>2032</y>
+							<class>imagewindow</class>
+							<recordname>image.id-00084@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>1074</x>
+							<y>1050</y>
+							<class>imagewindow</class>
+							<recordname>image.id-00084@Incarnate-Penolia</recordname>
+						</shortcut>
+					</shortcuts>
+				</image>
+				<isidentified type="number">1</isidentified>
 			</id-00136>
 			<id-00139>
 				<public />
@@ -1364,65 +1983,6 @@
 						<idcounter>29</idcounter>
 						<scalelock>6.25</scalelock>
 						<token>
-							<prototype>tokens/ProNobis/LetterTokens/S.png@Incarnate-Engine</prototype>
-							<id>22</id>
-							<x>1301</x>
-							<y>741</y>
-							<scale>1.5625</scale>
-							<name>Spifier 15</name>
-							<unmodifiable />
-							<visibilitylocked>off</visibilitylocked>
-						</token>
-						<token>
-							<prototype>tokens/ProNobis/LetterTokens/S.png@Incarnate-Engine</prototype>
-							<id>27</id>
-							<x>1281</x>
-							<y>721</y>
-							<scale>1.2625</scale>
-							<name>Spifier 6</name>
-							<unmodifiable />
-							<visibilitylocked>off</visibilitylocked>
-							<targets>29</targets>
-						</token>
-						<token>
-							<prototype>tokens/giantspider.png@DD5E SRD Bestiary</prototype>
-							<id>28</id>
-							<x>1271</x>
-							<y>751</y>
-							<scale>1.5625</scale>
-							<name>Giant Spider 3</name>
-							<unmodifiable />
-							<visibilitylocked>off</visibilitylocked>
-						</token>
-						<token>
-							<prototype>tokens/giantspider.png@DD5E SRD Bestiary</prototype>
-							<id>26</id>
-							<x>1311</x>
-							<y>771</y>
-							<scale>1.5625</scale>
-							<name>Giant Spider 10</name>
-							<unmodifiable />
-							<visibilitylocked>off</visibilitylocked>
-						</token>
-						<token>
-							<prototype>tokens/giantspider.png@DD5E SRD Bestiary</prototype>
-							<id>24</id>
-							<x>1271</x>
-							<y>791</y>
-							<scale>1.5625</scale>
-							<name>Giant Spider 7</name>
-							<unmodifiable />
-							<visibilitylocked>off</visibilitylocked>
-						</token>
-						<token>
-							<prototype>portrait_id-00005_token</prototype>
-							<id>2</id>
-							<x>1341</x>
-							<y>711</y>
-							<name>Corbon</name>
-							<visibilitylocked>on</visibilitylocked>
-						</token>
-						<token>
 							<prototype>portrait_id-00001_token</prototype>
 							<id>3</id>
 							<x>1411</x>
@@ -1435,25 +1995,6 @@
 							<y>561</y>
 							<orientation>5</orientation>
 							<targets>12</targets>
-						</token>
-						<token>
-							<prototype>tokens/ProNobis/LetterTokens/S.png@Incarnate-Engine</prototype>
-							<id>25</id>
-							<x>1261</x>
-							<y>711</y>
-							<scale>1.5625</scale>
-							<name>Spifier 11</name>
-							<unmodifiable />
-							<visibilitylocked>off</visibilitylocked>
-						</token>
-						<token>
-							<prototype>tokens/shared/ProNobis/LetterTokens/D.png</prototype>
-							<id>29</id>
-							<x>1291</x>
-							<y>701</y>
-							<scale>1.5625</scale>
-							<name>Door</name>
-							<unmodifiable />
 						</token>
 						<token>
 							<prototype>portrait_id-00007_token</prototype>

@@ -645,6 +645,31 @@
 					</traits>
 				</category>
 			</id-00056>
+			<id-00063>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<intelligence>
+								<bonus type="number">-4</bonus>
+							</intelligence>
+						</category>
+					</abilities>
+				</category>
+			</id-00063>
+			<id-00069>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<charisma>
+								<bonus type="number">-2</bonus>
+							</charisma>
+							<strength>
+								<bonus type="number">-4</bonus>
+							</strength>
+						</category>
+					</abilities>
+				</category>
+			</id-00069>
 			<id-00075>
 				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
 					<abilities>
@@ -662,6 +687,17 @@
 					</abilities>
 				</category>
 			</id-00075>
+			<id-00076>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<constitution>
+								<bonus type="number">-1</bonus>
+							</constitution>
+						</category>
+					</abilities>
+				</category>
+			</id-00076>
 			<id-00092>
 				<holder name="Malamute" />
 				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
@@ -769,6 +805,17 @@
 		<category name="SRD - Humanoid - Specific Race" baseicon="0" decalicon="0">
 		</category>
 		<category name="SRD - Monstrosity" baseicon="0" decalicon="0">
+			<id-00266>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<charisma>
+								<bonus type="number">-1</bonus>
+							</charisma>
+						</category>
+					</abilities>
+				</category>
+			</id-00266>
 		</category>
 		<category name="SRD - Monstrosity - Shapechanger" baseicon="0" decalicon="0">
 		</category>
@@ -1412,7 +1459,7 @@
 		</category>
 		<category name="ProNobis - True Random - Forest" baseicon="0" decalicon="0">
 			<W00002>
-				<mod type="number">4</mod>
+				<mod type="number">2</mod>
 				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
 				</category>
 			</W00002>
@@ -1870,7 +1917,7 @@
 		</category>
 		<category name="ProNobis - True Random - Mountain" baseicon="0" decalicon="0">
 			<M00002>
-				<mod type="number">5</mod>
+				<mod type="number">3</mod>
 				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
 				</category>
 			</M00002>
