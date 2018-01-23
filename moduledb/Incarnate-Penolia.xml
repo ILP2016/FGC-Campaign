@@ -303,7 +303,6 @@
 			<id-00006>
 			</id-00006>
 			<id-00017>
-				<public />
 			</id-00017>
 			<id-00020>
 			</id-00020>
@@ -324,12 +323,101 @@
 							<recordname>image.id-00122@Incarnate-Penolia</recordname>
 						</shortcut>
 						<shortcut>
+							<public />
 							<x>355</x>
 							<y>1426</y>
 							<class>imagewindow</class>
 							<recordname>image.id-00123@Incarnate-Penolia</recordname>
 						</shortcut>
+						<shortcut>
+							<x>384</x>
+							<y>1362</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00248</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>301</x>
+							<y>1447</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00249</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>394</x>
+							<y>1544</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00250</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>263</x>
+							<y>1535</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00251</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>350</x>
+							<y>1183</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00252</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>397</x>
+							<y>1233</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00253</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>295</x>
+							<y>1235</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00254</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>390</x>
+							<y>1279</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00255</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>300</x>
+							<y>1279</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00256</recordname>
+						</shortcut>
 					</shortcuts>
+					<tokens>
+						<idcounter>27</idcounter>
+						<scalelock>6.25</scalelock>
+					</tokens>
+					<pointers>
+						<pointer>
+							<id>3</id>
+							<type>2</type>
+							<startx>1101</startx>
+							<starty>841</starty>
+							<endx>1121</endx>
+							<endy>861</endy>
+							<owner>id-00001</owner>
+							<color>ff000000</color>
+						</pointer>
+						<pointer>
+							<id>0</id>
+							<type>1</type>
+							<startx>331</startx>
+							<starty>1451</starty>
+							<endx>341</endx>
+							<endy>1261</endy>
+							<owner></owner>
+							<color>ff</color>
+						</pointer>
+					</pointers>
 				</image>
 			</id-00073>
 			<id-00074>
@@ -505,91 +593,7 @@
 					<tokens>
 						<idcounter>9</idcounter>
 						<scalelock>6.25</scalelock>
-						<token>
-							<prototype>tokens/A.png@DD MM Monster Manual</prototype>
-							<id>1</id>
-							<x>851</x>
-							<y>631</y>
-							<name>Acolyte 4</name>
-							<unmodifiable />
-						</token>
-						<token>
-							<prototype>tokens/A.png@DD MM Monster Manual</prototype>
-							<id>2</id>
-							<x>1081</x>
-							<y>551</y>
-							<name>Acolyte 7</name>
-							<unmodifiable />
-						</token>
-						<token>
-							<prototype>tokens/A.png@DD MM Monster Manual</prototype>
-							<id>3</id>
-							<x>911</x>
-							<y>531</y>
-							<name>Acolyte 3</name>
-							<unmodifiable />
-						</token>
-						<token>
-							<prototype>tokens/A.png@DD MM Monster Manual</prototype>
-							<id>4</id>
-							<x>981</x>
-							<y>691</y>
-							<name>Acolyte 12</name>
-							<unmodifiable />
-						</token>
-						<token>
-							<prototype>tokens/A.png@DD MM Monster Manual</prototype>
-							<id>5</id>
-							<x>881</x>
-							<y>751</y>
-							<name>Acolyte 1</name>
-							<unmodifiable />
-						</token>
-						<token>
-							<prototype>portrait_id-00004_token</prototype>
-							<id>6</id>
-							<x>1131</x>
-							<y>741</y>
-							<name>Mab Test</name>
-							<visibilitylocked>on</visibilitylocked>
-						</token>
-						<token>
-							<prototype>portrait_id-00002_token</prototype>
-							<id>7</id>
-							<x>1291</x>
-							<y>561</y>
-							<name>Strassa</name>
-							<visibilitylocked>on</visibilitylocked>
-						</token>
-						<token>
-							<prototype>portrait_id-00003_token</prototype>
-							<id>8</id>
-							<x>1261</x>
-							<y>631</y>
-							<name>Christian</name>
-							<visibilitylocked>on</visibilitylocked>
-						</token>
-						<token>
-							<prototype>portrait_id-00001_token</prototype>
-							<id>9</id>
-							<x>1301</x>
-							<y>741</y>
-							<name>Vallard Dickens</name>
-							<visibilitylocked>on</visibilitylocked>
-						</token>
 					</tokens>
-					<pointers>
-						<pointer>
-							<id>0</id>
-							<type>2</type>
-							<startx>841</startx>
-							<starty>511</starty>
-							<endx>1031</endx>
-							<endy>741</endy>
-							<owner></owner>
-							<color>ff</color>
-						</pointer>
-					</pointers>
 				</image>
 				<isidentified type="number">1</isidentified>
 			</id-00084>
@@ -1631,18 +1635,30 @@
 							<class>imagewindow</class>
 							<recordname>image.id-00093@Incarnate-Penolia</recordname>
 						</shortcut>
+						<shortcut>
+							<x>1236</x>
+							<y>960</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00207</recordname>
+						</shortcut>
 					</shortcuts>
 					<tokens>
-						<idcounter>2</idcounter>
+						<idcounter>9</idcounter>
 						<scalelock>4</scalelock>
+						<token>
+							<prototype>tokens/shared/ProNobis/LetterTokens/A.png</prototype>
+							<id>9</id>
+							<x>931</x>
+							<y>1131</y>
+						</token>
 					</tokens>
 					<pointers>
 						<pointer>
 							<id>0</id>
 							<type>1</type>
-							<startx>1171</startx>
-							<starty>1231</starty>
-							<endx>1341</endx>
+							<startx>1111</startx>
+							<starty>1141</starty>
+							<endx>931</endx>
 							<endy>1131</endy>
 							<owner></owner>
 							<color>ff</color>
@@ -1651,6 +1667,79 @@
 				</image>
 				<isidentified type="number">1</isidentified>
 			</id-00122>
+			<id-00123>
+				<public />
+				<image type="image">
+					<bitmap>05_05ForestVillage_1_1.png</bitmap>
+					<gridsize>20</gridsize>
+					<gridoffset>0,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<x>182</x>
+							<y>1810</y>
+							<class>imagewindow</class>
+							<recordname>image.id-00073@Incarnate-Penolia</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>1142</x>
+							<y>1584</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00250</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>676</x>
+							<y>1584</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00251</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>837</x>
+							<y>1246</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00249</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>1166</x>
+							<y>638</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00255</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>1157</x>
+							<y>439</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00253</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>997</x>
+							<y>281</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00252</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>822</x>
+							<y>463</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00254</recordname>
+						</shortcut>
+						<shortcut>
+							<public />
+							<x>819</x>
+							<y>626</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00256</recordname>
+						</shortcut>
+					</shortcuts>
+				</image>
+			</id-00123>
 			<id-00124>
 				<public />
 				<image type="image">
@@ -1660,6 +1749,7 @@
 					<gridsnap>on</gridsnap>
 					<shortcuts>
 						<shortcut>
+							<public />
 							<x>120</x>
 							<y>1918</y>
 							<class>imagewindow</class>
@@ -1728,6 +1818,13 @@
 							<class>encounter</class>
 							<recordname>encounter.id-00143</recordname>
 						</shortcut>
+						<shortcut>
+							<public />
+							<x>835</x>
+							<y>223</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00145</recordname>
+						</shortcut>
 					</shortcuts>
 					<tokens>
 						<idcounter>28</idcounter>
@@ -1747,6 +1844,8 @@
 					</pointers>
 				</image>
 				<isidentified type="number">1</isidentified>
+				<locked type="number">1</locked>
+				<name type="string">06_05Umag</name>
 			</id-00124>
 			<id-00125>
 				<public />

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3" release="8|CoreRPG:3" integrity="23eb04c4566fc866801de499df7973c898492595">
+	<background>
+		<category name="DandDwiki - Backgrounds" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Backgrounds" baseicon="0" decalicon="0">
+			<id-00031>
+				<holder name="Esmal" />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<features>
+						<holder name="Esmal" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Esmal" />
+							</id-00001>
+							<id-00002>
+								<holder name="Esmal" />
+							</id-00002>
+						</category>
+					</features>
+				</category>
+			</id-00031>
+		</category>
+	</background>
+	<feat>
+		<category name="DandDwiki - Feat" baseicon="0" decalicon="0">
+			<DandDwiki_PRO_00148>
+				<holder name="Esmal" />
+			</DandDwiki_PRO_00148>
+			<DandDwiki_PRO_00157>
+				<holder name="Esmal" />
+			</DandDwiki_PRO_00157>
+			<DandDwiki_PRO_00160>
+				<holder name="Esmal" />
+			</DandDwiki_PRO_00160>
+			<DandDwiki_PRO_00177>
+				<holder name="Esmal" />
+			</DandDwiki_PRO_00177>
+		</category>
+		<category name="ProNobis - Feat" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Feat - Grappler" baseicon="0" decalicon="0">
+		</category>
+	</feat>
+	<item>
+		<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Adventuring Gear" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Background Items" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Magic Item - Spoofs" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - Ammunition" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - Arcane Focus" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - Druidic Focus" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - General" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - Holy Symbol" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Adventuring Gear - Poisons" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Armor - Heavy Armor" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Armor - Light Armor" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Armor - Medium Armor" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Armor - Shield" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Armor" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Potion" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Ring" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Rod" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Scroll" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Staff" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Wand" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Magic Item - Weapon" baseicon="0" decalicon="0">
+			<id-00829>
+				<holder name="Malamute" />
+				<isidentified type="number">1</isidentified>
+			</id-00829>
+		</category>
+		<category name="SRD - Magic Item - Wondrous Item" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - ProNobis" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Tools - Artisan's" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Tools - Gaming Set" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Tools - Kits/Sets" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Tools - Musical Instrument" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Trade Goods" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Transportation - Drawn Vehicles" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Transportation - Mounts and Animals" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Transportation - Saddle" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Transportation - Waterborne Vehicles" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Weapon - Martial" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Weapon - Ranged Weapon" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Weapon - Simple Melee" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Weapon - Simple Ranged" baseicon="0" decalicon="0">
+		</category>
+		<category name="Z Effect Coding" baseicon="0" decalicon="0">
+		</category>
+	</item>
+	<tables>
+		<category name="DandDwiki - Backgrounds" baseicon="0" decalicon="0">
+		</category>
+		<category name="DandDwiki - Races" baseicon="0" decalicon="0">
+			<id-00163>
+				<dice type="dice">d0</dice>
+				<mod type="number">6</mod>
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+				</category>
+			</id-00163>
+		</category>
+		<category name="ProNobis - Backgrounds" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Chases" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Cities" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Class Attribute Tables" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Demihumans" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Dungeon - Bosses" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Item Tables" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Linguistic Name Generator" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - NameGenerator" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Organization" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Race" baseicon="0" decalicon="0">
+			<id-00344>
+				<dice type="dice">d0</dice>
+				<locked type="number">0</locked>
+				<mod type="number">30</mod>
+				<output type="string">story</output>
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<tablerows>
+						<id-00011>
+							<fromrange type="number">6</fromrange>
+							<results>
+								<id-00001>
+									<result type="string">[Random - Race]</result>
+								</id-00001>
+							</results>
+							<torange type="number">6</torange>
+						</id-00011>
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00006>
+								<fromrange type="number">14</fromrange>
+								<torange type="number">100</torange>
+								<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+								</category>
+							</id-00006>
+						</category>
+					</tablerows>
+				</category>
+			</id-00344>
+		</category>
+		<category name="ProNobis - Race Descriptions" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Random CR Stats" baseicon="0" decalicon="0">
+			<id-00333>
+				<mod type="number">8</mod>
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+				</category>
+			</id-00333>
+		</category>
+		<category name="ProNobis - Random NPC" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Rooms" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Status Effects" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Synthesis" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Treasure" baseicon="0" decalicon="0">
+			<id-01896>
+				<hiderollresults type="number">1</hiderollresults>
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+				</category>
+			</id-01896>
+		</category>
+		<category name="Pronobis - Dungeon" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Tables" baseicon="0" decalicon="0">
+		</category>
+		<category name="Z - Debug - Background" baseicon="0" decalicon="0">
+		</category>
+		<category name="Z - Debug - NPC CR generation" baseicon="0" decalicon="0">
+		</category>
+	</tables>
+</root>

@@ -1459,7 +1459,7 @@
 		</category>
 		<category name="ProNobis - True Random - Forest" baseicon="0" decalicon="0">
 			<W00002>
-				<mod type="number">2</mod>
+				<mod type="number">3</mod>
 				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
 				</category>
 			</W00002>
