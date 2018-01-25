@@ -306,6 +306,12 @@
 			</id-00017>
 			<id-00020>
 			</id-00020>
+			<id-00030>
+				<public />
+			</id-00030>
+			<id-00062>
+				<public />
+			</id-00062>
 			<id-00073>
 				<public />
 				<image type="image">
@@ -599,6 +605,38 @@
 			</id-00084>
 			<id-00085>
 				<public />
+				<image type="image">
+					<bitmap>Region_6_6.png</bitmap>
+					<gridsize>20</gridsize>
+					<gridoffset>0,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<public />
+							<x>48</x>
+							<y>1950</y>
+							<class>imagewindow</class>
+							<recordname>image.id-00122@Incarnate-Penolia</recordname>
+						</shortcut>
+					</shortcuts>
+					<tokens>
+						<idcounter>17</idcounter>
+						<tokenlock />
+						<scalelock>6.25</scalelock>
+					</tokens>
+					<pointers>
+						<pointer>
+							<id>0</id>
+							<type>1</type>
+							<startx>1071</startx>
+							<starty>451</starty>
+							<endx>1221</endx>
+							<endy>581</endy>
+							<owner></owner>
+							<color>ff</color>
+						</pointer>
+					</pointers>
+				</image>
 			</id-00085>
 			<id-00086>
 			</id-00086>
@@ -686,7 +724,23 @@
 							<class>encounter</class>
 							<recordname>encounter.id-00207</recordname>
 						</shortcut>
+						<shortcut>
+							<x>334</x>
+							<y>480</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00234</recordname>
+						</shortcut>
+						<shortcut>
+							<x>970</x>
+							<y>989</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00272</recordname>
+						</shortcut>
 					</shortcuts>
+					<tokens>
+						<idcounter>7</idcounter>
+						<scalelock>4</scalelock>
+					</tokens>
 				</image>
 				<isidentified type="number">1</isidentified>
 			</id-00096>
@@ -868,7 +922,7 @@
 							<endx>441</endx>
 							<endy>1291</endy>
 							<owner>id-00002</owner>
-							<color>ff000000</color>
+							<color>ffc800c8</color>
 						</pointer>
 						<pointer>
 							<id>0</id>
@@ -1641,6 +1695,25 @@
 							<class>encounter</class>
 							<recordname>encounter.id-00207</recordname>
 						</shortcut>
+						<shortcut>
+							<public />
+							<x>1022</x>
+							<y>1203</y>
+							<class>treasureparcel</class>
+							<recordname>treasureparcels.id-00001</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1101</x>
+							<y>801</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00247</recordname>
+						</shortcut>
+						<shortcut>
+							<x>1120</x>
+							<y>952</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00234</recordname>
+						</shortcut>
 					</shortcuts>
 					<tokens>
 						<idcounter>9</idcounter>
@@ -1648,22 +1721,10 @@
 						<token>
 							<prototype>tokens/shared/ProNobis/LetterTokens/A.png</prototype>
 							<id>9</id>
-							<x>931</x>
-							<y>1131</y>
+							<x>1011</x>
+							<y>1261</y>
 						</token>
 					</tokens>
-					<pointers>
-						<pointer>
-							<id>0</id>
-							<type>1</type>
-							<startx>1111</startx>
-							<starty>1141</starty>
-							<endx>931</endx>
-							<endy>1131</endy>
-							<owner></owner>
-							<color>ff</color>
-						</pointer>
-					</pointers>
 				</image>
 				<isidentified type="number">1</isidentified>
 			</id-00122>
@@ -1827,8 +1888,42 @@
 						</shortcut>
 					</shortcuts>
 					<tokens>
-						<idcounter>28</idcounter>
+						<idcounter>36</idcounter>
 						<scalelock>6.25</scalelock>
+						<token>
+							<prototype>portrait_id-00005_token</prototype>
+							<id>36</id>
+							<x>1561</x>
+							<y>731</y>
+							<orientation>2</orientation>
+							<name>Tony</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+						<token>
+							<prototype>portrait_id-00002_token</prototype>
+							<id>33</id>
+							<x>1581</x>
+							<y>751</y>
+							<name>Vallard Dickens</name>
+							<visibilitylocked>on</visibilitylocked>
+							<targets>35</targets>
+						</token>
+						<token>
+							<prototype>portrait_id-00004_token</prototype>
+							<id>34</id>
+							<x>1561</x>
+							<y>751</y>
+							<name>Nimir</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+						<token>
+							<prototype>portrait_id-00007_token</prototype>
+							<id>35</id>
+							<x>1561</x>
+							<y>711</y>
+							<name>Feldis Harlequin</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
 					</tokens>
 					<pointers>
 						<pointer>

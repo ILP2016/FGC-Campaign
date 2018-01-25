@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3" release="8|CoreRPG:3" integrity="354bef4fcf74cf45a284454034fb4c25da913b04">
+	<class>
+		<category name="SRD - DandDwiki - Classes" baseicon="0" decalicon="0">
+			<prowizard>
+				<holder name="jtron" />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<abilities>
+						<holder name="jtron" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="jtron" />
+							</id-00001>
+							<id-00002>
+								<holder name="jtron" />
+							</id-00002>
+						</category>
+					</abilities>
+					<equipment>
+						<holder name="jtron" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<standard>
+								<holder name="jtron" />
+							</standard>
+						</category>
+					</equipment>
+					<features>
+						<holder name="jtron" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="jtron" />
+							</id-00001>
+							<id-00002>
+								<holder name="jtron" />
+							</id-00002>
+							<id-00003>
+								<holder name="jtron" />
+							</id-00003>
+							<id-00004>
+								<holder name="jtron" />
+							</id-00004>
+							<id-00005>
+								<holder name="jtron" />
+							</id-00005>
+							<id-00006>
+								<holder name="jtron" />
+							</id-00006>
+							<id-00007>
+								<holder name="jtron" />
+							</id-00007>
+							<id-00008>
+								<holder name="jtron" />
+							</id-00008>
+							<id-00009>
+								<holder name="jtron" />
+							</id-00009>
+							<id-00010>
+								<holder name="jtron" />
+							</id-00010>
+							<id-00011>
+								<holder name="jtron" />
+							</id-00011>
+							<id-00012>
+								<holder name="jtron" />
+							</id-00012>
+							<id-00013>
+								<holder name="jtron" />
+							</id-00013>
+							<id-00014>
+								<holder name="jtron" />
+							</id-00014>
+							<id-00015>
+								<holder name="jtron" />
+							</id-00015>
+							<id-00016>
+								<holder name="jtron" />
+							</id-00016>
+							<id-00017>
+								<holder name="jtron" />
+							</id-00017>
+							<id-00018>
+								<holder name="jtron" />
+							</id-00018>
+							<id-00019>
+								<holder name="jtron" />
+							</id-00019>
+							<id-00020>
+								<holder name="jtron" />
+							</id-00020>
+						</category>
+					</features>
+					<hp>
+						<holder name="jtron" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<hitdice>
+								<holder name="jtron" />
+							</hitdice>
+							<hitpointsat1stlevel>
+								<holder name="jtron" />
+							</hitpointsat1stlevel>
+							<hitpointsathigherlevels>
+								<holder name="jtron" />
+							</hitpointsathigherlevels>
+						</category>
+					</hp>
+					<multiclassfeatures>
+						<holder name="jtron" />
+					</multiclassfeatures>
+					<multiclassproficiencies>
+						<holder name="jtron" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<armor>
+								<holder name="jtron" />
+							</armor>
+							<skills>
+								<holder name="jtron" />
+							</skills>
+							<tools>
+								<holder name="jtron" />
+							</tools>
+							<weapons>
+								<holder name="jtron" />
+							</weapons>
+						</category>
+					</multiclassproficiencies>
+					<proficiencies>
+						<holder name="jtron" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<armor>
+								<holder name="jtron" />
+							</armor>
+							<savingthrows>
+								<holder name="jtron" />
+							</savingthrows>
+							<skills>
+								<holder name="jtron" />
+							</skills>
+							<tools>
+								<holder name="jtron" />
+							</tools>
+							<weapons>
+								<holder name="jtron" />
+							</weapons>
+						</category>
+					</proficiencies>
+				</category>
+			</prowizard>
+		</category>
+	</class>
+	<referencemanual2>
+		<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+			<SRD_PRO_00852>
+				<holder name="Genghis Tebo - ProNobis" />
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+					<blocks>
+						<holder name="Genghis Tebo - ProNobis" />
+						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+							<block_001>
+								<holder name="Genghis Tebo - ProNobis" />
+							</block_001>
+						</category>
+					</blocks>
+				</category>
+			</SRD_PRO_00852>
+		</category>
+	</referencemanual2>
+	<spell>
+		<category name="01Temp" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Effects Coding - 0 General" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Effects Coding - 1 Races" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Effects Coding - 2 Items" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Effects Coding - Barbarian" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Effects Coding - Bard" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Effects Coding - Cleric" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Effects Coding - DandDwiki - Feats" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Effects Coding - Fighter" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Effects Coding - Monk" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Effects Coding - Paladin" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Effects Coding - Ranger" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Hombrew Spells" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Weapons" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Eldritch Invocations" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Spells" baseicon="0" decalicon="0">
+			<id-00178>
+				<public />
+			</id-00178>
+		</category>
+	</spell>
+	<tables>
+		<category name="DandDwiki - Backgrounds" baseicon="0" decalicon="0">
+		</category>
+		<category name="DandDwiki - Races" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Backgrounds" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Chases" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Cities" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Class Attribute Tables" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Demihumans" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Dungeon - Bosses" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Item Tables" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Linguistic Name Generator" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - NameGenerator" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Organization" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Race" baseicon="0" decalicon="0">
+			<id-00344>
+				<dice type="dice">d0</dice>
+				<mod type="number">5</mod>
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+				</category>
+			</id-00344>
+		</category>
+		<category name="ProNobis - Race Descriptions" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Random CR Stats" baseicon="0" decalicon="0">
+			<id-00333>
+				<mod type="number">12</mod>
+				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
+				</category>
+			</id-00333>
+		</category>
+		<category name="ProNobis - Random NPC" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Rooms" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Status Effects" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Synthesis" baseicon="0" decalicon="0">
+		</category>
+		<category name="ProNobis - Treasure" baseicon="0" decalicon="0">
+		</category>
+		<category name="Pronobis - Dungeon" baseicon="0" decalicon="0">
+		</category>
+		<category name="SRD - Tables" baseicon="0" decalicon="0">
+		</category>
+		<category name="Z - Debug - Background" baseicon="0" decalicon="0">
+		</category>
+		<category name="Z - Debug - NPC CR generation" baseicon="0" decalicon="0">
+		</category>
+	</tables>
+</root>

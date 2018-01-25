@@ -801,6 +801,11 @@
 			</id-00198>
 		</category>
 		<category name="SRD - Humanoid - General" baseicon="0" decalicon="0">
+			<id-00205>
+				<locked type="number">0</locked>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+				</category>
+			</id-00205>
 		</category>
 		<category name="SRD - Humanoid - Specific Race" baseicon="0" decalicon="0">
 		</category>
@@ -822,6 +827,23 @@
 		<category name="SRD - Monstrosity - Titan" baseicon="0" decalicon="0">
 		</category>
 		<category name="SRD - Ooze" baseicon="0" decalicon="0">
+			<id-00283>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<charisma>
+								<bonus type="number">-5</bonus>
+							</charisma>
+							<dexterity>
+								<bonus type="number">-4</bonus>
+							</dexterity>
+							<intelligence>
+								<bonus type="number">-5</bonus>
+							</intelligence>
+						</category>
+					</abilities>
+				</category>
+			</id-00283>
 		</category>
 		<category name="SRD - Plant" baseicon="0" decalicon="0">
 			<id-00287>
@@ -1456,6 +1478,11 @@
 		<category name="ProNobis - True Random - Coastal" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - True Random - Desert" baseicon="0" decalicon="0">
+			<D00002>
+				<mod type="number">4</mod>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+				</category>
+			</D00002>
 		</category>
 		<category name="ProNobis - True Random - Forest" baseicon="0" decalicon="0">
 			<W00002>
