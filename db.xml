@@ -3587,6 +3587,14 @@
 				<frame>After trudging 10 miles along a strait-cut cobblestone road through rolling hills you begin to hear the sound of the sounds of trumpets filtering past the battlements. As you finally come over the last hill you can finally see the city with its towering palace sticking above the city walls.</frame>
 			</text>
 		</id-00243>
+		<category name="02,03 - end of season island" baseicon="0" decalicon="0">
+			<id-00273>
+				<name type="string">End of Season Island</name>
+				<text type="formattedtext">
+					<p>This Island is reserved for the end of season quest. Approaching this island will result in at least one tier 3 (CR13+) naval encounter. Finishing the quest on the island will require defeating a CR 20 encounter.</p>
+				</text>
+			</id-00273>
+		</category>
 		<category name="05,05" baseicon="0" decalicon="0">
 			<id-00199>
 				<name type="string">two bushes</name>

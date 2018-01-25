@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<root version="3.3" release="8|CoreRPG:3" integrity="db39232247e626ff566aef8675ac1dff2adf2c36">
+<root version="3.3" release="8|CoreRPG:3" integrity="354bef4fcf74cf45a284454034fb4c25da913b04">
 	<class>
 		<category name="SRD - DandDwiki - Classes" baseicon="0" decalicon="0">
 			<prowizard>
@@ -188,14 +188,6 @@
 		<category name="ProNobis - Effects Coding - Paladin" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Effects Coding - Ranger" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Effects Coding - Rogue" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Effects Coding - Sorcerer" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Effects Coding - Warlock" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Effects Coding - Wizard" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Hombrew Spells" baseicon="0" decalicon="0">
 		</category>
