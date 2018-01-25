@@ -15952,13 +15952,6 @@
 			<isidentified type="number">0</isidentified>
 			<name type="string">Region_1,1</name>
 		</id-00008>
-		<id-00009>
-			<image type="image">
-				<bitmap>images/Rob 2e's Shop.jpg</bitmap>
-			</image>
-			<isidentified type="number">0</isidentified>
-			<name type="string">Rob 2e's Shop</name>
-		</id-00009>
 		<id-00010>
 			<image type="image">
 				<bitmap>images/Town.jpg</bitmap>
