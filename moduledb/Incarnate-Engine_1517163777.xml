@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<root version="3.3" release="8|CoreRPG:3" integrity="c9c638b995518919219ef2ef8bb5469d233cce00">
+<root version="3.3" release="8|CoreRPG:3" integrity="db39232247e626ff566aef8675ac1dff2adf2c36">
 	<class>
 		<category name="SRD - DandDwiki - Classes" baseicon="0" decalicon="0">
-			<probard>
-				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-					<features>
-						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-							<id-00002>
-								<public />
-							</id-00002>
-						</category>
-					</features>
-				</category>
-			</probard>
 			<prowizard>
 				<holder name="jtron" />
 				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
@@ -158,29 +147,6 @@
 			</prowizard>
 		</category>
 	</class>
-	<encounter>
-		<category name="DandDwiki - Backgrounds" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - 00 Cheat Sheets" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Background" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Classes" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Homebrew Rules" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Lore" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Synthesis" baseicon="0" decalicon="0">
-		</category>
-		<category name="SRD - Class Tables" baseicon="0" decalicon="0">
-			<id-00047>
-				<holder name="Vallard ProNobis" />
-			</id-00047>
-		</category>
-		<category name="SRD - Rules" baseicon="0" decalicon="0">
-		</category>
-	</encounter>
 	<referencemanual2>
 		<category name="Incarnate-Engine" baseicon="0" decalicon="0">
 			<SRD_PRO_00852>
@@ -254,13 +220,9 @@
 		</category>
 		<category name="ProNobis - Cities" baseicon="0" decalicon="0">
 		</category>
-		<category name="ProNobis - City Districts" baseicon="0" decalicon="0">
-		</category>
 		<category name="ProNobis - Class Attribute Tables" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Demihumans" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Dungeon" baseicon="0" decalicon="0">
 		</category>
 		<category name="ProNobis - Dungeon - Bosses" baseicon="0" decalicon="0">
 		</category>
@@ -299,13 +261,13 @@
 		</category>
 		<category name="ProNobis - Treasure" baseicon="0" decalicon="0">
 		</category>
+		<category name="Pronobis - Dungeon" baseicon="0" decalicon="0">
+		</category>
 		<category name="SRD - Tables" baseicon="0" decalicon="0">
 		</category>
 		<category name="Z - Debug - Background" baseicon="0" decalicon="0">
 		</category>
 		<category name="Z - Debug - NPC CR generation" baseicon="0" decalicon="0">
-		</category>
-		<category name="Z Dungeon Chamber Description Debug" baseicon="0" decalicon="0">
 		</category>
 	</tables>
 </root>

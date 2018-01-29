@@ -1625,7 +1625,7 @@
 							<endx>1121</endx>
 							<endy>861</endy>
 							<owner>id-00001</owner>
-							<color>ff000000</color>
+							<color>0</color>
 						</pointer>
 						<pointer>
 							<id>0</id>
@@ -1635,7 +1635,7 @@
 							<endx>341</endx>
 							<endy>1261</endy>
 							<owner></owner>
-							<color>ff</color>
+							<color>ff0000ff</color>
 						</pointer>
 					</pointers>
 				</image>
@@ -1949,7 +1949,7 @@
 							<endx>1221</endx>
 							<endy>581</endy>
 							<owner></owner>
-							<color>ff</color>
+							<color>ff0000ff</color>
 						</pointer>
 					</pointers>
 				</image>
@@ -2230,7 +2230,7 @@
 							<endx>1631</endx>
 							<endy>971</endy>
 							<owner>id-00001</owner>
-							<color>ff000000</color>
+							<color>0</color>
 						</pointer>
 					</pointers>
 				</image>
@@ -2637,7 +2637,7 @@
 							<endx>441</endx>
 							<endy>1291</endy>
 							<owner>id-00002</owner>
-							<color>ffc800c8</color>
+							<color>ffff0000</color>
 						</pointer>
 						<pointer>
 							<id>0</id>
@@ -2647,7 +2647,7 @@
 							<endx>391</endx>
 							<endy>1341</endy>
 							<owner></owner>
-							<color>ff</color>
+							<color>ff0000ff</color>
 						</pointer>
 					</pointers>
 				</image>
@@ -3480,8 +3480,8 @@
 						</shortcut>
 						<shortcut>
 							<public />
-							<x>1022</x>
-							<y>1203</y>
+							<x>1042</x>
+							<y>1240</y>
 							<class>treasureparcel</class>
 							<recordname>treasureparcels.id-00001</recordname>
 						</shortcut>
@@ -3510,9 +3510,9 @@
 						<token>
 							<prototype>tokens/shared/ProNobis/LetterTokens/A.png</prototype>
 							<id>9</id>
-							<x>1011</x>
-							<y>1261</y>
-							<orientation>1</orientation>
+							<x>931</x>
+							<y>1181</y>
+							<orientation>6</orientation>
 						</token>
 					</tokens>
 				</image>
@@ -3680,40 +3680,6 @@
 					<tokens>
 						<idcounter>36</idcounter>
 						<scalelock>6.25</scalelock>
-						<token>
-							<prototype>portrait_id-00005_token</prototype>
-							<id>36</id>
-							<x>1561</x>
-							<y>731</y>
-							<orientation>2</orientation>
-							<name>Tony</name>
-							<visibilitylocked>on</visibilitylocked>
-						</token>
-						<token>
-							<prototype>portrait_id-00002_token</prototype>
-							<id>33</id>
-							<x>1581</x>
-							<y>751</y>
-							<name>Vallard Dickens</name>
-							<visibilitylocked>on</visibilitylocked>
-							<targets>35</targets>
-						</token>
-						<token>
-							<prototype>portrait_id-00004_token</prototype>
-							<id>34</id>
-							<x>1561</x>
-							<y>751</y>
-							<name>Nimir</name>
-							<visibilitylocked>on</visibilitylocked>
-						</token>
-						<token>
-							<prototype>portrait_id-00007_token</prototype>
-							<id>35</id>
-							<x>1561</x>
-							<y>711</y>
-							<name>Feldis Harlequin</name>
-							<visibilitylocked>on</visibilitylocked>
-						</token>
 					</tokens>
 					<pointers>
 						<pointer>
@@ -3724,7 +3690,7 @@
 							<endx>1261</endx>
 							<endy>1301</endy>
 							<owner></owner>
-							<color>ff</color>
+							<color>ff0000ff</color>
 						</pointer>
 					</pointers>
 				</image>
@@ -3777,6 +3743,7 @@
 					<gridsnap>on</gridsnap>
 					<shortcuts>
 						<shortcut>
+							<public />
 							<x>157</x>
 							<y>1603</y>
 							<class>imagewindow</class>
@@ -3945,47 +3912,147 @@
 							<recordname>battle.id-00018</recordname>
 						</shortcut>
 						<shortcut>
-							<x>1601</x>
-							<y>608</y>
-							<class>encounter</class>
-							<recordname>encounter.id-00070</recordname>
-						</shortcut>
-						<shortcut>
-							<x>1680</x>
-							<y>426</y>
+							<x>198</x>
+							<y>371</y>
 							<class>encounter</class>
 							<recordname>encounter.id-00073</recordname>
 						</shortcut>
 						<shortcut>
-							<x>1398</x>
-							<y>635</y>
+							<x>491</x>
+							<y>591</y>
 							<class>encounter</class>
 							<recordname>encounter.id-00238</recordname>
 						</shortcut>
+						<shortcut>
+							<x>338</x>
+							<y>341</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00274</recordname>
+						</shortcut>
+						<shortcut>
+							<x>214</x>
+							<y>472</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00275</recordname>
+						</shortcut>
+						<shortcut>
+							<x>678</x>
+							<y>339</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00277</recordname>
+						</shortcut>
+						<shortcut>
+							<x>420</x>
+							<y>1722</y>
+							<class>battle</class>
+							<recordname>battle.id-00026</recordname>
+						</shortcut>
+						<shortcut>
+							<x>517</x>
+							<y>1823</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00278</recordname>
+						</shortcut>
+						<shortcut>
+							<x>269</x>
+							<y>1627</y>
+							<class>item</class>
+							<recordname>treasureparcels.id-00006.itemlist.id-00005</recordname>
+						</shortcut>
+						<shortcut>
+							<x>279</x>
+							<y>1461</y>
+							<class>item</class>
+							<recordname>treasureparcels.id-00006.itemlist.id-00003</recordname>
+						</shortcut>
+						<shortcut>
+							<x>469</x>
+							<y>1456</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00279</recordname>
+						</shortcut>
+						<shortcut>
+							<x>573</x>
+							<y>1456</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00280</recordname>
+						</shortcut>
+						<shortcut>
+							<x>474</x>
+							<y>1371</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00281</recordname>
+						</shortcut>
+						<shortcut>
+							<x>572</x>
+							<y>1366</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00282</recordname>
+						</shortcut>
+						<shortcut>
+							<x>470</x>
+							<y>1296</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00283</recordname>
+						</shortcut>
+						<shortcut>
+							<x>576</x>
+							<y>1294</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00284</recordname>
+						</shortcut>
+						<shortcut>
+							<x>476</x>
+							<y>1686</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00285</recordname>
+						</shortcut>
 					</shortcuts>
 					<tokens>
-						<idcounter>29</idcounter>
+						<idcounter>42</idcounter>
 						<scalelock>6.25</scalelock>
-						<token>
-							<prototype>portrait_id-00001_token</prototype>
-							<id>3</id>
-							<x>1411</x>
-							<y>571</y>
-						</token>
-						<token>
-							<prototype>portrait_id-00004_token</prototype>
-							<id>1</id>
-							<x>1491</x>
-							<y>561</y>
-							<orientation>5</orientation>
-							<targets>12</targets>
-						</token>
 						<token>
 							<prototype>portrait_id-00007_token</prototype>
 							<id>12</id>
 							<x>1311</x>
 							<y>691</y>
 							<orientation>7</orientation>
+						</token>
+						<token>
+							<prototype>portrait_id-00005_token</prototype>
+							<id>33</id>
+							<x>1151</x>
+							<y>1561</y>
+							<scale>1.1</scale>
+							<name>Eldor</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+						<token>
+							<prototype>portrait_id-00003_token</prototype>
+							<id>30</id>
+							<x>1151</x>
+							<y>1491</y>
+							<orientation>2</orientation>
+							<name>Vallard Dickens</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+						<token>
+							<prototype>portrait_id-00004_token</prototype>
+							<id>32</id>
+							<x>1191</x>
+							<y>1541</y>
+							<orientation>2</orientation>
+							<name>jimmy</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+						<token>
+							<prototype>portrait_id-00006_token</prototype>
+							<id>31</id>
+							<x>1141</x>
+							<y>1581</y>
+							<orientation>6</orientation>
+							<name>Cade</name>
+							<visibilitylocked>on</visibilitylocked>
 						</token>
 					</tokens>
 				</image>

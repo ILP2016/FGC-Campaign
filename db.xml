@@ -1800,6 +1800,49 @@
 				</id-00003>
 			</npclist>
 		</id-00025>
+		<id-00026>
+			<exp type="number">0</exp>
+			<npclist>
+				<id-00001>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>reference.npcdata.minotaurskeleton@DD MM Monster Manual</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Minotaur Skeleton</name>
+					<token type="token">tokens/minotaurskeleton.png@DD MM Monster Manual</token>
+				</id-00001>
+				<id-00002>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>reference.npcdata.minotaurskeleton@DD MM Monster Manual</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Minotaur Skeleton</name>
+					<token type="token">tokens/minotaurskeleton.png@DD MM Monster Manual</token>
+				</id-00002>
+			</npclist>
+		</id-00026>
 		<id-00053>
 			<cr type="string">4</cr>
 			<exp type="number">950</exp>
@@ -2660,7 +2703,7 @@
 		<public />
 		<list>
 			<public />
-			<id-00001>
+			<id-00002>
 				<public />
 				<abilities>
 					<public />
@@ -2731,116 +2774,12 @@
 				<status type="string">Healthy</status>
 				<targets>
 					<public />
-					<id-00016>
-						<public />
-						<noderef type="string">combattracker.list.id-00013</noderef>
-					</id-00016>
 				</targets>
-				<token type="token">portrait_id-00002_token</token>
-				<tokenrefid type="string">33</tokenrefid>
-				<tokenrefnode type="string">image.id-00124.image@Incarnate-Penolia</tokenrefnode>
+				<token type="token">portrait_id-00003_token</token>
+				<tokenrefid type="string">30</tokenrefid>
+				<tokenrefnode type="string">image.id-00137.image@Incarnate-Penolia</tokenrefnode>
 				<tokenscale type="number">1</tokenscale>
-				<tokenvis type="number">0</tokenvis>
-				<traits>
-					<public />
-				</traits>
-				<wounds type="number">0</wounds>
-			</id-00001>
-			<id-00002>
-				<public />
-				<abilities>
-					<public />
-					<charisma>
-						<public />
-						<score type="number">8</score>
-					</charisma>
-					<constitution>
-						<public />
-						<score type="number">10</score>
-					</constitution>
-					<dexterity>
-						<public />
-						<score type="number">17</score>
-					</dexterity>
-					<intelligence>
-						<public />
-						<score type="number">10</score>
-					</intelligence>
-					<strength>
-						<public />
-						<score type="number">13</score>
-					</strength>
-					<wisdom>
-						<public />
-						<score type="number">15</score>
-					</wisdom>
-				</abilities>
-				<ac type="number">14</ac>
-				<actions>
-					<public />
-				</actions>
-				<active type="number">0</active>
-				<deathsavefail type="number">0</deathsavefail>
-				<deathsavesuccess type="number">0</deathsavesuccess>
-				<effects>
-					<public />
-					<id-00001>
-						<public />
-						<holder name="Alyks" owner="true" />
-						<duration type="number">0</duration>
-						<init type="number">0</init>
-						<isactive type="number">1</isactive>
-						<isgmonly type="number">0</isgmonly>
-						<label type="string">Mask of the Wild; Hide when lightly obscurred</label>
-					</id-00001>
-					<id-00004>
-						<public />
-						<holder name="Alyks" owner="true" />
-						<duration type="number">0</duration>
-						<init type="number">15</init>
-						<isactive type="number">1</isactive>
-						<isgmonly type="number">0</isgmonly>
-						<label type="string">Survivalist; SKILL: 2 nature,survival</label>
-					</id-00004>
-				</effects>
-				<friendfoe type="string">friend</friendfoe>
-				<hptemp type="number">0</hptemp>
-				<hptotal type="number">18</hptotal>
-				<init type="number">3</init>
-				<initresult type="number">18</initresult>
-				<innatespells>
-					<public />
-				</innatespells>
-				<lairactions>
-					<public />
-				</lairactions>
-				<legendaryactions>
-					<public />
-				</legendaryactions>
-				<link type="windowreference">
-					<class>npc</class>
-					<recordname></recordname>
-				</link>
-				<name type="string">Nimir</name>
-				<reach type="number">5</reach>
-				<reaction type="number">0</reaction>
-				<reactions>
-					<public />
-				</reactions>
-				<space type="number">5</space>
-				<speed type="string">35</speed>
-				<spells>
-					<public />
-				</spells>
-				<status type="string">Healthy</status>
-				<targets>
-					<public />
-				</targets>
-				<token type="token">portrait_id-00004_token</token>
-				<tokenrefid type="string">34</tokenrefid>
-				<tokenrefnode type="string">image.id-00124.image@Incarnate-Penolia</tokenrefnode>
-				<tokenscale type="number">1</tokenscale>
-				<tokenvis type="number">0</tokenvis>
+				<tokenvis type="number">1</tokenvis>
 				<traits>
 					<public />
 				</traits>
@@ -2856,58 +2795,49 @@
 					</charisma>
 					<constitution>
 						<public />
-						<score type="number">14</score>
+						<score type="number">10</score>
 					</constitution>
 					<dexterity>
 						<public />
-						<score type="number">14</score>
+						<score type="number">16</score>
 					</dexterity>
 					<intelligence>
 						<public />
-						<score type="number">8</score>
+						<score type="number">15</score>
 					</intelligence>
 					<strength>
 						<public />
-						<score type="number">19</score>
+						<score type="number">8</score>
 					</strength>
 					<wisdom>
 						<public />
-						<score type="number">10</score>
+						<score type="number">14</score>
 					</wisdom>
 				</abilities>
-				<ac type="number">14</ac>
+				<ac type="number">13</ac>
 				<actions>
 					<public />
 				</actions>
-				<active type="number">0</active>
+				<active type="number">1</active>
 				<deathsavefail type="number">0</deathsavefail>
 				<deathsavesuccess type="number">0</deathsavesuccess>
 				<effects>
 					<public />
 					<id-00001>
 						<public />
-						<holder name="Genghis Tebo - ProNobis" owner="true" />
+						<holder name="andrewza" owner="true" />
 						<duration type="number">0</duration>
-						<init type="number">15</init>
+						<init type="number">0</init>
 						<isactive type="number">1</isactive>
 						<isgmonly type="number">0</isgmonly>
-						<label type="string">Long-Limbed; 10' reach</label>
+						<label type="string">AC: 3</label>
 					</id-00001>
-					<id-00002>
-						<public />
-						<holder name="Genghis Tebo - ProNobis" owner="true" />
-						<duration type="number">0</duration>
-						<init type="number">12</init>
-						<isactive type="number">1</isactive>
-						<isgmonly type="number">0</isgmonly>
-						<label type="string">Danger Sense</label>
-					</id-00002>
 				</effects>
 				<friendfoe type="string">friend</friendfoe>
 				<hptemp type="number">0</hptemp>
-				<hptotal type="number">39</hptotal>
-				<init type="number">2</init>
-				<initresult type="number">16</initresult>
+				<hptotal type="number">14</hptotal>
+				<init type="number">3</init>
+				<initresult type="number">5</initresult>
 				<innatespells>
 					<public />
 				</innatespells>
@@ -2921,8 +2851,107 @@
 					<class>npc</class>
 					<recordname></recordname>
 				</link>
-				<name type="string">Tony</name>
-				<reach type="number">10</reach>
+				<name type="string">jimmy</name>
+				<reach type="number">5</reach>
+				<reaction type="number">0</reaction>
+				<reactions>
+					<public />
+				</reactions>
+				<space type="number">5</space>
+				<speed type="string">25</speed>
+				<spells>
+					<public />
+				</spells>
+				<status type="string">Healthy</status>
+				<targets>
+					<public />
+				</targets>
+				<token type="token">portrait_id-00004_token</token>
+				<tokenrefid type="string">32</tokenrefid>
+				<tokenrefnode type="string">image.id-00137.image@Incarnate-Penolia</tokenrefnode>
+				<tokenscale type="number">1</tokenscale>
+				<tokenvis type="number">1</tokenvis>
+				<traits>
+					<public />
+				</traits>
+				<wounds type="number">0</wounds>
+			</id-00003>
+			<id-00004>
+				<public />
+				<abilities>
+					<public />
+					<charisma>
+						<public />
+						<score type="number">18</score>
+					</charisma>
+					<constitution>
+						<public />
+						<score type="number">16</score>
+					</constitution>
+					<dexterity>
+						<public />
+						<score type="number">10</score>
+					</dexterity>
+					<intelligence>
+						<public />
+						<score type="number">8</score>
+					</intelligence>
+					<strength>
+						<public />
+						<score type="number">16</score>
+					</strength>
+					<wisdom>
+						<public />
+						<score type="number">8</score>
+					</wisdom>
+				</abilities>
+				<ac type="number">18</ac>
+				<actions>
+					<public />
+				</actions>
+				<active type="number">0</active>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<effects>
+					<public />
+					<id-00002>
+						<public />
+						<duration type="number">0</duration>
+						<init type="number">20</init>
+						<isactive type="number">1</isactive>
+						<isgmonly type="number">0</isgmonly>
+						<label type="string">Divine Health; IMMUNE: disease</label>
+					</id-00002>
+					<id-00006>
+						<public />
+						<holder name="Malamute" owner="true" />
+						<duration type="number">0</duration>
+						<init type="number">4</init>
+						<isactive type="number">1</isactive>
+						<isgmonly type="number">0</isgmonly>
+						<label type="string">Fighting Style - Dueling; DMG: 2 melee</label>
+					</id-00006>
+				</effects>
+				<friendfoe type="string">friend</friendfoe>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">40</hptotal>
+				<init type="number">0</init>
+				<initresult type="number">2</initresult>
+				<innatespells>
+					<public />
+				</innatespells>
+				<lairactions>
+					<public />
+				</lairactions>
+				<legendaryactions>
+					<public />
+				</legendaryactions>
+				<link type="windowreference">
+					<class>npc</class>
+					<recordname></recordname>
+				</link>
+				<name type="string">Eldor</name>
+				<reach type="number">5</reach>
 				<reaction type="number">0</reaction>
 				<reactions>
 					<public />
@@ -2932,81 +2961,64 @@
 				<spells>
 					<public />
 				</spells>
-				<status type="string">Wounded</status>
+				<status type="string">Healthy</status>
 				<targets>
 					<public />
 				</targets>
 				<token type="token">portrait_id-00005_token</token>
-				<tokenrefid type="string">36</tokenrefid>
-				<tokenrefnode type="string">image.id-00124.image@Incarnate-Penolia</tokenrefnode>
-				<tokenscale type="number">1</tokenscale>
-				<tokenvis type="number">0</tokenvis>
+				<tokenrefid type="string">33</tokenrefid>
+				<tokenrefnode type="string">image.id-00137.image@Incarnate-Penolia</tokenrefnode>
+				<tokenscale type="number">1.1</tokenscale>
+				<tokenvis type="number">1</tokenvis>
 				<traits>
 					<public />
 				</traits>
-				<wounds type="number">5</wounds>
-			</id-00003>
-			<id-00013>
+				<wounds type="number">0</wounds>
+			</id-00004>
+			<id-00005>
 				<public />
 				<abilities>
 					<public />
 					<charisma>
 						<public />
-						<score type="number">17</score>
+						<score type="number">13</score>
 					</charisma>
 					<constitution>
 						<public />
-						<score type="number">13</score>
+						<score type="number">12</score>
 					</constitution>
 					<dexterity>
 						<public />
-						<score type="number">15</score>
+						<score type="number">16</score>
 					</dexterity>
 					<intelligence>
 						<public />
-						<score type="number">11</score>
+						<score type="number">13</score>
 					</intelligence>
 					<strength>
 						<public />
-						<score type="number">10</score>
+						<score type="number">12</score>
 					</strength>
 					<wisdom>
 						<public />
-						<score type="number">10</score>
+						<score type="number">13</score>
 					</wisdom>
 				</abilities>
-				<ac type="number">12</ac>
+				<ac type="number">13</ac>
 				<actions>
 					<public />
 				</actions>
-				<active type="number">1</active>
+				<active type="number">0</active>
 				<deathsavefail type="number">0</deathsavefail>
 				<deathsavesuccess type="number">0</deathsavesuccess>
 				<effects>
 					<public />
-					<id-00002>
-						<public />
-						<duration type="number">0</duration>
-						<init type="number">0</init>
-						<isactive type="number">1</isactive>
-						<isgmonly type="number">0</isgmonly>
-						<label type="string">Avoidance</label>
-					</id-00002>
-					<id-00004>
-						<public />
-						<duration type="number">0</duration>
-						<init type="number">22</init>
-						<isactive type="number">1</isactive>
-						<isgmonly type="number">0</isgmonly>
-						<label type="string">DMGO: 2d6 fire</label>
-						<source_name type="string">combattracker.list.id-00001</source_name>
-					</id-00004>
 				</effects>
 				<friendfoe type="string">friend</friendfoe>
 				<hptemp type="number">0</hptemp>
-				<hptotal type="number">27</hptotal>
-				<init type="number">2</init>
-				<initresult type="number">7</initresult>
+				<hptotal type="number">21</hptotal>
+				<init type="number">3</init>
+				<initresult type="number">20</initresult>
 				<innatespells>
 					<public />
 				</innatespells>
@@ -3020,328 +3032,33 @@
 					<class>npc</class>
 					<recordname></recordname>
 				</link>
-				<name type="string">Feldis Harlequin</name>
+				<name type="string">Cade</name>
 				<reach type="number">5</reach>
 				<reaction type="number">0</reaction>
 				<reactions>
 					<public />
 				</reactions>
 				<space type="number">5</space>
-				<speed type="string">40</speed>
-				<spells>
-					<public />
-				</spells>
-				<status type="string">Heavy</status>
-				<targets>
-					<public />
-				</targets>
-				<token type="token">portrait_id-00007_token</token>
-				<tokenrefid type="string">35</tokenrefid>
-				<tokenrefnode type="string">image.id-00124.image@Incarnate-Penolia</tokenrefnode>
-				<tokenscale type="number">1</tokenscale>
-				<tokenvis type="number">0</tokenvis>
-				<traits>
-					<public />
-				</traits>
-				<wounds type="number">15</wounds>
-			</id-00013>
-			<id-00015>
-				<public />
-				<abilities>
-					<public />
-					<charisma>
-						<public />
-						<bonus type="number">-1</bonus>
-						<score type="number">7</score>
-					</charisma>
-					<constitution>
-						<public />
-						<bonus type="number">1</bonus>
-						<score type="number">12</score>
-					</constitution>
-					<dexterity>
-						<public />
-						<bonus type="number">0</bonus>
-						<score type="number">10</score>
-					</dexterity>
-					<intelligence>
-						<public />
-						<bonus type="number">-4</bonus>
-						<score type="number">2</score>
-					</intelligence>
-					<strength>
-						<public />
-						<bonus type="number">4</bonus>
-						<score type="number">18</score>
-					</strength>
-					<wisdom>
-						<public />
-						<bonus type="number">0</bonus>
-						<score type="number">11</score>
-					</wisdom>
-				</abilities>
-				<ac type="number">10</ac>
-				<actions>
-					<public />
-					<id-00001>
-						<public />
-						<desc type="string">Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage.</desc>
-						<name type="string">Hooves</name>
-						<value type="string">Hooves [M] [ATK: +6] [DMG: 2d4+4 bludgeoning]</value>
-					</id-00001>
-				</actions>
-				<active type="number">0</active>
-				<alignment type="string">unaligned</alignment>
-				<cr type="string">1/4</cr>
-				<deathsavefail type="number">0</deathsavefail>
-				<deathsavesuccess type="number">0</deathsavesuccess>
-				<effects>
-					<public />
-				</effects>
-				<friendfoe type="string">neutral</friendfoe>
-				<hd type="string">(3d10 + 3)</hd>
-				<hp type="number">19</hp>
-				<hptemp type="number">0</hptemp>
-				<hptotal type="number">14</hptotal>
-				<init type="number">0</init>
-				<initresult type="number">8</initresult>
-				<innatespells>
-					<public />
-				</innatespells>
-				<lairactions>
-					<public />
-				</lairactions>
-				<languages type="string">-</languages>
-				<legendaryactions>
-					<public />
-				</legendaryactions>
-				<link type="windowreference">
-					<class>npc</class>
-					<recordname></recordname>
-				</link>
-				<locked type="number">1</locked>
-				<name type="string">Draft Horse</name>
-				<reach type="number">5</reach>
-				<reaction type="number">0</reaction>
-				<reactions>
-					<public />
-				</reactions>
-				<senses type="string">passive Perception 10</senses>
-				<size type="string">Large</size>
-				<space type="number">10</space>
-				<speed type="string">40 ft.</speed>
+				<speed type="string">30</speed>
 				<spells>
 					<public />
 				</spells>
 				<status type="string">Healthy</status>
-				<token type="token">tokens/D.png@DD MM Monster Manual</token>
+				<targets>
+					<public />
+				</targets>
+				<token type="token">portrait_id-00006_token</token>
+				<tokenrefid type="string">31</tokenrefid>
+				<tokenrefnode type="string">image.id-00137.image@Incarnate-Penolia</tokenrefnode>
 				<tokenscale type="number">1</tokenscale>
 				<tokenvis type="number">1</tokenvis>
 				<traits>
 					<public />
 				</traits>
-				<type type="string">beast</type>
 				<wounds type="number">0</wounds>
-				<xp type="number">50</xp>
-			</id-00015>
-			<id-00035>
-				<public />
-				<abilities>
-					<public />
-					<charisma>
-						<public />
-						<bonus type="number">0</bonus>
-						<score type="number">10</score>
-					</charisma>
-					<constitution>
-						<public />
-						<bonus type="number">0</bonus>
-						<score type="number">10</score>
-					</constitution>
-					<dexterity>
-						<public />
-						<bonus type="number">0</bonus>
-						<score type="number">10</score>
-					</dexterity>
-					<intelligence>
-						<public />
-						<bonus type="number">0</bonus>
-						<score type="number">10</score>
-					</intelligence>
-					<strength>
-						<public />
-						<bonus type="number">0</bonus>
-						<score type="number">10</score>
-					</strength>
-					<wisdom>
-						<public />
-						<bonus type="number">0</bonus>
-						<score type="number">10</score>
-					</wisdom>
-				</abilities>
-				<ac type="number">0</ac>
-				<actions>
-					<public />
-					<id-00001>
-						<public />
-						<desc type="string">Melee weapon attack: +3 to hit, reach 10 ft., one creature. Hit: 7 (2d6) fire damage. It must make a DC 16 dexterity saving throw or be burned and take 7 (2d6) fire damage at the start of each of the alian's turns.</desc>
-						<value type="string">[M] [RNG: 10] [ATK: +3] [DMG: 2d6 fire] [SAVEVS: dexterity 16] [EFF: DMGO: 2d6 fire]</value>
-					</id-00001>
-					<id-00002>
-						<public />
-						<desc type="string">Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 5 (1d8 + 3) lightning damage. The target must succeed on a DC 16 Wisdom saving throw or be stunned for 1 minute.</desc>
-						<value type="string">[R] [ATK: +3] [DMG: 1d8+3 lightning] [SAVEVS: wisdom 16] [EFF: Stunned (D:1 MIN)]</value>
-					</id-00002>
-				</actions>
-				<active type="number">0</active>
-				<deathsavefail type="number">0</deathsavefail>
-				<deathsavesuccess type="number">0</deathsavesuccess>
-				<effects>
-					<public />
-				</effects>
-				<friendfoe type="string">foe</friendfoe>
-				<hp type="number">0</hp>
-				<hptemp type="number">0</hptemp>
-				<hptotal type="number">0</hptotal>
-				<init type="number">0</init>
-				<initresult type="number">8</initresult>
-				<innatespells>
-					<public />
-				</innatespells>
-				<lairactions>
-					<public />
-				</lairactions>
-				<legendaryactions>
-					<public />
-				</legendaryactions>
-				<link type="windowreference">
-					<class>npc</class>
-					<recordname></recordname>
-				</link>
-				<locked type="number">1</locked>
-				<name type="string">Alian 7</name>
-				<reach type="number">5</reach>
-				<reaction type="number">0</reaction>
-				<reactions>
-					<public />
-				</reactions>
-				<space type="number">5</space>
-				<spells>
-					<public />
-				</spells>
-				<status type="string">Healthy</status>
-				<text type="formattedtext">
-					<p></p>
-				</text>
-				<token type="token">tokens/Medium/a.png@Letter Tokens</token>
-				<tokenscale type="number">1</tokenscale>
-				<tokenvis type="number">0</tokenvis>
-				<traits>
-					<public />
-				</traits>
-				<wounds type="number">0</wounds>
-				<xp type="number">0</xp>
-			</id-00035>
-			<id-00036>
-				<public />
-				<abilities>
-					<public />
-					<charisma>
-						<public />
-						<bonus type="number">0</bonus>
-						<score type="number">10</score>
-					</charisma>
-					<constitution>
-						<public />
-						<bonus type="number">0</bonus>
-						<score type="number">10</score>
-					</constitution>
-					<dexterity>
-						<public />
-						<bonus type="number">0</bonus>
-						<score type="number">10</score>
-					</dexterity>
-					<intelligence>
-						<public />
-						<bonus type="number">0</bonus>
-						<score type="number">10</score>
-					</intelligence>
-					<strength>
-						<public />
-						<bonus type="number">0</bonus>
-						<score type="number">10</score>
-					</strength>
-					<wisdom>
-						<public />
-						<bonus type="number">0</bonus>
-						<score type="number">10</score>
-					</wisdom>
-				</abilities>
-				<ac type="number">0</ac>
-				<actions>
-					<public />
-					<id-00001>
-						<public />
-						<desc type="string">Melee weapon attack: +3 to hit, reach 10 ft., one creature. Hit: 7 (2d6) fire damage. It must make a DC 16 dexterity saving throw or be burned and take 7 (2d6) fire damage at the start of each of the alian's turns for 3 rounds.</desc>
-						<value type="string">[M] [RNG: 10] [ATK: +3] [DMG: 2d6 fire] [SAVEVS: dexterity 16] [EFF: DMGO: 2d6 fire (D:3)]</value>
-					</id-00001>
-					<id-00002>
-						<public />
-						<desc type="string">Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 5 (1d8 + 3) lightning damage. The target must succeed on a DC 16 Wisdom saving throw or be stunned for 1 minute.</desc>
-						<value type="string">[R] [ATK: +3] [DMG: 1d8+3 lightning] [SAVEVS: wisdom 16] [EFF: Stunned (D:1 MIN)]</value>
-					</id-00002>
-				</actions>
-				<active type="number">0</active>
-				<deathsavefail type="number">0</deathsavefail>
-				<deathsavesuccess type="number">0</deathsavesuccess>
-				<effects>
-					<public />
-				</effects>
-				<friendfoe type="string">foe</friendfoe>
-				<hp type="number">0</hp>
-				<hptemp type="number">0</hptemp>
-				<hptotal type="number">0</hptotal>
-				<init type="number">0</init>
-				<initresult type="number">10</initresult>
-				<innatespells>
-					<public />
-				</innatespells>
-				<lairactions>
-					<public />
-				</lairactions>
-				<legendaryactions>
-					<public />
-				</legendaryactions>
-				<link type="windowreference">
-					<class>npc</class>
-					<recordname></recordname>
-				</link>
-				<locked type="number">1</locked>
-				<name type="string">Alian 8</name>
-				<reach type="number">5</reach>
-				<reaction type="number">0</reaction>
-				<reactions>
-					<public />
-				</reactions>
-				<space type="number">5</space>
-				<spells>
-					<public />
-				</spells>
-				<status type="string">Healthy</status>
-				<text type="formattedtext">
-					<p></p>
-				</text>
-				<token type="token">tokens/Medium/a.png@Letter Tokens</token>
-				<tokenscale type="number">1</tokenscale>
-				<tokenvis type="number">0</tokenvis>
-				<traits>
-					<public />
-				</traits>
-				<wounds type="number">0</wounds>
-				<xp type="number">0</xp>
-			</id-00036>
+			</id-00005>
 		</list>
-		<round type="number">15</round>
+		<round type="number">3</round>
 	</combattracker>
 	<effects>
 		<public />
@@ -8173,73 +7890,112 @@
 		</category>
 		<category name="06,05 Orc Tower" baseicon="0" decalicon="0">
 			<id-00070>
-				<name type="string">Cave Boss Chamber</name>
+				<name type="string">Hallway</name>
 				<text type="formattedtext">
-					<h>Lore</h>
-					<p>The front door has a spell attached to the picture on the front.</p>
-					<h>Description</h>
-					<frame>You walk into a large chamber that is 121 ft. by 114 ft. with a high arching ceiling 21 ft. high. The area is filled with glow worms giving off dim light. The walls are made of compacted dirt. The air is slowly falling tingling your nose with a crisp and clean smell. As you listen carefully you hear creaking in front of you.</frame>
-					<h>Boss:</h>
-					<h>Useful Items</h>
-					<linklist>
-						<link class="item" recordname="item.id-00263@Incarnate-Engine">Dice Set</link>
-						<link class="item" recordname="item.id-00263@Incarnate-Engine">Dice Set</link>
-						<link class="item" recordname="item.id-00234@Incarnate-Engine">Sickle</link>
-						<link class="item" recordname="item.id-00394@Incarnate-Engine">Potion of Healing</link>
-					</linklist>
-					<h>Probable Next Elements</h>
-					<linklist>
-						<link class="storytemplate" recordname="storytemplate.id-00145@Incarnate-Engine">Cave Treasure Chamber (reward for beating boss)</link>
-						<link class="storytemplate" recordname="storytemplate.id-00126@Incarnate-Engine">Cave Entrance (quick exit)</link>
-					</linklist>
+					<p>Green banners and torn tapestries.</p>
 				</text>
 			</id-00070>
 			<id-00073>
-				<name type="string">Cave Treasure Chamber</name>
+				<name type="string">Hallway 2</name>
 				<text type="formattedtext">
-					<h>Description</h>
-					<frame>You walk into a chamber 9 ft. by 20 ft. The ceiling is 14 ft. high. The area is filled with torches giving off bright light; . The walls are made of pitted sandstone. The room is filled with chests and vases and piles of coins. The air is slowly rising tingling your nose with a earthy smell. As you listen carefully you hear footsteps in front of you.</frame>
-					<h>Hoard (by CR)</h>
-					<linklist>
-						<link class="table" recordname="tables.id-01195@Incarnate-Engine">CR 03 - Treasure Hoard</link>
-					</linklist>
-					<h>Useful Items</h>
-					<linklist>
-						<link class="item" recordname="item.id-00275@Incarnate-Engine">Shawm</link>
-						<link class="item" recordname="item.id-00132@Incarnate-Engine">Pouch</link>
-						<link class="item" recordname="item.id-00007@Incarnate-Engine">Crossbow Bolts (20)</link>
-						<link class="item" recordname="item.id-00240@Incarnate-Engine">Alchemist's Supplies</link>
-					</linklist>
-					<h>Possible Next Elements</h>
-					<p>Usually the Treasure Chamber is a dead end... but if you wish you may roll.</p>
-					<linklist>
-						<link class="table" recordname="tables.id-01667@Incarnate-Engine">Random - Dungeon - Cave - Element</link>
-					</linklist>
+					<p>lots of worg bones as if a great fight was here.</p>
 				</text>
 			</id-00073>
 			<id-00238>
-				<name type="string">Cave Treasure Chamber</name>
+				<name type="string">Emptied Boss chamber</name>
 				<text type="formattedtext">
-					<h>Description</h>
-					<frame>You walk into a chamber 18 ft. by 14 ft. The ceiling is 9 ft. high. The area is filled with glow worms giving off dim light. The walls are made of pitted slate. The room is filled with chests and vases and piles of coins. The air is swirling in tight columns tingling your nose with a earthy smell. As you listen carefully you hear breathing from beneath the floor.</frame>
-					<h>Hoard (by CR)</h>
-					<linklist>
-						<link class="table" recordname="tables.id-01195@Incarnate-Engine">CR 03 - Treasure Hoard</link>
-					</linklist>
-					<h>Useful Items</h>
-					<linklist>
-						<link class="item" recordname="item.id-00112@Incarnate-Engine">Lock</link>
-						<link class="item" recordname="item.id-00198@Incarnate-Engine">Ring Mail</link>
-						<link class="item" recordname="item.id-00427@Incarnate-Engine">Ring of Lightning Resistance</link>
-						<link class="item" recordname="item.id-00243@Incarnate-Engine">Carpenter's Tools</link>
-					</linklist>
-					<h>Possible Next Elements</h>
-					<p>Usually the Treasure Chamber is a dead end... but if you wish you may roll.</p>
-					<linklist>
-						<link class="table" recordname="tables.id-01667@Incarnate-Engine">Random - Dungeon - Cave - Element</link>
-					</linklist>
+					<p>this had been a great fight, now it is empty and barren, except for lots of spider webs.</p>
+					<p>2 dead spifier bodies wrapped up in an intricate pattern.</p>
 				</text>
 			</id-00238>
+			<id-00274>
+				<name type="string">This was the commanders office. He rigged an axe to chop anyone who enters.</name>
+				<text type="formattedtext">
+					<p></p>
+				</text>
+			</id-00274>
+			<id-00275>
+				<name type="string">Doors in this tower</name>
+				<text type="formattedtext">
+					<p>There is a faded glyph on almost every door. These had once been intruder alarms rigged to do exotic things to those not approved to be there.</p>
+					<p>Orcs within the tower would wear magical amulets to not set off doors they are allowed through.</p>
+				</text>
+			</id-00275>
+			<id-00277>
+				<name type="string">Room of spoiled grains and fruits</name>
+				<text type="formattedtext">
+					<p></p>
+				</text>
+			</id-00277>
+			<id-00278>
+				<name type="string">Magically Sealed Door</name>
+				<text type="formattedtext">
+					<p>Takes an eletrical attack of 20 or higher to power the strange mechanism that unlocks and opens the door.</p>
+					<p>If magic is surpressed, forcing the door to open takes a DC 25.</p>
+				</text>
+			</id-00278>
+			<id-00279>
+				<name type="string">Room Looted</name>
+				<text type="formattedtext">
+					<p></p>
+				</text>
+			</id-00279>
+			<id-00280>
+				<name type="string">Reinforced Door - claimed</name>
+				<text type="formattedtext">
+					<p>DC 20 to find lock (Investigation)</p>
+					<p>DC 20 to pick lock (thieves tools)</p>
+					<p>Has a bookcase with a manual on orc procedures. (in orcish) It talks about different signals to be used between towers:</p>
+					<p>1. adding calcium chloride (orange) means invasion</p>
+					<p>2. adding sodium nitrate (yellow) means</p>
+				</text>
+			</id-00280>
+			<id-00281>
+				<name type="string">Reinforced Door</name>
+				<text type="formattedtext">
+					<p>DC 25 to find lock (Investigation)</p>
+					<p>DC 25 to pick lock (thieves tools)</p>
+				</text>
+			</id-00281>
+			<id-00282>
+				<name type="string">Reinforced Door</name>
+				<text type="formattedtext">
+					<p>DC 25 to find lock (Investigation)</p>
+					<p>DC 25 to pick lock (thieves tools)</p>
+				</text>
+			</id-00282>
+			<id-00283>
+				<name type="string">Heavily Reinforced Door</name>
+				<text type="formattedtext">
+					<p>DC 30 to find lock (Investigation)</p>
+					<p>DC 30 to pick lock (thieves tools)</p>
+					<p></p>
+				</text>
+			</id-00283>
+			<id-00284>
+				<name type="string">Heavily Reinforced Metal Door - claimed</name>
+				<text type="formattedtext">
+					<p>DC 30 to find lock (Investigation)</p>
+					<p>DC 30 to pick lock (thieves tools)</p>
+					<linklist>
+						<link class="item" recordname="prohiddenitem.id-MisonSilver00090@Incarnate-Forge">[RESULT] Silver Coated Lance of Mison Slaying - claimed</link>
+					</linklist>
+				</text>
+			</id-00284>
+			<id-00285>
+				<name type="string">Cade Was Here</name>
+				<text type="formattedtext">
+					<p>It is pretty legible, but not fancy.</p>
+				</text>
+			</id-00285>
+			<id-00286>
+				<name type="string">Orc Tower</name>
+				<text type="formattedtext">
+					<p>There is a tall pillar going up 50 to 60 feet in the air. It has a ladder built into the side of it, not exactly stable.</p>
+					<p>The pillar has some metal prongs on the top of it. They both channel electrity for use by the orcs, and hold wood for lighting signal flares.</p>
+					<p>Has barrels of  calcium chloride, sodium nitrate, barium chloride, copper chloride</p>
+				</text>
+			</id-00286>
 		</category>
 		<category name="06,06" baseicon="0" decalicon="0">
 			<id-00168>
@@ -14266,6 +14022,14 @@
 				</text>
 			</id-00194>
 		</category>
+		<category name="ProNobis - Lore" baseicon="0" decalicon="0">
+			<id-00276>
+				<name type="string">Orc - civilization</name>
+				<text type="formattedtext">
+					<p>Orcs use magical amulets with special settings that allow them to enter past traps set to get intruders.</p>
+				</text>
+			</id-00276>
+		</category>
 		<category name="Starting City" baseicon="0" decalicon="0">
 			<id-00002>
 				<public />
@@ -16185,7 +15949,7 @@
 						<endx>910</endx>
 						<endy>306</endy>
 						<owner></owner>
-						<color>ff</color>
+						<color>ff0000ff</color>
 					</pointer>
 					<pointer>
 						<id>2</id>
@@ -16195,7 +15959,7 @@
 						<endx>982</endx>
 						<endy>314</endy>
 						<owner></owner>
-						<color>ff</color>
+						<color>ff0000ff</color>
 					</pointer>
 					<pointer>
 						<id>3</id>
@@ -16205,7 +15969,7 @@
 						<endx>958</endx>
 						<endy>274</endy>
 						<owner></owner>
-						<color>ff</color>
+						<color>ff0000ff</color>
 					</pointer>
 					<pointer>
 						<id>0</id>
@@ -16215,7 +15979,7 @@
 						<endx>966</endx>
 						<endy>178</endy>
 						<owner>id-00005</owner>
-						<color>ff00006e</color>
+						<color>ff020000</color>
 					</pointer>
 				</pointers>
 			</image>
@@ -16960,7 +16724,7 @@
 						<endx>7</endx>
 						<endy>856</endy>
 						<owner>id-00001</owner>
-						<color>ff000000</color>
+						<color>0</color>
 					</pointer>
 				</pointers>
 			</image>
@@ -17021,7 +16785,7 @@
 						<endx>841</endx>
 						<endy>454</endy>
 						<owner>id-00002</owner>
-						<color>ffc800c8</color>
+						<color>ffff0000</color>
 					</pointer>
 					<pointer>
 						<id>2</id>
@@ -17159,7 +16923,7 @@
 						<endx>616</endx>
 						<endy>166</endy>
 						<owner></owner>
-						<color>ff</color>
+						<color>ff0000ff</color>
 					</pointer>
 				</pointers>
 			</image>
@@ -18191,24 +17955,24 @@
 		<checkselected type="string">Dexterity</checkselected>
 		<coinlist>
 			<public />
-			<id-00007>
+			<id-00004>
 				<public />
-				<amount type="number">203</amount>
-				<carriedby type="string">Nimir [22], Tony [23], Vallard Dickens [158]</carriedby>
+				<amount type="number">527</amount>
+				<carriedby type="string">Vallard Dickens [240], Cade [82], jimmy [82], Eldor [123]</carriedby>
 				<name type="string">CP</name>
-			</id-00007>
-			<id-00008>
+			</id-00004>
+			<id-00005>
 				<public />
-				<amount type="number">205</amount>
-				<carriedby type="string">Nimir [21], Tony [27], Vallard Dickens [157]</carriedby>
+				<amount type="number">489</amount>
+				<carriedby type="string">Vallard Dickens [230], Cade [73], jimmy [73], Eldor [113]</carriedby>
 				<name type="string">SP</name>
-			</id-00008>
-			<id-00009>
+			</id-00005>
+			<id-00006>
 				<public />
-				<amount type="number">1071</amount>
-				<carriedby type="string">Nimir [149], Tony [340], Vallard Dickens [582]</carriedby>
+				<amount type="number">1131</amount>
+				<carriedby type="string">Vallard Dickens [641], Cade [74], jimmy [74], Eldor [342]</carriedby>
 				<name type="string">GP</name>
-			</id-00009>
+			</id-00006>
 		</coinlist>
 		<encounters>
 			<public />
@@ -18249,300 +18013,6 @@
 		</image>
 		<inventorylist>
 			<public />
-			<id-00001>
-				<public />
-				<carriedby type="string">Vallard Dickens [1], Nimir [1]</carriedby>
-				<count type="number">2</count>
-				<name type="string">Quiver</name>
-			</id-00001>
-			<id-00002>
-				<public />
-				<carriedby type="string">Vallard Dickens [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Scroll of Shatter</name>
-			</id-00002>
-			<id-00003>
-				<public />
-				<carriedby type="string">Tony [1], Nimir [1]</carriedby>
-				<count type="number">2</count>
-				<name type="string">Tinderbox</name>
-			</id-00003>
-			<id-00004>
-				<public />
-				<carriedby type="string">Nimir [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Sling</name>
-			</id-00004>
-			<id-00005>
-				<public />
-				<carriedby type="string">Tony [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Hands</name>
-			</id-00005>
-			<id-00006>
-				<public />
-				<carriedby type="string">Nimir [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Pouch</name>
-			</id-00006>
-			<id-00007>
-				<public />
-				<carriedby type="string">Vallard Dickens [5]</carriedby>
-				<count type="number">5</count>
-				<name type="string">Candle</name>
-			</id-00007>
-			<id-00008>
-				<public />
-				<carriedby type="string">Vallard Dickens [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Alchemist's Supplies</name>
-			</id-00008>
-			<id-00009>
-				<public />
-				<carriedby type="string">Tony [1], Nimir [1]</carriedby>
-				<count type="number">2</count>
-				<name type="string">Mess Kit</name>
-			</id-00009>
-			<id-00010>
-				<public />
-				<carriedby type="string">Tony [1], Nimir [1]</carriedby>
-				<count type="number">2</count>
-				<name type="string">Rope, Hempen (50 Feet)</name>
-			</id-00010>
-			<id-00011>
-				<public />
-				<carriedby type="string">Vallard Dickens [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Crowbar</name>
-			</id-00011>
-			<id-00012>
-				<public />
-				<carriedby type="string">Tony [10], Nimir [2]</carriedby>
-				<count type="number">12</count>
-				<name type="string">Torch</name>
-			</id-00012>
-			<id-00013>
-				<public />
-				<carriedby type="string">Vallard Dickens [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Disguise Kit</name>
-			</id-00013>
-			<id-00014>
-				<public />
-				<carriedby type="string">Vallard Dickens [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Scroll of Secret Chest</name>
-			</id-00014>
-			<id-00015>
-				<public />
-				<carriedby type="string">Vallard Dickens [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Potion of Clairvoyance</name>
-			</id-00015>
-			<id-00016>
-				<public />
-				<carriedby type="string">Vallard Dickens [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Magic Stone from a Forgotten Time (Awareness)</name>
-			</id-00016>
-			<id-00017>
-				<public />
-				<carriedby type="string">Vallard Dickens [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Scroll of Protection from Poison</name>
-			</id-00017>
-			<id-00018>
-				<public />
-				<carriedby type="string">Vallard Dickens [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Clothes, Common Dark Including A Hood</name>
-			</id-00018>
-			<id-00019>
-				<public />
-				<carriedby type="string">Nimir [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Weapons: Ranged</name>
-			</id-00019>
-			<id-00020>
-				<public />
-				<carriedby type="string">Tony [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Mace of Disruption</name>
-			</id-00020>
-			<id-00021>
-				<public />
-				<carriedby type="string">Tony [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Clothes, Traveler's</name>
-			</id-00021>
-			<id-00022>
-				<public />
-				<carriedby type="string">Tony [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Greataxe</name>
-			</id-00022>
-			<id-00023>
-				<public />
-				<carriedby type="string">Tony [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Hunting Trap</name>
-			</id-00023>
-			<id-00024>
-				<public />
-				<carriedby type="string">Tony [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Belt</name>
-			</id-00024>
-			<id-00025>
-				<public />
-				<carriedby type="string">Tony [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Body</name>
-			</id-00025>
-			<id-00026>
-				<public />
-				<carriedby type="string">Vallard Dickens [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Shortbow</name>
-			</id-00026>
-			<id-00027>
-				<public />
-				<carriedby type="string">Vallard Dickens [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Potion of Frost Giant Strength</name>
-			</id-00027>
-			<id-00028>
-				<public />
-				<carriedby type="string">Vallard Dickens [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Thieves' Tools</name>
-			</id-00028>
-			<id-00029>
-				<public />
-				<carriedby type="string">Vallard Dickens [1], Nimir [2]</carriedby>
-				<count type="number">3</count>
-				<name type="string">Dagger</name>
-			</id-00029>
-			<id-00030>
-				<public />
-				<carriedby type="string">Nimir [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Shortsword</name>
-			</id-00030>
-			<id-00031>
-				<public />
-				<carriedby type="string">Tony [1], Nimir [1], Vallard Dickens [1]</carriedby>
-				<count type="number">3</count>
-				<name type="string">Heartstone</name>
-			</id-00031>
-			<id-00032>
-				<public />
-				<carriedby type="string">Tony [2]</carriedby>
-				<count type="number">2</count>
-				<name type="string">Handaxe</name>
-			</id-00032>
-			<id-00033>
-				<public />
-				<carriedby type="string">Tony [1], Nimir [1], Vallard Dickens [1]</carriedby>
-				<count type="number">3</count>
-				<name type="string">Backpack</name>
-			</id-00033>
-			<id-00034>
-				<public />
-				<carriedby type="string">Nimir [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Weapons: Melee</name>
-			</id-00034>
-			<id-00035>
-				<public />
-				<carriedby type="string">Tony [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Shield</name>
-			</id-00035>
-			<id-00036>
-				<public />
-				<carriedby type="string">Vallard Dickens [10]</carriedby>
-				<count type="number">10</count>
-				<name type="string">small feathers</name>
-			</id-00036>
-			<id-00037>
-				<public />
-				<carriedby type="string">Tony [10], Nimir [3], Vallard Dickens [5]</carriedby>
-				<count type="number">18</count>
-				<name type="string">Rations (1 Day)</name>
-			</id-00037>
-			<id-00038>
-				<public />
-				<carriedby type="string">Nimir [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Healer's Kit</name>
-			</id-00038>
-			<id-00039>
-				<public />
-				<carriedby type="string">Nimir [4]</carriedby>
-				<count type="number">4</count>
-				<name type="string">Sling Bullet (5)</name>
-			</id-00039>
-			<id-00040>
-				<public />
-				<carriedby type="string">Tony [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Ring of Hades - Prestige 0</name>
-			</id-00040>
-			<id-00041>
-				<public />
-				<carriedby type="string">Tony [3]</carriedby>
-				<count type="number">3</count>
-				<name type="string">Javelin</name>
-			</id-00041>
-			<id-00042>
-				<public />
-				<carriedby type="string">Tony [1], Nimir [1], Vallard Dickens [1]</carriedby>
-				<count type="number">3</count>
-				<name type="string">Bedroll</name>
-			</id-00042>
-			<id-00043>
-				<public />
-				<carriedby type="string">Vallard Dickens [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Lute</name>
-			</id-00043>
-			<id-00044>
-				<public />
-				<carriedby type="string">Vallard Dickens [18], Nimir [20]</carriedby>
-				<count type="number">38</count>
-				<name type="string">Arrow</name>
-			</id-00044>
-			<id-00045>
-				<public />
-				<carriedby type="string">Nimir [1]</carriedby>
-				<count type="number">1</count>
-				<name type="string">Longbow</name>
-			</id-00045>
-			<id-00046>
-				<public />
-				<carriedby type="string">Tony [1], Vallard Dickens [1]</carriedby>
-				<count type="number">2</count>
-				<name type="string">Potion of Greater Healing</name>
-			</id-00046>
-			<id-00047>
-				<public />
-				<carriedby type="string">Tony [1], Nimir [2], Vallard Dickens [1]</carriedby>
-				<count type="number">4</count>
-				<name type="string">Waterskin</name>
-			</id-00047>
-			<id-00048>
-				<public />
-				<carriedby type="string">Vallard Dickens [2]</carriedby>
-				<count type="number">2</count>
-				<name type="string">Clothes, Costume</name>
-			</id-00048>
-			<id-00049>
-				<public />
-				<carriedby type="string">Vallard Dickens [1], Nimir [1]</carriedby>
-				<count type="number">2</count>
-				<name type="string">Leather</name>
-			</id-00049>
 		</inventorylist>
 		<partyinformation>
 			<public />
@@ -18552,7 +18022,7 @@
 			<id-00001>
 				<public />
 				<name type="string">4 lvl 3s medium</name>
-				<xp type="number">148</xp>
+				<xp type="number">95</xp>
 				<xpawarded type="number">1</xpawarded>
 			</id-00001>
 			<id-00002>
@@ -18562,7 +18032,7 @@
 			</id-00002>
 			<id-00003>
 				<public />
-				<xp type="number">375</xp>
+				<xp type="number">83</xp>
 				<xpawarded type="number">1</xpawarded>
 			</id-00003>
 		</quests>
@@ -18583,7 +18053,7 @@
 			</id-00001>
 			<id-00002>
 				<public />
-				<amount type="number">0</amount>
+				<amount type="number">2</amount>
 				<description type="string">GP</description>
 			</id-00002>
 			<id-00003>
@@ -18593,12 +18063,12 @@
 			</id-00003>
 			<id-00004>
 				<public />
-				<amount type="number">0</amount>
+				<amount type="number">3</amount>
 				<description type="string">SP</description>
 			</id-00004>
 			<id-00005>
 				<public />
-				<amount type="number">1</amount>
+				<amount type="number">0</amount>
 				<description type="string">CP</description>
 			</id-00005>
 		</treasureparcelcoinlist>
@@ -18691,6 +18161,24 @@
 					<type type="string">Adventuring Gear</type>
 					<weight type="number">1</weight>
 				</id-00002>
+				<id-00003>
+					<public />
+					<ac type="number">0</ac>
+					<bonus type="number">0</bonus>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<p>Has a bookcase with a manual on orc procedures. (in orcish) It talks about different signals to be used between towers:</p>
+						<p>1. adding calcium chloride (orange) means being invaded by overwhelming numbers</p>
+						<p>2. adding sodium nitrate (yellow) means launching an invasion</p>
+						<p>3. adding barium chloride (green) means a small scirmish that is not a worry</p>
+						<p>4. adding copper chloride (blue) means a celebration</p>
+					</description>
+					<isidentified type="number">0</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Book Written in Orcish</name>
+					<nonid_name type="string">Book Written in Orcish</nonid_name>
+					<weight type="number">0</weight>
+				</id-00003>
 				<id-00004>
 					<public />
 					<ac type="number">0</ac>
@@ -18714,6 +18202,35 @@
 					<type type="string">Potion</type>
 					<weight type="number">0.5</weight>
 				</id-00004>
+				<id-00005>
+					<public />
+					<ac type="number">0</ac>
+					<bonus type="number">0</bonus>
+					<cost type="string">1,110 GP</cost>
+					<count type="number">1</count>
+					<damage type="string">1d12 piercing silver</damage>
+					<description type="formattedtext">
+						<p>You have disadvantage when you use a lance to attack a target within 5 feet of you. Also a lance requires two hands to wield when you aren't mounted.</p>
+						<p>There are creatures that lurk in the night. These strange creatures are said to be able to change shape. It is also said that they are resistant to most damage. The best way to cut through their pelts is with silver but the silver must be carefully applied by a master smith so that the weapon stays sharp.</p>
+						<h>Effect Coding</h>
+						<linklist>
+							<link class="power" recordname="spell.id-00486@Incarnate-Engine">Mison Slayer</link>
+						</linklist>
+						<h>Description</h>
+						<p>You gain a +1 bonus to attack and damage rolls made with this magic weapon.</p>
+						<p>When you hit an Mison with it, the creature takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, &#34;Mison&#34; refers to any creature with the Mison type.</p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<istemplate type="number">0</istemplate>
+					<locked type="number">1</locked>
+					<name type="string">Silver Coated Lance of Mison Slaying</name>
+					<nonid_name type="string">Lance</nonid_name>
+					<nonidentified type="string">A pointy lance.</nonidentified>
+					<properties type="string">Reach special</properties>
+					<subtype type="string">Martial Weapons</subtype>
+					<type type="string">Weapon</type>
+					<weight type="number">6</weight>
+				</id-00005>
 				<id-00006>
 					<public />
 					<ac type="number">0</ac>
@@ -19098,5 +18615,283 @@
 			</itemlist>
 			<name type="string">[RESULT] CR 04 Treasure</name>
 		</id-00003>
+		<id-00004>
+			<coinlist>
+				<id-00001>
+					<amount type="number">0</amount>
+					<description type="string">PP</description>
+				</id-00001>
+				<id-00002>
+					<amount type="number">28</amount>
+					<description type="string">GP</description>
+				</id-00002>
+				<id-00003>
+					<amount type="number">0</amount>
+					<description type="string">EP</description>
+				</id-00003>
+				<id-00004>
+					<amount type="number">42</amount>
+					<description type="string">SP</description>
+				</id-00004>
+				<id-00005>
+					<amount type="number">31</amount>
+					<description type="string">CP</description>
+				</id-00005>
+			</coinlist>
+			<itemlist>
+				<id-00001>
+					<ac type="number">0</ac>
+					<bonus type="number">0</bonus>
+					<cost type="string">100 GP</cost>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<p>The next time you see a creature within 10 minutes after drinking this philter, you become charmed by that creature for 1 hour. If the creature is of a species and gender you are normally attracted to, you regard it as your true love while you are charmed.</p>
+						<p>This potion's rose--hued, effervescent liquid contains one easy--to--miss bubble shaped like a heart.</p>
+					</description>
+					<isidentified type="number">0</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Philter of Love</name>
+					<nonid_name type="string">Dim Potion</nonid_name>
+					<nonidentified type="string">This potion's rose--hued, effervescent liquid contains one easy--to--miss bubble shaped like a heart.</nonidentified>
+					<rarity type="string">uncommon</rarity>
+					<type type="string">Potion</type>
+					<weight type="number">0.5</weight>
+				</id-00001>
+			</itemlist>
+			<name type="string">[RESULT] CR 03 Treasure</name>
+			<temp>
+			</temp>
+		</id-00004>
+		<id-00005>
+			<coinlist>
+				<id-00001>
+					<amount type="number">0</amount>
+					<description type="string">PP</description>
+				</id-00001>
+				<id-00002>
+					<amount type="number">31</amount>
+					<description type="string">GP</description>
+				</id-00002>
+				<id-00003>
+					<amount type="number">0</amount>
+					<description type="string">EP</description>
+				</id-00003>
+				<id-00004>
+					<amount type="number">46</amount>
+					<description type="string">SP</description>
+				</id-00004>
+				<id-00005>
+					<amount type="number">66</amount>
+					<description type="string">CP</description>
+				</id-00005>
+			</coinlist>
+			<itemlist>
+			</itemlist>
+			<name type="string">[RESULT] CR 04 Treasure</name>
+		</id-00005>
+		<id-00006>
+			<coinlist>
+				<id-00001>
+					<amount type="number">0</amount>
+					<description type="string">PP</description>
+				</id-00001>
+				<id-00002>
+					<amount type="number">90</amount>
+					<description type="string">GP</description>
+				</id-00002>
+				<id-00003>
+					<amount type="number">0</amount>
+					<description type="string">EP</description>
+				</id-00003>
+				<id-00004>
+					<amount type="number">224</amount>
+					<description type="string">SP</description>
+				</id-00004>
+				<id-00005>
+					<amount type="number">249</amount>
+					<description type="string">CP</description>
+				</id-00005>
+			</coinlist>
+			<itemlist>
+				<id-00001>
+					<ac type="number">0</ac>
+					<bonus type="number">0</bonus>
+					<cost type="string">300 GP</cost>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<p>While wearing these dark lenses, you have darkvision out to a range of 60 feet. If you already have darkvision, wearing the goggles increases its range by 60 feet.</p>
+					</description>
+					<isidentified type="number">0</isidentified>
+					<locked type="number">0</locked>
+					<name type="string">Goggles of Night</name>
+					<nonid_name type="string">Crystal Lenses</nonid_name>
+					<nonidentified type="string">Two crystal lenses bound together with a little bit of wire.</nonidentified>
+					<rarity type="string">uncommon</rarity>
+					<type type="string">Wondrous Item</type>
+					<weight type="number">0.5</weight>
+				</id-00001>
+				<id-00002>
+					<ac type="number">0</ac>
+					<bonus type="number">0</bonus>
+					<cost type="string">300 GP</cost>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<p>While wearing this brooch, you have resistance to force damage, and you have immunity to damage from the magic missile spell.</p>
+						<linklist>
+							<link class="power" recordname="spell.id-00371@Incarnate-Engine">Type Resistance (Force)</link>
+						</linklist>
+					</description>
+					<isidentified type="number">0</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Brooch of Shielding</name>
+					<nonid_name type="string">Broach</nonid_name>
+					<nonidentified type="string">An emerald broach.</nonidentified>
+					<rarity type="string">uncommon (requires attunement)</rarity>
+					<type type="string">Wondrous Item</type>
+					<weight type="number">1</weight>
+				</id-00002>
+				<id-00003>
+					<ac type="number">0</ac>
+					<bonus type="number">0</bonus>
+					<cost type="string">100 GP</cost>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<p>When you drink this potion, you gain resistance to cold damage for 1 hour.</p>
+						<linklist>
+							<link class="power" recordname="spell.id-00369@Incarnate-Engine">Type Resistance (Cold)</link>
+						</linklist>
+					</description>
+					<isidentified type="number">0</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Potion of Cold Resistance</name>
+					<nonid_name type="string">Dim Potion</nonid_name>
+					<nonidentified type="string">A vial with small ice cubes floating in it. They don't seem to melt.</nonidentified>
+					<rarity type="string">uncommon</rarity>
+					<type type="string">Potion</type>
+					<weight type="number">0.5</weight>
+				</id-00003>
+				<id-00004>
+					<ac type="number">0</ac>
+					<bonus type="number">0</bonus>
+					<cost type="string">100 GP</cost>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<h>Linked Spell</h>
+						<linklist>
+							<link class="power" recordname="spell.id-00311@Incarnate-Engine">Zone of Truth</link>
+						</linklist>
+						<h>Description</h>
+						<p>A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components.</p>
+						<p>Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.</p>
+						<p>If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10 + the spell's level. On a failed check, the spell disappears from the scroll with no other effect.</p>
+						<p>The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the Spell Scroll table.</p>
+						<p>Spell Scroll</p>
+						<table>
+							<tr>
+								<td>Spell Level</td>
+								<td>Rarity</td>
+								<td>Save DC</td>
+								<td>Attack Bonus</td>
+							</tr>
+							<tr>
+								<td>2nd</td>
+								<td>Uncommon</td>
+								<td>13</td>
+								<td>+5</td>
+							</tr>
+						</table>
+						<p>A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.</p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Scroll of Zone of Truth</name>
+					<nonid_name type="string">Scroll</nonid_name>
+					<nonidentified type="string">Simple Scroll</nonidentified>
+					<rarity type="string">Uncommon</rarity>
+					<type type="string">Scroll</type>
+					<weight type="number">0.3</weight>
+				</id-00004>
+				<id-00005>
+					<ac type="number">0</ac>
+					<bonus type="number">0</bonus>
+					<cost type="string">33 GP</cost>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<h>Effect Coding</h>
+						<linklist>
+							<link class="power" recordname="spell.id-00391@Incarnate-Engine">Potion of Healing</link>
+						</linklist>
+						<h>Description</h>
+						<p>You regain hit points when you drink this potion.</p>
+						<p>The number of hit points depends on the potion's rarity, as shown in the Potions of Healing table. Whatever its potency, the potion's red liquid glimmers when agitated.</p>
+						<h>Potions of Healing</h>
+						<table>
+							<tr>
+								<td>Potion of .</td>
+								<td>Rarity</td>
+								<td>HP Regained</td>
+							</tr>
+							<tr>
+								<td>Healing</td>
+								<td>Common</td>
+								<td>2d4 + 2</td>
+							</tr>
+						</table>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Potion of Healing</name>
+					<nonid_name type="string">Dull Potion</nonid_name>
+					<nonidentified type="string">The potion's red liquid glimmers when agitated.</nonidentified>
+					<rarity type="string">Common</rarity>
+					<type type="string">Potion</type>
+					<weight type="number">0.5</weight>
+				</id-00005>
+				<id-00006>
+					<ac type="number">0</ac>
+					<bonus type="number">0</bonus>
+					<cost type="string">33 GP</cost>
+					<count type="number">1</count>
+					<description type="formattedtext">
+						<h>Linked Spell</h>
+						<linklist>
+							<link class="power" recordname="spell.id-00073@Incarnate-Engine">Dancing Lights</link>
+						</linklist>
+						<h>Description</h>
+						<p>A spell scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast its spell without providing any material components.</p>
+						<p>Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the words on the scroll fade, and it crumbles to dust. If the casting is interrupted, the scroll is not lost.</p>
+						<p>If the spell is on your class's spell list but of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10 + the spell's level. On a failed check, the spell disappears from the scroll with no other effect.</p>
+						<p>The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the Spell Scroll table.</p>
+						<p>Spell Scroll</p>
+						<table>
+							<tr>
+								<td>Spell Level</td>
+								<td>Rarity</td>
+								<td>Save DC</td>
+								<td>Attack Bonus</td>
+							</tr>
+							<tr>
+								<td>Cantrip</td>
+								<td>Common</td>
+								<td>13</td>
+								<td>+5</td>
+							</tr>
+						</table>
+						<p>A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.</p>
+					</description>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Scroll of Dancing Lights</name>
+					<nonid_name type="string">Scroll</nonid_name>
+					<nonidentified type="string">Tattered Scroll</nonidentified>
+					<rarity type="string">Common</rarity>
+					<type type="string">Scroll</type>
+					<weight type="number">0.3</weight>
+				</id-00006>
+			</itemlist>
+			<name type="string">[RESULT] CR 04 - Treasure Hoard</name>
+			<temp>
+			</temp>
+		</id-00006>
 	</treasureparcels>
 </root>

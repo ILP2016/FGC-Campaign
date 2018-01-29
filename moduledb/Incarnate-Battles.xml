@@ -698,6 +698,65 @@
 					</abilities>
 				</category>
 			</id-00076>
+			<id-00077>
+				<holder name="andrewza" />
+				<innatespells>
+					<holder name="andrewza" />
+				</innatespells>
+				<lairactions>
+					<holder name="andrewza" />
+				</lairactions>
+				<legendaryactions>
+					<holder name="andrewza" />
+				</legendaryactions>
+				<reactions>
+					<holder name="andrewza" />
+				</reactions>
+				<spells>
+					<holder name="andrewza" />
+				</spells>
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<holder name="andrewza" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<charisma>
+								<holder name="andrewza" />
+							</charisma>
+							<constitution>
+								<holder name="andrewza" />
+							</constitution>
+							<dexterity>
+								<holder name="andrewza" />
+							</dexterity>
+							<intelligence>
+								<holder name="andrewza" />
+							</intelligence>
+							<strength>
+								<holder name="andrewza" />
+							</strength>
+							<wisdom>
+								<holder name="andrewza" />
+							</wisdom>
+						</category>
+					</abilities>
+					<actions>
+						<holder name="andrewza" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="andrewza" />
+							</id-00001>
+						</category>
+					</actions>
+					<traits>
+						<holder name="andrewza" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="andrewza" />
+							</id-00001>
+						</category>
+					</traits>
+				</category>
+			</id-00077>
 			<id-00092>
 				<holder name="Malamute" />
 				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
