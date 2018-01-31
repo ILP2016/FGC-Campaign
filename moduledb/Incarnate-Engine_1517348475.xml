@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<root version="3.3" release="8|CoreRPG:3" integrity="445e9c597434f4d8024336322893ec8c347cb209">
+<root version="3.3" release="8|CoreRPG:3" integrity="c9c638b995518919219ef2ef8bb5469d233cce00">
 	<class>
 		<category name="SRD - DandDwiki - Classes" baseicon="0" decalicon="0">
 			<probard>
@@ -181,68 +181,6 @@
 		<category name="SRD - Rules" baseicon="0" decalicon="0">
 		</category>
 	</encounter>
-	<npc>
-		<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Demihumans - Greek" baseicon="0" decalicon="0">
-		</category>
-		<category name="ProNobis - Dungeon Bosses" baseicon="0" decalicon="0">
-			<id-00015>
-				<holder name="Vallard ProNobis" />
-				<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-					<abilities>
-						<holder name="Vallard ProNobis" />
-						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-							<charisma>
-								<holder name="Vallard ProNobis" />
-							</charisma>
-							<constitution>
-								<holder name="Vallard ProNobis" />
-							</constitution>
-							<dexterity>
-								<holder name="Vallard ProNobis" />
-							</dexterity>
-							<intelligence>
-								<holder name="Vallard ProNobis" />
-							</intelligence>
-							<strength>
-								<holder name="Vallard ProNobis" />
-							</strength>
-							<wisdom>
-								<holder name="Vallard ProNobis" />
-							</wisdom>
-						</category>
-					</abilities>
-					<actions>
-						<holder name="Vallard ProNobis" />
-						<category name="Incarnate-Engine" baseicon="0" decalicon="0">
-							<id-00001>
-								<holder name="Vallard ProNobis" />
-							</id-00001>
-						</category>
-					</actions>
-					<innatespells>
-						<holder name="Vallard ProNobis" />
-					</innatespells>
-					<lairactions>
-						<holder name="Vallard ProNobis" />
-					</lairactions>
-					<legendaryactions>
-						<holder name="Vallard ProNobis" />
-					</legendaryactions>
-					<reactions>
-						<holder name="Vallard ProNobis" />
-					</reactions>
-					<spells>
-						<holder name="Vallard ProNobis" />
-					</spells>
-					<traits>
-						<holder name="Vallard ProNobis" />
-					</traits>
-				</category>
-			</id-00015>
-		</category>
-	</npc>
 	<referencemanual2>
 		<category name="Incarnate-Engine" baseicon="0" decalicon="0">
 			<SRD_PRO_00852>
@@ -300,9 +238,6 @@
 		<category name="SRD - Eldritch Invocations" baseicon="0" decalicon="0">
 		</category>
 		<category name="SRD - Spells" baseicon="0" decalicon="0">
-			<id-00066>
-				<public />
-			</id-00066>
 			<id-00178>
 				<public />
 			</id-00178>

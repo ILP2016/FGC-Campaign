@@ -429,14 +429,54 @@
 				</category>
 			</id-00007>
 			<id-00011>
+				<holder name="Vallard ProNobis" />
 				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
 					<abilities>
+						<holder name="Vallard ProNobis" />
 						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
 							<charisma>
+								<holder name="Vallard ProNobis" />
 								<bonus type="number">-2</bonus>
 							</charisma>
+							<constitution>
+								<holder name="Vallard ProNobis" />
+							</constitution>
+							<dexterity>
+								<holder name="Vallard ProNobis" />
+							</dexterity>
+							<intelligence>
+								<holder name="Vallard ProNobis" />
+							</intelligence>
+							<strength>
+								<holder name="Vallard ProNobis" />
+							</strength>
+							<wisdom>
+								<holder name="Vallard ProNobis" />
+							</wisdom>
 						</category>
 					</abilities>
+					<actions>
+						<holder name="Vallard ProNobis" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Vallard ProNobis" />
+							</id-00001>
+							<id-00002>
+								<holder name="Vallard ProNobis" />
+							</id-00002>
+							<id-00003>
+								<holder name="Vallard ProNobis" />
+							</id-00003>
+						</category>
+					</actions>
+					<traits>
+						<holder name="Vallard ProNobis" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Vallard ProNobis" />
+							</id-00001>
+						</category>
+					</traits>
 				</category>
 			</id-00011>
 			<id-00014>
@@ -700,21 +740,6 @@
 			</id-00076>
 			<id-00077>
 				<holder name="andrewza" />
-				<innatespells>
-					<holder name="andrewza" />
-				</innatespells>
-				<lairactions>
-					<holder name="andrewza" />
-				</lairactions>
-				<legendaryactions>
-					<holder name="andrewza" />
-				</legendaryactions>
-				<reactions>
-					<holder name="andrewza" />
-				</reactions>
-				<spells>
-					<holder name="andrewza" />
-				</spells>
 				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
 					<abilities>
 						<holder name="andrewza" />
@@ -757,6 +782,51 @@
 					</traits>
 				</category>
 			</id-00077>
+			<id-00090>
+				<holder name="Vallard ProNobis" />
+				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+					<abilities>
+						<holder name="Vallard ProNobis" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<charisma>
+								<holder name="Vallard ProNobis" />
+								<bonus type="number">-2</bonus>
+							</charisma>
+							<constitution>
+								<holder name="Vallard ProNobis" />
+							</constitution>
+							<dexterity>
+								<holder name="Vallard ProNobis" />
+							</dexterity>
+							<intelligence>
+								<holder name="Vallard ProNobis" />
+							</intelligence>
+							<strength>
+								<holder name="Vallard ProNobis" />
+							</strength>
+							<wisdom>
+								<holder name="Vallard ProNobis" />
+							</wisdom>
+						</category>
+					</abilities>
+					<actions>
+						<holder name="Vallard ProNobis" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Vallard ProNobis" />
+							</id-00001>
+						</category>
+					</actions>
+					<traits>
+						<holder name="Vallard ProNobis" />
+						<category name="Incarnate-Battles" baseicon="0" decalicon="0">
+							<id-00001>
+								<holder name="Vallard ProNobis" />
+							</id-00001>
+						</category>
+					</traits>
+				</category>
+			</id-00090>
 			<id-00092>
 				<holder name="Malamute" />
 				<category name="Incarnate-Battles" baseicon="0" decalicon="0">
